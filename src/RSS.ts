@@ -11,7 +11,7 @@ const BASE_URL = "https://gpt-university.github.io/github-search-rss";
 // TYPE references
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
 export const SEARCH_ITEMS: RSSItem[] = [
-    // Issue
+<!--     // Issue
     {
         title: "microsoft/TypeScript Iteration Plan",
         query: "repo:microsoft/TypeScript is:issue label:Planning",
@@ -109,7 +109,7 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/lightweight-javascript-repo.json`
     }
-,
+, -->
     // Repository
     {
         title: "midjourney repositories",
