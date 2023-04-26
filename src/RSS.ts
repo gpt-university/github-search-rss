@@ -109,4 +109,20 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/lightweight-javascript-repo.json`
     }
+,
+    // Repository
+    {
+        title: "midjourney repositories",
+        query: "midjourney sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/midjourney-repo.json`
+    }
+,
+    // Repository
+    {
+        title: "chatgpt repositories",
+        query: "chatpgtsort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/chatgpt-repo.json`
+    }
 ];
