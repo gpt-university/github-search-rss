@@ -1,0 +1,229 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "chatgpt repositories",
+    "home_page_url": "https://azu.github.io/github-search-rss/chatgpt-repo.json",
+    "feed_url": "https://azu.github.io/github-search-rss/chatgpt-repo.json",
+    "description": "chatgpt repositories on GitHub",
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49298134?u=d1717a0dc033afd4b96077e889001998e72f72df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI chat bot with natural language processing and image production capabilities. </div>",
+            "url": "https://github.com/SyntaxWarrior30/ChatGPT-Discord-Bot",
+            "title": "SyntaxWarrior30/ChatGPT-Discord-Bot: AI chat bot with natural language processing and image production capabilities. ",
+            "date_modified": "2023-04-23T04:46:26.000Z",
+            "date_published": "2023-04-11T18:54:41.000Z",
+            "author": {
+                "name": "SyntaxWarrior30",
+                "url": "https://github.com/SyntaxWarrior30"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40845946?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Awsome AI</div>",
+            "url": "https://github.com/vogo/awsome-ai",
+            "title": "vogo/awsome-ai: Awsome AI",
+            "date_modified": "2023-04-24T06:00:45.000Z",
+            "date_published": "2023-04-21T01:12:46.000Z",
+            "author": {
+                "name": "vogo",
+                "url": "https://github.com/vogo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1078417?u=fa50d6b04ccaca7f465e5b8c3fd638b9423b9ded&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5</div>",
+            "url": "https://github.com/SergioCSC/telegram_audio_bot",
+            "title": "SergioCSC/telegram_audio_bot: telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5",
+            "date_modified": "2023-04-21T19:32:09.000Z",
+            "date_published": "2023-03-14T05:32:09.000Z",
+            "author": {
+                "name": "SergioCSC",
+                "url": "https://github.com/SergioCSC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47815573?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set a random value to refresh Chatgpt's interface, more like a real person, to solve chatpgt's recent and often reported error behavior</div>",
+            "url": "https://github.com/RichardJie/RandomKeepChatgpt",
+            "title": "RichardJie/RandomKeepChatgpt: Set a random value to refresh Chatgpt's interface, more like a real person, to solve chatpgt's recent and often reported error behavior",
+            "date_modified": "2023-04-23T06:40:47.000Z",
+            "date_published": "2023-04-23T06:36:37.000Z",
+            "author": {
+                "name": "RichardJie",
+                "url": "https://github.com/RichardJie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86612552?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ahua6688/chatpgt",
+            "title": "ahua6688/chatpgt",
+            "date_modified": "2023-04-23T02:11:09.000Z",
+            "date_published": "2023-04-23T02:11:09.000Z",
+            "author": {
+                "name": "ahua6688",
+                "url": "https://github.com/ahua6688"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123908904?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cybertekkk/chatpgt",
+            "title": "cybertekkk/chatpgt",
+            "date_modified": "2023-04-18T23:35:20.000Z",
+            "date_published": "2023-01-29T23:22:46.000Z",
+            "author": {
+                "name": "cybertekkk",
+                "url": "https://github.com/cybertekkk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131360946?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my first repository</div>",
+            "url": "https://github.com/LeeAhy/chatpgt",
+            "title": "LeeAhy/chatpgt: my first repository",
+            "date_modified": "2023-04-20T12:09:32.000Z",
+            "date_published": "2023-04-20T12:09:31.000Z",
+            "author": {
+                "name": "LeeAhy",
+                "url": "https://github.com/LeeAhy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9004654?u=8f2dcb6e0c0f865852e49925d1774ad7bb21df75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use ChatPGT as a programming partner!</div>",
+            "url": "https://github.com/Monotoba/ai-pair-programmer",
+            "title": "Monotoba/ai-pair-programmer: Use ChatPGT as a programming partner!",
+            "date_modified": "2023-04-06T22:47:26.000Z",
+            "date_published": "2023-04-06T22:24:10.000Z",
+            "author": {
+                "name": "Monotoba",
+                "url": "https://github.com/Monotoba"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28501796?u=204c01124b685e43a4d05b4eacec8f75e7503833&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mock Data Generator from DB Schema with ChatGPT</div>",
+            "url": "https://github.com/radu1122/chatpgt-db-data-mocking",
+            "title": "radu1122/chatpgt-db-data-mocking: Mock Data Generator from DB Schema with ChatGPT",
+            "date_modified": "2023-04-08T18:52:11.000Z",
+            "date_published": "2023-04-06T11:02:44.000Z",
+            "author": {
+                "name": "radu1122",
+                "url": "https://github.com/radu1122"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128677354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>加油!chatpgt鼓励师</div>",
+            "url": "https://github.com/wishtodaya/cheerpt",
+            "title": "wishtodaya/cheerpt: 加油!chatpgt鼓励师",
+            "date_modified": "2023-04-04T06:41:35.000Z",
+            "date_published": "2023-04-04T06:32:19.000Z",
+            "author": {
+                "name": "wishtodaya",
+                "url": "https://github.com/wishtodaya"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13039076?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/PriscillaSalas/chatpgt",
+            "title": "PriscillaSalas/chatpgt",
+            "date_modified": "2023-04-03T21:50:30.000Z",
+            "date_published": "2023-03-28T23:56:49.000Z",
+            "author": {
+                "name": "PriscillaSalas",
+                "url": "https://github.com/PriscillaSalas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61090568?u=65a6f27c794524506efa86eecd7955d98e4cd18a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plataforma para geração de exame digitais utilizando o ChatPGT da OpenAI</div>",
+            "url": "https://github.com/diegobachsi/exam-e",
+            "title": "diegobachsi/exam-e: Plataforma para geração de exame digitais utilizando o ChatPGT da OpenAI",
+            "date_modified": "2023-04-19T12:23:40.000Z",
+            "date_published": "2023-02-27T20:28:19.000Z",
+            "author": {
+                "name": "diegobachsi",
+                "url": "https://github.com/diegobachsi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3820941?u=1ddcd737d85cc233e114f9cf8a33c5a662955044&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于公众号的chatpgt项目</div>",
+            "url": "https://github.com/lzjun567/chatgpt-gzh",
+            "title": "lzjun567/chatgpt-gzh: 一个基于公众号的chatpgt项目",
+            "date_modified": "2023-04-26T02:21:27.000Z",
+            "date_published": "2023-02-16T08:17:09.000Z",
+            "author": {
+                "name": "lzjun567",
+                "url": "https://github.com/lzjun567"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51785898?u=6b4ac0f13b45986635241b98c4a14c5e4ec6b7e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"brazil\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png\">🇧🇷</g-emoji> app desktop capaz de gerar codigos através da tecnologia chatpgt  <g-emoji class=\"g-emoji\" alias=\"us\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png\">🇺🇸</g-emoji> English version in README</div>",
+            "url": "https://github.com/marcoshenrique-dev/code-assistant",
+            "title": "marcoshenrique-dev/code-assistant: 🇧🇷 app desktop capaz de gerar codigos através da tecnologia chatpgt  🇺🇸 English version in README",
+            "date_modified": "2023-03-29T21:21:43.000Z",
+            "date_published": "2023-03-21T01:16:02.000Z",
+            "author": {
+                "name": "marcoshenrique-dev",
+                "url": "https://github.com/marcoshenrique-dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117646924?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ftx66/chatpgt",
+            "title": "ftx66/chatpgt",
+            "date_modified": "2023-03-29T00:33:37.000Z",
+            "date_published": "2023-03-29T00:31:15.000Z",
+            "author": {
+                "name": "ftx66",
+                "url": "https://github.com/ftx66"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36678297?u=eeabfda58521f0803a50611ea431e5170f41d9cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project is a result of hackathon from using api chatpgt for resolve some probems</div>",
+            "url": "https://github.com/PabloRBorges/hackathon-chatgpt",
+            "title": "PabloRBorges/hackathon-chatgpt: This project is a result of hackathon from using api chatpgt for resolve some probems",
+            "date_modified": "2023-03-25T05:55:57.000Z",
+            "date_published": "2023-03-24T12:10:22.000Z",
+            "author": {
+                "name": "PabloRBorges",
+                "url": "https://github.com/PabloRBorges"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52322465?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Utilized chatpgt to create a project that visualizes sorting algiorithms. These list of integers are displayed with * and update as the algorithm does its unique sort.</div>",
+            "url": "https://github.com/markehhs/AlgoVisualizer",
+            "title": "markehhs/AlgoVisualizer: Utilized chatpgt to create a project that visualizes sorting algiorithms. These list of integers are displayed with * and update as the algorithm does its unique sort.",
+            "date_modified": "2023-03-27T03:38:14.000Z",
+            "date_published": "2023-03-27T03:38:08.000Z",
+            "author": {
+                "name": "markehhs",
+                "url": "https://github.com/markehhs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4198558?u=729cdc6a7c23b283b4b2068aa837f7748d5a63b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using chatpgt api to analyse large texts</div>",
+            "url": "https://github.com/kudlaj/gpt-large-text",
+            "title": "kudlaj/gpt-large-text: Using chatpgt api to analyse large texts",
+            "date_modified": "2023-03-15T06:46:29.000Z",
+            "date_published": "2023-03-15T06:46:29.000Z",
+            "author": {
+                "name": "kudlaj",
+                "url": "https://github.com/kudlaj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121717847?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Rudra200020/python-chatpgt",
+            "title": "Rudra200020/python-chatpgt",
+            "date_modified": "2023-03-15T05:28:59.000Z",
+            "date_published": "2023-03-15T05:28:45.000Z",
+            "author": {
+                "name": "Rudra200020",
+                "url": "https://github.com/Rudra200020"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/523609?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>react native frontend for ChatGPT</div>",
+            "url": "https://github.com/patrickcash/react-native-chatpgt",
+            "title": "patrickcash/react-native-chatpgt: react native frontend for ChatGPT",
+            "date_modified": "2023-03-11T20:33:08.000Z",
+            "date_published": "2023-02-27T20:24:26.000Z",
+            "author": {
+                "name": "patrickcash",
+                "url": "https://github.com/patrickcash"
+            }
+        }
+    ]
+}

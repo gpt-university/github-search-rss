@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
     <head>
     <title>GitHub Search Subscriptions</title>
-    <dateCreated>2023-04-26T06:01:46.478Z</dateCreated>
+    <dateCreated>2023-04-26T06:24:34.792Z</dateCreated>
 </head>
     <body>
     <outline title="Subscriptions">
@@ -21,6 +21,8 @@
             <outline type="rss" title="Node.js notable changes" htmlUrl="https://azu.github.io/github-search-rss/nodejs-notable.json" xmlUrl="https://azu.github.io/github-search-rss/nodejs-notable.json"/>
             <outline type="rss" title="whatwg/html changes" htmlUrl="https://azu.github.io/github-search-rss/whatwg-html.json" xmlUrl="https://azu.github.io/github-search-rss/whatwg-html.json"/>
             <outline type="rss" title="LightWeight JavaScript repositories" htmlUrl="https://azu.github.io/github-search-rss/lightweight-javascript-repo.json" xmlUrl="https://azu.github.io/github-search-rss/lightweight-javascript-repo.json"/>
+            <outline type="rss" title="midjourney repositories" htmlUrl="https://azu.github.io/github-search-rss/midjourney-repo.json" xmlUrl="https://azu.github.io/github-search-rss/midjourney-repo.json"/>
+            <outline type="rss" title="chatgpt repositories" htmlUrl="https://azu.github.io/github-search-rss/chatgpt-repo.json" xmlUrl="https://azu.github.io/github-search-rss/chatgpt-repo.json"/>
         </outline>
     </outline>
 </body>
