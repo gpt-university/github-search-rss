@@ -6,6 +6,17 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42152260?u=e94a3340be2b82546063d3592dc9780497ee2055&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Midjourney Killer) an Image generation tool powered by GPT</div>",
+            "url": "https://github.com/LouisMuriuki/shiny-garbanzo",
+            "title": "LouisMuriuki/shiny-garbanzo: (Midjourney Killer) an Image generation tool powered by GPT",
+            "date_modified": "2023-04-21T09:51:14.000Z",
+            "date_published": "2023-04-19T15:03:56.000Z",
+            "author": {
+                "name": "LouisMuriuki",
+                "url": "https://github.com/LouisMuriuki"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/817110?u=b462a64484200f778e3c079ab4c8e75d51700076&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Prompt Builder</div>",
             "url": "https://github.com/hughlv/artspell",
             "title": "hughlv/artspell: Midjourney Prompt Builder",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pathilink",
                 "url": "https://github.com/pathilink"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124501724?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A board game, designed by ChatGPT and Midjourney, implemented with event-driven architecture and finite state machines</div>",
-            "url": "https://github.com/tfcp68/battle-farm",
-            "title": "tfcp68/battle-farm: A board game, designed by ChatGPT and Midjourney, implemented with event-driven architecture and finite state machines",
-            "date_modified": "2023-04-19T13:06:23.000Z",
-            "date_published": "2022-12-29T04:41:30.000Z",
-            "author": {
-                "name": "tfcp68",
-                "url": "https://github.com/tfcp68"
             }
         }
     ]

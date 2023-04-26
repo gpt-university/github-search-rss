@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
     <head>
     <title>GitHub Search Subscriptions</title>
-    <dateCreated>2023-04-26T06:31:36.928Z</dateCreated>
+    <dateCreated>2023-04-26T06:45:39.994Z</dateCreated>
 </head>
     <body>
     <outline title="Subscriptions">
         <outline>
-            <outline type="rss" title="microsoft/TypeScript Iteration Plan" htmlUrl="https://gpt-university.github.io/github-search-rss/typescript-iterator-plan.json" xmlUrl="https://gpt-university.github.io/github-search-rss/typescript-iterator-plan.json"/>
-            <outline type="rss" title="w3ctag/design-reviews Design Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/w3ctag-design-reviews.json" xmlUrl="https://gpt-university.github.io/github-search-rss/w3ctag-design-reviews.json"/>
-            <outline type="rss" title="npm/rfcs Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/npm-rfcs.json" xmlUrl="https://gpt-university.github.io/github-search-rss/npm-rfcs.json"/>
-            <outline type="rss" title="npm/statusboard Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/npm-statusboard.json" xmlUrl="https://gpt-university.github.io/github-search-rss/npm-statusboard.json"/>
-            <outline type="rss" title="github/roadmap Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/github-roadmap.json" xmlUrl="https://gpt-university.github.io/github-search-rss/github-roadmap.json"/>
-            <outline type="rss" title="mozilla/standards-positions Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/mozilla-standards-positions.json" xmlUrl="https://gpt-university.github.io/github-search-rss/mozilla-standards-positions.json"/>
-            <outline type="rss" title="WebKit/standards-positions Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/WebKit-standards-positions.json" xmlUrl="https://gpt-university.github.io/github-search-rss/WebKit-standards-positions.json"/>
-            <outline type="rss" title="Fyrd/caniuse Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/caniuse.json" xmlUrl="https://gpt-university.github.io/github-search-rss/caniuse.json"/>
-            <outline type="rss" title="org:wintercg Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/wintercg.json" xmlUrl="https://gpt-university.github.io/github-search-rss/wintercg.json"/>
-            <outline type="rss" title="repo:babel/proposals Issues" htmlUrl="https://gpt-university.github.io/github-search-rss/babel-proposals.json" xmlUrl="https://gpt-university.github.io/github-search-rss/babel-proposals.json"/>
-            <outline type="rss" title="mdn/browser-compat-data update data" htmlUrl="https://gpt-university.github.io/github-search-rss/mdn-browser-compat-data.json" xmlUrl="https://gpt-university.github.io/github-search-rss/mdn-browser-compat-data.json"/>
-            <outline type="rss" title="mdn/content update content" htmlUrl="https://gpt-university.github.io/github-search-rss/mdn-content.json" xmlUrl="https://gpt-university.github.io/github-search-rss/mdn-content.json"/>
-            <outline type="rss" title="Node.js notable changes" htmlUrl="https://gpt-university.github.io/github-search-rss/nodejs-notable.json" xmlUrl="https://gpt-university.github.io/github-search-rss/nodejs-notable.json"/>
-            <outline type="rss" title="whatwg/html changes" htmlUrl="https://gpt-university.github.io/github-search-rss/whatwg-html.json" xmlUrl="https://gpt-university.github.io/github-search-rss/whatwg-html.json"/>
-            <outline type="rss" title="LightWeight JavaScript repositories" htmlUrl="https://gpt-university.github.io/github-search-rss/lightweight-javascript-repo.json" xmlUrl="https://gpt-university.github.io/github-search-rss/lightweight-javascript-repo.json"/>
             <outline type="rss" title="midjourney repositories" htmlUrl="https://gpt-university.github.io/github-search-rss/midjourney-repo.json" xmlUrl="https://gpt-university.github.io/github-search-rss/midjourney-repo.json"/>
             <outline type="rss" title="chatgpt repositories" htmlUrl="https://gpt-university.github.io/github-search-rss/chatgpt-repo.json" xmlUrl="https://gpt-university.github.io/github-search-rss/chatgpt-repo.json"/>
         </outline>
