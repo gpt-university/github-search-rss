@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40845946?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Awsome AI</div>",
+            "url": "https://github.com/vogo/awsome-ai",
+            "title": "vogo/awsome-ai: Awsome AI",
+            "date_modified": "2023-04-24T06:00:45.000Z",
+            "date_published": "2023-04-21T01:12:46.000Z",
+            "author": {
+                "name": "vogo",
+                "url": "https://github.com/vogo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49298134?u=d1717a0dc033afd4b96077e889001998e72f72df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API</div>",
             "url": "https://github.com/SyntaxWarrior30/ChatGPT-Discord-Bot",
             "title": "SyntaxWarrior30/ChatGPT-Discord-Bot: AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API",
@@ -36,17 +47,6 @@
             "author": {
                 "name": "SergioCSC",
                 "url": "https://github.com/SergioCSC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40845946?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Awsome AI</div>",
-            "url": "https://github.com/vogo/awsome-ai",
-            "title": "vogo/awsome-ai: Awsome AI",
-            "date_modified": "2023-04-24T06:00:45.000Z",
-            "date_published": "2023-04-21T01:12:46.000Z",
-            "author": {
-                "name": "vogo",
-                "url": "https://github.com/vogo"
             }
         },
         {
