@@ -6,28 +6,6 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11600864?u=9eda6646b7b2471b791c9baf4dde1ac5cb0206e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/alexhenrique/chatpgt_python",
-            "title": "alexhenrique/chatpgt_python",
-            "date_modified": "2023-05-05T11:15:28.000Z",
-            "date_published": "2023-05-05T11:15:18.000Z",
-            "author": {
-                "name": "alexhenrique",
-                "url": "https://github.com/alexhenrique"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40845946?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Awsome AI</div>",
-            "url": "https://github.com/vogo/awsome-ai",
-            "title": "vogo/awsome-ai: Awsome AI",
-            "date_modified": "2023-04-24T06:00:45.000Z",
-            "date_published": "2023-04-21T01:12:46.000Z",
-            "author": {
-                "name": "vogo",
-                "url": "https://github.com/vogo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49298134?u=d1717a0dc033afd4b96077e889001998e72f72df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API</div>",
             "url": "https://github.com/SyntaxWarrior30/ChatGPT-Discord-Bot",
             "title": "SyntaxWarrior30/ChatGPT-Discord-Bot: AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API",
@@ -36,6 +14,17 @@
             "author": {
                 "name": "SyntaxWarrior30",
                 "url": "https://github.com/SyntaxWarrior30"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11600864?u=9eda6646b7b2471b791c9baf4dde1ac5cb0206e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/alexhenrique/chatpgt_python",
+            "title": "alexhenrique/chatpgt_python",
+            "date_modified": "2023-05-05T11:15:28.000Z",
+            "date_published": "2023-05-05T11:15:18.000Z",
+            "author": {
+                "name": "alexhenrique",
+                "url": "https://github.com/alexhenrique"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "patrickcash",
                 "url": "https://github.com/patrickcash"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67854461?u=5c57915dee5dc5ac6237bb29a6f7ede7e046a40e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/vancats/van-chatpgt",
+            "title": "vancats/van-chatpgt",
+            "date_modified": "2023-03-09T02:37:06.000Z",
+            "date_published": "2023-03-09T02:36:28.000Z",
+            "author": {
+                "name": "vancats",
+                "url": "https://github.com/vancats"
             }
         }
     ]
