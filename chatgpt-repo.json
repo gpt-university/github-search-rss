@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1641850?u=b9763580f459be0ef3b90b0754c27701652ab4e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An XMPP bot with the power of ChatGPT.</div>",
+            "url": "https://github.com/Idorobots/xmppgpt",
+            "title": "Idorobots/xmppgpt: An XMPP bot with the power of ChatGPT.",
+            "date_modified": "2023-05-10T18:48:21.000Z",
+            "date_published": "2023-05-05T11:39:42.000Z",
+            "author": {
+                "name": "Idorobots",
+                "url": "https://github.com/Idorobots"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49298134?u=d1717a0dc033afd4b96077e889001998e72f72df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API</div>",
             "url": "https://github.com/SyntaxWarrior30/ChatGPT-Discord-Bot",
             "title": "SyntaxWarrior30/ChatGPT-Discord-Bot: AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "patrickcash",
                 "url": "https://github.com/patrickcash"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67854461?u=5c57915dee5dc5ac6237bb29a6f7ede7e046a40e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/vancats/van-chatpgt",
-            "title": "vancats/van-chatpgt",
-            "date_modified": "2023-03-09T02:37:06.000Z",
-            "date_published": "2023-03-09T02:36:28.000Z",
-            "author": {
-                "name": "vancats",
-                "url": "https://github.com/vancats"
             }
         }
     ]
