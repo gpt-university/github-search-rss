@@ -6,6 +6,28 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128406103?u=afd72889a09eae7a92cea28247fd6b39524581c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mangocarlos/dockercompose-with-chatpgt",
+            "title": "mangocarlos/dockercompose-with-chatpgt",
+            "date_modified": "2023-05-13T12:52:28.000Z",
+            "date_published": "2023-05-13T12:52:28.000Z",
+            "author": {
+                "name": "mangocarlos",
+                "url": "https://github.com/mangocarlos"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133501249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MTormenta/Chatpgt",
+            "title": "MTormenta/Chatpgt",
+            "date_modified": "2023-05-13T10:58:02.000Z",
+            "date_published": "2023-05-13T10:58:01.000Z",
+            "author": {
+                "name": "MTormenta",
+                "url": "https://github.com/MTormenta"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1641850?u=b9763580f459be0ef3b90b0754c27701652ab4e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An XMPP bot with the power of ChatGPT.</div>",
             "url": "https://github.com/Idorobots/xmppgpt",
             "title": "Idorobots/xmppgpt: An XMPP bot with the power of ChatGPT.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "kudlaj",
                 "url": "https://github.com/kudlaj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121717847?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Rudra200020/python-chatpgt",
-            "title": "Rudra200020/python-chatpgt",
-            "date_modified": "2023-03-15T05:28:59.000Z",
-            "date_published": "2023-03-15T05:28:45.000Z",
-            "author": {
-                "name": "Rudra200020",
-                "url": "https://github.com/Rudra200020"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/523609?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>react native frontend for ChatGPT</div>",
-            "url": "https://github.com/patrickcash/react-native-chatpgt",
-            "title": "patrickcash/react-native-chatpgt: react native frontend for ChatGPT",
-            "date_modified": "2023-03-11T20:33:08.000Z",
-            "date_published": "2023-02-27T20:24:26.000Z",
-            "author": {
-                "name": "patrickcash",
-                "url": "https://github.com/patrickcash"
             }
         }
     ]
