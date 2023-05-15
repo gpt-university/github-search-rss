@@ -6,69 +6,102 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18670007?u=986655ca43f02e7e9743de9cabdb55d9e1c435c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>web ui for chatgpt midjourney dall-e2</div>",
-            "url": "https://github.com/hehan-wang/ai-web",
-            "title": "hehan-wang/ai-web: web ui for chatgpt midjourney dall-e2",
-            "date_modified": "2023-05-14T00:46:32.000Z",
-            "date_published": "2023-05-14T00:46:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT, GenerativeAI and LLMs Timeline</div>",
+            "url": "https://github.com/hollobit/GenAI_LLM_timeline",
+            "title": "hollobit/GenAI_LLM_timeline: ChatGPT, GenerativeAI and LLMs Timeline",
+            "date_modified": "2023-05-14T08:32:37.000Z",
+            "date_published": "2023-03-25T07:00:16.000Z",
             "author": {
-                "name": "hehan-wang",
-                "url": "https://github.com/hehan-wang"
+                "name": "hollobit",
+                "url": "https://github.com/hollobit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20998381?u=72ed954c57feb0161d25e3aa426a8a8509d7b1dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python library to create Art with AI.</div>",
+            "url": "https://github.com/ItsCEED/ImaginePy-Midjourney-Free-Alternative",
+            "title": "ItsCEED/ImaginePy-Midjourney-Free-Alternative: Python library to create Art with AI.",
+            "date_modified": "2023-05-14T20:12:45.000Z",
+            "date_published": "2023-05-14T17:28:35.000Z",
+            "author": {
+                "name": "ItsCEED",
+                "url": "https://github.com/ItsCEED"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13245173?u=daa3858bd4e1bc0309fd88a02450b6137f881a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of LLMs Tools &amp; Projects</div>",
+            "url": "https://github.com/PetroIvaniuk/llms-tools",
+            "title": "PetroIvaniuk/llms-tools: A list of LLMs Tools & Projects",
+            "date_modified": "2023-05-11T09:43:27.000Z",
+            "date_published": "2023-05-09T18:06:28.000Z",
+            "author": {
+                "name": "PetroIvaniuk",
+                "url": "https://github.com/PetroIvaniuk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/477541?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/madc0w/midjourney-test",
+            "title": "madc0w/midjourney-test",
+            "date_modified": "2023-05-12T08:52:39.000Z",
+            "date_published": "2023-05-12T07:47:26.000Z",
+            "author": {
+                "name": "madc0w",
+                "url": "https://github.com/madc0w"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9169633?u=0a3cfb3d6060deb0fb0a4fb3b069e61e0bb4af2c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Awesome Collection of AI Resources, MTHRFCKR!</div>",
+            "url": "https://github.com/whoisdsmith/AI-MTHRFCKR",
+            "title": "whoisdsmith/AI-MTHRFCKR: An Awesome Collection of AI Resources, MTHRFCKR!",
+            "date_modified": "2023-05-14T06:33:27.000Z",
+            "date_published": "2023-02-02T17:05:46.000Z",
+            "author": {
+                "name": "whoisdsmith",
+                "url": "https://github.com/whoisdsmith"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5006129?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/2ZZ/midjourney-carousel",
+            "title": "2ZZ/midjourney-carousel",
+            "date_modified": "2023-05-14T20:12:27.000Z",
+            "date_published": "2023-05-09T14:27:31.000Z",
+            "author": {
+                "name": "2ZZ",
+                "url": "https://github.com/2ZZ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38297005?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>disJourney features a discord.py Discord bot fetching upscaled Midjourney images from channels, and a Next.js application showcasing these images in an interactive slideshow, simplifying the process of enjoying Midjourney's AI-enhanced visuals.</div>",
+            "url": "https://github.com/Friedemann12/disJourney",
+            "title": "Friedemann12/disJourney: disJourney features a discord.py Discord bot fetching upscaled Midjourney images from channels, and a Next.js application showcasing these images in an interactive slideshow, simplifying the process of enjoying Midjourney's AI-enhanced visuals.",
+            "date_modified": "2023-05-14T20:07:27.000Z",
+            "date_published": "2023-05-14T19:42:45.000Z",
+            "author": {
+                "name": "Friedemann12",
+                "url": "https://github.com/Friedemann12"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6543761?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney-client in deno</div>",
+            "url": "https://github.com/UrielCh/midjourney-client",
+            "title": "UrielCh/midjourney-client: midjourney-client in deno",
+            "date_modified": "2023-05-14T08:05:26.000Z",
+            "date_published": "2023-04-26T11:09:51.000Z",
+            "author": {
+                "name": "UrielCh",
+                "url": "https://github.com/UrielCh"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1320538?u=a957c0e937adea50d02c1834d407af179c460142&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My project for Coderhouse's Responsive Web Development course </div>",
-            "url": "https://github.com/cirmialexis/coderhouse-web-development-project",
-            "title": "cirmialexis/coderhouse-web-development-project: My project for Coderhouse's Responsive Web Development course ",
-            "date_modified": "2023-05-11T18:02:21.000Z",
+            "url": "https://github.com/cirmialexis/PF-Cirmi",
+            "title": "cirmialexis/PF-Cirmi: My project for Coderhouse's Responsive Web Development course ",
+            "date_modified": "2023-05-14T21:32:37.000Z",
             "date_published": "2023-04-15T16:34:28.000Z",
             "author": {
                 "name": "cirmialexis",
                 "url": "https://github.com/cirmialexis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2023-05-12T09:37:54.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133243301?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ylmourab77/MidjourneyClone",
-            "title": "ylmourab77/MidjourneyClone",
-            "date_modified": "2023-05-13T22:30:59.000Z",
-            "date_published": "2023-05-13T22:30:58.000Z",
-            "author": {
-                "name": "ylmourab77",
-                "url": "https://github.com/ylmourab77"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130176535?u=e38ba71245340cdcbaf0a0e171d90c0ac303acb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python package for working with Midjourney via The Next Leg</div>",
-            "url": "https://github.com/midjourney-api-the-next-leg/python-midjourney-api",
-            "title": "midjourney-api-the-next-leg/python-midjourney-api: Python package for working with Midjourney via The Next Leg",
-            "date_modified": "2023-05-13T20:42:11.000Z",
-            "date_published": "2023-05-13T20:41:10.000Z",
-            "author": {
-                "name": "midjourney-api-the-next-leg",
-                "url": "https://github.com/midjourney-api-the-next-leg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77751193?u=5a082655f3a0403fa6c561bc04db3f0d0b667b09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney UI generation inputs made easy!</div>",
-            "url": "https://github.com/livramatheus/ez-ux",
-            "title": "livramatheus/ez-ux: Midjourney UI generation inputs made easy!",
-            "date_modified": "2023-04-21T13:08:58.000Z",
-            "date_published": "2023-04-21T13:04:02.000Z",
-            "author": {
-                "name": "livramatheus",
-                "url": "https://github.com/livramatheus"
             }
         },
         {
@@ -83,91 +116,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127917457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fetch api for Midjourney on discord</div>",
-            "url": "https://github.com/GPTGenius/midjourney-fetch",
-            "title": "GPTGenius/midjourney-fetch: Fetch api for Midjourney on discord",
-            "date_modified": "2023-05-13T18:32:00.000Z",
-            "date_published": "2023-05-13T13:50:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16037149?u=fefe2729a30af1fe2de805810dc7a7a8a5389926&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ascii Art Midjourney</div>",
+            "url": "https://github.com/jerikchan/ascii-art-midjourney",
+            "title": "jerikchan/ascii-art-midjourney: Ascii Art Midjourney",
+            "date_modified": "2023-05-14T17:17:07.000Z",
+            "date_published": "2023-05-14T17:12:56.000Z",
             "author": {
-                "name": "GPTGenius",
-                "url": "https://github.com/GPTGenius"
+                "name": "jerikchan",
+                "url": "https://github.com/jerikchan"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44225180?u=217aeb62a25b6f7353599e33239e52ddc813a0c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/khairul111010/midjourney-tshirt",
-            "title": "khairul111010/midjourney-tshirt",
-            "date_modified": "2023-05-13T09:17:15.000Z",
-            "date_published": "2023-05-13T09:16:46.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16452607?u=85cbc46f961d6afc836736f75b75c96f0283ec88&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>系统学习ChatGPT MidJourney 用AI工作学习创作，加入我们共同获取最新技术和每日资讯，持续更新......</div>",
+            "url": "https://github.com/kaqijiang/SutdyChatGPT",
+            "title": "kaqijiang/SutdyChatGPT: 系统学习ChatGPT MidJourney 用AI工作学习创作，加入我们共同获取最新技术和每日资讯，持续更新......",
+            "date_modified": "2023-05-14T23:47:28.000Z",
+            "date_published": "2023-05-07T07:53:12.000Z",
             "author": {
-                "name": "khairul111010",
-                "url": "https://github.com/khairul111010"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32638818?u=201251c3c96a80d5bcd66ad25438e3f48eb256ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>providing midjourney service with http api</div>",
-            "url": "https://github.com/haojie06/midjourney-http",
-            "title": "haojie06/midjourney-http: providing midjourney service with http api",
-            "date_modified": "2023-05-06T11:33:34.000Z",
-            "date_published": "2023-04-20T09:33:41.000Z",
-            "author": {
-                "name": "haojie06",
-                "url": "https://github.com/haojie06"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108114582?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Node.js client for the unofficial MidJourney API.</div>",
-            "url": "https://github.com/erictik/midjourney-api",
-            "title": "erictik/midjourney-api: Node.js client for the unofficial MidJourney API.",
-            "date_modified": "2023-05-14T00:06:07.000Z",
-            "date_published": "2023-04-24T13:54:42.000Z",
-            "author": {
-                "name": "erictik",
-                "url": "https://github.com/erictik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102811050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An AI full stack MERN development project where we designed a improved version of DALL-E and midjourney with modern and minimal design, dynamic image layout and many more.</div>",
-            "url": "https://github.com/sansid8055/Pixary",
-            "title": "sansid8055/Pixary: An AI full stack MERN development project where we designed a improved version of DALL-E and midjourney with modern and minimal design, dynamic image layout and many more.",
-            "date_modified": "2023-05-13T14:23:22.000Z",
-            "date_published": "2023-05-13T14:23:21.000Z",
-            "author": {
-                "name": "sansid8055",
-                "url": "https://github.com/sansid8055"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130196328?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"apple\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f34e.png\">🍎</g-emoji> 飞书 x midjourney = 你真正的创意伙伴</div>",
-            "url": "https://github.com/ConnectAI-E/Feishu-Midjourney",
-            "title": "ConnectAI-E/Feishu-Midjourney: 🍎 飞书 x midjourney = 你真正的创意伙伴",
-            "date_modified": "2023-05-13T18:24:05.000Z",
-            "date_published": "2023-04-12T14:17:24.000Z",
-            "author": {
-                "name": "ConnectAI-E",
-                "url": "https://github.com/ConnectAI-E"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128571467?u=8a85fe76efb004040eadaa86eab83e0425925329&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT3.5， ChatGPT4，Midjourney绘图，Stable Diffusion绘画，二级分销，轻应用模块，用户登录注册，请邀请，在线支付，角色表演，实时连续对话网页版，查询余额，自定义Key，代码显示高亮</div>",
-            "url": "https://github.com/gg7640/ChatGPT4-Midjourney-Stable-Diffusion",
-            "title": "gg7640/ChatGPT4-Midjourney-Stable-Diffusion: ChatGPT3.5， ChatGPT4，Midjourney绘图，Stable Diffusion绘画，二级分销，轻应用模块，用户登录注册，请邀请，在线支付，角色表演，实时连续对话网页版，查询余额，自定义Key，代码显示高亮",
-            "date_modified": "2023-05-11T11:19:04.000Z",
-            "date_published": "2023-05-09T12:52:49.000Z",
-            "author": {
-                "name": "gg7640",
-                "url": "https://github.com/gg7640"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108114582?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney UI is an open source AI painting UI based on Midjourney</div>",
-            "url": "https://github.com/erictik/midjourney-ui",
-            "title": "erictik/midjourney-ui: Midjourney UI is an open source AI painting UI based on Midjourney",
-            "date_modified": "2023-05-14T00:05:23.000Z",
-            "date_published": "2023-04-26T09:38:42.000Z",
-            "author": {
-                "name": "erictik",
-                "url": "https://github.com/erictik"
+                "name": "kaqijiang",
+                "url": "https://github.com/kaqijiang"
             }
         },
         {
@@ -182,47 +149,80 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43660702?u=8a750111446f886bd194aba62db6756c97a795d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于VUE2.0 聊天机器人！支持ChatGPT、Midjourney画图、flagstudio画图、sd画图，微信支付，支付宝支付，易支付，公众号引流，邮件注册，阿里云短信注册,后端代码地址：<a href=\"https://github.com/a616567126/GPT-WEB-JAVA🔥\">https://github.com/a616567126/GPT-WEB-JAVA<g-emoji class=\"g-emoji\" alias=\"fire\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f525.png\">🔥</g-emoji></a></div>",
-            "url": "https://github.com/a616567126/GPT-WEB-CLIENT",
-            "title": "a616567126/GPT-WEB-CLIENT: 基于VUE2.0 聊天机器人！支持ChatGPT、Midjourney画图、flagstudio画图、sd画图，微信支付，支付宝支付，易支付，公众号引流，邮件注册，阿里云短信注册,后端代码地址：https://github.com/a616567126/GPT-WEB-JAVA🔥",
-            "date_modified": "2023-05-13T17:43:51.000Z",
-            "date_published": "2023-03-28T06:20:05.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1500781?u=39d7e9d3cc0d0a0799d3ceeb965e6b270d9f5d09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Style client-compatible Backend Server, open source implementation.</div>",
+            "url": "https://github.com/soulteary/sparrow",
+            "title": "soulteary/sparrow: ChatGPT Style client-compatible Backend Server, open source implementation.",
+            "date_modified": "2023-05-14T14:30:32.000Z",
+            "date_published": "2023-05-07T11:35:14.000Z",
             "author": {
-                "name": "a616567126",
-                "url": "https://github.com/a616567126"
+                "name": "soulteary",
+                "url": "https://github.com/soulteary"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54496063?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>openai chatgpt midjourney 简易辅助工具</div>",
-            "url": "https://github.com/wdjwdj1984/aihelper",
-            "title": "wdjwdj1984/aihelper: openai chatgpt midjourney 简易辅助工具",
-            "date_modified": "2023-05-13T02:54:09.000Z",
-            "date_published": "2023-05-13T01:30:26.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131418633?u=d6bfc0f07cb51a1cfc2197aa557c5461ed44b34b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/LearnPrompt/LearnPrompt",
+            "title": "LearnPrompt/LearnPrompt",
+            "date_modified": "2023-05-14T23:40:37.000Z",
+            "date_published": "2023-04-23T06:51:33.000Z",
             "author": {
-                "name": "wdjwdj1984",
-                "url": "https://github.com/wdjwdj1984"
+                "name": "LearnPrompt",
+                "url": "https://github.com/LearnPrompt"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2058651?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ai-panel 快速搭建AI平台</div>",
-            "url": "https://github.com/refgd/ai-panel",
-            "title": "refgd/ai-panel: ai-panel 快速搭建AI平台",
-            "date_modified": "2023-05-13T02:03:45.000Z",
-            "date_published": "2023-05-13T01:57:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127917457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fetch api for Midjourney on discord</div>",
+            "url": "https://github.com/GPTGenius/midjourney-fetch",
+            "title": "GPTGenius/midjourney-fetch: Fetch api for Midjourney on discord",
+            "date_modified": "2023-05-13T18:32:00.000Z",
+            "date_published": "2023-05-13T13:50:06.000Z",
             "author": {
-                "name": "refgd",
-                "url": "https://github.com/refgd"
+                "name": "GPTGenius",
+                "url": "https://github.com/GPTGenius"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43590148?u=283c5c0a995688a68da9b9c1ec4aee1424aae033&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Portfolio project using React called BankNote, a currency converter website. Using images from Midjourney, Axios for API calls, etc.. </div>",
-            "url": "https://github.com/wisberg/banknote",
-            "title": "wisberg/banknote: Portfolio project using React called BankNote, a currency converter website. Using images from Midjourney, Axios for API calls, etc.. ",
-            "date_modified": "2023-05-13T01:12:30.000Z",
-            "date_published": "2023-05-13T01:11:11.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55656159?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney ChatGPT Prompt Generators</div>",
+            "url": "https://github.com/Vangetsu/midjourney",
+            "title": "Vangetsu/midjourney: Midjourney ChatGPT Prompt Generators",
+            "date_modified": "2023-05-08T13:35:53.000Z",
+            "date_published": "2023-03-31T21:16:21.000Z",
             "author": {
-                "name": "wisberg",
-                "url": "https://github.com/wisberg"
+                "name": "Vangetsu",
+                "url": "https://github.com/Vangetsu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132974226?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/RadinX/midjourney",
+            "title": "RadinX/midjourney",
+            "date_modified": "2023-05-14T11:59:41.000Z",
+            "date_published": "2023-05-14T11:59:01.000Z",
+            "author": {
+                "name": "RadinX",
+                "url": "https://github.com/RadinX"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115725333?u=21796f0328b7b378f567e4e40287e3434f52e7e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Midjourney chrome extension which helps archiving images</div>",
+            "url": "https://github.com/dreamingtulpa/midjourney-archive-chrome-extension",
+            "title": "dreamingtulpa/midjourney-archive-chrome-extension: A simple Midjourney chrome extension which helps archiving images",
+            "date_modified": "2023-05-10T22:34:02.000Z",
+            "date_published": "2023-05-04T19:30:15.000Z",
+            "author": {
+                "name": "dreamingtulpa",
+                "url": "https://github.com/dreamingtulpa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=1f013bd2a4ba8717155b5c549b86c3ec3836faaa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on Android and iOS platforms.",
+            "date_modified": "2023-05-11T10:43:38.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
             }
         }
     ]
