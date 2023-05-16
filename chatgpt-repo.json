@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114340841?u=df4121d38ff5db158f6ad43462a8b1f4a9695346&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Likva32/Telegram-Bot-ChatPGT",
+            "title": "Likva32/Telegram-Bot-ChatPGT",
+            "date_modified": "2023-05-15T22:18:07.000Z",
+            "date_published": "2023-05-15T22:18:06.000Z",
+            "author": {
+                "name": "Likva32",
+                "url": "https://github.com/Likva32"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128406103?u=afd72889a09eae7a92cea28247fd6b39524581c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/mangocarlos/dockercompose-with-chatpgt",
             "title": "mangocarlos/dockercompose-with-chatpgt",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3820941?u=1ddcd737d85cc233e114f9cf8a33c5a662955044&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于公众号的chatpgt项目</div>",
             "url": "https://github.com/lzjun567/chatgpt-gzh",
             "title": "lzjun567/chatgpt-gzh: 一个基于公众号的chatpgt项目",
-            "date_modified": "2023-05-04T08:20:38.000Z",
+            "date_modified": "2023-05-15T02:51:51.000Z",
             "date_published": "2023-02-16T08:17:09.000Z",
             "author": {
                 "name": "lzjun567",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "markehhs",
                 "url": "https://github.com/markehhs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4198558?u=729cdc6a7c23b283b4b2068aa837f7748d5a63b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Using chatpgt api to analyse large texts</div>",
-            "url": "https://github.com/kudlaj/gpt-large-text",
-            "title": "kudlaj/gpt-large-text: Using chatpgt api to analyse large texts",
-            "date_modified": "2023-03-15T06:46:29.000Z",
-            "date_published": "2023-03-15T06:46:29.000Z",
-            "author": {
-                "name": "kudlaj",
-                "url": "https://github.com/kudlaj"
             }
         }
     ]
