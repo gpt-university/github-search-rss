@@ -6,21 +6,32 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2023-05-20T07:48:00.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20998381?u=72ed954c57feb0161d25e3aa426a8a8509d7b1dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ImaginePy, opensource (reversed), Midjourney. like API. Generative Art at 0 cost.</div>",
+            "url": "https://github.com/ItsCEED/Imaginepy",
+            "title": "ItsCEED/Imaginepy: ImaginePy, opensource (reversed), Midjourney. like API. Generative Art at 0 cost.",
+            "date_modified": "2023-05-22T13:06:54.000Z",
+            "date_published": "2023-05-14T17:28:35.000Z",
             "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
+                "name": "ItsCEED",
+                "url": "https://github.com/ItsCEED"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133654107?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Открытая база знаний по нейросетям</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134330305?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Prompts - Mockups</div>",
+            "url": "https://github.com/thearkage/midjourney-mockups",
+            "title": "thearkage/midjourney-mockups: Midjourney Prompts - Mockups",
+            "date_modified": "2023-05-22T19:58:00.000Z",
+            "date_published": "2023-05-22T19:57:59.000Z",
+            "author": {
+                "name": "thearkage",
+                "url": "https://github.com/thearkage"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133654107?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Открытая база знаний о нейросетях</div>",
             "url": "https://github.com/Open-Prompting/Knowledge-Base",
-            "title": "Open-Prompting/Knowledge-Base: Открытая база знаний по нейросетям",
-            "date_modified": "2023-05-20T14:46:21.000Z",
+            "title": "Open-Prompting/Knowledge-Base: Открытая база знаний о нейросетях",
+            "date_modified": "2023-05-22T14:12:02.000Z",
             "date_published": "2023-05-04T08:43:51.000Z",
             "author": {
                 "name": "Open-Prompting",
@@ -28,43 +39,54 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1320538?u=a957c0e937adea50d02c1834d407af179c460142&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My project for Coderhouse's Responsive Web Development course.</div>",
-            "url": "https://github.com/cirmialexis/coderhouse-web-development-project",
-            "title": "cirmialexis/coderhouse-web-development-project: My project for Coderhouse's Responsive Web Development course.",
-            "date_modified": "2023-05-17T18:25:26.000Z",
-            "date_published": "2023-04-15T16:34:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11333576?u=23791c93808a3da596de0cc325f85b54e8ecf8e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI image generation in bulk automatically</div>",
+            "url": "https://github.com/igolaizola/bulkai",
+            "title": "igolaizola/bulkai: AI image generation in bulk automatically",
+            "date_modified": "2023-05-22T14:40:12.000Z",
+            "date_published": "2023-02-12T21:02:22.000Z",
             "author": {
-                "name": "cirmialexis",
-                "url": "https://github.com/cirmialexis"
+                "name": "igolaizola",
+                "url": "https://github.com/igolaizola"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10245658?u=1d8518381910cc469b02ecb5a0c74fab77d1e315&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This app is for browsing the generated images on midjourney server, created using mvvm arch and swift</div>",
-            "url": "https://github.com/quantumass/midjourney-browser",
-            "title": "quantumass/midjourney-browser: This app is for browsing the generated images on midjourney server, created using mvvm arch and swift",
-            "date_modified": "2023-05-21T22:01:19.000Z",
-            "date_published": "2023-05-21T22:01:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56034408?u=3b877440eb0eb36e77bb36f17e87411abd33a616&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a MidJourney Wrapper named DandJourney, For Discord 、wechat 、Flask app 、etc...</div>",
+            "url": "https://github.com/yuexdang/DandJourney",
+            "title": "yuexdang/DandJourney: a MidJourney Wrapper named DandJourney, For Discord 、wechat 、Flask app 、etc...",
+            "date_modified": "2023-05-15T16:32:34.000Z",
+            "date_published": "2023-04-10T17:06:01.000Z",
             "author": {
-                "name": "quantumass",
-                "url": "https://github.com/quantumass"
+                "name": "yuexdang",
+                "url": "https://github.com/yuexdang"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21282705?u=1d2af4a40d62bfdbc82741472240f1d41b1bec18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of daily Wordle puzzles, solved by me and illustrated by Midjourney, using each of my guesses as a prompt.</div>",
-            "url": "https://github.com/genevievecurry/wordle",
-            "title": "genevievecurry/wordle: A collection of daily Wordle puzzles, solved by me and illustrated by Midjourney, using each of my guesses as a prompt.",
-            "date_modified": "2023-05-18T05:13:02.000Z",
-            "date_published": "2023-05-17T19:36:16.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13245173?u=daa3858bd4e1bc0309fd88a02450b6137f881a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of LLMs Tools &amp; Projects</div>",
+            "url": "https://github.com/PetroIvaniuk/llms-tools",
+            "title": "PetroIvaniuk/llms-tools: A list of LLMs Tools & Projects",
+            "date_modified": "2023-05-11T09:43:27.000Z",
+            "date_published": "2023-05-09T18:06:28.000Z",
             "author": {
-                "name": "genevievecurry",
-                "url": "https://github.com/genevievecurry"
+                "name": "PetroIvaniuk",
+                "url": "https://github.com/PetroIvaniuk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49001305?u=2ea98ab652f25395ded23763a174a6045f23522d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Recursos y casos prácticos de aplicación de Inteligencia Artificial al diseño de roles en vivo (larp).</div>",
+            "url": "https://github.com/minadivarius/LARP-AI-Design",
+            "title": "minadivarius/LARP-AI-Design: Recursos y casos prácticos de aplicación de Inteligencia Artificial al diseño de roles en vivo (larp).",
+            "date_modified": "2023-03-24T16:56:13.000Z",
+            "date_published": "2023-01-22T18:47:08.000Z",
+            "author": {
+                "name": "minadivarius",
+                "url": "https://github.com/minadivarius"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
             "url": "https://github.com/filipecalegario/awesome-generative-ai",
             "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
-            "date_modified": "2023-05-21T19:59:37.000Z",
+            "date_modified": "2023-05-22T19:22:07.000Z",
             "date_published": "2021-07-19T15:11:51.000Z",
             "author": {
                 "name": "filipecalegario",
@@ -72,25 +94,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65456718?u=72431c75d954f158818c267281f3f3cb1d783097&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Бот создаваемый мною для будущего использования на мероприятии в компании. В его возможности входит навигация по программе мероприятия, отправка запроса на создание Midjourney арта, а также общение с OpenAI chatGPT с сохранением контекста.</div>",
-            "url": "https://github.com/elmoboi/telegramBot-SpringBoot-project",
-            "title": "elmoboi/telegramBot-SpringBoot-project: Бот создаваемый мною для будущего использования на мероприятии в компании. В его возможности входит навигация по программе мероприятия, отправка запроса на создание Midjourney арта, а также общение с OpenAI chatGPT с сохранением контекста.",
-            "date_modified": "2023-05-21T19:16:27.000Z",
-            "date_published": "2023-05-21T19:16:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108021738?u=40fb3e78839f1c23f3a0aa2d18b2ca0d5cf3f220&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>getPrompts is an AI Powered web-application helps you to find creative Prompts that can be used to generate AI provided data in chatGPT, Midjourney, Dall-E, and many more. Users can show case their power of imagination and share it with the community.</div>",
+            "url": "https://github.com/kartik7775/getPrompts",
+            "title": "kartik7775/getPrompts: getPrompts is an AI Powered web-application helps you to find creative Prompts that can be used to generate AI provided data in chatGPT, Midjourney, Dall-E, and many more. Users can show case their power of imagination and share it with the community.",
+            "date_modified": "2023-05-19T18:27:20.000Z",
+            "date_published": "2023-05-18T07:31:51.000Z",
             "author": {
-                "name": "elmoboi",
-                "url": "https://github.com/elmoboi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54861?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Imagine images with DALL·E and Midjourney with some helpful prompting.</div>",
-            "url": "https://github.com/andrewshawcare/imagarium",
-            "title": "andrewshawcare/imagarium: Imagine images with DALL·E and Midjourney with some helpful prompting.",
-            "date_modified": "2023-05-21T16:31:43.000Z",
-            "date_published": "2023-05-21T16:31:42.000Z",
-            "author": {
-                "name": "andrewshawcare",
-                "url": "https://github.com/andrewshawcare"
+                "name": "kartik7775",
+                "url": "https://github.com/kartik7775"
             }
         },
         {
@@ -105,43 +116,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59755482?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third party access to MidJourney to generate images</div>",
-            "url": "https://github.com/zhangwei0316/Midjourney-javaAPI",
-            "title": "zhangwei0316/Midjourney-javaAPI: Third party access to MidJourney to generate images",
-            "date_modified": "2023-05-21T15:29:12.000Z",
-            "date_published": "2023-05-21T15:22:54.000Z",
-            "author": {
-                "name": "zhangwei0316",
-                "url": "https://github.com/zhangwei0316"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132966367?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在ChatGPT-Next-Web的基础上，增加注册，登录，用户管理，额度限制，注册邀请机制，绘图，敏感词拦截，对接支付系统，对接发卡平台，多种支付方式</div>",
-            "url": "https://github.com/Nanjiren01/AIChatWeb",
-            "title": "Nanjiren01/AIChatWeb: 在ChatGPT-Next-Web的基础上，增加注册，登录，用户管理，额度限制，注册邀请机制，绘图，敏感词拦截，对接支付系统，对接发卡平台，多种支付方式",
-            "date_modified": "2023-05-21T18:13:58.000Z",
-            "date_published": "2023-05-11T17:27:39.000Z",
-            "author": {
-                "name": "Nanjiren01",
-                "url": "https://github.com/Nanjiren01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20700387?u=0c9bb78572cc82757982b28984ab32aa7a23ad7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 MidJourney 的discord频道，实现api形式调用AI绘图</div>",
-            "url": "https://github.com/novicezk/midjourney-proxy",
-            "title": "novicezk/midjourney-proxy: 代理 MidJourney 的discord频道，实现api形式调用AI绘图",
-            "date_modified": "2023-05-21T17:07:45.000Z",
-            "date_published": "2023-04-24T13:43:45.000Z",
-            "author": {
-                "name": "novicezk",
-                "url": "https://github.com/novicezk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77108939?u=78e4eaced3d02277984246415a0490519dd81ca7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77108939?u=78e4eaced3d02277984246415a0490519dd81ca7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Discord Bot that can generate text based on a given prompt using Replicate</div>",
             "url": "https://github.com/brblacky/Midjourney",
-            "title": "brblacky/Midjourney",
-            "date_modified": "2023-05-21T13:28:38.000Z",
+            "title": "brblacky/Midjourney: A Discord Bot that can generate text based on a given prompt using Replicate",
+            "date_modified": "2023-05-22T23:33:41.000Z",
             "date_published": "2023-05-21T09:49:37.000Z",
             "author": {
                 "name": "brblacky",
@@ -149,80 +127,102 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23520553?u=83f0ea7d51d9f2b7548df1ef9c1a148448f805fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney in discord api</div>",
-            "url": "https://github.com/yokonsan/midjourney-api",
-            "title": "yokonsan/midjourney-api: midjourney in discord api",
-            "date_modified": "2023-05-21T12:37:53.000Z",
-            "date_published": "2023-05-21T11:34:05.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132966367?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在ChatGPT-Next-Web的基础上，增加注册，登录，用户管理，额度限制，注册邀请机制，绘图，敏感词拦截，对接支付系统，对接发卡平台，多种支付方式</div>",
+            "url": "https://github.com/Nanjiren01/AIChatWeb",
+            "title": "Nanjiren01/AIChatWeb: 在ChatGPT-Next-Web的基础上，增加注册，登录，用户管理，额度限制，注册邀请机制，绘图，敏感词拦截，对接支付系统，对接发卡平台，多种支付方式",
+            "date_modified": "2023-05-22T16:38:49.000Z",
+            "date_published": "2023-05-11T17:27:39.000Z",
             "author": {
-                "name": "yokonsan",
-                "url": "https://github.com/yokonsan"
+                "name": "Nanjiren01",
+                "url": "https://github.com/Nanjiren01"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127917457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nodejs api for Midjourney on discord</div>",
-            "url": "https://github.com/GPTGenius/midjourney-fetch",
-            "title": "GPTGenius/midjourney-fetch: Nodejs api for Midjourney on discord",
-            "date_modified": "2023-05-20T08:46:47.000Z",
-            "date_published": "2023-05-13T13:50:06.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26277039?u=4161d588ffb8803cf14663217f52130a0ff5f6d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Java 基于SpringBoot的后端开源web学习项目，FunAi。支持OpenAI官方所有接口。无限轮聊天 + 带上下文逻辑  + 流式输出 / 普通输出。PDF解析 + Embedding API+ 递归分词文段抽取 + 文本向量化 + 向量语义匹配 + 召回知识库相似文本匹配。接入文生图模型MidJourney / Stable Diffusion Model。智能客服/企业级知识库。APIKey额度精准查询 + 失效检测。AI游戏 + 专属于AI的社交平台</div>",
+            "url": "https://github.com/huangPengL/ChatGPT-Java-FunAi",
+            "title": "huangPengL/ChatGPT-Java-FunAi: ChatGPT Java 基于SpringBoot的后端开源web学习项目，FunAi。支持OpenAI官方所有接口。无限轮聊天 + 带上下文逻辑  + 流式输出 / 普通输出。PDF解析 + Embedding API+ 递归分词文段抽取 + 文本向量化 + 向量语义匹配 + 召回知识库相似文本匹配。接入文生图模型MidJourney / Stable Diffusion Model。智能客服/企业级知识库。APIKey额度精准查询 + 失效检测。AI游戏 + 专属于AI的社交平台",
+            "date_modified": "2023-05-22T16:36:11.000Z",
+            "date_published": "2023-04-28T06:33:51.000Z",
             "author": {
-                "name": "GPTGenius",
-                "url": "https://github.com/GPTGenius"
+                "name": "huangPengL",
+                "url": "https://github.com/huangPengL"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99076655?u=df5714b52fed89f33a8eed4145187e4890f6ff08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.</div>",
-            "url": "https://github.com/sjinzh/awesome-llm-and-aigc",
-            "title": "sjinzh/awesome-llm-and-aigc: A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.",
-            "date_modified": "2023-05-21T20:03:25.000Z",
-            "date_published": "2023-02-15T12:40:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21282705?u=1d2af4a40d62bfdbc82741472240f1d41b1bec18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of daily Wordle puzzles, solved by me and illustrated by Midjourney, using each of my guesses as a prompt.</div>",
+            "url": "https://github.com/genevievecurry/wordle",
+            "title": "genevievecurry/wordle: A collection of daily Wordle puzzles, solved by me and illustrated by Midjourney, using each of my guesses as a prompt.",
+            "date_modified": "2023-05-22T15:45:32.000Z",
+            "date_published": "2023-05-17T19:36:16.000Z",
             "author": {
-                "name": "sjinzh",
-                "url": "https://github.com/sjinzh"
+                "name": "genevievecurry",
+                "url": "https://github.com/genevievecurry"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127917457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点</div>",
-            "url": "https://github.com/GPTGenius/chatgpt-vercel",
-            "title": "GPTGenius/chatgpt-vercel: Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点",
-            "date_modified": "2023-05-21T14:12:16.000Z",
-            "date_published": "2023-03-15T03:50:40.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26681789?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AngelOver/midjourney-ui-vercel",
+            "title": "AngelOver/midjourney-ui-vercel",
+            "date_modified": "2023-05-22T14:57:27.000Z",
+            "date_published": "2023-05-22T14:55:36.000Z",
             "author": {
-                "name": "GPTGenius",
-                "url": "https://github.com/GPTGenius"
+                "name": "AngelOver",
+                "url": "https://github.com/AngelOver"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7542281?u=a312c8d28ce646b6d5765772a507d16f1f71c662&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>templates for creating midjourney prompts through chatgpt</div>",
-            "url": "https://github.com/mberndtgen/chatgpt4midjourney",
-            "title": "mberndtgen/chatgpt4midjourney: templates for creating midjourney prompts through chatgpt",
-            "date_modified": "2023-05-21T11:17:43.000Z",
-            "date_published": "2023-05-18T00:12:49.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61396273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(deprecated) Source for Midjourney's official wiki</div>",
+            "url": "https://github.com/midjourney/docs",
+            "title": "midjourney/docs: (deprecated) Source for Midjourney's official wiki",
+            "date_modified": "2023-05-19T11:53:20.000Z",
+            "date_published": "2022-05-05T17:01:33.000Z",
             "author": {
-                "name": "mberndtgen",
-                "url": "https://github.com/mberndtgen"
+                "name": "midjourney",
+                "url": "https://github.com/midjourney"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30296801?u=e96ce75056830bb468ebc0f0bd08bbfbc7096a03&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Zo3i/chatgptWithMidjourney",
-            "title": "Zo3i/chatgptWithMidjourney",
-            "date_modified": "2023-05-21T16:13:37.000Z",
-            "date_published": "2023-05-13T15:29:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/531683?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MERN AI Image Generation App | Midjourney &amp; DALL-E</div>",
+            "url": "https://github.com/gipsy/dalle",
+            "title": "gipsy/dalle: MERN AI Image Generation App | Midjourney & DALL-E",
+            "date_modified": "2023-05-13T10:08:57.000Z",
+            "date_published": "2023-04-16T18:21:16.000Z",
             "author": {
-                "name": "Zo3i",
-                "url": "https://github.com/Zo3i"
+                "name": "gipsy",
+                "url": "https://github.com/gipsy"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42152260?u=e94a3340be2b82546063d3592dc9780497ee2055&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Midjourney Killer) an Image generation tool powered by GPT</div>",
-            "url": "https://github.com/LouisMuriuki/shiny-garbanzo",
-            "title": "LouisMuriuki/shiny-garbanzo: (Midjourney Killer) an Image generation tool powered by GPT",
-            "date_modified": "2023-04-21T09:51:14.000Z",
-            "date_published": "2023-04-19T15:03:56.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5601846?u=a587f2b2d8b33119d7a0ef1fa0c5c8be4aab777b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/msmriyaz/midjourney",
+            "title": "msmriyaz/midjourney",
+            "date_modified": "2023-05-22T11:32:13.000Z",
+            "date_published": "2023-05-22T11:31:45.000Z",
             "author": {
-                "name": "LouisMuriuki",
-                "url": "https://github.com/LouisMuriuki"
+                "name": "msmriyaz",
+                "url": "https://github.com/msmriyaz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42823429?u=e0c070d9139f11ab456925d163a6f9828f43ccfe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Node.js client for Midjourney/Openjourney on Replicate.</div>",
+            "url": "https://github.com/oelin/midjourney-client",
+            "title": "oelin/midjourney-client: A Node.js client for Midjourney/Openjourney on Replicate.",
+            "date_modified": "2023-05-22T16:33:03.000Z",
+            "date_published": "2023-01-21T18:45:19.000Z",
+            "author": {
+                "name": "oelin",
+                "url": "https://github.com/oelin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45676208?u=9728d21ed47a0314d334f3674ab687f164d2f24b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney api by discord</div>",
+            "url": "https://github.com/binwan-dev/MidjourneyAPI-discord-dotnet",
+            "title": "binwan-dev/MidjourneyAPI-discord-dotnet: midjourney api by discord",
+            "date_modified": "2023-05-20T05:23:45.000Z",
+            "date_published": "2023-05-18T09:14:56.000Z",
+            "author": {
+                "name": "binwan-dev",
+                "url": "https://github.com/binwan-dev"
             }
         }
     ]
