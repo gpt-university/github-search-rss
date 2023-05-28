@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20064629?u=69786e445bfa5b568a787ce34d78e404aa2e84c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> interactive storytelling plugin for chatpgt</div>",
+            "url": "https://github.com/leosea/interactive-storytelling-",
+            "title": "leosea/interactive-storytelling-:  interactive storytelling plugin for chatpgt",
+            "date_modified": "2023-05-28T00:30:34.000Z",
+            "date_published": "2023-05-28T00:25:54.000Z",
+            "author": {
+                "name": "leosea",
+                "url": "https://github.com/leosea"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100876601?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/LaraBatista04/20231-IPI-POO-chatpgt",
             "title": "LaraBatista04/20231-IPI-POO-chatpgt",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "diegobachsi",
                 "url": "https://github.com/diegobachsi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51785898?u=6b4ac0f13b45986635241b98c4a14c5e4ec6b7e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"brazil\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png\">🇧🇷</g-emoji> app desktop capaz de gerar codigos através da tecnologia chatpgt  <g-emoji class=\"g-emoji\" alias=\"us\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png\">🇺🇸</g-emoji> English version in README</div>",
-            "url": "https://github.com/marcoshenrique-dev/code-assistant",
-            "title": "marcoshenrique-dev/code-assistant: 🇧🇷 app desktop capaz de gerar codigos através da tecnologia chatpgt  🇺🇸 English version in README",
-            "date_modified": "2023-03-29T21:21:43.000Z",
-            "date_published": "2023-03-21T01:16:02.000Z",
-            "author": {
-                "name": "marcoshenrique-dev",
-                "url": "https://github.com/marcoshenrique-dev"
             }
         }
     ]
