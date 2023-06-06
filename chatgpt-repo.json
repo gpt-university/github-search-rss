@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35193128?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatpgt for self entertainment</div>",
+            "url": "https://github.com/yezhidaizhu/chatgpt-widget",
+            "title": "yezhidaizhu/chatgpt-widget: chatpgt for self entertainment",
+            "date_modified": "2023-06-05T12:07:12.000Z",
+            "date_published": "2023-06-05T12:02:13.000Z",
+            "author": {
+                "name": "yezhidaizhu",
+                "url": "https://github.com/yezhidaizhu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436903?u=43464949f9c318988ec30c8f9fece3437633bfdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南</div>",
             "url": "https://github.com/zxfpro/Myplay",
             "title": "zxfpro/Myplay: 收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "PriscillaSalas",
                 "url": "https://github.com/PriscillaSalas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61090568?u=65a6f27c794524506efa86eecd7955d98e4cd18a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plataforma para geração de exame digitais utilizando o ChatPGT da OpenAI</div>",
-            "url": "https://github.com/diegobachsi/exam-e",
-            "title": "diegobachsi/exam-e: Plataforma para geração de exame digitais utilizando o ChatPGT da OpenAI",
-            "date_modified": "2023-04-19T12:23:40.000Z",
-            "date_published": "2023-02-27T20:28:19.000Z",
-            "author": {
-                "name": "diegobachsi",
-                "url": "https://github.com/diegobachsi"
             }
         }
     ]
