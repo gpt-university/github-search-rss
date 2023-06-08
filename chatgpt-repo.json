@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1078417?u=fa50d6b04ccaca7f465e5b8c3fd638b9423b9ded&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5</div>",
+            "url": "https://github.com/SergioCSC/telegram_audio_bot",
+            "title": "SergioCSC/telegram_audio_bot: telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5",
+            "date_modified": "2023-04-21T19:32:09.000Z",
+            "date_published": "2023-03-14T05:32:09.000Z",
+            "author": {
+                "name": "SergioCSC",
+                "url": "https://github.com/SergioCSC"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35193128?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatpgt for self entertainment</div>",
             "url": "https://github.com/yezhidaizhu/chatgpt-widget",
             "title": "yezhidaizhu/chatgpt-widget: chatpgt for self entertainment",
@@ -135,17 +146,6 @@
             "author": {
                 "name": "alexhenrique",
                 "url": "https://github.com/alexhenrique"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1078417?u=fa50d6b04ccaca7f465e5b8c3fd638b9423b9ded&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5</div>",
-            "url": "https://github.com/SergioCSC/telegram_audio_bot",
-            "title": "SergioCSC/telegram_audio_bot: telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5",
-            "date_modified": "2023-04-21T19:32:09.000Z",
-            "date_published": "2023-03-14T05:32:09.000Z",
-            "author": {
-                "name": "SergioCSC",
-                "url": "https://github.com/SergioCSC"
             }
         },
         {
