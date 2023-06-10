@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9738969?u=5d71699088d96c0ea6d7cbf99eac9d9cbfbf362e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatpgt-prompts-advance-guide</div>",
+            "url": "https://github.com/wsdo/chatgpt-prompts-advance-guide",
+            "title": "wsdo/chatgpt-prompts-advance-guide: chatpgt-prompts-advance-guide",
+            "date_modified": "2023-06-10T00:32:37.000Z",
+            "date_published": "2023-06-09T11:54:40.000Z",
+            "author": {
+                "name": "wsdo",
+                "url": "https://github.com/wsdo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1078417?u=fa50d6b04ccaca7f465e5b8c3fd638b9423b9ded&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5</div>",
             "url": "https://github.com/SergioCSC/telegram_audio_bot",
             "title": "SergioCSC/telegram_audio_bot: telegram bot which transcribes audio to text and allows you to make a text requests to chatPGT 3.5",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wishtodaya",
                 "url": "https://github.com/wishtodaya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13039076?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/PriscillaSalas/chatpgt",
-            "title": "PriscillaSalas/chatpgt",
-            "date_modified": "2023-04-03T21:50:30.000Z",
-            "date_published": "2023-03-28T23:56:49.000Z",
-            "author": {
-                "name": "PriscillaSalas",
-                "url": "https://github.com/PriscillaSalas"
             }
         }
     ]
