@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134065253?u=52f4f38ccabe5c4ff6c87d53a5a9e61023395c5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>这个是我在gitee上面找到的项目 已经搭建到我的服务器上面了</div>",
+            "url": "https://github.com/gaoqinqinshan/Chatpgt",
+            "title": "gaoqinqinshan/Chatpgt: 这个是我在gitee上面找到的项目 已经搭建到我的服务器上面了",
+            "date_modified": "2023-06-10T13:51:55.000Z",
+            "date_published": "2023-06-10T13:11:11.000Z",
+            "author": {
+                "name": "gaoqinqinshan",
+                "url": "https://github.com/gaoqinqinshan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9738969?u=5d71699088d96c0ea6d7cbf99eac9d9cbfbf362e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatpgt-prompts-advance-guide</div>",
             "url": "https://github.com/wsdo/chatgpt-prompts-advance-guide",
             "title": "wsdo/chatgpt-prompts-advance-guide: chatpgt-prompts-advance-guide",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "radu1122",
                 "url": "https://github.com/radu1122"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128677354?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>加油!chatpgt鼓励师</div>",
-            "url": "https://github.com/wishtodaya/cheerpt",
-            "title": "wishtodaya/cheerpt: 加油!chatpgt鼓励师",
-            "date_modified": "2023-04-04T06:41:35.000Z",
-            "date_published": "2023-04-04T06:32:19.000Z",
-            "author": {
-                "name": "wishtodaya",
-                "url": "https://github.com/wishtodaya"
             }
         }
     ]
