@@ -6,6 +6,28 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116861909?u=9aa67c76052aa99b797349913527ae31d0fdb7fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Blog is a collaborative project designed and developed while practicing building applications using Astro framework.</div>",
+            "url": "https://github.com/Andresv309/astro-blog",
+            "title": "Andresv309/astro-blog: This Blog is a collaborative project designed and developed while practicing building applications using Astro framework.",
+            "date_modified": "2023-07-03T09:55:30.000Z",
+            "date_published": "2023-05-18T15:20:46.000Z",
+            "author": {
+                "name": "Andresv309",
+                "url": "https://github.com/Andresv309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96038565?u=5d35836141684c2f294509aabdab1ecd2c140649&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This demo contains - 1. image generation by text, 2. chatgpt chatting, 3. Transcriptor  using chatpgt api key, ,make sure you add your own api key to start with the code.</div>",
+            "url": "https://github.com/toskypd/chatgpt-clone",
+            "title": "toskypd/chatgpt-clone: This demo contains - 1. image generation by text, 2. chatgpt chatting, 3. Transcriptor  using chatpgt api key, ,make sure you add your own api key to start with the code.",
+            "date_modified": "2023-07-03T05:00:29.000Z",
+            "date_published": "2023-07-03T04:42:04.000Z",
+            "author": {
+                "name": "toskypd",
+                "url": "https://github.com/toskypd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436903?u=43464949f9c318988ec30c8f9fece3437633bfdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南</div>",
             "url": "https://github.com/zxfpro/Myplay",
             "title": "zxfpro/Myplay: 收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "LeeAhy",
                 "url": "https://github.com/LeeAhy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9004654?u=8f2dcb6e0c0f865852e49925d1774ad7bb21df75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use ChatPGT as a programming partner!</div>",
-            "url": "https://github.com/Monotoba/ai-pair-programmer",
-            "title": "Monotoba/ai-pair-programmer: Use ChatPGT as a programming partner!",
-            "date_modified": "2023-04-06T22:47:26.000Z",
-            "date_published": "2023-04-06T22:24:10.000Z",
-            "author": {
-                "name": "Monotoba",
-                "url": "https://github.com/Monotoba"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28501796?u=204c01124b685e43a4d05b4eacec8f75e7503833&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mock Data Generator from DB Schema with ChatGPT</div>",
-            "url": "https://github.com/radu1122/chatpgt-db-data-mocking",
-            "title": "radu1122/chatpgt-db-data-mocking: Mock Data Generator from DB Schema with ChatGPT",
-            "date_modified": "2023-05-14T12:09:36.000Z",
-            "date_published": "2023-04-06T11:02:44.000Z",
-            "author": {
-                "name": "radu1122",
-                "url": "https://github.com/radu1122"
             }
         }
     ]
