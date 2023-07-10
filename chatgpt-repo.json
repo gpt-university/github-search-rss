@@ -6,6 +6,28 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62722265?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatpgt</div>",
+            "url": "https://github.com/soccerstar-texa/chat",
+            "title": "soccerstar-texa/chat: chatpgt",
+            "date_modified": "2023-07-09T01:31:05.000Z",
+            "date_published": "2023-07-09T01:28:43.000Z",
+            "author": {
+                "name": "soccerstar-texa",
+                "url": "https://github.com/soccerstar-texa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62722265?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatpgt</div>",
+            "url": "https://github.com/soccerstar-texa/chatgpt",
+            "title": "soccerstar-texa/chatgpt: chatpgt",
+            "date_modified": "2023-07-09T01:43:24.000Z",
+            "date_published": "2023-07-09T01:39:20.000Z",
+            "author": {
+                "name": "soccerstar-texa",
+                "url": "https://github.com/soccerstar-texa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116861909?u=9aa67c76052aa99b797349913527ae31d0fdb7fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Blog is a collaborative project designed and developed while practicing building applications using Astro framework.</div>",
             "url": "https://github.com/Andresv309/astro-blog",
             "title": "Andresv309/astro-blog: This Blog is a collaborative project designed and developed while practicing building applications using Astro framework.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "RichardJie",
                 "url": "https://github.com/RichardJie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86612552?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ahua6688/chatpgt",
-            "title": "ahua6688/chatpgt",
-            "date_modified": "2023-04-23T02:11:09.000Z",
-            "date_published": "2023-04-23T02:11:09.000Z",
-            "author": {
-                "name": "ahua6688",
-                "url": "https://github.com/ahua6688"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131360946?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my first repository</div>",
-            "url": "https://github.com/LeeAhy/chatpgt",
-            "title": "LeeAhy/chatpgt: my first repository",
-            "date_modified": "2023-04-20T12:09:32.000Z",
-            "date_published": "2023-04-20T12:09:31.000Z",
-            "author": {
-                "name": "LeeAhy",
-                "url": "https://github.com/LeeAhy"
             }
         }
     ]
