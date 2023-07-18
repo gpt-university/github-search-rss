@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73228680?u=8d58d91cc1b8b3eb9cecaeb890efa1a5a3371d8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Решение \"Загадки Эйнштейна\". ChatPGT предлагает оптимизировать циклы и некоторые другие вещи, но мне пока лень</div>",
+            "url": "https://github.com/FunnyROGER2/einstein",
+            "title": "FunnyROGER2/einstein: Решение \"Загадки Эйнштейна\". ChatPGT предлагает оптимизировать циклы и некоторые другие вещи, но мне пока лень",
+            "date_modified": "2023-07-17T19:17:07.000Z",
+            "date_published": "2023-07-17T12:02:33.000Z",
+            "author": {
+                "name": "FunnyROGER2",
+                "url": "https://github.com/FunnyROGER2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62722265?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatpgt</div>",
             "url": "https://github.com/soccerstar-texa/chat",
             "title": "soccerstar-texa/chat: chatpgt",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alexhenrique",
                 "url": "https://github.com/alexhenrique"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47815573?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set a random value to refresh Chatgpt's interface, more like a real person, to solve chatpgt's recent and often reported error behavior</div>",
-            "url": "https://github.com/RichardJie/RandomKeepChatgpt",
-            "title": "RichardJie/RandomKeepChatgpt: Set a random value to refresh Chatgpt's interface, more like a real person, to solve chatpgt's recent and often reported error behavior",
-            "date_modified": "2023-04-23T06:40:47.000Z",
-            "date_published": "2023-04-23T06:36:37.000Z",
-            "author": {
-                "name": "RichardJie",
-                "url": "https://github.com/RichardJie"
             }
         }
     ]
