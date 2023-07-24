@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87610505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/vodatvan01/chatpgt",
+            "title": "vodatvan01/chatpgt",
+            "date_modified": "2023-07-23T14:03:33.000Z",
+            "date_published": "2023-07-23T14:03:33.000Z",
+            "author": {
+                "name": "vodatvan01",
+                "url": "https://github.com/vodatvan01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140254531?u=dfb211a30f97fb9b98e0cf2e8e6c98f432583223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>two python scripts to run chatpgt on your windows cmd or linux terminal </div>",
             "url": "https://github.com/heyitsmeyo/chatgpt",
             "title": "heyitsmeyo/chatgpt: two python scripts to run chatpgt on your windows cmd or linux terminal ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Idorobots",
                 "url": "https://github.com/Idorobots"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49298134?u=b0c34264145d5694b334ddc3599f1f3c557c409f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API</div>",
-            "url": "https://github.com/GiridharRNair/ChatGPT-Discord-Bot",
-            "title": "GiridharRNair/ChatGPT-Discord-Bot: AI chat bot with natural language processing and image production capabilities using ChatGPT 3.5 Turbo API",
-            "date_modified": "2023-06-17T19:23:43.000Z",
-            "date_published": "2023-04-11T18:54:41.000Z",
-            "author": {
-                "name": "GiridharRNair",
-                "url": "https://github.com/GiridharRNair"
             }
         }
     ]
