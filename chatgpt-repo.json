@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1208330?u=9f2fa78a2058c6182bb606d5b635d1564704e7d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...</div>",
+            "url": "https://github.com/wkylin/pro-react-admin",
+            "title": "wkylin/pro-react-admin: 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...",
+            "date_modified": "2023-07-24T12:57:37.000Z",
+            "date_published": "2021-04-09T12:05:04.000Z",
+            "author": {
+                "name": "wkylin",
+                "url": "https://github.com/wkylin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140254531?u=dfb211a30f97fb9b98e0cf2e8e6c98f432583223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>two python scripts to run chatpgt on your windows cmd or linux terminal </div>",
             "url": "https://github.com/heyitsmeyo/chatgpt",
             "title": "heyitsmeyo/chatgpt: two python scripts to run chatpgt on your windows cmd or linux terminal ",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "MTormenta",
                 "url": "https://github.com/MTormenta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1641850?u=b9763580f459be0ef3b90b0754c27701652ab4e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An XMPP bot with the power of ChatGPT.</div>",
-            "url": "https://github.com/Idorobots/xmppgpt",
-            "title": "Idorobots/xmppgpt: An XMPP bot with the power of ChatGPT.",
-            "date_modified": "2023-05-16T17:39:30.000Z",
-            "date_published": "2023-05-05T11:39:42.000Z",
-            "author": {
-                "name": "Idorobots",
-                "url": "https://github.com/Idorobots"
             }
         }
     ]
