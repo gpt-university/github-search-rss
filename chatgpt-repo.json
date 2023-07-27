@@ -6,17 +6,6 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87610505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/vodatvan01/chatpgt",
-            "title": "vodatvan01/chatpgt",
-            "date_modified": "2023-07-23T14:03:33.000Z",
-            "date_published": "2023-07-23T14:03:33.000Z",
-            "author": {
-                "name": "vodatvan01",
-                "url": "https://github.com/vodatvan01"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1208330?u=9f2fa78a2058c6182bb606d5b635d1564704e7d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...</div>",
             "url": "https://github.com/wkylin/pro-react-admin",
             "title": "wkylin/pro-react-admin: 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "wkylin",
                 "url": "https://github.com/wkylin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87610505?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/vodatvan01/chatpgt",
+            "title": "vodatvan01/chatpgt",
+            "date_modified": "2023-07-23T14:03:33.000Z",
+            "date_published": "2023-07-23T14:03:33.000Z",
+            "author": {
+                "name": "vodatvan01",
+                "url": "https://github.com/vodatvan01"
             }
         },
         {
@@ -113,6 +113,17 @@
             "author": {
                 "name": "saeedkargosha",
                 "url": "https://github.com/saeedkargosha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5327219?u=dfee70b69ee08e4bcc779bb59f3b732085e5ec22&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zluckymn/chatpgt-ui",
+            "title": "zluckymn/chatpgt-ui",
+            "date_modified": "2023-07-26T06:53:54.000Z",
+            "date_published": "2023-05-14T14:14:10.000Z",
+            "author": {
+                "name": "zluckymn",
+                "url": "https://github.com/zluckymn"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mangocarlos",
                 "url": "https://github.com/mangocarlos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133501249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MTormenta/Chatpgt",
-            "title": "MTormenta/Chatpgt",
-            "date_modified": "2023-05-13T10:58:02.000Z",
-            "date_published": "2023-05-13T10:58:01.000Z",
-            "author": {
-                "name": "MTormenta",
-                "url": "https://github.com/MTormenta"
             }
         }
     ]
