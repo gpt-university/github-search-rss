@@ -9,22 +9,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1208330?u=9f2fa78a2058c6182bb606d5b635d1564704e7d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...</div>",
             "url": "https://github.com/wkylin/pro-react-admin",
             "title": "wkylin/pro-react-admin: 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...",
-            "date_modified": "2023-08-14T14:55:02.000Z",
+            "date_modified": "2023-08-16T08:55:35.000Z",
             "date_published": "2021-04-09T12:05:04.000Z",
             "author": {
                 "name": "wkylin",
                 "url": "https://github.com/wkylin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95779146?u=26fd966af77853331cc6a917c7dc473230bb040a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompt template library (Chatpgt plugin) </div>",
-            "url": "https://github.com/p4sscode/prompt-library",
-            "title": "p4sscode/prompt-library: Prompt template library (Chatpgt plugin) ",
-            "date_modified": "2023-08-11T14:54:50.000Z",
-            "date_published": "2023-08-11T14:54:50.000Z",
-            "author": {
-                "name": "p4sscode",
-                "url": "https://github.com/p4sscode"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "LaraBatista04",
                 "url": "https://github.com/LaraBatista04"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3820941?u=1ddcd737d85cc233e114f9cf8a33c5a662955044&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于公众号的chatpgt项目</div>",
+            "url": "https://github.com/lzjun567/chatgpt-gzh",
+            "title": "lzjun567/chatgpt-gzh: 一个基于公众号的chatpgt项目",
+            "date_modified": "2023-08-11T14:53:35.000Z",
+            "date_published": "2023-02-16T08:17:09.000Z",
+            "author": {
+                "name": "lzjun567",
+                "url": "https://github.com/lzjun567"
             }
         }
     ]
