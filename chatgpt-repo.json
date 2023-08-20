@@ -6,17 +6,6 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436903?u=43464949f9c318988ec30c8f9fece3437633bfdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南</div>",
-            "url": "https://github.com/zxfpro/Myplay",
-            "title": "zxfpro/Myplay: 收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南",
-            "date_modified": "2023-06-17T16:46:31.000Z",
-            "date_published": "2023-03-08T09:38:18.000Z",
-            "author": {
-                "name": "zxfpro",
-                "url": "https://github.com/zxfpro"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1208330?u=9f2fa78a2058c6182bb606d5b635d1564704e7d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...</div>",
             "url": "https://github.com/wkylin/pro-react-admin",
             "title": "wkylin/pro-react-admin: 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "wkylin",
                 "url": "https://github.com/wkylin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30930236?u=a7e977a6a6f94a638a8631578b28ce332514c909&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implement a chat robot interaction interface similar to chatGPT. Build using React and Flask, without investing too much effort in the development of chat components.  实现类似chatPGT的聊天机器人交互界面。使用React、Flask构建, 不用把过多精力投入在聊天组件的开发中。</div>",
+            "url": "https://github.com/youqiang95/GPT-chatui-demo",
+            "title": "youqiang95/GPT-chatui-demo: Implement a chat robot interaction interface similar to chatGPT. Build using React and Flask, without investing too much effort in the development of chat components.  实现类似chatPGT的聊天机器人交互界面。使用React、Flask构建, 不用把过多精力投入在聊天组件的开发中。",
+            "date_modified": "2023-08-19T22:14:22.000Z",
+            "date_published": "2023-08-17T21:31:54.000Z",
+            "author": {
+                "name": "youqiang95",
+                "url": "https://github.com/youqiang95"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436903?u=43464949f9c318988ec30c8f9fece3437633bfdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南</div>",
+            "url": "https://github.com/zxfpro/Myplay",
+            "title": "zxfpro/Myplay: 收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南",
+            "date_modified": "2023-06-17T16:46:31.000Z",
+            "date_published": "2023-03-08T09:38:18.000Z",
+            "author": {
+                "name": "zxfpro",
+                "url": "https://github.com/zxfpro"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LaraBatista04",
                 "url": "https://github.com/LaraBatista04"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3820941?u=1ddcd737d85cc233e114f9cf8a33c5a662955044&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于公众号的chatpgt项目</div>",
-            "url": "https://github.com/lzjun567/chatgpt-gzh",
-            "title": "lzjun567/chatgpt-gzh: 一个基于公众号的chatpgt项目",
-            "date_modified": "2023-08-11T14:53:35.000Z",
-            "date_published": "2023-02-16T08:17:09.000Z",
-            "author": {
-                "name": "lzjun567",
-                "url": "https://github.com/lzjun567"
             }
         }
     ]
