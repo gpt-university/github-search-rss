@@ -6,6 +6,17 @@
     "description": "chatgpt repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11592463?u=1aed757900c430592947de796d611a7839d1f147&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A next.js webapp with chatpgt</div>",
+            "url": "https://github.com/rubenbocanegra/nextjsgpt",
+            "title": "rubenbocanegra/nextjsgpt: A next.js webapp with chatpgt",
+            "date_modified": "2023-08-24T04:03:13.000Z",
+            "date_published": "2023-08-24T03:51:38.000Z",
+            "author": {
+                "name": "rubenbocanegra",
+                "url": "https://github.com/rubenbocanegra"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33436903?u=43464949f9c318988ec30c8f9fece3437633bfdf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南</div>",
             "url": "https://github.com/zxfpro/Myplay",
             "title": "zxfpro/Myplay: 收集中文ChatPGT优质prompt的开源项目--ChatGPT的中文调教指南",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "LaraBatista04",
                 "url": "https://github.com/LaraBatista04"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3820941?u=1ddcd737d85cc233e114f9cf8a33c5a662955044&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于公众号的chatpgt项目</div>",
-            "url": "https://github.com/lzjun567/chatgpt-gzh",
-            "title": "lzjun567/chatgpt-gzh: 一个基于公众号的chatpgt项目",
-            "date_modified": "2023-08-11T14:53:35.000Z",
-            "date_published": "2023-02-16T08:17:09.000Z",
-            "author": {
-                "name": "lzjun567",
-                "url": "https://github.com/lzjun567"
             }
         }
     ]
