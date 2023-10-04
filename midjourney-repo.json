@@ -6,54 +6,10 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134003593?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Evaluate and Enhance.🚀  YiVal is an open-source GenAI-Ops tool for tuning and evaluating prompts, retrieval configurations, and model parameters using customizable datasets, evaluation methods, and enhancement strategies. </div>",
-            "url": "https://github.com/YiVal/YiVal",
-            "title": "YiVal/YiVal: 🚀 Evaluate and Enhance.🚀  YiVal is an open-source GenAI-Ops tool for tuning and evaluating prompts, retrieval configurations, and model parameters using customizable datasets, evaluation methods, and enhancement strategies. ",
-            "date_modified": "2023-10-02T11:41:58.000Z",
-            "date_published": "2023-07-15T02:04:35.000Z",
-            "author": {
-                "name": "YiVal",
-                "url": "https://github.com/YiVal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4961433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>UI for iteratively composing prompts for midjourney</div>",
-            "url": "https://github.com/pat-thomas/horizon",
-            "title": "pat-thomas/horizon: UI for iteratively composing prompts for midjourney",
-            "date_modified": "2023-10-02T23:22:38.000Z",
-            "date_published": "2023-10-02T18:07:45.000Z",
-            "author": {
-                "name": "pat-thomas",
-                "url": "https://github.com/pat-thomas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8513199?u=224ee05fa0f463020ea471be544459c091723954&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pyhton script for generating zoom in/out videos from a set of images</div>",
-            "url": "https://github.com/mwydmuch/ZoomVideoComposer",
-            "title": "mwydmuch/ZoomVideoComposer: Pyhton script for generating zoom in/out videos from a set of images",
-            "date_modified": "2023-09-24T18:25:16.000Z",
-            "date_published": "2023-06-24T11:09:25.000Z",
-            "author": {
-                "name": "mwydmuch",
-                "url": "https://github.com/mwydmuch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=aa0248f4c4e48f36f30cd4e5d55455423c96b4c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
-            "date_modified": "2023-10-02T17:12:58.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30862898?u=e85ffc57bc9f581782cc781c919c0fdaf5747c87&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo includes ChatGPT,Claude,ChatGLM,Baichuan,Stable Diffusion,Midjourney,structued-prompt curation to use LLM better.</div>",
             "url": "https://github.com/fenwii/awesome-structued-prompts",
             "title": "fenwii/awesome-structued-prompts: This repo includes ChatGPT,Claude,ChatGLM,Baichuan,Stable Diffusion,Midjourney,structued-prompt curation to use LLM better.",
-            "date_modified": "2023-10-02T17:19:08.000Z",
+            "date_modified": "2023-10-03T13:04:12.000Z",
             "date_published": "2023-10-02T17:16:00.000Z",
             "author": {
                 "name": "fenwii",
@@ -61,14 +17,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10715104?u=8c2131508269219c62529699576b0831af0555f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Discord client for server side applications, includes Midjourney AI client.</div>",
-            "url": "https://github.com/Draym/discord-puppet",
-            "title": "Draym/discord-puppet: Discord client for server side applications, includes Midjourney AI client.",
-            "date_modified": "2023-09-18T16:48:19.000Z",
-            "date_published": "2023-03-05T08:32:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60200125?u=e328df9477540895115d1ae3a7a3972e6b8dd80a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered weather visualization app, blending dynamic forecasts with real-time imagery. Built with Flutter, NestJS, and integrated with ChatGPT and MidJourney via Discord.</div>",
+            "url": "https://github.com/BaptisteLecat/weather_assistant",
+            "title": "BaptisteLecat/weather_assistant: AI-powered weather visualization app, blending dynamic forecasts with real-time imagery. Built with Flutter, NestJS, and integrated with ChatGPT and MidJourney via Discord.",
+            "date_modified": "2023-09-29T17:25:49.000Z",
+            "date_published": "2023-06-22T19:54:39.000Z",
             "author": {
-                "name": "Draym",
-                "url": "https://github.com/Draym"
+                "name": "BaptisteLecat",
+                "url": "https://github.com/BaptisteLecat"
             }
         },
         {
@@ -94,6 +50,127 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134003593?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Evaluate and Enhance.🚀  YiVal is an open-source GenAI-Ops tool for tuning and evaluating prompts, retrieval configurations, and model parameters using customizable datasets, evaluation methods, and enhancement strategies. </div>",
+            "url": "https://github.com/YiVal/YiVal",
+            "title": "YiVal/YiVal: 🚀 Evaluate and Enhance.🚀  YiVal is an open-source GenAI-Ops tool for tuning and evaluating prompts, retrieval configurations, and model parameters using customizable datasets, evaluation methods, and enhancement strategies. ",
+            "date_modified": "2023-10-03T22:12:38.000Z",
+            "date_published": "2023-07-15T02:04:35.000Z",
+            "author": {
+                "name": "YiVal",
+                "url": "https://github.com/YiVal"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10715104?u=e565eff13b92459389769ebd0b651a7c910197d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Discord client for server side applications, includes Midjourney AI client.</div>",
+            "url": "https://github.com/Draym/discord-puppet",
+            "title": "Draym/discord-puppet: Discord client for server side applications, includes Midjourney AI client.",
+            "date_modified": "2023-09-18T16:48:19.000Z",
+            "date_published": "2023-03-05T08:32:57.000Z",
+            "author": {
+                "name": "Draym",
+                "url": "https://github.com/Draym"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80184334?u=a882768aa88fcc9d43e0615ed26154e10408d064&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📖私有化部署 ChatGPT+Midjourney 网页服务 / Own your own ChatGPT+Midjourney web service with one click</div>",
+            "url": "https://github.com/poboll/ChatGPT-Next-Mj",
+            "title": "poboll/ChatGPT-Next-Mj: 📖私有化部署 ChatGPT+Midjourney 网页服务 / Own your own ChatGPT+Midjourney web service with one click",
+            "date_modified": "2023-09-20T15:02:22.000Z",
+            "date_published": "2023-06-14T16:23:57.000Z",
+            "author": {
+                "name": "poboll",
+                "url": "https://github.com/poboll"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10606051?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>雷AI，您工作生活的智能助手。支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本，Midjourney绘画</div>",
+            "url": "https://github.com/liuhean2021/LEIAI-WEB",
+            "title": "liuhean2021/LEIAI-WEB: 雷AI，您工作生活的智能助手。支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本，Midjourney绘画",
+            "date_modified": "2023-09-25T07:42:16.000Z",
+            "date_published": "2023-08-30T14:21:49.000Z",
+            "author": {
+                "name": "liuhean2021",
+                "url": "https://github.com/liuhean2021"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126901243?u=eac728fdea351c68ec22d7e5ed002977ccfc4946&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Qiangjianzhao857/ChatGPT-Midjourney-A",
+            "title": "Qiangjianzhao857/ChatGPT-Midjourney-A",
+            "date_modified": "2023-10-03T04:53:28.000Z",
+            "date_published": "2023-10-03T04:53:04.000Z",
+            "author": {
+                "name": "Qiangjianzhao857",
+                "url": "https://github.com/Qiangjianzhao857"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126901243?u=eac728fdea351c68ec22d7e5ed002977ccfc4946&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Qiangjianzhao857/ChatGPT-Midjourney",
+            "title": "Qiangjianzhao857/ChatGPT-Midjourney",
+            "date_modified": "2023-10-03T04:42:08.000Z",
+            "date_published": "2023-10-03T04:41:48.000Z",
+            "author": {
+                "name": "Qiangjianzhao857",
+                "url": "https://github.com/Qiangjianzhao857"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2023-09-25T10:52:19.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8513199?u=224ee05fa0f463020ea471be544459c091723954&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pyhton script for generating zoom in/out videos from a set of images</div>",
+            "url": "https://github.com/mwydmuch/ZoomVideoComposer",
+            "title": "mwydmuch/ZoomVideoComposer: Pyhton script for generating zoom in/out videos from a set of images",
+            "date_modified": "2023-09-24T18:25:16.000Z",
+            "date_published": "2023-06-24T11:09:25.000Z",
+            "author": {
+                "name": "mwydmuch",
+                "url": "https://github.com/mwydmuch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4961433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>UI for iteratively composing prompts for midjourney</div>",
+            "url": "https://github.com/pat-thomas/horizon",
+            "title": "pat-thomas/horizon: UI for iteratively composing prompts for midjourney",
+            "date_modified": "2023-10-02T23:22:38.000Z",
+            "date_published": "2023-10-02T18:07:45.000Z",
+            "author": {
+                "name": "pat-thomas",
+                "url": "https://github.com/pat-thomas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=aa0248f4c4e48f36f30cd4e5d55455423c96b4c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
+            "date_modified": "2023-10-03T16:43:46.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24898559?u=fd2baba143bcb62cc0f2bc646ec33c2ba9ef013e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build and Deploy a Full Stack MERN AI Image Generation App MidJourney &amp; DALL E Clone</div>",
+            "url": "https://github.com/adrianhajdin/project_ai_mern_image_generation",
+            "title": "adrianhajdin/project_ai_mern_image_generation: Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone",
+            "date_modified": "2023-10-03T18:38:25.000Z",
+            "date_published": "2023-01-20T10:45:47.000Z",
+            "author": {
+                "name": "adrianhajdin",
+                "url": "https://github.com/adrianhajdin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146746885?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/vive777/Midjourney",
             "title": "vive777/Midjourney",
@@ -116,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2023-09-25T10:52:19.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134329033?u=1eaeb9b399ad28142a31c7ff037a683a30027d30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>phpBB extension for Midjourney, Open AI (ChatGPT and DALL-E) and Stability AI (Stable Diffusion)</div>",
             "url": "https://github.com/privet-fun/phpbb_ailabs",
             "title": "privet-fun/phpbb_ailabs: phpBB extension for Midjourney, Open AI (ChatGPT and DALL-E) and Stability AI (Stable Diffusion)",
@@ -135,17 +201,6 @@
             "author": {
                 "name": "privet-fun",
                 "url": "https://github.com/privet-fun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60200125?u=e328df9477540895115d1ae3a7a3972e6b8dd80a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered weather visualization app, blending dynamic forecasts with real-time imagery. Built with Flutter, NestJS, and integrated with ChatGPT and MidJourney via Discord.</div>",
-            "url": "https://github.com/BaptisteLecat/weather_assistant",
-            "title": "BaptisteLecat/weather_assistant: AI-powered weather visualization app, blending dynamic forecasts with real-time imagery. Built with Flutter, NestJS, and integrated with ChatGPT and MidJourney via Discord.",
-            "date_modified": "2023-09-29T17:25:49.000Z",
-            "date_published": "2023-06-22T19:54:39.000Z",
-            "author": {
-                "name": "BaptisteLecat",
-                "url": "https://github.com/BaptisteLecat"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "leom806",
                 "url": "https://github.com/leom806"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/27884357?u=6caac653783fccb331011bf0eab76eb1c01dd9e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点</div>",
-            "url": "https://github.com/hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome",
-            "title": "hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome: 国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点",
-            "date_modified": "2023-09-18T13:34:02.000Z",
-            "date_published": "2023-05-14T13:11:36.000Z",
-            "author": {
-                "name": "hiro086",
-                "url": "https://github.com/hiro086"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99824993?u=dfe5f2be9ee4328b232d28c911700a9f1ad3ae89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Qewertyy/SDWaifuRobot",
-            "title": "Qewertyy/SDWaifuRobot",
-            "date_modified": "2023-09-27T23:04:58.000Z",
-            "date_published": "2023-09-12T05:16:51.000Z",
-            "author": {
-                "name": "Qewertyy",
-                "url": "https://github.com/Qewertyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124501724?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A board game, designed by ChatGPT and Midjourney, implemented with event-driven architecture and finite state machines</div>",
-            "url": "https://github.com/tfcp68/battle-farm",
-            "title": "tfcp68/battle-farm: A board game, designed by ChatGPT and Midjourney, implemented with event-driven architecture and finite state machines",
-            "date_modified": "2023-07-20T17:17:29.000Z",
-            "date_published": "2022-12-29T04:41:30.000Z",
-            "author": {
-                "name": "tfcp68",
-                "url": "https://github.com/tfcp68"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71623767?u=b69b117214625e5198d35f3f2336ef6d2e9551af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Few APIs for pyguru telegram channel</div>",
-            "url": "https://github.com/pyGuru123/tg-api",
-            "title": "pyGuru123/tg-api: Few APIs for pyguru telegram channel",
-            "date_modified": "2023-10-02T07:09:15.000Z",
-            "date_published": "2023-06-15T17:47:28.000Z",
-            "author": {
-                "name": "pyGuru123",
-                "url": "https://github.com/pyGuru123"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132966367?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告</div>",
-            "url": "https://github.com/Nanjiren01/AIChatWeb",
-            "title": "Nanjiren01/AIChatWeb: 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告",
-            "date_modified": "2023-10-02T16:19:46.000Z",
-            "date_published": "2023-05-11T17:27:39.000Z",
-            "author": {
-                "name": "Nanjiren01",
-                "url": "https://github.com/Nanjiren01"
             }
         }
     ]
