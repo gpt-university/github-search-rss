@@ -6,17 +6,6 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94645949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bash shell script that unzips all files in a directory then moves all of the files in multiple folders to another directory and cleans up previous directory of zip files and folders.</div>",
-            "url": "https://github.com/jamesdank/Midjourney.Move",
-            "title": "jamesdank/Midjourney.Move: A bash shell script that unzips all files in a directory then moves all of the files in multiple folders to another directory and cleans up previous directory of zip files and folders.",
-            "date_modified": "2023-11-12T10:57:35.000Z",
-            "date_published": "2023-11-12T10:55:50.000Z",
-            "author": {
-                "name": "jamesdank",
-                "url": "https://github.com/jamesdank"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13386468?u=929f308d36d8b4eb98f0c4b47441106d96245c6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A whimsical Telegram bot that serves daily motivation, crafts stories, and sprinkles your day with turtle-powered humor! 🐢</div>",
             "url": "https://github.com/pkarpovich/little-turtle",
             "title": "pkarpovich/little-turtle: A whimsical Telegram bot that serves daily motivation, crafts stories, and sprinkles your day with turtle-powered humor! 🐢",
@@ -28,124 +17,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=aa0248f4c4e48f36f30cd4e5d55455423c96b4c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
-            "date_modified": "2023-11-12T22:49:19.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5984627?u=af9bd7ca6096d50537922690fe037cb506d7ff61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An application to allow anyone to create a local backup of their own Midjourney images (and to keep them in sync).</div>",
+            "url": "https://github.com/JoakimCh/jlc-midjourney-archiver",
+            "title": "JoakimCh/jlc-midjourney-archiver: An application to allow anyone to create a local backup of their own Midjourney images (and to keep them in sync).",
+            "date_modified": "2023-08-25T16:55:45.000Z",
+            "date_published": "2023-08-20T19:22:09.000Z",
             "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10606051?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>雷AI，您工作生活的智能助手。支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本，腾讯混元大模型，Midjourney绘画</div>",
-            "url": "https://github.com/liuhean2021/LEIAI-WEB",
-            "title": "liuhean2021/LEIAI-WEB: 雷AI，您工作生活的智能助手。支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本，腾讯混元大模型，Midjourney绘画",
-            "date_modified": "2023-11-10T01:34:26.000Z",
-            "date_published": "2023-08-30T14:21:49.000Z",
-            "author": {
-                "name": "liuhean2021",
-                "url": "https://github.com/liuhean2021"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101459158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Achi00/midjourney",
-            "title": "Achi00/midjourney",
-            "date_modified": "2023-11-06T07:46:30.000Z",
-            "date_published": "2023-11-06T07:44:59.000Z",
-            "author": {
-                "name": "Achi00",
-                "url": "https://github.com/Achi00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138393700?u=5d3e3ae7e78f5f24d0a61622e6c9b54705a0fea6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能</div>",
-            "url": "https://github.com/iimeta/iim-api",
-            "title": "iimeta/iim-api: 智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能",
-            "date_modified": "2023-11-12T16:27:55.000Z",
-            "date_published": "2023-10-17T06:02:44.000Z",
-            "author": {
-                "name": "iimeta",
-                "url": "https://github.com/iimeta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT, GenerativeAI and LLMs Timeline</div>",
-            "url": "https://github.com/hollobit/GenAI_LLM_timeline",
-            "title": "hollobit/GenAI_LLM_timeline: ChatGPT, GenerativeAI and LLMs Timeline",
-            "date_modified": "2023-11-12T17:04:35.000Z",
-            "date_published": "2023-03-25T07:00:16.000Z",
-            "author": {
-                "name": "hollobit",
-                "url": "https://github.com/hollobit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62852417?u=057b1f5e3740e8b2dc3adf5f100127ddc0515d81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial midjourney client that gives you possibility to generates images!</div>",
-            "url": "https://github.com/hawkkiller/midjourney_client",
-            "title": "hawkkiller/midjourney_client: Unofficial midjourney client that gives you possibility to generates images!",
-            "date_modified": "2023-11-12T15:20:25.000Z",
-            "date_published": "2023-06-08T11:07:16.000Z",
-            "author": {
-                "name": "hawkkiller",
-                "url": "https://github.com/hawkkiller"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138393700?u=5d3e3ae7e78f5f24d0a61622e6c9b54705a0fea6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能</div>",
-            "url": "https://github.com/iimeta/iim-client",
-            "title": "iimeta/iim-client: 智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能",
-            "date_modified": "2023-11-11T07:33:57.000Z",
-            "date_published": "2023-07-03T14:40:31.000Z",
-            "author": {
-                "name": "iimeta",
-                "url": "https://github.com/iimeta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138393700?u=5d3e3ae7e78f5f24d0a61622e6c9b54705a0fea6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能</div>",
-            "url": "https://github.com/iimeta/iim-web",
-            "title": "iimeta/iim-web: 智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能",
-            "date_modified": "2023-11-11T07:34:00.000Z",
-            "date_published": "2023-07-02T17:39:13.000Z",
-            "author": {
-                "name": "iimeta",
-                "url": "https://github.com/iimeta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138393700?u=5d3e3ae7e78f5f24d0a61622e6c9b54705a0fea6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能</div>",
-            "url": "https://github.com/iimeta/iim-server",
-            "title": "iimeta/iim-server: 智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能",
-            "date_modified": "2023-11-01T06:28:27.000Z",
-            "date_published": "2023-07-03T14:40:53.000Z",
-            "author": {
-                "name": "iimeta",
-                "url": "https://github.com/iimeta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138393700?u=5d3e3ae7e78f5f24d0a61622e6c9b54705a0fea6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能</div>",
-            "url": "https://github.com/iimeta/iim-sdk",
-            "title": "iimeta/iim-sdk: 智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能",
-            "date_modified": "2023-11-12T12:40:33.000Z",
-            "date_published": "2023-10-17T06:02:30.000Z",
-            "author": {
-                "name": "iimeta",
-                "url": "https://github.com/iimeta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66875947?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/dodo522/midjourney-ui",
-            "title": "dodo522/midjourney-ui",
-            "date_modified": "2023-11-12T10:59:06.000Z",
-            "date_published": "2023-11-12T10:56:16.000Z",
-            "author": {
-                "name": "dodo522",
-                "url": "https://github.com/dodo522"
+                "name": "JoakimCh",
+                "url": "https://github.com/JoakimCh"
             }
         },
         {
@@ -160,32 +39,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11658297?u=0c3b3b486709c0ae57293bea33369024b93f1027&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一套 golang + vue3 实现的chatgpt、midjourney的对话程序</div>",
-            "url": "https://github.com/anlityli/chatait-free",
-            "title": "anlityli/chatait-free: 一套 golang + vue3 实现的chatgpt、midjourney的对话程序",
-            "date_modified": "2023-11-13T00:40:11.000Z",
-            "date_published": "2023-09-09T07:57:44.000Z",
-            "author": {
-                "name": "anlityli",
-                "url": "https://github.com/anlityli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142170706?u=a73de78a6c7a1a5f547d904113b6a60a52ddf421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of examples and how-tos using Midjourney API</div>",
-            "url": "https://github.com/useapi/examples",
-            "title": "useapi/examples: Collection of examples and how-tos using Midjourney API",
-            "date_modified": "2023-11-12T14:47:40.000Z",
-            "date_published": "2023-11-05T18:48:37.000Z",
-            "author": {
-                "name": "useapi",
-                "url": "https://github.com/useapi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134003593?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Your Auto-tuning Assistant for GenAI Applications</div>",
             "url": "https://github.com/YiVal/YiVal",
             "title": "YiVal/YiVal: Your Auto-tuning Assistant for GenAI Applications",
-            "date_modified": "2023-11-13T00:35:26.000Z",
+            "date_modified": "2023-11-13T18:04:31.000Z",
             "date_published": "2023-07-15T02:04:35.000Z",
             "author": {
                 "name": "YiVal",
@@ -193,36 +50,179 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2023-09-25T10:52:19.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4961433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>UI for iteratively composing prompts for midjourney</div>",
+            "url": "https://github.com/pat-thomas/horizon",
+            "title": "pat-thomas/horizon: UI for iteratively composing prompts for midjourney",
+            "date_modified": "2023-10-25T19:32:33.000Z",
+            "date_published": "2023-10-02T18:07:45.000Z",
             "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
+                "name": "pat-thomas",
+                "url": "https://github.com/pat-thomas"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/27884357?u=6caac653783fccb331011bf0eab76eb1c01dd9e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点</div>",
-            "url": "https://github.com/hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome",
-            "title": "hiro086/GPT3-4-Midjourney-StableDiffusion-Mirrors-awesome: 国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点",
-            "date_modified": "2023-11-09T05:56:12.000Z",
-            "date_published": "2023-05-14T13:11:36.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94645949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bash shell script that unzips all files in a directory then moves all of the files in multiple folders to another directory and cleans up previous directory of zip files and folders.</div>",
+            "url": "https://github.com/jamesdank/Midjourney.Move",
+            "title": "jamesdank/Midjourney.Move: A bash shell script that unzips all files in a directory then moves all of the files in multiple folders to another directory and cleans up previous directory of zip files and folders.",
+            "date_modified": "2023-11-12T10:57:35.000Z",
+            "date_published": "2023-11-12T10:55:50.000Z",
             "author": {
-                "name": "hiro086",
-                "url": "https://github.com/hiro086"
+                "name": "jamesdank",
+                "url": "https://github.com/jamesdank"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20410697?u=73455ada9c97b858c7593a83214c40f46e2ef24c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖️ 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用</div>",
-            "url": "https://github.com/Licoy/ChatGPT-Midjourney-Pro",
-            "title": "Licoy/ChatGPT-Midjourney-Pro: 🤖️ 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用",
-            "date_modified": "2023-11-12T14:58:27.000Z",
-            "date_published": "2023-06-25T14:09:16.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45072246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts for ChatGPT and MidJourney</div>",
+            "url": "https://github.com/tomrailio/Prompt-Engineering",
+            "title": "tomrailio/Prompt-Engineering: Prompts for ChatGPT and MidJourney",
+            "date_modified": "2023-04-16T12:41:59.000Z",
+            "date_published": "2023-04-16T12:41:59.000Z",
             "author": {
-                "name": "Licoy",
-                "url": "https://github.com/Licoy"
+                "name": "tomrailio",
+                "url": "https://github.com/tomrailio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61396273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(deprecated) Source for Midjourney's official wiki</div>",
+            "url": "https://github.com/midjourney/docs",
+            "title": "midjourney/docs: (deprecated) Source for Midjourney's official wiki",
+            "date_modified": "2023-10-25T11:35:17.000Z",
+            "date_published": "2022-05-05T17:01:33.000Z",
+            "author": {
+                "name": "midjourney",
+                "url": "https://github.com/midjourney"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60200125?u=e328df9477540895115d1ae3a7a3972e6b8dd80a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered weather visualization app, blending dynamic forecasts with real-time imagery. Built with Flutter, NestJS, and integrated with ChatGPT and MidJourney via Discord.</div>",
+            "url": "https://github.com/BaptisteLecat/weather_assistant",
+            "title": "BaptisteLecat/weather_assistant: AI-powered weather visualization app, blending dynamic forecasts with real-time imagery. Built with Flutter, NestJS, and integrated with ChatGPT and MidJourney via Discord.",
+            "date_modified": "2023-09-29T17:25:49.000Z",
+            "date_published": "2023-06-22T19:54:39.000Z",
+            "author": {
+                "name": "BaptisteLecat",
+                "url": "https://github.com/BaptisteLecat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131010195?u=8c9639c001a4f5bfc5121a7541eed80e069429dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>集合ChatGPT以及Midjourney等AIGC模型的使用平台。</div>",
+            "url": "https://github.com/lazymice2/Lazymice-Chat",
+            "title": "lazymice2/Lazymice-Chat: 集合ChatGPT以及Midjourney等AIGC模型的使用平台。",
+            "date_modified": "2023-11-13T10:20:30.000Z",
+            "date_published": "2023-11-13T10:20:30.000Z",
+            "author": {
+                "name": "lazymice2",
+                "url": "https://github.com/lazymice2"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38506513?u=35ec6cfd9ca8e2382c07f977870ab6501aa9fbc5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Stack MERN AI Image Generation App | Midjourney &amp; DALL-E Clone type</div>",
+            "url": "https://github.com/universekavish/AI-image-generation-app",
+            "title": "universekavish/AI-image-generation-app: Full Stack MERN AI Image Generation App | Midjourney & DALL-E Clone type",
+            "date_modified": "2023-11-13T13:56:22.000Z",
+            "date_published": "2023-11-13T11:54:43.000Z",
+            "author": {
+                "name": "universekavish",
+                "url": "https://github.com/universekavish"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，新必应，Google PaLM2，LLaMa2 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型聚合支持等。实现联网搜索功能，AI 卡片，AI 项目生成器，AI 批量文章生成等功能，引领开源聚合新时代。 </div>",
+            "url": "https://github.com/Deeptrain-Community/chatnio",
+            "title": "Deeptrain-Community/chatnio: 🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，新必应，Google PaLM2，LLaMa2 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型聚合支持等。实现联网搜索功能，AI 卡片，AI 项目生成器，AI 批量文章生成等功能，引领开源聚合新时代。 ",
+            "date_modified": "2023-11-13T14:12:31.000Z",
+            "date_published": "2023-07-17T18:09:57.000Z",
+            "author": {
+                "name": "Deeptrain-Community",
+                "url": "https://github.com/Deeptrain-Community"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72079716?u=ae5e163384a838570cb568e5ad4c8df2a2926b10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nexus: Voidwarpers is a AI-enabled digital cardgame which uses ChatGPT and DALL-E to let players make their own cards.</div>",
+            "url": "https://github.com/NilsWestgardh/Nexus-Voidwarpers",
+            "title": "NilsWestgardh/Nexus-Voidwarpers: Nexus: Voidwarpers is a AI-enabled digital cardgame which uses ChatGPT and DALL-E to let players make their own cards.",
+            "date_modified": "2023-10-20T08:09:59.000Z",
+            "date_published": "2023-09-25T14:39:36.000Z",
+            "author": {
+                "name": "NilsWestgardh",
+                "url": "https://github.com/NilsWestgardh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13245173?u=daa3858bd4e1bc0309fd88a02450b6137f881a01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of LLMs Tools &amp; Projects</div>",
+            "url": "https://github.com/PetroIvaniuk/llms-tools",
+            "title": "PetroIvaniuk/llms-tools: A list of LLMs Tools & Projects",
+            "date_modified": "2023-11-08T15:09:12.000Z",
+            "date_published": "2023-05-09T18:06:28.000Z",
+            "author": {
+                "name": "PetroIvaniuk",
+                "url": "https://github.com/PetroIvaniuk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3025581?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>openai notionai chatgpt 免费chatgpt资源整理  MidJourney关键词 prompt chatgpt代理配置</div>",
+            "url": "https://github.com/wangschang/chatgpt-resource",
+            "title": "wangschang/chatgpt-resource: openai notionai chatgpt 免费chatgpt资源整理  MidJourney关键词 prompt chatgpt代理配置",
+            "date_modified": "2023-11-08T03:02:09.000Z",
+            "date_published": "2023-03-21T10:58:43.000Z",
+            "author": {
+                "name": "wangschang",
+                "url": "https://github.com/wangschang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11658297?u=0c3b3b486709c0ae57293bea33369024b93f1027&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一套 golang + vue3 实现的chatgpt、midjourney的对话程序</div>",
+            "url": "https://github.com/anlityli/chatait-free",
+            "title": "anlityli/chatait-free: 一套 golang + vue3 实现的chatgpt、midjourney的对话程序",
+            "date_modified": "2023-11-13T15:45:52.000Z",
+            "date_published": "2023-09-09T07:57:44.000Z",
+            "author": {
+                "name": "anlityli",
+                "url": "https://github.com/anlityli"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43660702?u=34bbca52362ce8fda30c2b32f61892eed2ddeecd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥</div>",
+            "url": "https://github.com/a616567126/GPT-WEB-JAVA",
+            "title": "a616567126/GPT-WEB-JAVA: 基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥",
+            "date_modified": "2023-11-13T02:49:55.000Z",
+            "date_published": "2023-03-28T00:26:43.000Z",
+            "author": {
+                "name": "a616567126",
+                "url": "https://github.com/a616567126"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT, GenerativeAI and LLMs Timeline</div>",
+            "url": "https://github.com/hollobit/GenAI_LLM_timeline",
+            "title": "hollobit/GenAI_LLM_timeline: ChatGPT, GenerativeAI and LLMs Timeline",
+            "date_modified": "2023-11-13T03:59:25.000Z",
+            "date_published": "2023-03-25T07:00:16.000Z",
+            "author": {
+                "name": "hollobit",
+                "url": "https://github.com/hollobit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2023-11-13T16:36:15.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133472055?u=672c9daf3621ffdc062216fed14d17578a7b0a67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>利用这个模板，你可以结构化的生成用于进行AI绘画创作的Prompt，适用于DALLE和MidJourney等多个平台。</div>",
+            "url": "https://github.com/zhutyler21/AIPainting-Structured-Prompts",
+            "title": "zhutyler21/AIPainting-Structured-Prompts: 利用这个模板，你可以结构化的生成用于进行AI绘画创作的Prompt，适用于DALLE和MidJourney等多个平台。",
+            "date_modified": "2023-11-08T02:25:46.000Z",
+            "date_published": "2023-10-31T02:22:00.000Z",
+            "author": {
+                "name": "zhutyler21",
+                "url": "https://github.com/zhutyler21"
             }
         }
     ]
