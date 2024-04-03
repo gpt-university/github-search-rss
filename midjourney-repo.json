@@ -6,6 +6,182 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
+            "date_modified": "2024-04-02T17:44:33.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49193816?u=eee177074e45d0e5a806362d86008873c13033f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community driven library of LLM prompts useful for midjourney, chat-gpt etc.</div>",
+            "url": "https://github.com/gustavhartz/prompt-lib",
+            "title": "gustavhartz/prompt-lib: Community driven library of LLM prompts useful for midjourney, chat-gpt etc.",
+            "date_modified": "2024-03-03T15:36:39.000Z",
+            "date_published": "2024-03-03T15:14:43.000Z",
+            "author": {
+                "name": "gustavhartz",
+                "url": "https://github.com/gustavhartz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
+            "url": "https://github.com/filipecalegario/awesome-generative-ai",
+            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
+            "date_modified": "2024-04-02T17:40:49.000Z",
+            "date_published": "2021-07-19T15:11:51.000Z",
+            "author": {
+                "name": "filipecalegario",
+                "url": "https://github.com/filipecalegario"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131699339?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/MarinaIatsuk/Project_midjourney",
+            "title": "MarinaIatsuk/Project_midjourney",
+            "date_modified": "2024-04-02T18:14:37.000Z",
+            "date_published": "2024-03-28T19:44:59.000Z",
+            "author": {
+                "name": "MarinaIatsuk",
+                "url": "https://github.com/MarinaIatsuk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118937551?u=7000c987747a54ad27bbd173feab05b85dec599e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/OMwanjari/AI-Image-Generator-App-MidJourney-Flutter-",
+            "title": "OMwanjari/AI-Image-Generator-App-MidJourney-Flutter-",
+            "date_modified": "2024-04-02T15:42:23.000Z",
+            "date_published": "2024-04-02T15:42:23.000Z",
+            "author": {
+                "name": "OMwanjari",
+                "url": "https://github.com/OMwanjari"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25797570?u=1c3bf0e0c26457fe84b5c5d628af11f0f9144cef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is for test purposes and not all midjourney API endpoints are implemented </div>",
+            "url": "https://github.com/arthmelikyan/laravel-midjourney",
+            "title": "arthmelikyan/laravel-midjourney: this is for test purposes and not all midjourney API endpoints are implemented ",
+            "date_modified": "2024-04-02T13:56:12.000Z",
+            "date_published": "2024-04-02T13:54:43.000Z",
+            "author": {
+                "name": "arthmelikyan",
+                "url": "https://github.com/arthmelikyan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51039745?u=accb33fa417f386eaf9fc9b2ed07ec74fb36ada3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.</div>",
+            "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+            "title": "GaiZhenbiao/ChuanhuChatGPT: GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.",
+            "date_modified": "2024-04-02T22:14:32.000Z",
+            "date_published": "2023-03-02T13:37:13.000Z",
+            "author": {
+                "name": "GaiZhenbiao",
+                "url": "https://github.com/GaiZhenbiao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20700387?u=0c9bb78572cc82757982b28984ab32aa7a23ad7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 MidJourney 的discord频道，实现api形式调用AI绘图</div>",
+            "url": "https://github.com/novicezk/midjourney-proxy",
+            "title": "novicezk/midjourney-proxy: 代理 MidJourney 的discord频道，实现api形式调用AI绘图",
+            "date_modified": "2024-04-02T17:29:30.000Z",
+            "date_published": "2023-04-24T13:43:45.000Z",
+            "author": {
+                "name": "novicezk",
+                "url": "https://github.com/novicezk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99076655?u=03995f01a166d3b80309c5719a838d4fce6a79e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.</div>",
+            "url": "https://github.com/codingonion/awesome-llm-and-aigc",
+            "title": "codingonion/awesome-llm-and-aigc: 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.",
+            "date_modified": "2024-04-02T06:42:20.000Z",
+            "date_published": "2023-02-15T12:40:08.000Z",
+            "author": {
+                "name": "codingonion",
+                "url": "https://github.com/codingonion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159500420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/phuongthanhf6/midjourney",
+            "title": "phuongthanhf6/midjourney",
+            "date_modified": "2024-03-30T09:34:09.000Z",
+            "date_published": "2024-03-05T15:20:41.000Z",
+            "author": {
+                "name": "phuongthanhf6",
+                "url": "https://github.com/phuongthanhf6"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62045791?u=a512844111703bbadfc813da6561226c77b7a9b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT完整系统（开源）</div>",
+            "url": "https://github.com/sfvsfv/chatgpt-plus",
+            "title": "sfvsfv/chatgpt-plus: ChatGPT完整系统（开源）",
+            "date_modified": "2024-03-19T03:01:59.000Z",
+            "date_published": "2024-01-14T03:20:24.000Z",
+            "author": {
+                "name": "sfvsfv",
+                "url": "https://github.com/sfvsfv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127703547?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An opensource AI &amp; model as a service platform.</div>",
+            "url": "https://github.com/uni-openai/uniai-maas",
+            "title": "uni-openai/uniai-maas: An opensource AI & model as a service platform.",
+            "date_modified": "2024-03-23T15:23:30.000Z",
+            "date_published": "2023-04-10T14:13:16.000Z",
+            "author": {
+                "name": "uni-openai",
+                "url": "https://github.com/uni-openai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-04-02T16:05:26.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！</div>",
+            "url": "https://github.com/Calcium-Ion/new-api",
+            "title": "Calcium-Ion/new-api: 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！",
+            "date_modified": "2024-04-02T17:40:34.000Z",
+            "date_published": "2023-11-10T19:33:36.000Z",
+            "author": {
+                "name": "Calcium-Ion",
+                "url": "https://github.com/Calcium-Ion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12686549?u=0b5185f43fedd1fc667b673dd1c6d120a4f09c6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Avatars</div>",
+            "url": "https://github.com/cpuncekar/avatars-midjourney",
+            "title": "cpuncekar/avatars-midjourney: Midjourney Avatars",
+            "date_modified": "2024-03-03T17:13:33.000Z",
+            "date_published": "2024-03-03T17:13:32.000Z",
+            "author": {
+                "name": "cpuncekar",
+                "url": "https://github.com/cpuncekar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-03-25T09:18:32.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/784817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of prompts I've developed to get great results from MidJourney</div>",
             "url": "https://github.com/jerometufte/midjourney-prompts",
             "title": "jerometufte/midjourney-prompts: A collection of prompts I've developed to get great results from MidJourney",
@@ -14,28 +190,6 @@
             "author": {
                 "name": "jerometufte",
                 "url": "https://github.com/jerometufte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
-            "url": "https://github.com/filipecalegario/awesome-generative-ai",
-            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
-            "date_modified": "2024-04-01T14:15:00.000Z",
-            "date_published": "2021-07-19T15:11:51.000Z",
-            "author": {
-                "name": "filipecalegario",
-                "url": "https://github.com/filipecalegario"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
-            "date_modified": "2024-03-31T23:10:08.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
             }
         },
         {
@@ -61,168 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！</div>",
-            "url": "https://github.com/Calcium-Ion/new-api",
-            "title": "Calcium-Ion/new-api: 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！",
-            "date_modified": "2024-04-01T22:21:14.000Z",
-            "date_published": "2023-11-10T19:33:36.000Z",
-            "author": {
-                "name": "Calcium-Ion",
-                "url": "https://github.com/Calcium-Ion"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131699339?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/MarinaIatsuk/Project_midjourney",
-            "title": "MarinaIatsuk/Project_midjourney",
-            "date_modified": "2024-03-28T19:49:45.000Z",
-            "date_published": "2024-03-28T19:44:59.000Z",
-            "author": {
-                "name": "MarinaIatsuk",
-                "url": "https://github.com/MarinaIatsuk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99076655?u=03995f01a166d3b80309c5719a838d4fce6a79e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.</div>",
-            "url": "https://github.com/codingonion/awesome-llm-and-aigc",
-            "title": "codingonion/awesome-llm-and-aigc: 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.",
-            "date_modified": "2024-04-01T15:46:24.000Z",
-            "date_published": "2023-02-15T12:40:08.000Z",
-            "author": {
-                "name": "codingonion",
-                "url": "https://github.com/codingonion"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143701929?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用</div>",
             "url": "https://github.com/popjane/free_chatgpt_api",
             "title": "popjane/free_chatgpt_api: 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用",
-            "date_modified": "2024-04-01T21:49:15.000Z",
+            "date_modified": "2024-04-02T14:21:53.000Z",
             "date_published": "2024-02-22T13:57:20.000Z",
             "author": {
                 "name": "popjane",
                 "url": "https://github.com/popjane"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatgpt web, midjourney, gpts,tts, whisper 一套ui全搞定</div>",
-            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
-            "title": "Dooy/chatgpt-web-midjourney-proxy: chatgpt web, midjourney, gpts,tts, whisper 一套ui全搞定",
-            "date_modified": "2024-04-01T17:39:26.000Z",
-            "date_published": "2023-11-19T03:18:59.000Z",
-            "author": {
-                "name": "Dooy",
-                "url": "https://github.com/Dooy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52352678?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney in discord api</div>",
-            "url": "https://github.com/y1466382670/midjourney-api",
-            "title": "y1466382670/midjourney-api: midjourney in discord api",
-            "date_modified": "2024-04-01T09:30:54.000Z",
-            "date_published": "2024-03-04T06:26:07.000Z",
-            "author": {
-                "name": "y1466382670",
-                "url": "https://github.com/y1466382670"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160557006?u=1359bb891e09a14ca7dc12ea9046683c13adf6bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Find-Serendipity/midjourney",
-            "title": "Find-Serendipity/midjourney",
-            "date_modified": "2024-04-01T03:06:07.000Z",
-            "date_published": "2024-02-26T22:27:14.000Z",
-            "author": {
-                "name": "Find-Serendipity",
-                "url": "https://github.com/Find-Serendipity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51039745?u=accb33fa417f386eaf9fc9b2ed07ec74fb36ada3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.</div>",
-            "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
-            "title": "GaiZhenbiao/ChuanhuChatGPT: GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.",
-            "date_modified": "2024-04-01T15:54:12.000Z",
-            "date_published": "2023-03-02T13:37:13.000Z",
-            "author": {
-                "name": "GaiZhenbiao",
-                "url": "https://github.com/GaiZhenbiao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5935103?u=076cf8567de5c350a5914f6d1b2279f205866c0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Node.js app that downloads images from Midjourney and provides a slideshow server</div>",
-            "url": "https://github.com/andrewmcdan/MJ-image-favorites-downloader",
-            "title": "andrewmcdan/MJ-image-favorites-downloader: Node.js app that downloads images from Midjourney and provides a slideshow server",
-            "date_modified": "2024-03-31T19:13:04.000Z",
-            "date_published": "2023-10-19T04:46:37.000Z",
-            "author": {
-                "name": "andrewmcdan",
-                "url": "https://github.com/andrewmcdan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2024-04-01T17:11:01.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-03-25T09:18:32.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105878428?u=fb626114639ea1b2f01f7bc0c258c9fae087294e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The application that interacts with images then passes to GPT receives from it a response then breaks its response into parts and passes to Midjouney API then based on these promts we get ready sketches</div>",
-            "url": "https://github.com/edfefegeger/ChatGPT-Midjourney_Automatization",
-            "title": "edfefegeger/ChatGPT-Midjourney_Automatization: The application that interacts with images then passes to GPT receives from it a response then breaks its response into parts and passes to Midjouney API then based on these promts we get ready sketches",
-            "date_modified": "2024-03-31T16:30:26.000Z",
-            "date_published": "2024-03-26T19:03:57.000Z",
-            "author": {
-                "name": "edfefegeger",
-                "url": "https://github.com/edfefegeger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
-            "url": "https://github.com/Deeptrain-Community/chatnio",
-            "title": "Deeptrain-Community/chatnio: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
-            "date_modified": "2024-04-01T16:31:31.000Z",
-            "date_published": "2023-07-17T18:09:57.000Z",
-            "author": {
-                "name": "Deeptrain-Community",
-                "url": "https://github.com/Deeptrain-Community"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142385464?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Curated tutorials and resources for Large Language Models, AI Painting, and more. </div>",
-            "url": "https://github.com/luban-agi/Awesome-AIGC-Tutorials",
-            "title": "luban-agi/Awesome-AIGC-Tutorials: Curated tutorials and resources for Large Language Models, AI Painting, and more. ",
-            "date_modified": "2024-04-01T19:06:42.000Z",
-            "date_published": "2023-08-22T07:22:52.000Z",
-            "author": {
-                "name": "luban-agi",
-                "url": "https://github.com/luban-agi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125454744?u=7314d6a11cc22c4ee03242acc746d490b8f9bf09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/tiwentichat/awesome-midjourney-prompts",
-            "title": "tiwentichat/awesome-midjourney-prompts",
-            "date_modified": "2024-03-31T07:10:02.000Z",
-            "date_published": "2024-03-31T07:09:12.000Z",
-            "author": {
-                "name": "tiwentichat",
-                "url": "https://github.com/tiwentichat"
             }
         }
     ]
