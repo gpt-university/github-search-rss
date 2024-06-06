@@ -6,10 +6,142 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
+            "date_modified": "2024-06-06T00:45:59.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Store and share an AI image prompt/description as a basic web page, embedded within a tweetable JPG image file.</div>",
+            "url": "https://github.com/CleasbyCode/imgprmt",
+            "title": "CleasbyCode/imgprmt: Store and share an AI image prompt/description as a basic web page, embedded within a tweetable JPG image file.",
+            "date_modified": "2024-06-06T00:18:54.000Z",
+            "date_published": "2023-05-27T20:10:50.000Z",
+            "author": {
+                "name": "CleasbyCode",
+                "url": "https://github.com/CleasbyCode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43660702?u=34bbca52362ce8fda30c2b32f61892eed2ddeecd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥</div>",
+            "url": "https://github.com/a616567126/GPT-WEB-JAVA",
+            "title": "a616567126/GPT-WEB-JAVA: 基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥",
+            "date_modified": "2024-06-06T00:13:06.000Z",
+            "date_published": "2023-03-28T00:26:43.000Z",
+            "author": {
+                "name": "a616567126",
+                "url": "https://github.com/a616567126"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12537423?u=e96949b6f7d4d46f9a9ab89a2fbd21b01c775915&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Here's a full stack Dungeons &amp; Dragons web app you can run out of the box. It uses the DnD 5e GraphQL API, NextJS, and Material UI, and about third of the monster pictures were generated with Midjourney</div>",
+            "url": "https://github.com/CunningDJ/DnD-App",
+            "title": "CunningDJ/DnD-App: Here's a full stack Dungeons & Dragons web app you can run out of the box. It uses the DnD 5e GraphQL API, NextJS, and Material UI, and about third of the monster pictures were generated with Midjourney",
+            "date_modified": "2024-06-05T22:09:57.000Z",
+            "date_published": "2024-05-28T23:02:56.000Z",
+            "author": {
+                "name": "CunningDJ",
+                "url": "https://github.com/CunningDJ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5935103?u=076cf8567de5c350a5914f6d1b2279f205866c0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Node.js app that downloads images from Midjourney and provides a slideshow server</div>",
+            "url": "https://github.com/andrewmcdan/MJ-image-favorites-downloader",
+            "title": "andrewmcdan/MJ-image-favorites-downloader: Node.js app that downloads images from Midjourney and provides a slideshow server",
+            "date_modified": "2024-06-05T21:24:00.000Z",
+            "date_published": "2023-10-19T04:46:37.000Z",
+            "author": {
+                "name": "andrewmcdan",
+                "url": "https://github.com/andrewmcdan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47909358?u=eb988f52445f9a4dc8f0d762318782a5edc10ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/rakinishraq/midjourney-cli",
+            "title": "rakinishraq/midjourney-cli",
+            "date_modified": "2024-06-05T18:20:27.000Z",
+            "date_published": "2024-04-11T21:19:33.000Z",
+            "author": {
+                "name": "rakinishraq",
+                "url": "https://github.com/rakinishraq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144544511?u=572474949bf7efe6e38e34ccb10ce4cc4e33f14d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Criando um ebook com ChatGPT e Midjourney</div>",
+            "url": "https://github.com/AntoniaCydya/EbookMidjourney-ChatGPT",
+            "title": "AntoniaCydya/EbookMidjourney-ChatGPT: Criando um ebook com ChatGPT e Midjourney",
+            "date_modified": "2024-06-05T17:56:40.000Z",
+            "date_published": "2024-06-05T17:23:55.000Z",
+            "author": {
+                "name": "AntoniaCydya",
+                "url": "https://github.com/AntoniaCydya"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/591105?u=0642ac01165e6d32bd6a1cb7fa7b8a93186d4df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LLMs based multi-model framework for building AI apps. </div>",
+            "url": "https://github.com/parvbhullar/superpilot",
+            "title": "parvbhullar/superpilot: LLMs based multi-model framework for building AI apps. ",
+            "date_modified": "2024-06-05T16:47:25.000Z",
+            "date_published": "2023-08-27T10:06:11.000Z",
+            "author": {
+                "name": "parvbhullar",
+                "url": "https://github.com/parvbhullar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20254532?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>kick ass MidJourney productivity tool</div>",
+            "url": "https://github.com/SwedFred/knorklebot",
+            "title": "SwedFred/knorklebot: kick ass MidJourney productivity tool",
+            "date_modified": "2024-06-05T12:56:30.000Z",
+            "date_published": "2023-06-28T14:11:34.000Z",
+            "author": {
+                "name": "SwedFred",
+                "url": "https://github.com/SwedFred"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4673543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This package can be used to connect Telegram bot to AI engines such as OpenAI ChatGPT, Dall-E, Midjourney, Stable Diffusion, etc.</div>",
+            "url": "https://github.com/desprit/tg-ai-connector",
+            "title": "desprit/tg-ai-connector: This package can be used to connect Telegram bot to AI engines such as OpenAI ChatGPT, Dall-E, Midjourney, Stable Diffusion, etc.",
+            "date_modified": "2024-06-05T09:48:31.000Z",
+            "date_published": "2023-01-31T09:04:33.000Z",
+            "author": {
+                "name": "desprit",
+                "url": "https://github.com/desprit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-06-05T06:50:41.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99492724?u=b5688b574963820126df27756e1e7fe1cf0a7ac2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build and Deploy a Full Stack MERN AI Image Generation App MidJourney &amp; DALL E Clone</div>",
+            "url": "https://github.com/soorjya/MERN_AI_Image_generation",
+            "title": "soorjya/MERN_AI_Image_generation: Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone",
+            "date_modified": "2024-06-05T03:39:00.000Z",
+            "date_published": "2024-02-17T14:43:30.000Z",
+            "author": {
+                "name": "soorjya",
+                "url": "https://github.com/soorjya"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24882215?u=889af8fb83bc65071994ea3bc458f1ff43e3bb08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>D&amp;D group infrastructure.</div>",
             "url": "https://github.com/oakbrad/dungeonchurch",
             "title": "oakbrad/dungeonchurch: D&D group infrastructure.",
-            "date_modified": "2024-06-05T00:47:54.000Z",
+            "date_modified": "2024-06-05T01:19:14.000Z",
             "date_published": "2023-03-01T05:51:35.000Z",
             "author": {
                 "name": "oakbrad",
@@ -17,10 +149,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-06-05T00:56:49.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68626329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stores and downloads Midjourney-generated images alongside given prompts.</div>",
             "url": "https://github.com/Matthew-W-G/midjourney-archiver",
             "title": "Matthew-W-G/midjourney-archiver: Stores and downloads Midjourney-generated images alongside given prompts.",
-            "date_modified": "2024-06-04T19:25:52.000Z",
+            "date_modified": "2024-06-05T00:54:30.000Z",
             "date_published": "2024-05-28T20:30:56.000Z",
             "author": {
                 "name": "Matthew-W-G",
@@ -31,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62045791?u=a512844111703bbadfc813da6561226c77b7a9b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT完整系统（开源）</div>",
             "url": "https://github.com/sfvsfv/chatgpt-plus",
             "title": "sfvsfv/chatgpt-plus: ChatGPT完整系统（开源）",
-            "date_modified": "2024-06-04T17:47:21.000Z",
+            "date_modified": "2024-06-05T01:26:30.000Z",
             "date_published": "2024-01-14T03:20:24.000Z",
             "author": {
                 "name": "sfvsfv",
@@ -53,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！</div>",
             "url": "https://github.com/Calcium-Ion/new-api",
             "title": "Calcium-Ion/new-api: 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！",
-            "date_modified": "2024-06-05T00:33:57.000Z",
+            "date_modified": "2024-06-05T15:42:10.000Z",
             "date_published": "2023-11-10T19:33:36.000Z",
             "author": {
                 "name": "Calcium-Ion",
@@ -75,154 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,tts, whisper,suno-v3 ; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
             "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
             "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,tts, whisper,suno-v3 ; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
-            "date_modified": "2024-06-04T21:53:17.000Z",
+            "date_modified": "2024-06-06T00:06:39.000Z",
             "date_published": "2023-11-19T03:18:59.000Z",
             "author": {
                 "name": "Dooy",
                 "url": "https://github.com/Dooy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2024-06-04T08:25:26.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88433724?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Samdewas/MidjourneyLive",
-            "title": "Samdewas/MidjourneyLive",
-            "date_modified": "2024-06-04T08:14:34.000Z",
-            "date_published": "2024-05-24T12:43:18.000Z",
-            "author": {
-                "name": "Samdewas",
-                "url": "https://github.com/Samdewas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-06-04T00:57:24.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4746061?u=67d0353f4227627abf014808a5f9f21e25179834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。</div>",
-            "url": "https://github.com/yangjian102621/geekai",
-            "title": "yangjian102621/geekai: AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
-            "date_modified": "2024-06-04T18:01:43.000Z",
-            "date_published": "2023-05-06T06:48:54.000Z",
-            "author": {
-                "name": "yangjian102621",
-                "url": "https://github.com/yangjian102621"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22227088?u=6ab8e8d347b0864e7506a85d965bff7063ba5e50&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yifancui/auto-midjourney",
-            "title": "yifancui/auto-midjourney",
-            "date_modified": "2024-06-04T00:24:43.000Z",
-            "date_published": "2024-05-29T13:45:53.000Z",
-            "author": {
-                "name": "yifancui",
-                "url": "https://github.com/yifancui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144027196?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repositório para fazer a contribuição no projeto criando um Ebook com ChatGPT &amp; MidJourney</div>",
-            "url": "https://github.com/Cristina-santos89/Criando-um-Ebook-com-ChatGPT-MidJourney",
-            "title": "Cristina-santos89/Criando-um-Ebook-com-ChatGPT-MidJourney: Repositório para fazer a contribuição no projeto criando um Ebook com ChatGPT & MidJourney",
-            "date_modified": "2024-06-03T23:18:29.000Z",
-            "date_published": "2024-06-03T22:50:30.000Z",
-            "author": {
-                "name": "Cristina-santos89",
-                "url": "https://github.com/Cristina-santos89"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61396273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(deprecated) Source for Midjourney's official wiki</div>",
-            "url": "https://github.com/midjourney/docs",
-            "title": "midjourney/docs: (deprecated) Source for Midjourney's official wiki",
-            "date_modified": "2024-06-03T21:17:48.000Z",
-            "date_published": "2022-05-05T17:01:33.000Z",
-            "author": {
-                "name": "midjourney",
-                "url": "https://github.com/midjourney"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
-            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
-            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
-            "date_modified": "2024-06-03T20:07:41.000Z",
-            "date_published": "2023-04-17T13:51:55.000Z",
-            "author": {
-                "name": "mbakgun",
-                "url": "https://github.com/mbakgun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20254532?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>kick ass MidJourney productivity tool</div>",
-            "url": "https://github.com/SwedFred/knorklebot",
-            "title": "SwedFred/knorklebot: kick ass MidJourney productivity tool",
-            "date_modified": "2024-06-03T17:02:31.000Z",
-            "date_published": "2023-06-28T14:11:34.000Z",
-            "author": {
-                "name": "SwedFred",
-                "url": "https://github.com/SwedFred"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111631613?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney API client for PHP</div>",
-            "url": "https://github.com/eDiasoft/midjourney-api-php",
-            "title": "eDiasoft/midjourney-api-php: Midjourney API client for PHP",
-            "date_modified": "2024-06-03T15:09:43.000Z",
-            "date_published": "2023-08-03T02:22:01.000Z",
-            "author": {
-                "name": "eDiasoft",
-                "url": "https://github.com/eDiasoft"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于chatgpt-next-web，增加了midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。</div>",
-            "url": "https://github.com/vual/ChatGPT-Next-Web-Pro",
-            "title": "vual/ChatGPT-Next-Web-Pro: 基于chatgpt-next-web，增加了midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。",
-            "date_modified": "2024-06-04T07:00:14.000Z",
-            "date_published": "2023-08-18T07:53:09.000Z",
-            "author": {
-                "name": "vual",
-                "url": "https://github.com/vual"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
-            "date_modified": "2024-06-04T23:58:33.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171538879?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/CommunityEngagementAI/midjourney",
-            "title": "CommunityEngagementAI/midjourney",
-            "date_modified": "2024-06-03T05:48:01.000Z",
-            "date_published": "2024-06-03T05:45:58.000Z",
-            "author": {
-                "name": "CommunityEngagementAI",
-                "url": "https://github.com/CommunityEngagementAI"
             }
         }
     ]
