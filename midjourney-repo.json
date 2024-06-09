@@ -6,6 +6,105 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Store and share your favourite AI image prompts embedded within a tweetable JPG image file. Prompt is viewable as a basic web page.</div>",
+            "url": "https://github.com/CleasbyCode/imgprmt",
+            "title": "CleasbyCode/imgprmt: Store and share your favourite AI image prompts embedded within a tweetable JPG image file. Prompt is viewable as a basic web page.",
+            "date_modified": "2024-06-08T20:50:24.000Z",
+            "date_published": "2023-05-27T20:10:50.000Z",
+            "author": {
+                "name": "CleasbyCode",
+                "url": "https://github.com/CleasbyCode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68626329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stores and downloads Midjourney-generated images alongside given prompts.</div>",
+            "url": "https://github.com/Matthew-W-G/midjourney-archiver",
+            "title": "Matthew-W-G/midjourney-archiver: Stores and downloads Midjourney-generated images alongside given prompts.",
+            "date_modified": "2024-06-08T14:22:30.000Z",
+            "date_published": "2024-05-28T20:30:56.000Z",
+            "author": {
+                "name": "Matthew-W-G",
+                "url": "https://github.com/Matthew-W-G"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111440555?u=c241f202ec63af3847916adaa4d7fa479b4236a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Made an image generating ai application in flutter using midjourney api and flutter bloc</div>",
+            "url": "https://github.com/madhavr16/Visionizer",
+            "title": "madhavr16/Visionizer: Made an image generating ai application in flutter using midjourney api and flutter bloc",
+            "date_modified": "2024-06-08T10:54:47.000Z",
+            "date_published": "2024-06-07T18:06:09.000Z",
+            "author": {
+                "name": "madhavr16",
+                "url": "https://github.com/madhavr16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29672511?u=f02d21932866e46519cd4af323d68d7d2a4a63cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts für KI Services wie ChatGPT, Midjourney, etc</div>",
+            "url": "https://github.com/Fabster79/prompt",
+            "title": "Fabster79/prompt: Prompts für KI Services wie ChatGPT, Midjourney, etc",
+            "date_modified": "2024-06-08T09:32:05.000Z",
+            "date_published": "2024-05-10T09:01:21.000Z",
+            "author": {
+                "name": "Fabster79",
+                "url": "https://github.com/Fabster79"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28252913?u=0c8d6271cc92d33a794b4233814f1a1c07617e18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>极简的图像提示词编辑器，专注于提示词文本组合，可用于Stable Diffusion和Midjourney。</div>",
+            "url": "https://github.com/rockbenben/img-prompt",
+            "title": "rockbenben/img-prompt: 极简的图像提示词编辑器，专注于提示词文本组合，可用于Stable Diffusion和Midjourney。",
+            "date_modified": "2024-06-08T08:17:46.000Z",
+            "date_published": "2023-04-17T05:26:53.000Z",
+            "author": {
+                "name": "rockbenben",
+                "url": "https://github.com/rockbenben"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99492724?u=b5688b574963820126df27756e1e7fe1cf0a7ac2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build and Deploy a Full Stack MERN AI Image Generation App MidJourney &amp; DALL E Clone</div>",
+            "url": "https://github.com/soorjya/MERN_AI_Image_generation",
+            "title": "soorjya/MERN_AI_Image_generation: Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone",
+            "date_modified": "2024-06-08T05:16:14.000Z",
+            "date_published": "2024-02-17T14:43:30.000Z",
+            "author": {
+                "name": "soorjya",
+                "url": "https://github.com/soorjya"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
+            "url": "https://github.com/filipecalegario/awesome-generative-ai",
+            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
+            "date_modified": "2024-06-08T22:43:39.000Z",
+            "date_published": "2021-07-19T15:11:51.000Z",
+            "author": {
+                "name": "filipecalegario",
+                "url": "https://github.com/filipecalegario"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-06-08T02:18:32.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-06-08T00:57:03.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47909358?u=eb988f52445f9a4dc8f0d762318782a5edc10ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/rakinishraq/midjourney-cli",
             "title": "rakinishraq/midjourney-cli",
@@ -14,17 +113,6 @@
             "author": {
                 "name": "rakinishraq",
                 "url": "https://github.com/rakinishraq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68626329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stores and downloads Midjourney-generated images alongside given prompts.</div>",
-            "url": "https://github.com/Matthew-W-G/midjourney-archiver",
-            "title": "Matthew-W-G/midjourney-archiver: Stores and downloads Midjourney-generated images alongside given prompts.",
-            "date_modified": "2024-06-07T23:04:48.000Z",
-            "date_published": "2024-05-28T20:30:56.000Z",
-            "author": {
-                "name": "Matthew-W-G",
-                "url": "https://github.com/Matthew-W-G"
             }
         },
         {
@@ -50,39 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111440555?u=c241f202ec63af3847916adaa4d7fa479b4236a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Made an image generating ai application in flutter using midjourney api and flutter bloc</div>",
-            "url": "https://github.com/madhavr16/Visionizer",
-            "title": "madhavr16/Visionizer: Made an image generating ai application in flutter using midjourney api and flutter bloc",
-            "date_modified": "2024-06-07T18:06:09.000Z",
-            "date_published": "2024-06-07T18:06:09.000Z",
-            "author": {
-                "name": "madhavr16",
-                "url": "https://github.com/madhavr16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99492724?u=b5688b574963820126df27756e1e7fe1cf0a7ac2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build and Deploy a Full Stack MERN AI Image Generation App MidJourney &amp; DALL E Clone</div>",
-            "url": "https://github.com/soorjya/MERN_AI_Image_generation",
-            "title": "soorjya/MERN_AI_Image_generation: Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone",
-            "date_modified": "2024-06-07T16:05:34.000Z",
-            "date_published": "2024-02-17T14:43:30.000Z",
-            "author": {
-                "name": "soorjya",
-                "url": "https://github.com/soorjya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
-            "url": "https://github.com/filipecalegario/awesome-generative-ai",
-            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
-            "date_modified": "2024-06-07T12:38:10.000Z",
-            "date_published": "2021-07-19T15:11:51.000Z",
-            "author": {
-                "name": "filipecalegario",
-                "url": "https://github.com/filipecalegario"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115723224?u=17ad6f3df08c5178ef389e3fce62b2d544565895&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/MaazAhmd/Midjourney-Chatbot",
             "title": "MaazAhmd/Midjourney-Chatbot",
@@ -102,28 +157,6 @@
             "author": {
                 "name": "51yuese",
                 "url": "https://github.com/51yuese"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28252913?u=0c8d6271cc92d33a794b4233814f1a1c07617e18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>极简的图像提示词编辑器，专注于提示词文本组合，可用于Stable Diffusion和Midjourney。</div>",
-            "url": "https://github.com/rockbenben/img-prompt",
-            "title": "rockbenben/img-prompt: 极简的图像提示词编辑器，专注于提示词文本组合，可用于Stable Diffusion和Midjourney。",
-            "date_modified": "2024-06-07T08:12:38.000Z",
-            "date_published": "2023-04-17T05:26:53.000Z",
-            "author": {
-                "name": "rockbenben",
-                "url": "https://github.com/rockbenben"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2024-06-07T08:05:48.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
             }
         },
         {
@@ -152,22 +185,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
-            "date_modified": "2024-06-07T22:05:52.000Z",
+            "date_modified": "2024-06-08T09:38:58.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
                 "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-06-07T00:58:42.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "tranhuuhuy297",
                 "url": "https://github.com/tranhuuhuy297"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
-            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
-            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
-            "date_modified": "2024-06-06T17:29:33.000Z",
-            "date_published": "2023-04-17T13:51:55.000Z",
-            "author": {
-                "name": "mbakgun",
-                "url": "https://github.com/mbakgun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！</div>",
-            "url": "https://github.com/Calcium-Ion/new-api",
-            "title": "Calcium-Ion/new-api: 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！",
-            "date_modified": "2024-06-07T23:58:08.000Z",
-            "date_published": "2023-11-10T19:33:36.000Z",
-            "author": {
-                "name": "Calcium-Ion",
-                "url": "https://github.com/Calcium-Ion"
             }
         }
     ]
