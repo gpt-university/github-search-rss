@@ -6,6 +6,83 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-09-02T00:49:15.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
+            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
+            "date_modified": "2024-09-02T00:13:55.000Z",
+            "date_published": "2024-07-13T03:08:46.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160320428?u=4c5042833d1e7f09fd6af4e25c8540c82fca7fcd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/KThinking979/midjourney",
+            "title": "KThinking979/midjourney",
+            "date_modified": "2024-09-01T18:13:06.000Z",
+            "date_published": "2024-08-18T14:05:40.000Z",
+            "author": {
+                "name": "KThinking979",
+                "url": "https://github.com/KThinking979"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。</div>",
+            "url": "https://github.com/Calcium-Ion/new-api",
+            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。",
+            "date_modified": "2024-09-01T23:55:49.000Z",
+            "date_published": "2023-11-10T19:33:36.000Z",
+            "author": {
+                "name": "Calcium-Ion",
+                "url": "https://github.com/Calcium-Ion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、具身智能、元宇宙、AGI、SLAM等AI行业面试笔试经验与干货知识。</div>",
+            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
+            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、具身智能、元宇宙、AGI、SLAM等AI行业面试笔试经验与干货知识。",
+            "date_modified": "2024-09-01T14:39:25.000Z",
+            "date_published": "2023-10-14T16:15:40.000Z",
+            "author": {
+                "name": "WeThinkIn",
+                "url": "https://github.com/WeThinkIn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111631613?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney API client for PHP</div>",
+            "url": "https://github.com/eDiasoft/midjourney-api-php",
+            "title": "eDiasoft/midjourney-api-php: Midjourney API client for PHP",
+            "date_modified": "2024-09-01T07:19:24.000Z",
+            "date_published": "2023-08-03T02:22:01.000Z",
+            "author": {
+                "name": "eDiasoft",
+                "url": "https://github.com/eDiasoft"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-09-01T01:14:07.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45072246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts for ChatGPT and MidJourney</div>",
             "url": "https://github.com/tomrailio/Prompt-Engineering",
             "title": "tomrailio/Prompt-Engineering: Prompts for ChatGPT and MidJourney",
@@ -28,21 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、具身智能、元宇宙、AGI、SLAM等AI行业面试笔试经验与干货知识。</div>",
-            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
-            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、具身智能、元宇宙、AGI、SLAM等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2024-08-31T15:51:28.000Z",
-            "date_published": "2023-10-14T16:15:40.000Z",
-            "author": {
-                "name": "WeThinkIn",
-                "url": "https://github.com/WeThinkIn"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，通过 API 绘图，支持图片、视频一键换脸，公益项目，提供免费绘图接口。</div>",
             "url": "https://github.com/trueai-org/midjourney-proxy",
             "title": "trueai-org/midjourney-proxy: 代理 Midjourney 的 Discord 频道，通过 API 绘图，支持图片、视频一键换脸，公益项目，提供免费绘图接口。",
-            "date_modified": "2024-08-31T18:05:37.000Z",
+            "date_modified": "2024-09-01T17:21:43.000Z",
             "date_published": "2024-07-03T08:04:25.000Z",
             "author": {
                 "name": "trueai-org",
@@ -58,17 +124,6 @@
             "author": {
                 "name": "AceDataCloud",
                 "url": "https://github.com/AceDataCloud"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-08-31T01:03:02.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "vual",
                 "url": "https://github.com/vual"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2024-08-30T06:51:55.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131738679?u=b3cbd9f7a0a69f8182752524fe6c155324f9418e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto blogging/article writing tool including image generation from Midjourney and publishing to Wordpress (Gutenberg ready).</div>",
-            "url": "https://github.com/0xroyce/AIBlogPilotGPT",
-            "title": "0xroyce/AIBlogPilotGPT: Auto blogging/article writing tool including image generation from Midjourney and publishing to Wordpress (Gutenberg ready).",
-            "date_modified": "2024-08-30T06:49:01.000Z",
-            "date_published": "2023-09-26T11:07:07.000Z",
-            "author": {
-                "name": "0xroyce",
-                "url": "https://github.com/0xroyce"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/135022358?u=4638f9ac216e6ed26e34d15228dc1b4e5a22905a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter + Midjourney 🚀 AI Image Generator App in Flutter</div>",
-            "url": "https://github.com/codewithkd77/Flutter-Midjourney-App",
-            "title": "codewithkd77/Flutter-Midjourney-App: Flutter + Midjourney 🚀 AI Image Generator App in Flutter",
-            "date_modified": "2024-08-30T03:55:38.000Z",
-            "date_published": "2024-08-03T08:48:52.000Z",
-            "author": {
-                "name": "codewithkd77",
-                "url": "https://github.com/codewithkd77"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160320428?u=4c5042833d1e7f09fd6af4e25c8540c82fca7fcd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/KThinking979/midjourney",
-            "title": "KThinking979/midjourney",
-            "date_modified": "2024-08-29T18:33:26.000Z",
-            "date_published": "2024-08-18T14:05:40.000Z",
-            "author": {
-                "name": "KThinking979",
-                "url": "https://github.com/KThinking979"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/591105?u=0642ac01165e6d32bd6a1cb7fa7b8a93186d4df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LLMs based multi-model framework for building AI apps. </div>",
-            "url": "https://github.com/parvbhullar/superpilot",
-            "title": "parvbhullar/superpilot: LLMs based multi-model framework for building AI apps. ",
-            "date_modified": "2024-08-29T06:20:33.000Z",
-            "date_published": "2023-08-27T10:06:11.000Z",
-            "author": {
-                "name": "parvbhullar",
-                "url": "https://github.com/parvbhullar"
             }
         }
     ]
