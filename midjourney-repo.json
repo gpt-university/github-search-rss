@@ -6,6 +6,83 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62182739?u=9aa8e812a8bc364cb2a9961b2174e7db0ec1f187&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Front End simples para demonstrar a API ai-content-factory, que gera imagens, vídeos e sons utilizando inteligência artificial.</div>",
+            "url": "https://github.com/vbss-io/ai-content-factory-front",
+            "title": "vbss-io/ai-content-factory-front: Front End simples para demonstrar a API ai-content-factory, que gera imagens, vídeos e sons utilizando inteligência artificial.",
+            "date_modified": "2024-10-19T23:06:17.000Z",
+            "date_published": "2024-10-04T20:08:43.000Z",
+            "author": {
+                "name": "vbss-io",
+                "url": "https://github.com/vbss-io"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62182739?u=9aa8e812a8bc364cb2a9961b2174e7db0ec1f187&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>API express que utiliza inteligência artificial para gerar imagens, vídeos e sons de forma automatizada.</div>",
+            "url": "https://github.com/vbss-io/ai-content-factory",
+            "title": "vbss-io/ai-content-factory: API express que utiliza inteligência artificial para gerar imagens, vídeos e sons de forma automatizada.",
+            "date_modified": "2024-10-19T23:00:34.000Z",
+            "date_published": "2024-09-20T23:16:48.000Z",
+            "author": {
+                "name": "vbss-io",
+                "url": "https://github.com/vbss-io"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
+            "url": "https://github.com/filipecalegario/awesome-generative-ai",
+            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
+            "date_modified": "2024-10-19T16:50:50.000Z",
+            "date_published": "2021-07-19T15:11:51.000Z",
+            "author": {
+                "name": "filipecalegario",
+                "url": "https://github.com/filipecalegario"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24630609?u=8be7e4167b7152c201c64a33073a07fad881fb70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Construct a semi-autonomous pipeline for SD/Midjourney prompts and generation.</div>",
+            "url": "https://github.com/freemank1224/PromptAutomation",
+            "title": "freemank1224/PromptAutomation: Construct a semi-autonomous pipeline for SD/Midjourney prompts and generation.",
+            "date_modified": "2024-10-19T16:28:44.000Z",
+            "date_published": "2024-09-27T09:11:51.000Z",
+            "author": {
+                "name": "freemank1224",
+                "url": "https://github.com/freemank1224"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138978130?u=11653257c7e1aea0613989e8cf1a4f078070970d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter + Midjourney🚀, AI Image Generator App in Flutter</div>",
+            "url": "https://github.com/azix-khan/Flutter-Midjourney-App",
+            "title": "azix-khan/Flutter-Midjourney-App: Flutter + Midjourney🚀, AI Image Generator App in Flutter",
+            "date_modified": "2024-10-19T10:07:51.000Z",
+            "date_published": "2024-08-04T06:45:36.000Z",
+            "author": {
+                "name": "azix-khan",
+                "url": "https://github.com/azix-khan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-10-19T06:23:16.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-10-19T01:07:20.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
             "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
             "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
@@ -20,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A public welfare project offering a free drawing API that proxies Midjourney's Discord channel, supporting one-click face swapping for images and videos.</div>",
             "url": "https://github.com/trueai-org/midjourney-proxy",
             "title": "trueai-org/midjourney-proxy: A public welfare project offering a free drawing API that proxies Midjourney's Discord channel, supporting one-click face swapping for images and videos.",
-            "date_modified": "2024-10-18T13:42:26.000Z",
+            "date_modified": "2024-10-19T16:37:27.000Z",
             "date_published": "2024-07-03T08:04:25.000Z",
             "author": {
                 "name": "trueai-org",
@@ -50,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24630609?u=8be7e4167b7152c201c64a33073a07fad881fb70&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Construct a semi-autonomous pipeline for SD/Midjourney prompts and generation.</div>",
-            "url": "https://github.com/freemank1224/PromptAutomation",
-            "title": "freemank1224/PromptAutomation: Construct a semi-autonomous pipeline for SD/Midjourney prompts and generation.",
-            "date_modified": "2024-10-18T09:22:05.000Z",
-            "date_published": "2024-09-27T09:11:51.000Z",
-            "author": {
-                "name": "freemank1224",
-                "url": "https://github.com/freemank1224"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。</div>",
             "url": "https://github.com/vual/ChatGPT-Next-Web-Pro",
             "title": "vual/ChatGPT-Next-Web-Pro: 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。",
@@ -75,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
             "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
             "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2024-10-18T14:38:38.000Z",
+            "date_modified": "2024-10-20T00:03:14.000Z",
             "date_published": "2023-10-14T16:15:40.000Z",
             "author": {
                 "name": "WeThinkIn",
@@ -94,43 +160,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-10-18T01:08:29.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138978130?u=11653257c7e1aea0613989e8cf1a4f078070970d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Flutter + Midjourney🚀, AI Image Generator App in Flutter</div>",
-            "url": "https://github.com/azix-khan/Flutter-Midjourney-App",
-            "title": "azix-khan/Flutter-Midjourney-App: Flutter + Midjourney🚀, AI Image Generator App in Flutter",
-            "date_modified": "2024-10-18T01:04:11.000Z",
-            "date_published": "2024-08-04T06:45:36.000Z",
-            "author": {
-                "name": "azix-khan",
-                "url": "https://github.com/azix-khan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2024-10-18T00:54:41.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112773885?u=57af2c47bd42fb0d10a48b35fe36ca4e343ea193&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
             "url": "https://github.com/zmh-program/chatnio",
             "title": "zmh-program/chatnio: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
-            "date_modified": "2024-10-18T14:18:01.000Z",
+            "date_modified": "2024-10-19T07:28:03.000Z",
             "date_published": "2023-07-17T18:09:57.000Z",
             "author": {
                 "name": "zmh-program",
@@ -141,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2024-10-18T22:14:56.000Z",
+            "date_modified": "2024-10-19T09:13:59.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -174,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
             "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
             "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
-            "date_modified": "2024-10-18T19:33:32.000Z",
+            "date_modified": "2024-10-19T17:57:48.000Z",
             "date_published": "2023-11-19T03:18:59.000Z",
             "author": {
                 "name": "Dooy",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Writer-Sonic",
                 "url": "https://github.com/Writer-Sonic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56290154?u=e7fe76d59676ec312f8ada421105b97b309921ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI based MERN stack website used to generate custom images based on user prompts like DALLE and Midjourney, It uses OpenAI api to generate images. </div>",
-            "url": "https://github.com/Nishit278/Cognigen",
-            "title": "Nishit278/Cognigen: AI based MERN stack website used to generate custom images based on user prompts like DALLE and Midjourney, It uses OpenAI api to generate images. ",
-            "date_modified": "2024-10-16T12:11:32.000Z",
-            "date_published": "2023-03-26T14:45:11.000Z",
-            "author": {
-                "name": "Nishit278",
-                "url": "https://github.com/Nishit278"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15165652?u=d7ddc7e2463dee89cdfc274d27ec99849615856d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney-proxy-plus-v375 open source for all</div>",
-            "url": "https://github.com/jsjjdzg/midjourney-proxy-plus-v375",
-            "title": "jsjjdzg/midjourney-proxy-plus-v375: midjourney-proxy-plus-v375 open source for all",
-            "date_modified": "2024-10-16T08:37:33.000Z",
-            "date_published": "2024-10-16T08:37:32.000Z",
-            "author": {
-                "name": "jsjjdzg",
-                "url": "https://github.com/jsjjdzg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46583113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/nhjmklo/chatgpt-web-midjourney-proxy",
-            "title": "nhjmklo/chatgpt-web-midjourney-proxy",
-            "date_modified": "2024-10-16T06:33:48.000Z",
-            "date_published": "2024-09-13T03:05:52.000Z",
-            "author": {
-                "name": "nhjmklo",
-                "url": "https://github.com/nhjmklo"
             }
         }
     ]
