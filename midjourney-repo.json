@@ -6,6 +6,61 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
+            "url": "https://github.com/filipecalegario/awesome-generative-ai",
+            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
+            "date_modified": "2024-11-03T18:02:25.000Z",
+            "date_published": "2021-07-19T15:11:51.000Z",
+            "author": {
+                "name": "filipecalegario",
+                "url": "https://github.com/filipecalegario"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171990388?u=91e203fa662b0c68672060befcb1f2a6989b5302&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repositório contendo o eBook criado com auxílio de ChatGPT e MidJourney, incluindo os prompts e um artigo sobre o processo.</div>",
+            "url": "https://github.com/andresilveira1980/book-inteligencia-artificial-dio",
+            "title": "andresilveira1980/book-inteligencia-artificial-dio: Repositório contendo o eBook criado com auxílio de ChatGPT e MidJourney, incluindo os prompts e um artigo sobre o processo.",
+            "date_modified": "2024-11-03T17:36:17.000Z",
+            "date_published": "2024-11-02T16:48:37.000Z",
+            "author": {
+                "name": "andresilveira1980",
+                "url": "https://github.com/andresilveira1980"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2024-11-03T17:13:12.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
+            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
+            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
+            "date_modified": "2024-11-03T22:49:29.000Z",
+            "date_published": "2023-10-14T16:15:40.000Z",
+            "author": {
+                "name": "WeThinkIn",
+                "url": "https://github.com/WeThinkIn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-11-03T01:13:12.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24882215?u=889af8fb83bc65071994ea3bc458f1ff43e3bb08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>D&amp;D group infrastructure &amp; homebrew setting.</div>",
             "url": "https://github.com/oakbrad/dungeonchurch",
             "title": "oakbrad/dungeonchurch: D&D group infrastructure & homebrew setting.",
@@ -25,28 +80,6 @@
             "author": {
                 "name": "relatedcode",
                 "url": "https://github.com/relatedcode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
-            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
-            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2024-11-02T17:48:14.000Z",
-            "date_published": "2023-10-14T16:15:40.000Z",
-            "author": {
-                "name": "WeThinkIn",
-                "url": "https://github.com/WeThinkIn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171990388?u=91e203fa662b0c68672060befcb1f2a6989b5302&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repositório contendo o eBook criado com auxílio de ChatGPT e MidJourney, incluindo os prompts e um artigo sobre o processo.</div>",
-            "url": "https://github.com/andresilveira1980/book-inteligencia-artificial-dio",
-            "title": "andresilveira1980/book-inteligencia-artificial-dio: Repositório contendo o eBook criado com auxílio de ChatGPT e MidJourney, incluindo os prompts e um artigo sobre o processo.",
-            "date_modified": "2024-11-02T17:03:09.000Z",
-            "date_published": "2024-11-02T16:48:37.000Z",
-            "author": {
-                "name": "andresilveira1980",
-                "url": "https://github.com/andresilveira1980"
             }
         },
         {
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20700387?u=0c9bb78572cc82757982b28984ab32aa7a23ad7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 MidJourney 的discord频道，实现api形式调用AI绘图</div>",
             "url": "https://github.com/novicezk/midjourney-proxy",
             "title": "novicezk/midjourney-proxy: 代理 MidJourney 的discord频道，实现api形式调用AI绘图",
-            "date_modified": "2024-11-02T15:35:00.000Z",
+            "date_modified": "2024-11-03T23:14:12.000Z",
             "date_published": "2023-04-24T13:43:45.000Z",
             "author": {
                 "name": "novicezk",
@@ -113,17 +146,6 @@
             "author": {
                 "name": "rkmiller131",
                 "url": "https://github.com/rkmiller131"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-11-02T01:07:09.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
             }
         },
         {
@@ -146,17 +168,6 @@
             "author": {
                 "name": "tomrailio",
                 "url": "https://github.com/tomrailio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2024-11-02T10:54:11.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
             }
         },
         {
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143701929?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用</div>",
             "url": "https://github.com/popjane/free_chatgpt_api",
             "title": "popjane/free_chatgpt_api: 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用",
-            "date_modified": "2024-11-03T00:45:33.000Z",
+            "date_modified": "2024-11-03T23:29:15.000Z",
             "date_published": "2024-02-22T13:57:20.000Z",
             "author": {
                 "name": "popjane",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，后续支持stable-diffusion，suno，luma等</div>",
             "url": "https://github.com/vual/lobe-chat-pro",
             "title": "vual/lobe-chat-pro: 基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，后续支持stable-diffusion，suno，luma等",
-            "date_modified": "2024-11-02T18:10:29.000Z",
+            "date_modified": "2024-11-03T04:37:11.000Z",
             "date_published": "2024-07-05T08:59:07.000Z",
             "author": {
                 "name": "vual",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "QuickLinkNet",
                 "url": "https://github.com/QuickLinkNet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133472503?u=dcc4f54350e38a43b7ab56d5081cc04a7c083027&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ins13014778/chatgpt-web-midjourney-proxy1",
-            "title": "ins13014778/chatgpt-web-midjourney-proxy1",
-            "date_modified": "2024-11-01T06:35:21.000Z",
-            "date_published": "2024-11-01T06:30:19.000Z",
-            "author": {
-                "name": "ins13014778",
-                "url": "https://github.com/ins13014778"
             }
         }
     ]
