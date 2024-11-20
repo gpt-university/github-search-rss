@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
             "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
             "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】算法工程师秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2024-11-19T00:40:13.000Z",
+            "date_modified": "2024-11-20T00:55:38.000Z",
             "date_published": "2023-10-14T16:15:40.000Z",
             "author": {
                 "name": "WeThinkIn",
@@ -17,10 +17,131 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62182739?u=9aa8e812a8bc364cb2a9961b2174e7db0ec1f187&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>API express que utiliza inteligência artificial para gerar imagens, vídeos e sons de forma automatizada.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
+            "url": "https://github.com/filipecalegario/awesome-generative-ai",
+            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
+            "date_modified": "2024-11-19T21:04:34.000Z",
+            "date_published": "2021-07-19T15:11:51.000Z",
+            "author": {
+                "name": "filipecalegario",
+                "url": "https://github.com/filipecalegario"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72359549?u=168c1571deac610b1f6d298e4f551d86a132f196&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image Splitter in Python.</div>",
+            "url": "https://github.com/iaseth/splitter",
+            "title": "iaseth/splitter: Image Splitter in Python.",
+            "date_modified": "2024-11-19T18:48:33.000Z",
+            "date_published": "2024-11-19T15:49:53.000Z",
+            "author": {
+                "name": "iaseth",
+                "url": "https://github.com/iaseth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17057860?u=21b1aa24bfb6aa3484d1cb1e65e0f20fec7430a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Prompt Tool</div>",
+            "url": "https://github.com/im1010ioio/mj-prompt-tool",
+            "title": "im1010ioio/mj-prompt-tool: Midjourney Prompt Tool",
+            "date_modified": "2024-11-19T18:01:54.000Z",
+            "date_published": "2024-11-15T11:12:13.000Z",
+            "author": {
+                "name": "im1010ioio",
+                "url": "https://github.com/im1010ioio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179190197?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>将302.AI的功能通过插件接入到Chat-on-Wechat</div>",
+            "url": "https://github.com/302ai/302-CoW-Plugin",
+            "title": "302ai/302-CoW-Plugin: 将302.AI的功能通过插件接入到Chat-on-Wechat",
+            "date_modified": "2024-11-19T17:21:41.000Z",
+            "date_published": "2024-10-14T21:57:33.000Z",
+            "author": {
+                "name": "302ai",
+                "url": "https://github.com/302ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6803102?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bypass Midjourney captcha.</div>",
+            "url": "https://github.com/ye4241/midjourney-captcha-bot",
+            "title": "ye4241/midjourney-captcha-bot: Bypass Midjourney captcha.",
+            "date_modified": "2024-11-19T15:22:17.000Z",
+            "date_published": "2024-08-07T08:56:54.000Z",
+            "author": {
+                "name": "ye4241",
+                "url": "https://github.com/ye4241"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7714910?u=44399d7bf2cd711d09ed7f82f5eedf966251859b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/gummiz/Midjourney-Generator-v2",
+            "title": "gummiz/Midjourney-Generator-v2",
+            "date_modified": "2024-11-19T15:13:51.000Z",
+            "date_published": "2024-10-30T14:07:50.000Z",
+            "author": {
+                "name": "gummiz",
+                "url": "https://github.com/gummiz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。</div>",
+            "url": "https://github.com/Calcium-Ion/new-api",
+            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
+            "date_modified": "2024-11-20T01:01:08.000Z",
+            "date_published": "2023-11-10T19:33:36.000Z",
+            "author": {
+                "name": "Calcium-Ion",
+                "url": "https://github.com/Calcium-Ion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。</div>",
+            "url": "https://github.com/vual/ChatGPT-Next-Web-Pro",
+            "title": "vual/ChatGPT-Next-Web-Pro: 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。",
+            "date_modified": "2024-11-19T15:54:50.000Z",
+            "date_published": "2023-08-18T07:53:09.000Z",
+            "author": {
+                "name": "vual",
+                "url": "https://github.com/vual"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy",
+            "title": "trueai-org/midjourney-proxy: The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.",
+            "date_modified": "2024-11-19T13:14:23.000Z",
+            "date_published": "2024-07-03T08:04:25.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-11-19T08:56:30.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-11-19T01:11:46.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62182739?u=9aa8e812a8bc364cb2a9961b2174e7db0ec1f187&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Back-end robusto para suportar o AI Content Factory Front, permitindo criação e gerenciamento de conteúdo gerado por IA com integrações com ChatGPT, DALL·E, Midjourney, Automatic1111 e Luma Labs. </div>",
             "url": "https://github.com/vbss-io/ai-content-factory-back",
-            "title": "vbss-io/ai-content-factory-back: API express que utiliza inteligência artificial para gerar imagens, vídeos e sons de forma automatizada.",
-            "date_modified": "2024-11-18T22:41:39.000Z",
+            "title": "vbss-io/ai-content-factory-back: Back-end robusto para suportar o AI Content Factory Front, permitindo criação e gerenciamento de conteúdo gerado por IA com integrações com ChatGPT, DALL·E, Midjourney, Automatic1111 e Luma Labs. ",
+            "date_modified": "2024-11-19T11:39:20.000Z",
             "date_published": "2024-09-20T23:16:48.000Z",
             "author": {
                 "name": "vbss-io",
@@ -31,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62182739?u=9aa8e812a8bc364cb2a9961b2174e7db0ec1f187&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Front-end para showcase de conteúdos gerados por inteligência artificial. Desenvolvido com React, TypeScript e Stitches. Em beta, com suporte a imagens e vídeos.</div>",
             "url": "https://github.com/vbss-io/ai-content-factory-front",
             "title": "vbss-io/ai-content-factory-front: Front-end para showcase de conteúdos gerados por inteligência artificial. Desenvolvido com React, TypeScript e Stitches. Em beta, com suporte a imagens e vídeos.",
-            "date_modified": "2024-11-18T22:24:43.000Z",
+            "date_modified": "2024-11-19T11:39:22.000Z",
             "date_published": "2024-10-04T20:08:43.000Z",
             "author": {
                 "name": "vbss-io",
@@ -39,43 +160,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17057860?u=21b1aa24bfb6aa3484d1cb1e65e0f20fec7430a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Prompt Tool</div>",
-            "url": "https://github.com/im1010ioio/mj-prompt-tool",
-            "title": "im1010ioio/mj-prompt-tool: Midjourney Prompt Tool",
-            "date_modified": "2024-11-18T17:48:38.000Z",
-            "date_published": "2024-11-15T11:12:13.000Z",
-            "author": {
-                "name": "im1010ioio",
-                "url": "https://github.com/im1010ioio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。</div>",
-            "url": "https://github.com/Calcium-Ion/new-api",
-            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
-            "date_modified": "2024-11-18T19:19:11.000Z",
-            "date_published": "2023-11-10T19:33:36.000Z",
-            "author": {
-                "name": "Calcium-Ion",
-                "url": "https://github.com/Calcium-Ion"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7714910?u=44399d7bf2cd711d09ed7f82f5eedf966251859b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/gummiz/Midjourney-Generator-v2",
-            "title": "gummiz/Midjourney-Generator-v2",
-            "date_modified": "2024-11-18T15:50:40.000Z",
-            "date_published": "2024-10-30T14:07:50.000Z",
-            "author": {
-                "name": "gummiz",
-                "url": "https://github.com/gummiz"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134123608?u=622328f46c29fe52e9c2ef4397c512fc216c19b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney-proxy的先行版</div>",
             "url": "https://github.com/litter-coder/midjourney-proxy-plus",
             "title": "litter-coder/midjourney-proxy-plus: midjourney-proxy的先行版",
-            "date_modified": "2024-11-18T15:40:34.000Z",
+            "date_modified": "2024-11-19T01:14:31.000Z",
             "date_published": "2023-07-17T14:04:59.000Z",
             "author": {
                 "name": "litter-coder",
@@ -86,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20700387?u=0c9bb78572cc82757982b28984ab32aa7a23ad7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 MidJourney 的discord频道，实现api形式调用AI绘图</div>",
             "url": "https://github.com/novicezk/midjourney-proxy",
             "title": "novicezk/midjourney-proxy: 代理 MidJourney 的discord频道，实现api形式调用AI绘图",
-            "date_modified": "2024-11-18T15:37:10.000Z",
+            "date_modified": "2024-11-19T15:21:04.000Z",
             "date_published": "2023-04-24T13:43:45.000Z",
             "author": {
                 "name": "novicezk",
@@ -97,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186984292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services</div>",
             "url": "https://github.com/ChatAnyTeam/ChatAny",
             "title": "ChatAnyTeam/ChatAny: 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services",
-            "date_modified": "2024-11-18T18:27:11.000Z",
+            "date_modified": "2024-11-19T20:50:30.000Z",
             "date_published": "2023-06-05T10:35:13.000Z",
             "author": {
                 "name": "ChatAnyTeam",
@@ -135,94 +223,6 @@
             "author": {
                 "name": "bdakx",
                 "url": "https://github.com/bdakx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2024-11-18T10:10:27.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy",
-            "title": "trueai-org/midjourney-proxy: The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.",
-            "date_modified": "2024-11-19T00:58:00.000Z",
-            "date_published": "2024-07-03T08:04:25.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
-            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
-            "date_modified": "2024-11-18T08:23:43.000Z",
-            "date_published": "2024-07-13T03:08:46.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57041932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kylvenp/chatgpt-web-midjourney-proxy2",
-            "title": "kylvenp/chatgpt-web-midjourney-proxy2",
-            "date_modified": "2024-11-18T03:50:13.000Z",
-            "date_published": "2024-11-18T02:06:39.000Z",
-            "author": {
-                "name": "kylvenp",
-                "url": "https://github.com/kylvenp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。</div>",
-            "url": "https://github.com/vual/ChatGPT-Next-Web-Pro",
-            "title": "vual/ChatGPT-Next-Web-Pro: 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。",
-            "date_modified": "2024-11-18T01:26:52.000Z",
-            "date_published": "2023-08-18T07:53:09.000Z",
-            "author": {
-                "name": "vual",
-                "url": "https://github.com/vual"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-11-18T11:13:01.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75733781?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/armansaheb1/midjourney-back",
-            "title": "armansaheb1/midjourney-back",
-            "date_modified": "2024-11-17T23:39:00.000Z",
-            "date_published": "2023-11-15T15:40:14.000Z",
-            "author": {
-                "name": "armansaheb1",
-                "url": "https://github.com/armansaheb1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22969557?u=e165a13fdc6dbec7062799fc78bcc29dfe8349c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lofn: An award-winning, open-source AI art generator that combines Tree of Thoughts prompting and critic/artist refinement to create unique, high-quality artwork. Supports Midjourney, DALL-E 3, and Discord integration. Built with OpenAI and Anthropic's Claude.</div>",
-            "url": "https://github.com/LocalSymmetry/lofn",
-            "title": "LocalSymmetry/lofn: Lofn: An award-winning, open-source AI art generator that combines Tree of Thoughts prompting and critic/artist refinement to create unique, high-quality artwork. Supports Midjourney, DALL-E 3, and Discord integration. Built with OpenAI and Anthropic's Claude.",
-            "date_modified": "2024-11-17T19:16:35.000Z",
-            "date_published": "2024-03-26T20:21:22.000Z",
-            "author": {
-                "name": "LocalSymmetry",
-                "url": "https://github.com/LocalSymmetry"
             }
         }
     ]
