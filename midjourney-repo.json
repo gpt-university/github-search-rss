@@ -6,10 +6,98 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61942599?u=e4e7fc54db233021549e013a70bda215c1cf9131&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Node.js framework for interacting with Midjourney through Discord</div>",
+            "url": "https://github.com/cmacha2/midjourney-discord-js",
+            "title": "cmacha2/midjourney-discord-js: A Node.js framework for interacting with Midjourney through Discord",
+            "date_modified": "2024-11-30T00:58:55.000Z",
+            "date_published": "2024-11-28T20:41:11.000Z",
+            "author": {
+                "name": "cmacha2",
+                "url": "https://github.com/cmacha2"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
+            "url": "https://github.com/a1667834841/promot_pub",
+            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
+            "date_modified": "2024-11-29T20:17:08.000Z",
+            "date_published": "2023-06-09T16:30:11.000Z",
+            "author": {
+                "name": "a1667834841",
+                "url": "https://github.com/a1667834841"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131342697?u=72f3e5a70c605ae0826686f12b78593d55e5c5f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated Midjourney style library</div>",
+            "url": "https://github.com/vikram-twodesign/midweave",
+            "title": "vikram-twodesign/midweave: A curated Midjourney style library",
+            "date_modified": "2024-11-29T18:31:37.000Z",
+            "date_published": "2024-11-25T12:20:59.000Z",
+            "author": {
+                "name": "vikram-twodesign",
+                "url": "https://github.com/vikram-twodesign"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189956589?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Java语言的chat-plus AI助手全套开源设计源码 Java AI助手 开源设计 源码 大语言模型 该项目是一款基于Java语言的AI助手全套开源设计源码，包含823个文件，其中Java文件730个，涵盖了Gradle构建脚本、YML配置、XML、SQL等多种文件类型。该AI助手整合了OpenAI、Azure、ChatGLM、讯飞星火、文心一言等多个大语言模型API，并集成了MidJourney和Stable Diffusion AI绘画功能，同时自带运营管理后台，提供开箱即用的便捷体验。</div>",
+            "url": "https://github.com/csbysj/Z5yTk55r",
+            "title": "csbysj/Z5yTk55r: 基于Java语言的chat-plus AI助手全套开源设计源码 Java AI助手 开源设计 源码 大语言模型 该项目是一款基于Java语言的AI助手全套开源设计源码，包含823个文件，其中Java文件730个，涵盖了Gradle构建脚本、YML配置、XML、SQL等多种文件类型。该AI助手整合了OpenAI、Azure、ChatGLM、讯飞星火、文心一言等多个大语言模型API，并集成了MidJourney和Stable Diffusion AI绘画功能，同时自带运营管理后台，提供开箱即用的便捷体验。",
+            "date_modified": "2024-11-29T11:38:44.000Z",
+            "date_published": "2024-11-29T11:38:38.000Z",
+            "author": {
+                "name": "csbysj",
+                "url": "https://github.com/csbysj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73637313?u=ef659daa433486e71e1a4b56c73be8e4e61b05f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>提示词转化助手,使用大语言模型，将简单的提示词转化为co-star等框架提示词，包括midjourney提示词优化</div>",
+            "url": "https://github.com/qqjzyzz/prompt-helper",
+            "title": "qqjzyzz/prompt-helper: 提示词转化助手,使用大语言模型，将简单的提示词转化为co-star等框架提示词，包括midjourney提示词优化",
+            "date_modified": "2024-11-29T06:47:18.000Z",
+            "date_published": "2024-09-08T05:10:37.000Z",
+            "author": {
+                "name": "qqjzyzz",
+                "url": "https://github.com/qqjzyzz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
+            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
+            "date_modified": "2024-11-29T02:18:10.000Z",
+            "date_published": "2024-07-13T03:08:46.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy",
+            "title": "trueai-org/midjourney-proxy: The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.",
+            "date_modified": "2024-11-29T16:43:40.000Z",
+            "date_published": "2024-07-03T08:04:25.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-11-29T01:17:50.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
             "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
             "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2024-11-29T01:02:19.000Z",
+            "date_modified": "2024-11-29T17:15:56.000Z",
             "date_published": "2023-10-14T16:15:40.000Z",
             "author": {
                 "name": "WeThinkIn",
@@ -20,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=d89527f2cf3eb73e7bcc85291e1d81217c3f97a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2024-11-29T00:38:10.000Z",
+            "date_modified": "2024-11-29T10:44:08.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -39,21 +127,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61942599?u=c10f5034df280b3c6ea4f7637f34323ad2160d7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Node.js framework for interacting with Midjourney through Discord</div>",
-            "url": "https://github.com/cmacha2/midjourney-discord-js",
-            "title": "cmacha2/midjourney-discord-js: A Node.js framework for interacting with Midjourney through Discord",
-            "date_modified": "2024-11-28T20:41:11.000Z",
-            "date_published": "2024-11-28T20:41:11.000Z",
-            "author": {
-                "name": "cmacha2",
-                "url": "https://github.com/cmacha2"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。</div>",
             "url": "https://github.com/Calcium-Ion/new-api",
             "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
-            "date_modified": "2024-11-28T18:31:33.000Z",
+            "date_modified": "2024-11-29T20:21:56.000Z",
             "date_published": "2023-11-10T19:33:36.000Z",
             "author": {
                 "name": "Calcium-Ion",
@@ -105,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131342697?u=72f3e5a70c605ae0826686f12b78593d55e5c5f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated Midjourney style library</div>",
-            "url": "https://github.com/vikram-twodesign/midweave",
-            "title": "vikram-twodesign/midweave: A curated Midjourney style library",
-            "date_modified": "2024-11-28T08:25:29.000Z",
-            "date_published": "2024-11-25T12:20:59.000Z",
-            "author": {
-                "name": "vikram-twodesign",
-                "url": "https://github.com/vikram-twodesign"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102857633?u=60df9f2dc4dfb592cb8a6b629fe1c4886f87893d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI empowers a general-purpose prompt assistant, systematically generating and selecting prompts on AI generation platforms such as Midjourney, Suno, ComfyUI, and others for images, music, documents, and more.</div>",
             "url": "https://github.com/Yanick112/Choosejourney",
             "title": "Yanick112/Choosejourney: AI empowers a general-purpose prompt assistant, systematically generating and selecting prompts on AI generation platforms such as Midjourney, Suno, ComfyUI, and others for images, music, documents, and more.",
@@ -149,28 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2024-11-28T15:28:37.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-11-28T01:13:22.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/588453?u=0ae2ed1cf0989e93a41356dc4d35fd3f3c337b44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Discord bot that utilizes OpenAI's GPT-3 API to generate creative prompts for MidJourney's AI image generation. It allows users to easily get prompt ideas in Discord by providing a natural language description. The bot is built with Discord.js and formats the AI-generated prompts to work seamlessly with MidJourney.</div>",
             "url": "https://github.com/imigueldiaz/midjourney-prompt-generator",
             "title": "imigueldiaz/midjourney-prompt-generator: This is a Discord bot that utilizes OpenAI's GPT-3 API to generate creative prompts for MidJourney's AI image generation. It allows users to easily get prompt ideas in Discord by providing a natural language description. The bot is built with Discord.js and formats the AI-generated prompts to work seamlessly with MidJourney.",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "imigueldiaz",
                 "url": "https://github.com/imigueldiaz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124797800?u=76bd4449366f89abebd7e9e21648dbfee67573fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> midjourney-proxy-admin项目的开发者圈钱狗东西，三万买断不允许他人使用的APi源码 这狗东西违反双方约定二次给别人使用</div>",
-            "url": "https://github.com/Xialiang98/-midjourney-proxy-admin-",
-            "title": "Xialiang98/-midjourney-proxy-admin-:  midjourney-proxy-admin项目的开发者圈钱狗东西，三万买断不允许他人使用的APi源码 这狗东西违反双方约定二次给别人使用",
-            "date_modified": "2024-11-27T12:59:45.000Z",
-            "date_published": "2024-11-27T11:07:41.000Z",
-            "author": {
-                "name": "Xialiang98",
-                "url": "https://github.com/Xialiang98"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171507887?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/antoine78910/ecomefficiency-midjourney",
-            "title": "antoine78910/ecomefficiency-midjourney",
-            "date_modified": "2024-11-27T07:37:19.000Z",
-            "date_published": "2024-09-25T14:57:21.000Z",
-            "author": {
-                "name": "antoine78910",
-                "url": "https://github.com/antoine78910"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4746061?u=67d0353f4227627abf014808a5f9f21e25179834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。</div>",
-            "url": "https://github.com/yangjian102621/geekai",
-            "title": "yangjian102621/geekai: AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
-            "date_modified": "2024-11-28T17:02:52.000Z",
-            "date_published": "2023-05-06T06:48:54.000Z",
-            "author": {
-                "name": "yangjian102621",
-                "url": "https://github.com/yangjian102621"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
-            "url": "https://github.com/coaidev/coai",
-            "title": "coaidev/coai: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
-            "date_modified": "2024-11-28T23:31:44.000Z",
-            "date_published": "2023-07-17T18:09:57.000Z",
-            "author": {
-                "name": "coaidev",
-                "url": "https://github.com/coaidev"
             }
         }
     ]
