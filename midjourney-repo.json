@@ -6,14 +6,91 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5935103?u=076cf8567de5c350a5914f6d1b2279f205866c0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Node.js app that downloads images from Midjourney and provides a slideshow server</div>",
+            "url": "https://github.com/andrewmcdan/MJ-image-favorites-downloader",
+            "title": "andrewmcdan/MJ-image-favorites-downloader: Node.js app that downloads images from Midjourney and provides a slideshow server",
+            "date_modified": "2024-12-09T00:23:55.000Z",
+            "date_published": "2023-10-19T04:46:37.000Z",
+            "author": {
+                "name": "andrewmcdan",
+                "url": "https://github.com/andrewmcdan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2024-12-08T23:02:49.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
+            "url": "https://github.com/filipecalegario/awesome-generative-ai",
+            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
+            "date_modified": "2024-12-09T01:02:51.000Z",
+            "date_published": "2021-07-19T15:11:51.000Z",
+            "author": {
+                "name": "filipecalegario",
+                "url": "https://github.com/filipecalegario"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。</div>",
+            "url": "https://github.com/Calcium-Ion/new-api",
+            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
+            "date_modified": "2024-12-08T12:05:16.000Z",
+            "date_published": "2023-11-10T19:33:36.000Z",
+            "author": {
+                "name": "Calcium-Ion",
+                "url": "https://github.com/Calcium-Ion"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
             "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
             "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2024-12-07T15:25:35.000Z",
+            "date_modified": "2024-12-08T15:21:38.000Z",
             "date_published": "2023-10-14T16:15:40.000Z",
             "author": {
                 "name": "WeThinkIn",
                 "url": "https://github.com/WeThinkIn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190999581?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/apitoyou/midjourney",
+            "title": "apitoyou/midjourney",
+            "date_modified": "2024-12-08T09:44:35.000Z",
+            "date_published": "2024-12-08T09:44:35.000Z",
+            "author": {
+                "name": "apitoyou",
+                "url": "https://github.com/apitoyou"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
+            "url": "https://github.com/coaidev/coai",
+            "title": "coaidev/coai: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+            "date_modified": "2024-12-09T00:29:40.000Z",
+            "date_published": "2023-07-17T18:09:57.000Z",
+            "author": {
+                "name": "coaidev",
+                "url": "https://github.com/coaidev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190983024?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Joeydm6/Midjourney-prompts",
+            "title": "Joeydm6/Midjourney-prompts",
+            "date_modified": "2024-12-08T01:13:13.000Z",
+            "date_published": "2024-12-08T01:13:13.000Z",
+            "author": {
+                "name": "Joeydm6",
+                "url": "https://github.com/Joeydm6"
             }
         },
         {
@@ -36,17 +113,6 @@
             "author": {
                 "name": "CleasbyCode",
                 "url": "https://github.com/CleasbyCode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。</div>",
-            "url": "https://github.com/Calcium-Ion/new-api",
-            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
-            "date_modified": "2024-12-07T20:19:11.000Z",
-            "date_published": "2023-11-10T19:33:36.000Z",
-            "author": {
-                "name": "Calcium-Ion",
-                "url": "https://github.com/Calcium-Ion"
             }
         },
         {
@@ -97,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/179190197?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>将302.AI的功能通过插件接入到Chat-on-Wechat</div>",
             "url": "https://github.com/302ai/302-CoW-Plugin",
             "title": "302ai/302-CoW-Plugin: 将302.AI的功能通过插件接入到Chat-on-Wechat",
-            "date_modified": "2024-12-06T18:39:50.000Z",
+            "date_modified": "2024-12-08T13:43:06.000Z",
             "date_published": "2024-10-14T21:57:33.000Z",
             "author": {
                 "name": "302ai",
@@ -124,17 +190,6 @@
             "author": {
                 "name": "renerod1",
                 "url": "https://github.com/renerod1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2024-12-07T22:31:31.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "go2coding",
                 "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109990388?u=76ff918ad899a05d41e70db526884e46e56a7e18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create podcast from ChatGT &amp; MidJourney</div>",
-            "url": "https://github.com/SnDann/podcast",
-            "title": "SnDann/podcast: Create podcast from ChatGT & MidJourney",
-            "date_modified": "2024-12-05T23:34:07.000Z",
-            "date_published": "2024-12-05T23:34:02.000Z",
-            "author": {
-                "name": "SnDann",
-                "url": "https://github.com/SnDann"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34375481?u=478358bc0c930d627d5541106964e8bb730ffed6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>每日定时更新 midjourney stable diffusion 的热门prompt</div>",
-            "url": "https://github.com/a1667834841/promot_pub",
-            "title": "a1667834841/promot_pub: 每日定时更新 midjourney stable diffusion 的热门prompt",
-            "date_modified": "2024-12-05T20:17:46.000Z",
-            "date_published": "2023-06-09T16:30:11.000Z",
-            "author": {
-                "name": "a1667834841",
-                "url": "https://github.com/a1667834841"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185914177?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2024最新ChatGPT镜像网站大全：国内访问，支持GPT-4和MidJourney</div>",
-            "url": "https://github.com/loursa/ChatGPT-mirrors-Guide",
-            "title": "loursa/ChatGPT-mirrors-Guide: 2024最新ChatGPT镜像网站大全：国内访问，支持GPT-4和MidJourney",
-            "date_modified": "2024-12-05T15:33:23.000Z",
-            "date_published": "2024-12-05T09:50:34.000Z",
-            "author": {
-                "name": "loursa",
-                "url": "https://github.com/loursa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186848?u=1d69f7a9d6e09e27037e791697d4a48b7b4876f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/arrowed/midjourney-scraper",
-            "title": "arrowed/midjourney-scraper",
-            "date_modified": "2024-12-05T13:48:16.000Z",
-            "date_published": "2024-01-13T05:07:40.000Z",
-            "author": {
-                "name": "arrowed",
-                "url": "https://github.com/arrowed"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186848?u=1d69f7a9d6e09e27037e791697d4a48b7b4876f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/arrowed/midjourney-wallpaper-ui",
-            "title": "arrowed/midjourney-wallpaper-ui",
-            "date_modified": "2024-12-05T13:45:10.000Z",
-            "date_published": "2024-01-13T05:17:00.000Z",
-            "author": {
-                "name": "arrowed",
-                "url": "https://github.com/arrowed"
             }
         }
     ]
