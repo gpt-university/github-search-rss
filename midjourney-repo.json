@@ -6,6 +6,116 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190424768?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>O presente trabalho faz parte de um dos entregáveis do bootcamp \"CAIXA - IA Generativa com Microsoft Copilot\", especificamente da seção \"Projetos Práticos com IA\" e consiste na criação de um e-book usando ferramentas como o ChatGPT e o MidJourney.</div>",
+            "url": "https://github.com/luizcslima/Projeto_DIO_Criando-um-Ebook-com-ChatGPT-MidJourney",
+            "title": "luizcslima/Projeto_DIO_Criando-um-Ebook-com-ChatGPT-MidJourney: O presente trabalho faz parte de um dos entregáveis do bootcamp \"CAIXA - IA Generativa com Microsoft Copilot\", especificamente da seção \"Projetos Práticos com IA\" e consiste na criação de um e-book usando ferramentas como o ChatGPT e o MidJourney.",
+            "date_modified": "2024-12-18T00:11:32.000Z",
+            "date_published": "2024-12-17T21:58:24.000Z",
+            "author": {
+                "name": "luizcslima",
+                "url": "https://github.com/luizcslima"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
+            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
+            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
+            "date_modified": "2024-12-17T23:48:25.000Z",
+            "date_published": "2023-10-14T16:15:40.000Z",
+            "author": {
+                "name": "WeThinkIn",
+                "url": "https://github.com/WeThinkIn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191152838?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Criando um Ebook com ChatGPT &amp; MidJourney</div>",
+            "url": "https://github.com/ElieneSathler/-Ebook_Desafio_DIO",
+            "title": "ElieneSathler/-Ebook_Desafio_DIO:  Criando um Ebook com ChatGPT & MidJourney",
+            "date_modified": "2024-12-17T20:25:46.000Z",
+            "date_published": "2024-12-17T20:21:26.000Z",
+            "author": {
+                "name": "ElieneSathler",
+                "url": "https://github.com/ElieneSathler"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54554557?u=7dc04db6f14d8aee6147cc2a887584413acc5868&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/2lambda123/relatedcode-Midjourney",
+            "title": "2lambda123/relatedcode-Midjourney",
+            "date_modified": "2024-12-17T10:59:58.000Z",
+            "date_published": "2024-10-08T14:28:28.000Z",
+            "author": {
+                "name": "2lambda123",
+                "url": "https://github.com/2lambda123"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191953416?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ajguber/UberMidjourney",
+            "title": "ajguber/UberMidjourney",
+            "date_modified": "2024-12-17T10:28:26.000Z",
+            "date_published": "2024-12-17T06:55:55.000Z",
+            "author": {
+                "name": "ajguber",
+                "url": "https://github.com/ajguber"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</div>",
+            "url": "https://github.com/Calcium-Ion/new-api",
+            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+            "date_modified": "2024-12-18T00:23:01.000Z",
+            "date_published": "2023-11-10T19:33:36.000Z",
+            "author": {
+                "name": "Calcium-Ion",
+                "url": "https://github.com/Calcium-Ion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，后续支持stable-diffusion，充值消费等</div>",
+            "url": "https://github.com/vual/lobe-chat-pro",
+            "title": "vual/lobe-chat-pro: 基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，后续支持stable-diffusion，充值消费等",
+            "date_modified": "2024-12-17T09:00:18.000Z",
+            "date_published": "2024-07-05T08:59:07.000Z",
+            "author": {
+                "name": "vual",
+                "url": "https://github.com/vual"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2024-12-17T10:58:37.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
+            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
+            "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
+            "date_modified": "2024-12-17T16:58:48.000Z",
+            "date_published": "2023-11-19T03:18:59.000Z",
+            "author": {
+                "name": "Dooy",
+                "url": "https://github.com/Dooy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2024-12-17T05:54:10.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11333576?u=a3fa061e4508d005d484282cdf4d39339ae451a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI image generation in bulk automatically</div>",
             "url": "https://github.com/igolaizola/bulkai",
             "title": "igolaizola/bulkai: AI image generation in bulk automatically",
@@ -50,28 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</div>",
-            "url": "https://github.com/Calcium-Ion/new-api",
-            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
-            "date_modified": "2024-12-17T00:15:17.000Z",
-            "date_published": "2023-11-10T19:33:36.000Z",
-            "author": {
-                "name": "Calcium-Ion",
-                "url": "https://github.com/Calcium-Ion"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
-            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
-            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2024-12-16T15:21:37.000Z",
-            "date_published": "2023-10-14T16:15:40.000Z",
-            "author": {
-                "name": "WeThinkIn",
-                "url": "https://github.com/WeThinkIn"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111459700?u=9dd9d21e29418a657e160226978e6769cc130f6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ebook didatico criado com auxilio das IA´s ChatGPT, Midjourney e Ferramenta de edição Power Point</div>",
             "url": "https://github.com/Pedrogao22/Da-Lentid-o-a-Velocidade-da-Luz",
             "title": "Pedrogao22/Da-Lentid-o-a-Velocidade-da-Luz: Ebook didatico criado com auxilio das IA´s ChatGPT, Midjourney e Ferramenta de edição Power Point",
@@ -94,21 +182,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，后续支持stable-diffusion，充值消费等</div>",
-            "url": "https://github.com/vual/lobe-chat-pro",
-            "title": "vual/lobe-chat-pro: 基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，后续支持stable-diffusion，充值消费等",
-            "date_modified": "2024-12-16T06:32:38.000Z",
-            "date_published": "2024-07-05T08:59:07.000Z",
-            "author": {
-                "name": "vual",
-                "url": "https://github.com/vual"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4746061?u=67d0353f4227627abf014808a5f9f21e25179834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。</div>",
             "url": "https://github.com/yangjian102621/geekai",
             "title": "yangjian102621/geekai: AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
-            "date_modified": "2024-12-16T14:57:02.000Z",
+            "date_modified": "2024-12-17T10:47:50.000Z",
             "date_published": "2023-05-06T06:48:54.000Z",
             "author": {
                 "name": "yangjian102621",
@@ -130,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28252913?u=0c8d6271cc92d33a794b4233814f1a1c07617e18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Intuitive image prompt generation tool designed for use with AI platforms like Stable Diffusion, Midjourney, DALL·E, FLUX and Sora. 极简的图像提示词编辑器</div>",
             "url": "https://github.com/rockbenben/img-prompt",
             "title": "rockbenben/img-prompt: Intuitive image prompt generation tool designed for use with AI platforms like Stable Diffusion, Midjourney, DALL·E, FLUX and Sora. 极简的图像提示词编辑器",
-            "date_modified": "2024-12-15T22:04:45.000Z",
+            "date_modified": "2024-12-17T08:03:37.000Z",
             "date_published": "2023-04-17T05:26:53.000Z",
             "author": {
                 "name": "rockbenben",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "privet-fun",
                 "url": "https://github.com/privet-fun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186616584?u=b06eb138da379614891f46007600f3d037f7b837&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chatgpt + Canva + Midjourney</div>",
-            "url": "https://github.com/guiella/Podcast-Primo-da-Lei",
-            "title": "guiella/Podcast-Primo-da-Lei: Chatgpt + Canva + Midjourney",
-            "date_modified": "2024-12-15T19:59:22.000Z",
-            "date_published": "2024-12-15T19:52:15.000Z",
-            "author": {
-                "name": "guiella",
-                "url": "https://github.com/guiella"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117482569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JanaynaBrito/Desafio-Criando-um-Ebook-com-ChatGPT-MidJourney",
-            "title": "JanaynaBrito/Desafio-Criando-um-Ebook-com-ChatGPT-MidJourney",
-            "date_modified": "2024-12-15T15:18:12.000Z",
-            "date_published": "2024-12-15T13:44:07.000Z",
-            "author": {
-                "name": "JanaynaBrito",
-                "url": "https://github.com/JanaynaBrito"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2024-12-16T04:26:26.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131470832?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.</div>",
-            "url": "https://github.com/lobehub/lobe-midjourney-webui",
-            "title": "lobehub/lobe-midjourney-webui: ⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.",
-            "date_modified": "2024-12-16T08:08:15.000Z",
-            "date_published": "2024-01-14T14:36:42.000Z",
-            "author": {
-                "name": "lobehub",
-                "url": "https://github.com/lobehub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4257492?u=52a6a1ff05ca2ccfb18dfdbf510749a0f0570c94&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Mann0nomix/midjourney-ui",
-            "title": "Mann0nomix/midjourney-ui",
-            "date_modified": "2024-12-15T00:02:55.000Z",
-            "date_published": "2024-12-15T00:02:15.000Z",
-            "author": {
-                "name": "Mann0nomix",
-                "url": "https://github.com/Mann0nomix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112853162?u=e02f9a688ba10c05b0203f1afc52ef707fd4ce78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated December 2024</div>",
-            "url": "https://github.com/eudk/awesome-ai-tools",
-            "title": "eudk/awesome-ai-tools: 🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated December 2024",
-            "date_modified": "2024-12-15T11:45:40.000Z",
-            "date_published": "2023-12-22T20:37:48.000Z",
-            "author": {
-                "name": "eudk",
-                "url": "https://github.com/eudk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13982254?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/jirlock/logo-midjourney",
-            "title": "jirlock/logo-midjourney",
-            "date_modified": "2024-12-14T12:17:58.000Z",
-            "date_published": "2024-12-14T12:17:54.000Z",
-            "author": {
-                "name": "jirlock",
-                "url": "https://github.com/jirlock"
             }
         }
     ]
