@@ -6,6 +6,72 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
+            "date_modified": "2025-01-06T19:51:29.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
+            "url": "https://github.com/AceDataCloud/Nexior",
+            "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
+            "date_modified": "2025-01-06T17:09:12.000Z",
+            "date_published": "2024-02-26T16:28:37.000Z",
+            "author": {
+                "name": "AceDataCloud",
+                "url": "https://github.com/AceDataCloud"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77066974?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Touchdesigner Component allowing user to control dezoom images from Midjourney</div>",
+            "url": "https://github.com/GuiGPaP/MJ_TD_zoom-out",
+            "title": "GuiGPaP/MJ_TD_zoom-out: A Touchdesigner Component allowing user to control dezoom images from Midjourney",
+            "date_modified": "2025-01-06T16:02:59.000Z",
+            "date_published": "2025-01-06T15:47:44.000Z",
+            "author": {
+                "name": "GuiGPaP",
+                "url": "https://github.com/GuiGPaP"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299057?u=1d3a78a01b554097fdb04ff4b3dad4ee94010a73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of Generative AI tools, works, models, and references</div>",
+            "url": "https://github.com/filipecalegario/awesome-generative-ai",
+            "title": "filipecalegario/awesome-generative-ai: A curated list of Generative AI tools, works, models, and references",
+            "date_modified": "2025-01-06T13:35:53.000Z",
+            "date_published": "2021-07-19T15:11:51.000Z",
+            "author": {
+                "name": "filipecalegario",
+                "url": "https://github.com/filipecalegario"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</div>",
+            "url": "https://github.com/Calcium-Ion/new-api",
+            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+            "date_modified": "2025-01-06T19:51:36.000Z",
+            "date_published": "2023-11-10T19:33:36.000Z",
+            "author": {
+                "name": "Calcium-Ion",
+                "url": "https://github.com/Calcium-Ion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2025-01-06T02:51:02.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74771713?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MediaGenAI is a comprehensive AI-powered media generation toolkit that transforms text prompts into stunning visuals and videos. Leveraging advanced generative AI models like Stable Diffusion, DALL-E, and inspired by MidJourney</div>",
             "url": "https://github.com/anjalikabra18/MediaGenAI---AI-Powered-Media-Generation-Hub",
             "title": "anjalikabra18/MediaGenAI---AI-Powered-Media-Generation-Hub: MediaGenAI is a comprehensive AI-powered media generation toolkit that transforms text prompts into stunning visuals and videos. Leveraging advanced generative AI models like Stable Diffusion, DALL-E, and inspired by MidJourney",
@@ -28,21 +94,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
-            "url": "https://github.com/AceDataCloud/Nexior",
-            "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
-            "date_modified": "2025-01-05T16:45:25.000Z",
-            "date_published": "2024-02-26T16:28:37.000Z",
-            "author": {
-                "name": "AceDataCloud",
-                "url": "https://github.com/AceDataCloud"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
             "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
             "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
-            "date_modified": "2025-01-05T14:53:11.000Z",
+            "date_modified": "2025-01-06T15:00:37.000Z",
             "date_published": "2023-11-19T03:18:59.000Z",
             "author": {
                 "name": "Dooy",
@@ -50,21 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</div>",
-            "url": "https://github.com/Calcium-Ion/new-api",
-            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
-            "date_modified": "2025-01-06T00:52:04.000Z",
-            "date_published": "2023-11-10T19:33:36.000Z",
-            "author": {
-                "name": "Calcium-Ion",
-                "url": "https://github.com/Calcium-Ion"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
             "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
             "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2025-01-05T12:07:03.000Z",
+            "date_modified": "2025-01-06T23:44:56.000Z",
             "date_published": "2023-10-14T16:15:40.000Z",
             "author": {
                 "name": "WeThinkIn",
@@ -141,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24899308?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>99AI：可商业化的 AI Web 应用（免授权，无后门，支持快速部署，支持二次开发及分发），以 ALL-IN-CHAT 为目标。已支持 AI 对话、绘图、音乐、视频等功能，以及联网、思维导图等插件。</div>",
             "url": "https://github.com/vastxie/99AI",
             "title": "vastxie/99AI: 99AI：可商业化的 AI Web 应用（免授权，无后门，支持快速部署，支持二次开发及分发），以 ALL-IN-CHAT 为目标。已支持 AI 对话、绘图、音乐、视频等功能，以及联网、思维导图等插件。",
-            "date_modified": "2025-01-05T10:12:35.000Z",
+            "date_modified": "2025-01-06T15:30:36.000Z",
             "date_published": "2024-01-17T01:17:51.000Z",
             "author": {
                 "name": "vastxie",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Xixinink",
                 "url": "https://github.com/Xixinink"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42848465?u=c0fe47955a4b187e67d38c9e2280fadcfbfd0cdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository is dedicated to the Full Stack MERN AI Image Generation App called Wall-E. It is meant to be a clone of apps like Dall-E and Midjourney.</div>",
-            "url": "https://github.com/ajwild320/Project-Wall-E",
-            "title": "ajwild320/Project-Wall-E: This repository is dedicated to the Full Stack MERN AI Image Generation App called Wall-E. It is meant to be a clone of apps like Dall-E and Midjourney.",
-            "date_modified": "2025-01-04T02:33:29.000Z",
-            "date_published": "2025-01-04T02:33:29.000Z",
-            "author": {
-                "name": "ajwild320",
-                "url": "https://github.com/ajwild320"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45072246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts for ChatGPT and MidJourney</div>",
-            "url": "https://github.com/tomrailio/Prompt-Engineering",
-            "title": "tomrailio/Prompt-Engineering: Prompts for ChatGPT and MidJourney",
-            "date_modified": "2025-01-03T15:04:11.000Z",
-            "date_published": "2023-04-16T12:41:59.000Z",
-            "author": {
-                "name": "tomrailio",
-                "url": "https://github.com/tomrailio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169994915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>如何申请香港Visa卡</div>",
-            "url": "https://github.com/jordahnmgpawst/HK-Visa",
-            "title": "jordahnmgpawst/HK-Visa: 如何申请香港Visa卡",
-            "date_modified": "2025-01-03T12:03:07.000Z",
-            "date_published": "2024-05-25T00:18:30.000Z",
-            "author": {
-                "name": "jordahnmgpawst",
-                "url": "https://github.com/jordahnmgpawst"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112853162?u=e02f9a688ba10c05b0203f1afc52ef707fd4ce78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated January 2025</div>",
-            "url": "https://github.com/eudk/awesome-ai-tools",
-            "title": "eudk/awesome-ai-tools: 🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated January 2025",
-            "date_modified": "2025-01-03T18:42:07.000Z",
-            "date_published": "2023-12-22T20:37:48.000Z",
-            "author": {
-                "name": "eudk",
-                "url": "https://github.com/eudk"
             }
         }
     ]
