@@ -6,10 +6,131 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195384439?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Criando um Ebook com ChatGPT &amp; MidJourney</div>",
+            "url": "https://github.com/LILIAN2301/Prompts-Poderosos",
+            "title": "LILIAN2301/Prompts-Poderosos: Criando um Ebook com ChatGPT & MidJourney",
+            "date_modified": "2025-01-17T00:29:30.000Z",
+            "date_published": "2025-01-17T00:04:15.000Z",
+            "author": {
+                "name": "LILIAN2301",
+                "url": "https://github.com/LILIAN2301"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45072246?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts for ChatGPT and MidJourney</div>",
+            "url": "https://github.com/tomrailio/Prompt-Engineering",
+            "title": "tomrailio/Prompt-Engineering: Prompts for ChatGPT and MidJourney",
+            "date_modified": "2025-01-16T19:48:46.000Z",
+            "date_published": "2023-04-16T12:41:59.000Z",
+            "author": {
+                "name": "tomrailio",
+                "url": "https://github.com/tomrailio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12686549?u=0b5185f43fedd1fc667b673dd1c6d120a4f09c6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spectacular Car Advertisements created in Midjourney AI </div>",
+            "url": "https://github.com/cpuncekar/car-advertisments",
+            "title": "cpuncekar/car-advertisments: Spectacular Car Advertisements created in Midjourney AI ",
+            "date_modified": "2025-01-16T16:45:51.000Z",
+            "date_published": "2024-12-20T13:37:42.000Z",
+            "author": {
+                "name": "cpuncekar",
+                "url": "https://github.com/cpuncekar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191164387?u=ad644682b9c46481bab2d1e7b709858b982f4390&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Criando um Ebook com ChatGPT &amp; MidJourney ( Desafio do Bootcamp CAIXA - IA Generativa com Microsoft Copilot</div>",
+            "url": "https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Ebook",
+            "title": "SMGC-GIT/Projeto_DIO_Criando_um_Ebook: Criando um Ebook com ChatGPT & MidJourney ( Desafio do Bootcamp CAIXA - IA Generativa com Microsoft Copilot",
+            "date_modified": "2025-01-16T16:26:33.000Z",
+            "date_published": "2025-01-16T15:25:35.000Z",
+            "author": {
+                "name": "SMGC-GIT",
+                "url": "https://github.com/SMGC-GIT"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7714910?u=44399d7bf2cd711d09ed7f82f5eedf966251859b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/gummiz/Midjourney-Generator-v2",
+            "title": "gummiz/Midjourney-Generator-v2",
+            "date_modified": "2025-01-16T16:03:34.000Z",
+            "date_published": "2024-10-30T14:07:50.000Z",
+            "author": {
+                "name": "gummiz",
+                "url": "https://github.com/gummiz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140687608?u=ddbfbee48a9952378f8fcdb9c4bc63a2572ba9b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create a private chatgpt website via vercel</div>",
+            "url": "https://github.com/Shreyas850/chatgpt-vercel",
+            "title": "Shreyas850/chatgpt-vercel: Create a private chatgpt website via vercel",
+            "date_modified": "2025-01-16T14:35:52.000Z",
+            "date_published": "2025-01-16T13:56:33.000Z",
+            "author": {
+                "name": "Shreyas850",
+                "url": "https://github.com/Shreyas850"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537200?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>running in terminal's midjourney client. Midjourney-Proxy-Plus compatibly</div>",
+            "url": "https://github.com/v2sh1t/midjourney-terminal-client",
+            "title": "v2sh1t/midjourney-terminal-client: running in terminal's midjourney client. Midjourney-Proxy-Plus compatibly",
+            "date_modified": "2025-01-16T14:30:05.000Z",
+            "date_published": "2025-01-16T14:23:46.000Z",
+            "author": {
+                "name": "v2sh1t",
+                "url": "https://github.com/v2sh1t"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112967459?u=90cbc972c53f647a1a84193ea5dd5c5804e44c3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains the source code for a full-stack AI-powered image generation application, inspired by MidJourney and DALL·E. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app leverages AI to generate unique and high-quality images based on user prompts.</div>",
+            "url": "https://github.com/Sam5131/ImageGenerator",
+            "title": "Sam5131/ImageGenerator: This repository contains the source code for a full-stack AI-powered image generation application, inspired by MidJourney and DALL·E. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app leverages AI to generate unique and high-quality images based on user prompts.",
+            "date_modified": "2025-01-16T12:56:30.000Z",
+            "date_published": "2025-01-16T12:53:11.000Z",
+            "author": {
+                "name": "Sam5131",
+                "url": "https://github.com/Sam5131"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185741871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zhangeyuting/chatgpt-web-midjourney",
+            "title": "zhangeyuting/chatgpt-web-midjourney",
+            "date_modified": "2025-01-16T09:38:47.000Z",
+            "date_published": "2024-11-01T03:12:13.000Z",
+            "author": {
+                "name": "zhangeyuting",
+                "url": "https://github.com/zhangeyuting"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，充值消费等</div>",
+            "url": "https://github.com/vual/lobe-chat-pro",
+            "title": "vual/lobe-chat-pro: 基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，充值消费等",
+            "date_modified": "2025-01-16T08:30:48.000Z",
+            "date_published": "2024-07-05T08:59:07.000Z",
+            "author": {
+                "name": "vual",
+                "url": "https://github.com/vual"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142396920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Node.js、Vue3、uniapp的ChatGPT+Midjourney绘画+Suno音乐+Pika/Runway/Sora视频 网页服务 | 个人、团队、企业私有化AIGC平台</div>",
+            "url": "https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro",
+            "title": "51yuese/GoMaxAI-ChatGPT-Midjourney-Pro: 基于Node.js、Vue3、uniapp的ChatGPT+Midjourney绘画+Suno音乐+Pika/Runway/Sora视频 网页服务 | 个人、团队、企业私有化AIGC平台",
+            "date_modified": "2025-01-16T07:16:26.000Z",
+            "date_published": "2024-06-07T05:53:59.000Z",
+            "author": {
+                "name": "51yuese",
+                "url": "https://github.com/51yuese"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-01-16T00:35:44.000Z",
+            "date_modified": "2025-01-16T16:59:13.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -25,17 +146,6 @@
             "author": {
                 "name": "CarlaBBLonghi",
                 "url": "https://github.com/CarlaBBLonghi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56965551?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Marcia520/Criando-um-Ebook-com-ChatGPT-MidJourney-",
-            "title": "Marcia520/Criando-um-Ebook-com-ChatGPT-MidJourney-",
-            "date_modified": "2025-01-15T23:10:33.000Z",
-            "date_published": "2025-01-15T22:13:28.000Z",
-            "author": {
-                "name": "Marcia520",
-                "url": "https://github.com/Marcia520"
             }
         },
         {
@@ -97,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20700387?u=0c9bb78572cc82757982b28984ab32aa7a23ad7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 MidJourney 的discord频道，实现api形式调用AI绘图</div>",
             "url": "https://github.com/novicezk/midjourney-proxy",
             "title": "novicezk/midjourney-proxy: 代理 MidJourney 的discord频道，实现api形式调用AI绘图",
-            "date_modified": "2025-01-15T14:32:43.000Z",
+            "date_modified": "2025-01-16T09:25:17.000Z",
             "date_published": "2023-04-24T13:43:45.000Z",
             "author": {
                 "name": "novicezk",
@@ -113,116 +223,6 @@
             "author": {
                 "name": "go2coding",
                 "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88836541?u=83b8bd53ba9b04ac008ec38bbbb7b98f33152d73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/a3294352541/chatgpt-web-midjourney-proxy",
-            "title": "a3294352541/chatgpt-web-midjourney-proxy",
-            "date_modified": "2025-01-15T07:56:53.000Z",
-            "date_published": "2025-01-15T07:56:39.000Z",
-            "author": {
-                "name": "a3294352541",
-                "url": "https://github.com/a3294352541"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193292188?u=9da23eb11b8004230b2be4aabd48ff8d073f2df0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unleash Your Creative Potential – Enter the New Era of AI Art with MidJourney!</div>",
-            "url": "https://github.com/Lynn0990/MidjourneyAPI",
-            "title": "Lynn0990/MidjourneyAPI: Unleash Your Creative Potential – Enter the New Era of AI Art with MidJourney!",
-            "date_modified": "2025-01-15T07:29:43.000Z",
-            "date_published": "2025-01-15T07:17:58.000Z",
-            "author": {
-                "name": "Lynn0990",
-                "url": "https://github.com/Lynn0990"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/194865316?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Livro criado para conclusão de disciplina Criando um Ebook com ChatGPT &amp; MidJourney</div>",
-            "url": "https://github.com/Sandra0910/Como-criar-gatos-felizes",
-            "title": "Sandra0910/Como-criar-gatos-felizes: Livro criado para conclusão de disciplina Criando um Ebook com ChatGPT & MidJourney",
-            "date_modified": "2025-01-14T20:27:09.000Z",
-            "date_published": "2025-01-14T20:20:13.000Z",
-            "author": {
-                "name": "Sandra0910",
-                "url": "https://github.com/Sandra0910"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1413216?u=1fb37acca004fec415cd946e1c34cee95402b19d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/man0l/midjourney-prompt-generator",
-            "title": "man0l/midjourney-prompt-generator",
-            "date_modified": "2025-01-14T17:38:54.000Z",
-            "date_published": "2025-01-02T20:06:02.000Z",
-            "author": {
-                "name": "man0l",
-                "url": "https://github.com/man0l"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
-            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
-            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、SLAM、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2025-01-14T00:55:55.000Z",
-            "date_published": "2023-10-14T16:15:40.000Z",
-            "author": {
-                "name": "WeThinkIn",
-                "url": "https://github.com/WeThinkIn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5935103?u=076cf8567de5c350a5914f6d1b2279f205866c0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Small Node.js app to launch Chromium in kiosk mode and point it at my instance of MJ Image Favorites Downloader Server</div>",
-            "url": "https://github.com/andrewmcdan/mj-launcher",
-            "title": "andrewmcdan/mj-launcher: Small Node.js app to launch Chromium in kiosk mode and point it at my instance of MJ Image Favorites Downloader Server",
-            "date_modified": "2025-01-14T00:33:40.000Z",
-            "date_published": "2023-12-02T23:21:57.000Z",
-            "author": {
-                "name": "andrewmcdan",
-                "url": "https://github.com/andrewmcdan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12686549?u=0b5185f43fedd1fc667b673dd1c6d120a4f09c6d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Spectacular Car Advertisements created in Midjourney AI </div>",
-            "url": "https://github.com/cpuncekar/car-advertisments",
-            "title": "cpuncekar/car-advertisments: Spectacular Car Advertisements created in Midjourney AI ",
-            "date_modified": "2025-01-13T22:11:18.000Z",
-            "date_published": "2024-12-20T13:37:42.000Z",
-            "author": {
-                "name": "cpuncekar",
-                "url": "https://github.com/cpuncekar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/191712463?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Criando um Ebook com ChatGPT &amp; MidJourney com a DIO</div>",
-            "url": "https://github.com/lebasi-sircitan/Ebook",
-            "title": "lebasi-sircitan/Ebook: Criando um Ebook com ChatGPT & MidJourney com a DIO",
-            "date_modified": "2025-01-13T22:08:44.000Z",
-            "date_published": "2025-01-13T19:56:45.000Z",
-            "author": {
-                "name": "lebasi-sircitan",
-                "url": "https://github.com/lebasi-sircitan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/186984292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services</div>",
-            "url": "https://github.com/ChatAnyTeam/ChatAny",
-            "title": "ChatAnyTeam/ChatAny: 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services",
-            "date_modified": "2025-01-14T08:11:15.000Z",
-            "date_published": "2023-06-05T10:35:13.000Z",
-            "author": {
-                "name": "ChatAnyTeam",
-                "url": "https://github.com/ChatAnyTeam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/187418458?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/fernanda-altrao/Projeto---Criando-um-Ebook-com-ChatGPT-MidJourney",
-            "title": "fernanda-altrao/Projeto---Criando-um-Ebook-com-ChatGPT-MidJourney",
-            "date_modified": "2025-01-13T14:08:39.000Z",
-            "date_published": "2025-01-13T13:47:47.000Z",
-            "author": {
-                "name": "fernanda-altrao",
-                "url": "https://github.com/fernanda-altrao"
             }
         }
     ]
