@@ -6,14 +6,91 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195402403?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Generated Photo Of Current Weather In A Random City- Real City, Real Weather, Generated Image - Stable Diffusion - OpenAI Dall-E2 - MidJourney</div>",
+            "url": "https://github.com/sandl-pro/ArcWeatherAI",
+            "title": "sandl-pro/ArcWeatherAI: AI Generated Photo Of Current Weather In A Random City- Real City, Real Weather, Generated Image - Stable Diffusion - OpenAI Dall-E2 - MidJourney",
+            "date_modified": "2025-01-17T19:02:35.000Z",
+            "date_published": "2025-01-17T07:57:49.000Z",
+            "author": {
+                "name": "sandl-pro",
+                "url": "https://github.com/sandl-pro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127703547?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI models all in one!</div>",
+            "url": "https://github.com/uniai-lab/uniai",
+            "title": "uniai-lab/uniai: AI models all in one!",
+            "date_modified": "2025-01-17T18:36:25.000Z",
+            "date_published": "2024-01-29T01:33:12.000Z",
+            "author": {
+                "name": "uniai-lab",
+                "url": "https://github.com/uniai-lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112967459?u=90cbc972c53f647a1a84193ea5dd5c5804e44c3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains the source code for a full-stack AI-powered image generation application, inspired by MidJourney and DALL·E. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app leverages AI to generate unique and high-quality images based on user prompts.</div>",
+            "url": "https://github.com/Sam5131/ImageGenerator",
+            "title": "Sam5131/ImageGenerator: This repository contains the source code for a full-stack AI-powered image generation application, inspired by MidJourney and DALL·E. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app leverages AI to generate unique and high-quality images based on user prompts.",
+            "date_modified": "2025-01-17T18:26:38.000Z",
+            "date_published": "2025-01-16T12:53:11.000Z",
+            "author": {
+                "name": "Sam5131",
+                "url": "https://github.com/Sam5131"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537200?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>running in terminal's midjourney client. Midjourney-Proxy-Plus compatibly</div>",
+            "url": "https://github.com/v2sh1t/midjourney-terminal-client",
+            "title": "v2sh1t/midjourney-terminal-client: running in terminal's midjourney client. Midjourney-Proxy-Plus compatibly",
+            "date_modified": "2025-01-17T15:21:26.000Z",
+            "date_published": "2025-01-16T14:23:46.000Z",
+            "author": {
+                "name": "v2sh1t",
+                "url": "https://github.com/v2sh1t"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195384439?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Criando um Ebook com ChatGPT &amp; MidJourney</div>",
             "url": "https://github.com/LILIAN2301/Prompts-Poderosos",
             "title": "LILIAN2301/Prompts-Poderosos: Criando um Ebook com ChatGPT & MidJourney",
-            "date_modified": "2025-01-17T00:29:30.000Z",
+            "date_modified": "2025-01-17T14:39:23.000Z",
             "date_published": "2025-01-17T00:04:15.000Z",
             "author": {
                 "name": "LILIAN2301",
                 "url": "https://github.com/LILIAN2301"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-01-17T13:54:09.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84770364?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/spacex-3/midjourney",
+            "title": "spacex-3/midjourney",
+            "date_modified": "2025-01-17T07:26:50.000Z",
+            "date_published": "2024-08-30T14:11:48.000Z",
+            "author": {
+                "name": "spacex-3",
+                "url": "https://github.com/spacex-3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159385982?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/ThuanyCarrijo/Criando-um-Ebook-com-ChatGPT-MidJourney",
+            "title": "ThuanyCarrijo/Criando-um-Ebook-com-ChatGPT-MidJourney",
+            "date_modified": "2025-01-17T04:11:14.000Z",
+            "date_published": "2025-01-17T04:05:22.000Z",
+            "author": {
+                "name": "ThuanyCarrijo",
+                "url": "https://github.com/ThuanyCarrijo"
             }
         },
         {
@@ -72,28 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537200?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>running in terminal's midjourney client. Midjourney-Proxy-Plus compatibly</div>",
-            "url": "https://github.com/v2sh1t/midjourney-terminal-client",
-            "title": "v2sh1t/midjourney-terminal-client: running in terminal's midjourney client. Midjourney-Proxy-Plus compatibly",
-            "date_modified": "2025-01-16T14:30:05.000Z",
-            "date_published": "2025-01-16T14:23:46.000Z",
-            "author": {
-                "name": "v2sh1t",
-                "url": "https://github.com/v2sh1t"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112967459?u=90cbc972c53f647a1a84193ea5dd5c5804e44c3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains the source code for a full-stack AI-powered image generation application, inspired by MidJourney and DALL·E. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app leverages AI to generate unique and high-quality images based on user prompts.</div>",
-            "url": "https://github.com/Sam5131/ImageGenerator",
-            "title": "Sam5131/ImageGenerator: This repository contains the source code for a full-stack AI-powered image generation application, inspired by MidJourney and DALL·E. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app leverages AI to generate unique and high-quality images based on user prompts.",
-            "date_modified": "2025-01-16T12:56:30.000Z",
-            "date_published": "2025-01-16T12:53:11.000Z",
-            "author": {
-                "name": "Sam5131",
-                "url": "https://github.com/Sam5131"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185741871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/zhangeyuting/chatgpt-web-midjourney",
             "title": "zhangeyuting/chatgpt-web-midjourney",
@@ -108,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，充值消费等</div>",
             "url": "https://github.com/vual/lobe-chat-pro",
             "title": "vual/lobe-chat-pro: 基于lobe-chat，增加了绘图面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，用户注册登录，充值消费等",
-            "date_modified": "2025-01-16T08:30:48.000Z",
+            "date_modified": "2025-01-17T08:24:02.000Z",
             "date_published": "2024-07-05T08:59:07.000Z",
             "author": {
                 "name": "vual",
@@ -124,17 +179,6 @@
             "author": {
                 "name": "51yuese",
                 "url": "https://github.com/51yuese"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-01-16T16:59:13.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "SemblanceOfSense",
                 "url": "https://github.com/SemblanceOfSense"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/190638122?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Breninho1245/Criando-um-Ebook-com-ChatGPT-MidJourney",
-            "title": "Breninho1245/Criando-um-Ebook-com-ChatGPT-MidJourney",
-            "date_modified": "2025-01-15T15:11:12.000Z",
-            "date_published": "2025-01-14T20:40:17.000Z",
-            "author": {
-                "name": "Breninho1245",
-                "url": "https://github.com/Breninho1245"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134123608?u=622328f46c29fe52e9c2ef4397c512fc216c19b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney-proxy的先行版</div>",
-            "url": "https://github.com/litter-coder/midjourney-proxy-plus",
-            "title": "litter-coder/midjourney-proxy-plus: midjourney-proxy的先行版",
-            "date_modified": "2025-01-15T14:33:10.000Z",
-            "date_published": "2023-07-17T14:04:59.000Z",
-            "author": {
-                "name": "litter-coder",
-                "url": "https://github.com/litter-coder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20700387?u=0c9bb78572cc82757982b28984ab32aa7a23ad7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 MidJourney 的discord频道，实现api形式调用AI绘图</div>",
-            "url": "https://github.com/novicezk/midjourney-proxy",
-            "title": "novicezk/midjourney-proxy: 代理 MidJourney 的discord频道，实现api形式调用AI绘图",
-            "date_modified": "2025-01-16T09:25:17.000Z",
-            "date_published": "2023-04-24T13:43:45.000Z",
-            "author": {
-                "name": "novicezk",
-                "url": "https://github.com/novicezk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2025-01-15T08:52:40.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
             }
         }
     ]
