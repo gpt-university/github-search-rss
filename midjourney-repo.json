@@ -6,21 +6,10 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-02-26T00:59:52.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20841959?u=aebb7ec8013a64e6c44ca556f0051e76470a9177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI绘画提示词生成器，AI绘画咒语生成，中文提示词工具，AI绘画助手，设计师AI工具，提示词优化器，AI作画提示词，智能提示词生成，提示词模板库，AI绘画教程，设计师工具，创作助手，提示词转换，AI艺术创作，新媒体配图工具，电商主图生成，商业设计工具，插画生成器，概念设计工具，人物肖像生成，AI Prompt Generator，Midjourney Helper，Stable Diffusion Tool，AI Art Assistant，Prompt Engineering，Design AI Tool，Art Prompt System，AI Drawing Guide，Prompt Template，Creative AI Assistant🔮🤖🚀</div>",
             "url": "https://github.com/pen9un/art-prompt-system",
             "title": "pen9un/art-prompt-system: AI绘画提示词生成器，AI绘画咒语生成，中文提示词工具，AI绘画助手，设计师AI工具，提示词优化器，AI作画提示词，智能提示词生成，提示词模板库，AI绘画教程，设计师工具，创作助手，提示词转换，AI艺术创作，新媒体配图工具，电商主图生成，商业设计工具，插画生成器，概念设计工具，人物肖像生成，AI Prompt Generator，Midjourney Helper，Stable Diffusion Tool，AI Art Assistant，Prompt Engineering，Design AI Tool，Art Prompt System，AI Drawing Guide，Prompt Template，Creative AI Assistant🔮🤖🚀",
-            "date_modified": "2025-02-26T00:55:25.000Z",
+            "date_modified": "2025-02-27T00:55:24.000Z",
             "date_published": "2025-02-20T09:41:36.000Z",
             "author": {
                 "name": "pen9un",
@@ -31,11 +20,187 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20841959?u=aebb7ec8013a64e6c44ca556f0051e76470a9177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>微信机器人，ChatGPT机器人，AI智能助手，AI绘画机器人，Midjourney绘画，视频去水印，抖音快手视频无水印下载，群聊管理机器人，智能客服机器人，自动回复机器人，优惠券查询机器人，拼多多优惠券机器人，美团饿了么外卖红包，智能文档对话，全网热点资讯，全网热榜，私域运营助手，社群管理工具，电商营销机器人🔮🤖🚀</div>",
             "url": "https://github.com/pen9un/xiaoguo-wechat-bot",
             "title": "pen9un/xiaoguo-wechat-bot: 微信机器人，ChatGPT机器人，AI智能助手，AI绘画机器人，Midjourney绘画，视频去水印，抖音快手视频无水印下载，群聊管理机器人，智能客服机器人，自动回复机器人，优惠券查询机器人，拼多多优惠券机器人，美团饿了么外卖红包，智能文档对话，全网热点资讯，全网热榜，私域运营助手，社群管理工具，电商营销机器人🔮🤖🚀",
-            "date_modified": "2025-02-26T00:55:24.000Z",
+            "date_modified": "2025-02-27T00:55:23.000Z",
             "date_published": "2025-01-20T09:56:58.000Z",
             "author": {
                 "name": "pen9un",
                 "url": "https://github.com/pen9un"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
+            "date_modified": "2025-02-26T21:17:44.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171507887?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/antoine78910/ecomefficiency-midjourney",
+            "title": "antoine78910/ecomefficiency-midjourney",
+            "date_modified": "2025-02-26T19:50:18.000Z",
+            "date_published": "2024-09-25T14:57:21.000Z",
+            "author": {
+                "name": "antoine78910",
+                "url": "https://github.com/antoine78910"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
+            "url": "https://github.com/AceDataCloud/Nexior",
+            "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
+            "date_modified": "2025-02-26T17:27:15.000Z",
+            "date_published": "2024-02-26T16:28:37.000Z",
+            "author": {
+                "name": "AceDataCloud",
+                "url": "https://github.com/AceDataCloud"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-02-26T17:26:01.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3542518?u=fbd3a62ee4411ce8e1e8bf194f9f5b7276286137&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>image-generate-midjourney</div>",
+            "url": "https://github.com/Tonkungs/image-generate-midjourney",
+            "title": "Tonkungs/image-generate-midjourney: image-generate-midjourney",
+            "date_modified": "2025-02-26T17:16:20.000Z",
+            "date_published": "2024-10-25T15:47:43.000Z",
+            "author": {
+                "name": "Tonkungs",
+                "url": "https://github.com/Tonkungs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</div>",
+            "url": "https://github.com/Calcium-Ion/new-api",
+            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+            "date_modified": "2025-02-27T00:26:01.000Z",
+            "date_published": "2023-11-10T19:33:36.000Z",
+            "author": {
+                "name": "Calcium-Ion",
+                "url": "https://github.com/Calcium-Ion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
+            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
+            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
+            "date_modified": "2025-02-26T21:16:56.000Z",
+            "date_published": "2023-10-14T16:15:40.000Z",
+            "author": {
+                "name": "WeThinkIn",
+                "url": "https://github.com/WeThinkIn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127083599?u=534c2185929c4776922b96ac7dcd5acc17626714&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Download Midjourney Picture Automatic</div>",
+            "url": "https://github.com/tuha1994/MJ",
+            "title": "tuha1994/MJ: Download Midjourney Picture Automatic",
+            "date_modified": "2025-02-26T14:20:16.000Z",
+            "date_published": "2024-05-13T16:02:43.000Z",
+            "author": {
+                "name": "tuha1994",
+                "url": "https://github.com/tuha1994"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
+            "url": "https://github.com/coaidev/coai",
+            "title": "coaidev/coai: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+            "date_modified": "2025-02-26T16:09:08.000Z",
+            "date_published": "2023-07-17T18:09:57.000Z",
+            "author": {
+                "name": "coaidev",
+                "url": "https://github.com/coaidev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51039745?u=accb33fa417f386eaf9fc9b2ed07ec74fb36ada3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.</div>",
+            "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+            "title": "GaiZhenbiao/ChuanhuChatGPT: GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.",
+            "date_modified": "2025-02-26T20:35:06.000Z",
+            "date_published": "2023-03-02T13:37:13.000Z",
+            "author": {
+                "name": "GaiZhenbiao",
+                "url": "https://github.com/GaiZhenbiao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
+            "url": "https://github.com/go2coding/go2coding.github.io",
+            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+            "date_modified": "2025-02-26T10:11:34.000Z",
+            "date_published": "2020-04-14T08:34:22.000Z",
+            "author": {
+                "name": "go2coding",
+                "url": "https://github.com/go2coding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33971008?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yudingyi939/midjourney-ui",
+            "title": "yudingyi939/midjourney-ui",
+            "date_modified": "2025-02-26T09:34:41.000Z",
+            "date_published": "2025-02-26T09:34:01.000Z",
+            "author": {
+                "name": "yudingyi939",
+                "url": "https://github.com/yudingyi939"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6803102?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bypass Midjourney captcha.</div>",
+            "url": "https://github.com/ye4241/midjourney-captcha-bot",
+            "title": "ye4241/midjourney-captcha-bot: Bypass Midjourney captcha.",
+            "date_modified": "2025-02-26T07:17:44.000Z",
+            "date_published": "2024-08-07T08:56:54.000Z",
+            "author": {
+                "name": "ye4241",
+                "url": "https://github.com/ye4241"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200893255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Talking Visuals is the revolutionary all-in-one AI app that seamlessly integrates the capabilities of industry-leading tools like Canva, MidJourney, ChatGPT-4, and other costly applications into a single, user-friendly dashboard.</div>",
+            "url": "https://github.com/TalkingVisualsRe/Talking-Visuals-Review",
+            "title": "TalkingVisualsRe/Talking-Visuals-Review: Talking Visuals is the revolutionary all-in-one AI app that seamlessly integrates the capabilities of industry-leading tools like Canva, MidJourney, ChatGPT-4, and other costly applications into a single, user-friendly dashboard.",
+            "date_modified": "2025-02-26T06:04:16.000Z",
+            "date_published": "2025-02-26T05:56:06.000Z",
+            "author": {
+                "name": "TalkingVisualsRe",
+                "url": "https://github.com/TalkingVisualsRe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130196328?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍎 飞书 x midjourney = 你真正的创意伙伴</div>",
+            "url": "https://github.com/ConnectAI-E/Feishu-Midjourney",
+            "title": "ConnectAI-E/Feishu-Midjourney: 🍎 飞书 x midjourney = 你真正的创意伙伴",
+            "date_modified": "2025-02-26T05:52:12.000Z",
+            "date_published": "2023-04-12T14:17:24.000Z",
+            "author": {
+                "name": "ConnectAI-E",
+                "url": "https://github.com/ConnectAI-E"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy",
+            "title": "trueai-org/midjourney-proxy: The most powerful, complete, full-featured, completely free and open source Midjourney API project on the market.",
+            "date_modified": "2025-02-26T15:33:10.000Z",
+            "date_published": "2024-07-03T08:04:25.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
             }
         },
         {
@@ -58,171 +223,6 @@
             "author": {
                 "name": "DeanoMachineo",
                 "url": "https://github.com/DeanoMachineo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66402249?u=b0a5bb453e25071aecf99359bc8c36c14dfc6b08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A responsive web application that helps users create well-structured prompts for AI image generation tools such as DALL-E, Midjourney, Stable Diffusion, etc. Built with Next.js, TypeScript, and Tailwind CSS.</div>",
-            "url": "https://github.com/AjinND/image-prompt-generator",
-            "title": "AjinND/image-prompt-generator: A responsive web application that helps users create well-structured prompts for AI image generation tools such as DALL-E, Midjourney, Stable Diffusion, etc. Built with Next.js, TypeScript, and Tailwind CSS.",
-            "date_modified": "2025-02-25T15:37:38.000Z",
-            "date_published": "2025-02-25T15:26:38.000Z",
-            "author": {
-                "name": "AjinND",
-                "url": "https://github.com/AjinND"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61247483?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</div>",
-            "url": "https://github.com/Calcium-Ion/new-api",
-            "title": "Calcium-Ion/new-api: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
-            "date_modified": "2025-02-25T19:22:20.000Z",
-            "date_published": "2023-11-10T19:33:36.000Z",
-            "author": {
-                "name": "Calcium-Ion",
-                "url": "https://github.com/Calcium-Ion"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200774766?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Talking Visuals OTO is a powerful all-in-one AI platform that combines the advanced features of Canva, MidJourney, ChatGPT-4, and other high-cost design and AI tools into a single, intuitive dashboard—giving you seamless creativity and automation in one place!</div>",
-            "url": "https://github.com/TalkinVisualsotoup/Talking-Visuals-OTO",
-            "title": "TalkinVisualsotoup/Talking-Visuals-OTO: Talking Visuals OTO is a powerful all-in-one AI platform that combines the advanced features of Canva, MidJourney, ChatGPT-4, and other high-cost design and AI tools into a single, intuitive dashboard—giving you seamless creativity and automation in one place!",
-            "date_modified": "2025-02-25T12:54:17.000Z",
-            "date_published": "2025-02-25T12:53:15.000Z",
-            "author": {
-                "name": "TalkinVisualsotoup",
-                "url": "https://github.com/TalkinVisualsotoup"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200761078?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Watercolor Art Prompts (V3) is the ultimate source of done-for-you creative prompts to generate stunning A.I. watercolor images with Midjourney, Dall-E, Leonardo, or similar softwares!</div>",
-            "url": "https://github.com/WatercolorArtPromptV3/Watercolor-Art-Prompts-V3-Review",
-            "title": "WatercolorArtPromptV3/Watercolor-Art-Prompts-V3-Review: Watercolor Art Prompts (V3) is the ultimate source of done-for-you creative prompts to generate stunning A.I. watercolor images with Midjourney, Dall-E, Leonardo, or similar softwares!",
-            "date_modified": "2025-02-25T11:13:51.000Z",
-            "date_published": "2025-02-25T11:08:17.000Z",
-            "author": {
-                "name": "WatercolorArtPromptV3",
-                "url": "https://github.com/WatercolorArtPromptV3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25368970?u=a811f85cedf001f81b23c7fa9516ee05a14e089e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ask ChatGPT to response in Non-axiomatic Mathematics;套路;話術;我有內鬼，我素內鬼，曾有內鬼，曾有賢內助, 賢內助?</div>",
-            "url": "https://github.com/ewdlop/Prompt-Engineering.md",
-            "title": "ewdlop/Prompt-Engineering.md: Ask ChatGPT to response in Non-axiomatic Mathematics;套路;話術;我有內鬼，我素內鬼，曾有內鬼，曾有賢內助, 賢內助?",
-            "date_modified": "2025-02-25T03:45:38.000Z",
-            "date_published": "2024-11-04T17:31:42.000Z",
-            "author": {
-                "name": "ewdlop",
-                "url": "https://github.com/ewdlop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
-            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
-            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2025-02-25T16:00:36.000Z",
-            "date_published": "2023-10-14T16:15:40.000Z",
-            "author": {
-                "name": "WeThinkIn",
-                "url": "https://github.com/WeThinkIn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2025-02-25T10:40:10.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4746061?u=67d0353f4227627abf014808a5f9f21e25179834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。</div>",
-            "url": "https://github.com/yangjian102621/geekai",
-            "title": "yangjian102621/geekai: AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
-            "date_modified": "2025-02-25T14:35:46.000Z",
-            "date_published": "2023-05-06T06:48:54.000Z",
-            "author": {
-                "name": "yangjian102621",
-                "url": "https://github.com/yangjian102621"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11333576?u=a3fa061e4508d005d484282cdf4d39339ae451a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI image generation in bulk automatically</div>",
-            "url": "https://github.com/igolaizola/bulkai",
-            "title": "igolaizola/bulkai: AI image generation in bulk automatically",
-            "date_modified": "2025-02-24T19:07:13.000Z",
-            "date_published": "2023-02-12T21:02:22.000Z",
-            "author": {
-                "name": "igolaizola",
-                "url": "https://github.com/igolaizola"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
-            "url": "https://github.com/coaidev/coai",
-            "title": "coaidev/coai: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
-            "date_modified": "2025-02-25T23:24:22.000Z",
-            "date_published": "2023-07-17T18:09:57.000Z",
-            "author": {
-                "name": "coaidev",
-                "url": "https://github.com/coaidev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/591105?u=0642ac01165e6d32bd6a1cb7fa7b8a93186d4df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LLMs based multi-model framework for building AI apps. </div>",
-            "url": "https://github.com/parvbhullar/superpilot",
-            "title": "parvbhullar/superpilot: LLMs based multi-model framework for building AI apps. ",
-            "date_modified": "2025-02-25T11:27:30.000Z",
-            "date_published": "2023-08-27T10:06:11.000Z",
-            "author": {
-                "name": "parvbhullar",
-                "url": "https://github.com/parvbhullar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7714910?u=44399d7bf2cd711d09ed7f82f5eedf966251859b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/gummiz/Midjourney-Generator-v2",
-            "title": "gummiz/Midjourney-Generator-v2",
-            "date_modified": "2025-02-24T10:32:01.000Z",
-            "date_published": "2024-10-30T14:07:50.000Z",
-            "author": {
-                "name": "gummiz",
-                "url": "https://github.com/gummiz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168175381?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A TypeScript implementation of a Model Context Protocol (MCP) server that integrates with PiAPI's API. PiAPI makes user able to generate media content with Midjourney/Flux/Kling/LumaLabs/Udio/Chrip/Trellis directly from Claude or any other MCP-compatible apps.</div>",
-            "url": "https://github.com/apinetwork/piapi-mcp-server",
-            "title": "apinetwork/piapi-mcp-server: A TypeScript implementation of a Model Context Protocol (MCP) server that integrates with PiAPI's API. PiAPI makes user able to generate media content with Midjourney/Flux/Kling/LumaLabs/Udio/Chrip/Trellis directly from Claude or any other MCP-compatible apps.",
-            "date_modified": "2025-02-24T08:14:37.000Z",
-            "date_published": "2024-12-26T10:46:39.000Z",
-            "author": {
-                "name": "apinetwork",
-                "url": "https://github.com/apinetwork"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200559031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompt Buddy OTO is an AI-powered platform that helps you create, scale, and sell advanced prompts for ChatGPT, MidJourney, and DALL-E 3. It includes a preloaded store with 80,000+ prompts and advanced tools to generate new prompts in seconds.</div>",
-            "url": "https://github.com/PromBuddyOto/Prompt-Buddy-OTO",
-            "title": "PromBuddyOto/Prompt-Buddy-OTO: Prompt Buddy OTO is an AI-powered platform that helps you create, scale, and sell advanced prompts for ChatGPT, MidJourney, and DALL-E 3. It includes a preloaded store with 80,000+ prompts and advanced tools to generate new prompts in seconds.",
-            "date_modified": "2025-02-24T05:32:09.000Z",
-            "date_published": "2025-02-24T05:31:06.000Z",
-            "author": {
-                "name": "PromBuddyOto",
-                "url": "https://github.com/PromBuddyOto"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200558358?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Prompt Buddy OTO is a cutting-edge AI-powered platform designed to help users create, sell, and scale high-quality prompts for top AI tools like ChatGPT, MidJourney, and DALL-E 3. </div>",
-            "url": "https://github.com/PrompBuddBonu1/Prompt-Buddy-OTO",
-            "title": "PrompBuddBonu1/Prompt-Buddy-OTO:  Prompt Buddy OTO is a cutting-edge AI-powered platform designed to help users create, sell, and scale high-quality prompts for top AI tools like ChatGPT, MidJourney, and DALL-E 3. ",
-            "date_modified": "2025-02-24T05:24:48.000Z",
-            "date_published": "2025-02-24T05:23:54.000Z",
-            "author": {
-                "name": "PrompBuddBonu1",
-                "url": "https://github.com/PrompBuddBonu1"
             }
         }
     ]
