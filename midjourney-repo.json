@@ -6,10 +6,21 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66330485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney 中文汉化插件，支持图像编辑器与动态界面翻译。</div>",
+            "url": "https://github.com/cwser/midjourney-chinese-plugin",
+            "title": "cwser/midjourney-chinese-plugin: MidJourney 中文汉化插件，支持图像编辑器与动态界面翻译。",
+            "date_modified": "2025-04-22T00:57:18.000Z",
+            "date_published": "2025-04-04T20:15:03.000Z",
+            "author": {
+                "name": "cwser",
+                "url": "https://github.com/cwser"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20841959?u=aebb7ec8013a64e6c44ca556f0051e76470a9177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI绘画提示词生成器，AI绘画咒语生成，中文提示词工具，AI绘画助手，设计师AI工具，提示词优化器，AI作画提示词，智能提示词生成，提示词模板库，AI绘画教程，设计师工具，创作助手，提示词转换，AI艺术创作，新媒体配图工具，电商主图生成，商业设计工具，插画生成器，概念设计工具，人物肖像生成，AI Prompt Generator，Midjourney Helper，Stable Diffusion Tool，AI Art Assistant，Prompt Engineering，Design AI Tool，Art Prompt System，AI Drawing Guide，Prompt Template，Creative AI Assistant🔮🤖🚀</div>",
             "url": "https://github.com/pen9un/art-prompt-system",
             "title": "pen9un/art-prompt-system: AI绘画提示词生成器，AI绘画咒语生成，中文提示词工具，AI绘画助手，设计师AI工具，提示词优化器，AI作画提示词，智能提示词生成，提示词模板库，AI绘画教程，设计师工具，创作助手，提示词转换，AI艺术创作，新媒体配图工具，电商主图生成，商业设计工具，插画生成器，概念设计工具，人物肖像生成，AI Prompt Generator，Midjourney Helper，Stable Diffusion Tool，AI Art Assistant，Prompt Engineering，Design AI Tool，Art Prompt System，AI Drawing Guide，Prompt Template，Creative AI Assistant🔮🤖🚀",
-            "date_modified": "2025-04-21T00:53:42.000Z",
+            "date_modified": "2025-04-22T00:53:40.000Z",
             "date_published": "2025-02-20T09:41:36.000Z",
             "author": {
                 "name": "pen9un",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20841959?u=aebb7ec8013a64e6c44ca556f0051e76470a9177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>微信机器人，ChatGPT机器人，AI智能助手，AI绘画机器人，Midjourney绘画，视频去水印，抖音快手视频无水印下载，群聊管理机器人，智能客服机器人，自动回复机器人，优惠券查询机器人，拼多多优惠券机器人，美团饿了么外卖红包，智能文档对话，全网热点资讯，全网热榜，私域运营助手，社群管理工具，电商营销机器人🔮🤖🚀</div>",
             "url": "https://github.com/pen9un/xiaoguo-wechat-bot",
             "title": "pen9un/xiaoguo-wechat-bot: 微信机器人，ChatGPT机器人，AI智能助手，AI绘画机器人，Midjourney绘画，视频去水印，抖音快手视频无水印下载，群聊管理机器人，智能客服机器人，自动回复机器人，优惠券查询机器人，拼多多优惠券机器人，美团饿了么外卖红包，智能文档对话，全网热点资讯，全网热榜，私域运营助手，社群管理工具，电商营销机器人🔮🤖🚀",
-            "date_modified": "2025-04-21T00:53:41.000Z",
+            "date_modified": "2025-04-22T00:53:39.000Z",
             "date_published": "2025-01-20T09:56:58.000Z",
             "author": {
                 "name": "pen9un",
@@ -28,21 +39,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103048778?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/iBrayan13/midjourney_interactive",
-            "title": "iBrayan13/midjourney_interactive",
-            "date_modified": "2025-04-20T22:21:15.000Z",
-            "date_published": "2025-04-20T22:20:33.000Z",
-            "author": {
-                "name": "iBrayan13",
-                "url": "https://github.com/iBrayan13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101557411?u=033e6fbf6aac9f0835d2c93d9802040bdab04fe8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101557411?u=033e6fbf6aac9f0835d2c93d9802040bdab04fe8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Easily bulk download all your Midjourney AI generated images and associated prompts</div>",
             "url": "https://github.com/msmiyels/projects-midjourney_downloader",
-            "title": "msmiyels/projects-midjourney_downloader",
-            "date_modified": "2025-04-20T19:44:19.000Z",
+            "title": "msmiyels/projects-midjourney_downloader: Easily bulk download all your Midjourney AI generated images and associated prompts",
+            "date_modified": "2025-04-22T00:16:41.000Z",
             "date_published": "2025-04-01T06:34:31.000Z",
             "author": {
                 "name": "msmiyels",
@@ -50,10 +50,109 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114350234?u=e8614df3bf37a1c5da811c4cd199790bf2539887&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Assistant Tool</div>",
+            "url": "https://github.com/HexxedBitHeadz/MAT",
+            "title": "HexxedBitHeadz/MAT: Midjourney Assistant Tool",
+            "date_modified": "2025-04-22T00:12:48.000Z",
+            "date_published": "2023-09-10T23:26:31.000Z",
+            "author": {
+                "name": "HexxedBitHeadz",
+                "url": "https://github.com/HexxedBitHeadz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103048778?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/iBrayan13/midjourney_interactive",
+            "title": "iBrayan13/midjourney_interactive",
+            "date_modified": "2025-04-21T22:17:52.000Z",
+            "date_published": "2025-04-20T22:20:33.000Z",
+            "author": {
+                "name": "iBrayan13",
+                "url": "https://github.com/iBrayan13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91037746?u=d50fe80d59b686cb49239833d769b279a892bddf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fine nuned version of Llama-3.2-3B-Instruct with enhanced midjourney prompts generated by gpt 4o-turbo</div>",
+            "url": "https://github.com/sukibk/llama3b-finetuning-mjprompts",
+            "title": "sukibk/llama3b-finetuning-mjprompts: Fine nuned version of Llama-3.2-3B-Instruct with enhanced midjourney prompts generated by gpt 4o-turbo",
+            "date_modified": "2025-04-21T17:07:52.000Z",
+            "date_published": "2025-04-21T03:38:17.000Z",
+            "author": {
+                "name": "sukibk",
+                "url": "https://github.com/sukibk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177519943?u=1ca401ce09272f672fdf4ded9420d40e9f2c29f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Prompt</div>",
+            "url": "https://github.com/Anshengsen/DreamLab",
+            "title": "Anshengsen/DreamLab: Midjourney Prompt",
+            "date_modified": "2025-04-21T16:27:58.000Z",
+            "date_published": "2025-04-16T10:19:13.000Z",
+            "author": {
+                "name": "Anshengsen",
+                "url": "https://github.com/Anshengsen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131113659?u=74ffa6bde4f04d88b23d85d688b3fff412002dbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Emulates task activity sending requests to GoAPI for debugging and stress testing</div>",
+            "url": "https://github.com/UndoGG/MidjourneyActivityEmulator",
+            "title": "UndoGG/MidjourneyActivityEmulator: Emulates task activity sending requests to GoAPI for debugging and stress testing",
+            "date_modified": "2025-04-21T14:04:16.000Z",
+            "date_published": "2025-04-21T14:01:21.000Z",
+            "author": {
+                "name": "UndoGG",
+                "url": "https://github.com/UndoGG"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139687327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>25年4月22日更新｜国内可用Chat GPT-4o模型中文镜像网站</div>",
+            "url": "https://github.com/Cailailai/chatgpt-4o",
+            "title": "Cailailai/chatgpt-4o: 25年4月22日更新｜国内可用Chat GPT-4o模型中文镜像网站",
+            "date_modified": "2025-04-21T13:57:12.000Z",
+            "date_published": "2024-11-08T14:55:33.000Z",
+            "author": {
+                "name": "Cailailai",
+                "url": "https://github.com/Cailailai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139687327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>国内可用ChatGPT 国内国外镜像中文网站汇总(25年4月22日更新）</div>",
+            "url": "https://github.com/Cailailai/chatgpt-cn",
+            "title": "Cailailai/chatgpt-cn: 国内可用ChatGPT 国内国外镜像中文网站汇总(25年4月22日更新）",
+            "date_modified": "2025-04-21T13:37:09.000Z",
+            "date_published": "2024-11-05T14:58:45.000Z",
+            "author": {
+                "name": "Cailailai",
+                "url": "https://github.com/Cailailai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33261275?u=fdd8e53f1f6cd1d22406d3b70dc9ef3f7197e88f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DIObootcamp</div>",
+            "url": "https://github.com/galafis/Criando-um-Ebook-com-ChatGPT-MidJourney",
+            "title": "galafis/Criando-um-Ebook-com-ChatGPT-MidJourney: DIObootcamp",
+            "date_modified": "2025-04-21T10:38:50.000Z",
+            "date_published": "2025-04-21T10:30:42.000Z",
+            "author": {
+                "name": "galafis",
+                "url": "https://github.com/galafis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
+            "url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+            "title": "WeThinkIn/AIGC-Interview-Book: 【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
+            "date_modified": "2025-04-21T17:12:15.000Z",
+            "date_published": "2023-10-14T16:15:40.000Z",
+            "author": {
+                "name": "WeThinkIn",
+                "url": "https://github.com/WeThinkIn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-04-20T18:00:11.000Z",
+            "date_modified": "2025-04-21T13:06:37.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -83,28 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66330485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney 中文汉化插件，支持图像编辑器与动态界面翻译。</div>",
-            "url": "https://github.com/cwser/midjourney-chinese-plugin",
-            "title": "cwser/midjourney-chinese-plugin: MidJourney 中文汉化插件，支持图像编辑器与动态界面翻译。",
-            "date_modified": "2025-04-20T15:24:43.000Z",
-            "date_published": "2025-04-04T20:15:03.000Z",
-            "author": {
-                "name": "cwser",
-                "url": "https://github.com/cwser"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48612300?u=5cc4169817670baf78c8c15a37be894e5d272bff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。</div>",
-            "url": "https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer",
-            "title": "WeThinkIn/Interview-for-Algorithm-Engineer: 【三年面试五年模拟】AI算法工程师面试秘籍。涵盖AIGC、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、具身智能、元宇宙、AGI等AI行业面试笔试经验与干货知识。",
-            "date_modified": "2025-04-20T21:05:12.000Z",
-            "date_published": "2023-10-14T16:15:40.000Z",
-            "author": {
-                "name": "WeThinkIn",
-                "url": "https://github.com/WeThinkIn"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2363722?u=05786163e2394ccddb27991cc354e01167dd7cd1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A.l. Generated Photo Of Current Weather In A Random City- Real City, Real Weather, Generated Image - Stable Diffusion | OpenAI Dall-E2 | Midjourney</div>",
             "url": "https://github.com/lando2319/WeatherWindow",
             "title": "lando2319/WeatherWindow: A.l. Generated Photo Of Current Weather In A Random City- Real City, Real Weather, Generated Image - Stable Diffusion | OpenAI Dall-E2 | Midjourney",
@@ -113,28 +190,6 @@
             "author": {
                 "name": "lando2319",
                 "url": "https://github.com/lando2319"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139687327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>25年4月21日更新｜国内可用Chat GPT-4o模型中文镜像网站</div>",
-            "url": "https://github.com/Cailailai/chatgpt-4o",
-            "title": "Cailailai/chatgpt-4o: 25年4月21日更新｜国内可用Chat GPT-4o模型中文镜像网站",
-            "date_modified": "2025-04-20T11:45:06.000Z",
-            "date_published": "2024-11-08T14:55:33.000Z",
-            "author": {
-                "name": "Cailailai",
-                "url": "https://github.com/Cailailai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139687327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>国内可用ChatGPT 国内国外镜像中文网站汇总(25年4月21日更新）</div>",
-            "url": "https://github.com/Cailailai/chatgpt-cn",
-            "title": "Cailailai/chatgpt-cn: 国内可用ChatGPT 国内国外镜像中文网站汇总(25年4月21日更新）",
-            "date_modified": "2025-04-20T11:37:54.000Z",
-            "date_published": "2024-11-05T14:58:45.000Z",
-            "author": {
-                "name": "Cailailai",
-                "url": "https://github.com/Cailailai"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "kevin-olanday",
                 "url": "https://github.com/kevin-olanday"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98436456?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/OnixcodeAB/midjourney-clone",
-            "title": "OnixcodeAB/midjourney-clone",
-            "date_modified": "2025-04-19T16:52:50.000Z",
-            "date_published": "2025-03-28T13:54:30.000Z",
-            "author": {
-                "name": "OnixcodeAB",
-                "url": "https://github.com/OnixcodeAB"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 全球最大的 Midjourney 绘图 API，日绘图 100万+ 🐂！</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy",
-            "title": "trueai-org/midjourney-proxy: 🦄 全球最大的 Midjourney 绘图 API，日绘图 100万+ 🐂！",
-            "date_modified": "2025-04-19T10:30:00.000Z",
-            "date_published": "2024-07-03T08:04:25.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
-            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
-            "date_modified": "2025-04-19T03:24:12.000Z",
-            "date_published": "2024-07-13T03:08:46.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127703547?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI models all in one!</div>",
-            "url": "https://github.com/uniai-lab/uniai",
-            "title": "uniai-lab/uniai: AI models all in one!",
-            "date_modified": "2025-04-19T07:58:12.000Z",
-            "date_published": "2024-01-29T01:33:12.000Z",
-            "author": {
-                "name": "uniai-lab",
-                "url": "https://github.com/uniai-lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171507887?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/antoine78910/ecomefficiency-midjourney",
-            "title": "antoine78910/ecomefficiency-midjourney",
-            "date_modified": "2025-04-18T14:17:20.000Z",
-            "date_published": "2024-09-25T14:57:21.000Z",
-            "author": {
-                "name": "antoine78910",
-                "url": "https://github.com/antoine78910"
             }
         }
     ]
