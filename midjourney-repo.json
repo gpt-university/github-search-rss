@@ -6,10 +6,21 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219932766?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analyze how different groups use AI tools like ChatGPT and Midjourney, and explore how this impacts productivity and adoption.</div>",
+            "url": "https://github.com/JeisonCuellar/AI-Adoption-in-Society",
+            "title": "JeisonCuellar/AI-Adoption-in-Society: Analyze how different groups use AI tools like ChatGPT and Midjourney, and explore how this impacts productivity and adoption.",
+            "date_modified": "2025-07-09T01:02:13.000Z",
+            "date_published": "2025-07-09T00:49:42.000Z",
+            "author": {
+                "name": "JeisonCuellar",
+                "url": "https://github.com/JeisonCuellar"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20841959?u=aebb7ec8013a64e6c44ca556f0051e76470a9177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI绘画提示词生成器，AI绘画咒语生成，中文提示词工具，AI绘画助手，设计师AI工具，提示词优化器，AI作画提示词，智能提示词生成，提示词模板库，AI绘画教程，设计师工具，创作助手，提示词转换，AI艺术创作，新媒体配图工具，电商主图生成，商业设计工具，插画生成器，概念设计工具，人物肖像生成，AI Prompt Generator，Midjourney Helper，Stable Diffusion Tool，AI Art Assistant，Prompt Engineering，Design AI Tool，Art Prompt System，AI Drawing Guide，Prompt Template，Creative AI Assistant🔮🤖🚀</div>",
             "url": "https://github.com/pen9un/art-prompt-system",
             "title": "pen9un/art-prompt-system: AI绘画提示词生成器，AI绘画咒语生成，中文提示词工具，AI绘画助手，设计师AI工具，提示词优化器，AI作画提示词，智能提示词生成，提示词模板库，AI绘画教程，设计师工具，创作助手，提示词转换，AI艺术创作，新媒体配图工具，电商主图生成，商业设计工具，插画生成器，概念设计工具，人物肖像生成，AI Prompt Generator，Midjourney Helper，Stable Diffusion Tool，AI Art Assistant，Prompt Engineering，Design AI Tool，Art Prompt System，AI Drawing Guide，Prompt Template，Creative AI Assistant🔮🤖🚀",
-            "date_modified": "2025-07-08T00:51:11.000Z",
+            "date_modified": "2025-07-09T00:51:10.000Z",
             "date_published": "2025-02-20T09:41:36.000Z",
             "author": {
                 "name": "pen9un",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20841959?u=aebb7ec8013a64e6c44ca556f0051e76470a9177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>微信机器人，ChatGPT机器人，AI智能助手，AI绘画机器人，Midjourney绘画，视频去水印，抖音快手视频无水印下载，群聊管理机器人，智能客服机器人，自动回复机器人，优惠券查询机器人，拼多多优惠券机器人，美团饿了么外卖红包，智能文档对话，全网热点资讯，全网热榜，私域运营助手，社群管理工具，电商营销机器人🔮🤖🚀</div>",
             "url": "https://github.com/pen9un/xiaoguo-wechat-bot",
             "title": "pen9un/xiaoguo-wechat-bot: 微信机器人，ChatGPT机器人，AI智能助手，AI绘画机器人，Midjourney绘画，视频去水印，抖音快手视频无水印下载，群聊管理机器人，智能客服机器人，自动回复机器人，优惠券查询机器人，拼多多优惠券机器人，美团饿了么外卖红包，智能文档对话，全网热点资讯，全网热榜，私域运营助手，社群管理工具，电商营销机器人🔮🤖🚀",
-            "date_modified": "2025-07-08T00:51:10.000Z",
+            "date_modified": "2025-07-09T00:51:09.000Z",
             "date_published": "2025-01-20T09:56:58.000Z",
             "author": {
                 "name": "pen9un",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212184645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore the largest online directory of AI tools, designed for developers and researchers alike. This repository offers a structured JSON file with essential details about each tool, making it easy to find the right solution for your AI projects. 🛠️✨</div>",
             "url": "https://github.com/Lehonel-777/AI-Tools-List",
             "title": "Lehonel-777/AI-Tools-List: Explore the largest online directory of AI tools, designed for developers and researchers alike. This repository offers a structured JSON file with essential details about each tool, making it easy to find the right solution for your AI projects. 🛠️✨",
-            "date_modified": "2025-07-07T23:52:48.000Z",
+            "date_modified": "2025-07-09T00:10:45.000Z",
             "date_published": "2025-06-12T10:18:16.000Z",
             "author": {
                 "name": "Lehonel-777",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-07-07T23:21:05.000Z",
+            "date_modified": "2025-07-08T23:36:12.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
@@ -50,164 +61,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
-            "url": "https://github.com/Kasabovtodor/chatgpt-good",
-            "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
-            "date_modified": "2025-07-07T23:08:46.000Z",
-            "date_published": "2025-04-25T19:34:00.000Z",
-            "author": {
-                "name": "Kasabovtodor",
-                "url": "https://github.com/Kasabovtodor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98436456?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/OnixcodeAB/midjourney-clone",
-            "title": "OnixcodeAB/midjourney-clone",
-            "date_modified": "2025-07-07T19:13:38.000Z",
-            "date_published": "2025-03-28T13:54:30.000Z",
-            "author": {
-                "name": "OnixcodeAB",
-                "url": "https://github.com/OnixcodeAB"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 全球最大的 Midjourney 绘图 API，日绘图 100万+ 🐂！</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy",
-            "title": "trueai-org/midjourney-proxy: 🦄 全球最大的 Midjourney 绘图 API，日绘图 100万+ 🐂！",
-            "date_modified": "2025-07-07T15:43:17.000Z",
-            "date_published": "2024-07-03T08:04:25.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
-            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
-            "date_modified": "2025-07-07T15:40:27.000Z",
-            "date_published": "2024-07-13T03:08:46.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127703547?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI models all in one!</div>",
-            "url": "https://github.com/uniai-lab/uniai",
-            "title": "uniai-lab/uniai: AI models all in one!",
-            "date_modified": "2025-07-07T15:37:53.000Z",
-            "date_published": "2024-01-29T01:33:12.000Z",
-            "author": {
-                "name": "uniai-lab",
-                "url": "https://github.com/uniai-lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193663139?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2025年Midjourney开通教程：Midjourney订阅方法与Midjourney合租平台推荐</div>",
-            "url": "https://github.com/gptbmw/Midjourney",
-            "title": "gptbmw/Midjourney: 2025年Midjourney开通教程：Midjourney订阅方法与Midjourney合租平台推荐",
-            "date_modified": "2025-07-07T13:26:07.000Z",
-            "date_published": "2025-07-07T08:11:56.000Z",
-            "author": {
-                "name": "gptbmw",
-                "url": "https://github.com/gptbmw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117444447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sudais775/netlify-midjourney",
-            "title": "sudais775/netlify-midjourney",
-            "date_modified": "2025-07-07T08:51:55.000Z",
-            "date_published": "2025-07-07T08:14:14.000Z",
-            "author": {
-                "name": "sudais775",
-                "url": "https://github.com/sudais775"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117444447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sudais775/midjourney-prompt-vault-last",
-            "title": "sudais775/midjourney-prompt-vault-last",
-            "date_modified": "2025-07-07T08:10:57.000Z",
-            "date_published": "2025-07-07T08:07:08.000Z",
-            "author": {
-                "name": "sudais775",
-                "url": "https://github.com/sudais775"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117444447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sudais775/midjourney-ass",
-            "title": "sudais775/midjourney-ass",
-            "date_modified": "2025-07-07T08:02:52.000Z",
-            "date_published": "2025-07-07T08:02:24.000Z",
-            "author": {
-                "name": "sudais775",
-                "url": "https://github.com/sudais775"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117444447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sudais775/midjourney",
-            "title": "sudais775/midjourney",
-            "date_modified": "2025-07-07T08:01:36.000Z",
-            "date_published": "2025-07-07T08:00:03.000Z",
-            "author": {
-                "name": "sudais775",
-                "url": "https://github.com/sudais775"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117444447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sudais775/midjourney-prompt-vault22",
-            "title": "sudais775/midjourney-prompt-vault22",
-            "date_modified": "2025-07-07T07:47:05.000Z",
-            "date_published": "2025-07-07T07:40:50.000Z",
-            "author": {
-                "name": "sudais775",
-                "url": "https://github.com/sudais775"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117444447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sudais775/midjourney-prompt-vault2",
-            "title": "sudais775/midjourney-prompt-vault2",
-            "date_modified": "2025-07-07T07:38:01.000Z",
-            "date_published": "2025-07-07T07:38:01.000Z",
-            "author": {
-                "name": "sudais775",
-                "url": "https://github.com/sudais775"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18009286?u=eb8760cf3109c73457f5f37dfc010deafde1bcaa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。</div>",
-            "url": "https://github.com/jurieo/chatgpt-share-web",
-            "title": "jurieo/chatgpt-share-web: chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。",
-            "date_modified": "2025-07-07T07:35:36.000Z",
-            "date_published": "2024-02-28T09:38:38.000Z",
-            "author": {
-                "name": "jurieo",
-                "url": "https://github.com/jurieo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117444447?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/sudais775/midjourney-prompt-vault",
-            "title": "sudais775/midjourney-prompt-vault",
-            "date_modified": "2025-07-07T07:27:24.000Z",
-            "date_published": "2025-07-07T07:20:04.000Z",
-            "author": {
-                "name": "sudais775",
-                "url": "https://github.com/sudais775"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1091610?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A visual reference for composing prompts for Midjourney and Niji•Journey.</div>",
             "url": "https://github.com/rari/prompteraid",
             "title": "rari/prompteraid: A visual reference for composing prompts for Midjourney and Niji•Journey.",
-            "date_modified": "2025-07-07T05:45:57.000Z",
+            "date_modified": "2025-07-08T23:35:43.000Z",
             "date_published": "2025-06-20T19:36:42.000Z",
             "author": {
                 "name": "rari",
@@ -215,14 +72,157 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2025-07-07T01:03:33.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64834608?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\"Detect if an image was generated by AI. Gives probability, explanation, and identifies the possible AI model (e.g., DALL·E, Midjourney).\"</div>",
+            "url": "https://github.com/idrlio/ai-image-detector",
+            "title": "idrlio/ai-image-detector: \"Detect if an image was generated by AI. Gives probability, explanation, and identifies the possible AI model (e.g., DALL·E, Midjourney).\"",
+            "date_modified": "2025-07-08T21:06:11.000Z",
+            "date_published": "2025-07-08T21:06:07.000Z",
             "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
+                "name": "idrlio",
+                "url": "https://github.com/idrlio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
+            "url": "https://github.com/Kasabovtodor/chatgpt-good",
+            "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
+            "date_modified": "2025-07-08T20:32:43.000Z",
+            "date_published": "2025-04-25T19:34:00.000Z",
+            "author": {
+                "name": "Kasabovtodor",
+                "url": "https://github.com/Kasabovtodor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208885891?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PromptBazar is a decentralized marketplace where users can buy and sell high-quality AI prompts for tools like ChatGPT and Midjourney. While prompts hold significant value, there is no dedicated platform that facilitates their trade in a secure and decentralized way.</div>",
+            "url": "https://github.com/MaksymPolishuk19/PromptBazaar-",
+            "title": "MaksymPolishuk19/PromptBazaar-: PromptBazar is a decentralized marketplace where users can buy and sell high-quality AI prompts for tools like ChatGPT and Midjourney. While prompts hold significant value, there is no dedicated platform that facilitates their trade in a secure and decentralized way.",
+            "date_modified": "2025-07-08T19:17:20.000Z",
+            "date_published": "2025-04-25T05:57:56.000Z",
+            "author": {
+                "name": "MaksymPolishuk19",
+                "url": "https://github.com/MaksymPolishuk19"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3795278?u=151c2b1d78e9902e5aa404cd1b84afe81562dbdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>awesome veo3/midjourney/kling/hailuo video prompts</div>",
+            "url": "https://github.com/songguoxs/awesome-video-prompts",
+            "title": "songguoxs/awesome-video-prompts: awesome veo3/midjourney/kling/hailuo video prompts",
+            "date_modified": "2025-07-08T16:29:22.000Z",
+            "date_published": "2025-06-09T00:10:13.000Z",
+            "author": {
+                "name": "songguoxs",
+                "url": "https://github.com/songguoxs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151963874?u=450481d29b0df984e2d658f99cd4b4446d4e7361&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Criando um Ebook com ChatGPT &amp; MidJourney</div>",
+            "url": "https://github.com/Caeeles/desafio-ebook-chatgpt",
+            "title": "Caeeles/desafio-ebook-chatgpt:  Criando um Ebook com ChatGPT & MidJourney",
+            "date_modified": "2025-07-08T16:20:22.000Z",
+            "date_published": "2025-06-30T16:49:56.000Z",
+            "author": {
+                "name": "Caeeles",
+                "url": "https://github.com/Caeeles"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 全球最大的 Midjourney 绘图 API，日绘图 100万+ 🐂！</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy",
+            "title": "trueai-org/midjourney-proxy: 🦄 全球最大的 Midjourney 绘图 API，日绘图 100万+ 🐂！",
+            "date_modified": "2025-07-08T14:21:59.000Z",
+            "date_published": "2024-07-03T08:04:25.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193663139?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2025年Midjourney开通教程：Midjourney订阅方法与Midjourney合租平台推荐</div>",
+            "url": "https://github.com/gptbmw/Midjourney",
+            "title": "gptbmw/Midjourney: 2025年Midjourney开通教程：Midjourney订阅方法与Midjourney合租平台推荐",
+            "date_modified": "2025-07-08T12:54:07.000Z",
+            "date_published": "2025-07-07T08:11:56.000Z",
+            "author": {
+                "name": "gptbmw",
+                "url": "https://github.com/gptbmw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
+            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
+            "date_modified": "2025-07-08T10:09:49.000Z",
+            "date_published": "2024-07-13T03:08:46.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208940061?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Analyze the landscape of AI tools (e.g., ChatGPT, Claude, Midjourney, etc.) Understand adoption trends, user sentiment, pricing strategies, and feature gaps. Build a dashboard or report to visualize key insights.</div>",
+            "url": "https://github.com/ibtissamejabir/Landscape-Analysis-of-AI-Tools-Trends-Sentiment-and-Market-Positioning",
+            "title": "ibtissamejabir/Landscape-Analysis-of-AI-Tools-Trends-Sentiment-and-Market-Positioning: Analyze the landscape of AI tools (e.g., ChatGPT, Claude, Midjourney, etc.) Understand adoption trends, user sentiment, pricing strategies, and feature gaps. Build a dashboard or report to visualize key insights.",
+            "date_modified": "2025-07-08T09:12:11.000Z",
+            "date_published": "2025-07-08T09:12:11.000Z",
+            "author": {
+                "name": "ibtissamejabir",
+                "url": "https://github.com/ibtissamejabir"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32251822?u=e7f7d1272b8d7e8d2de712f95f1e514ce3455033&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。</div>",
+            "url": "https://github.com/ageerle/ruoyi-web",
+            "title": "ageerle/ruoyi-web: 一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。",
+            "date_modified": "2025-07-08T07:31:53.000Z",
+            "date_published": "2024-02-27T12:57:17.000Z",
+            "author": {
+                "name": "ageerle",
+                "url": "https://github.com/ageerle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18009286?u=eb8760cf3109c73457f5f37dfc010deafde1bcaa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。</div>",
+            "url": "https://github.com/jurieo/chatgpt-share-web",
+            "title": "jurieo/chatgpt-share-web: chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。",
+            "date_modified": "2025-07-08T06:53:52.000Z",
+            "date_published": "2024-02-28T09:38:38.000Z",
+            "author": {
+                "name": "jurieo",
+                "url": "https://github.com/jurieo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44784595?u=92b03c8db33f76acbc74a537086714c97af1859b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Discord bot for generating Midjourney prompts and posting to Pinterest. </div>",
+            "url": "https://github.com/chubes4/mjpin",
+            "title": "chubes4/mjpin: Discord bot for generating Midjourney prompts and posting to Pinterest. ",
+            "date_modified": "2025-07-08T05:58:29.000Z",
+            "date_published": "2025-06-08T05:32:52.000Z",
+            "author": {
+                "name": "chubes4",
+                "url": "https://github.com/chubes4"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22969557?u=e165a13fdc6dbec7062799fc78bcc29dfe8349c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lofn: An award-winning, open-source AI art generator that combines Tree of Thoughts prompting and critic/artist refinement to create unique, high-quality artwork. Supports Midjourney, DALL-E 3, and Discord integration. Built with OpenAI and Anthropic's Claude.</div>",
+            "url": "https://github.com/LocalSymmetry/lofn",
+            "title": "LocalSymmetry/lofn: Lofn: An award-winning, open-source AI art generator that combines Tree of Thoughts prompting and critic/artist refinement to create unique, high-quality artwork. Supports Midjourney, DALL-E 3, and Discord integration. Built with OpenAI and Anthropic's Claude.",
+            "date_modified": "2025-07-08T05:16:16.000Z",
+            "date_published": "2024-03-26T20:21:22.000Z",
+            "author": {
+                "name": "LocalSymmetry",
+                "url": "https://github.com/LocalSymmetry"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/146547310?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A site to generate logo's based on user values using google gemini and midjourney</div>",
+            "url": "https://github.com/Adarsh-Kumar001/LogoMakerAI",
+            "title": "Adarsh-Kumar001/LogoMakerAI: A site to generate logo's based on user values using google gemini and midjourney",
+            "date_modified": "2025-07-08T04:16:22.000Z",
+            "date_published": "2025-06-01T11:27:17.000Z",
+            "author": {
+                "name": "Adarsh-Kumar001",
+                "url": "https://github.com/Adarsh-Kumar001"
             }
         }
     ]
