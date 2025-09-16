@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
             "url": "https://github.com/samuray2969/ai-image-generator",
             "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-09-15T00:52:43.000Z",
+            "date_modified": "2025-09-15T23:43:02.000Z",
             "date_published": "2025-09-04T01:31:45.000Z",
             "author": {
                 "name": "samuray2969",
@@ -17,10 +17,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25368970?u=16c75ae72b3562d3a1e449084e576fa48b63d655&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ask ChatGPT to response in Non-axiomatic Mathematics;套路;話術;</div>",
+            "url": "https://github.com/ewdlop/Prompt-Engineering.md",
+            "title": "ewdlop/Prompt-Engineering.md: Ask ChatGPT to response in Non-axiomatic Mathematics;套路;話術;",
+            "date_modified": "2025-09-15T23:23:26.000Z",
+            "date_published": "2024-11-04T17:31:42.000Z",
+            "author": {
+                "name": "ewdlop",
+                "url": "https://github.com/ewdlop"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-09-15T00:18:54.000Z",
+            "date_modified": "2025-09-15T23:07:29.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
@@ -31,11 +42,44 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
             "url": "https://github.com/Kasabovtodor/chatgpt-good",
             "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
-            "date_modified": "2025-09-15T00:11:31.000Z",
+            "date_modified": "2025-09-15T23:00:07.000Z",
             "date_published": "2025-04-25T19:34:00.000Z",
             "author": {
                 "name": "Kasabovtodor",
                 "url": "https://github.com/Kasabovtodor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67992509?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TK AI 모델 갤러리 - Next.js AI model gallery with BlurBlur.ai design and Midjourney masonry layout</div>",
+            "url": "https://github.com/mafiaboyhacker/tk-ai-model-gallery",
+            "title": "mafiaboyhacker/tk-ai-model-gallery: TK AI 모델 갤러리 - Next.js AI model gallery with BlurBlur.ai design and Midjourney masonry layout",
+            "date_modified": "2025-09-15T21:27:04.000Z",
+            "date_published": "2025-09-03T18:19:46.000Z",
+            "author": {
+                "name": "mafiaboyhacker",
+                "url": "https://github.com/mafiaboyhacker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
+            "date_modified": "2025-09-15T19:00:01.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181181283?u=72086492040786f3a899c4631e0c5fed163d3be0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT官方中转api，低价稳定快速，支持官方全模型、Midjourney API代理、Claude代理、Suno代理等优质稳定的API接口服务商</div>",
+            "url": "https://github.com/whataicc/gpt-api",
+            "title": "whataicc/gpt-api: ChatGPT官方中转api，低价稳定快速，支持官方全模型、Midjourney API代理、Claude代理、Suno代理等优质稳定的API接口服务商",
+            "date_modified": "2025-09-15T05:28:56.000Z",
+            "date_published": "2024-09-11T10:53:53.000Z",
+            "author": {
+                "name": "whataicc",
+                "url": "https://github.com/whataicc"
             }
         },
         {
@@ -50,21 +94,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67992509?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TK AI 모델 갤러리 - Next.js AI model gallery with BlurBlur.ai design and Midjourney masonry layout</div>",
-            "url": "https://github.com/mafiaboyhacker/tk-ai-model-gallery",
-            "title": "mafiaboyhacker/tk-ai-model-gallery: TK AI 모델 갤러리 - Next.js AI model gallery with BlurBlur.ai design and Midjourney masonry layout",
-            "date_modified": "2025-09-14T20:03:08.000Z",
-            "date_published": "2025-09-03T18:19:46.000Z",
-            "author": {
-                "name": "mafiaboyhacker",
-                "url": "https://github.com/mafiaboyhacker"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
             "url": "https://github.com/AceDataCloud/Nexior",
             "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
-            "date_modified": "2025-09-14T16:29:47.000Z",
+            "date_modified": "2025-09-15T20:57:50.000Z",
             "date_published": "2024-02-26T16:28:37.000Z",
             "author": {
                 "name": "AceDataCloud",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-09-14T17:21:49.000Z",
+            "date_modified": "2025-09-15T09:05:19.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "go2coding",
                 "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119870221?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enhanced fork of the unofficial MidJourney API Node.js client with human verification monitoring, regional painting, and video creation features.</div>",
-            "url": "https://github.com/server-coding/midjourney-enhanced",
-            "title": "server-coding/midjourney-enhanced: Enhanced fork of the unofficial MidJourney API Node.js client with human verification monitoring, regional painting, and video creation features.",
-            "date_modified": "2025-09-12T05:54:09.000Z",
-            "date_published": "2025-09-12T05:16:13.000Z",
-            "author": {
-                "name": "server-coding",
-                "url": "https://github.com/server-coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18009286?u=eb8760cf3109c73457f5f37dfc010deafde1bcaa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。</div>",
-            "url": "https://github.com/jurieo/chatgpt-share-web",
-            "title": "jurieo/chatgpt-share-web: chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。",
-            "date_modified": "2025-09-15T00:22:25.000Z",
-            "date_published": "2024-02-28T09:38:38.000Z",
-            "author": {
-                "name": "jurieo",
-                "url": "https://github.com/jurieo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4691137?u=e68af04b3dfc9b46135fc7cdc5b8cb9e77cffef5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A browser console script to gather prompts from Midjourney showcase page</div>",
-            "url": "https://github.com/alexkorol/mj_showcase_scraper",
-            "title": "alexkorol/mj_showcase_scraper: A browser console script to gather prompts from Midjourney showcase page",
-            "date_modified": "2025-09-11T20:12:12.000Z",
-            "date_published": "2023-09-06T17:47:58.000Z",
-            "author": {
-                "name": "alexkorol",
-                "url": "https://github.com/alexkorol"
             }
         }
     ]
