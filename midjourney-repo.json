@@ -6,10 +6,21 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2025-09-18T23:48:50.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
             "url": "https://github.com/samuray2969/ai-image-generator",
             "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-09-18T00:34:01.000Z",
+            "date_modified": "2025-09-18T23:37:32.000Z",
             "date_published": "2025-09-04T01:31:45.000Z",
             "author": {
                 "name": "samuray2969",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-09-18T00:00:16.000Z",
+            "date_modified": "2025-09-18T23:57:37.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
             "url": "https://github.com/Kasabovtodor/chatgpt-good",
             "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
-            "date_modified": "2025-09-17T23:53:21.000Z",
+            "date_modified": "2025-09-18T22:56:33.000Z",
             "date_published": "2025-04-25T19:34:00.000Z",
             "author": {
                 "name": "Kasabovtodor",
@@ -39,10 +50,76 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206418446?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mahakarora345/AI-VIDEO-UBY-USING-MIDJOURNEY",
+            "title": "mahakarora345/AI-VIDEO-UBY-USING-MIDJOURNEY",
+            "date_modified": "2025-09-18T19:22:53.000Z",
+            "date_published": "2025-09-18T19:12:09.000Z",
+            "author": {
+                "name": "mahakarora345",
+                "url": "https://github.com/mahakarora345"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206561540?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project is a web-based AI art generator inspired by MidJourney/Leonardo AI. It allows users to type a natural language prompt and generate high-quality images using Stable Diffusion models from Hugging Face or Replicate.</div>",
+            "url": "https://github.com/PAPPALA-HEMANTHKUMAR/AI-ART-TOOL",
+            "title": "PAPPALA-HEMANTHKUMAR/AI-ART-TOOL: This project is a web-based AI art generator inspired by MidJourney/Leonardo AI. It allows users to type a natural language prompt and generate high-quality images using Stable Diffusion models from Hugging Face or Replicate.",
+            "date_modified": "2025-09-18T16:03:35.000Z",
+            "date_published": "2025-09-18T16:02:37.000Z",
+            "author": {
+                "name": "PAPPALA-HEMANTHKUMAR",
+                "url": "https://github.com/PAPPALA-HEMANTHKUMAR"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
+            "date_modified": "2025-09-18T15:25:41.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/193663139?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>银河录像局：国内领先的流媒体和AI工具合租平台！提供Netflix、Spotify、Claude、ChatGPT账号合租服务，以及Claude、SuperGrok、ChatGPT账号代充值服务</div>",
+            "url": "https://github.com/gptbmw/nf-video",
+            "title": "gptbmw/nf-video: 银河录像局：国内领先的流媒体和AI工具合租平台！提供Netflix、Spotify、Claude、ChatGPT账号合租服务，以及Claude、SuperGrok、ChatGPT账号代充值服务",
+            "date_modified": "2025-09-18T10:14:28.000Z",
+            "date_published": "2025-03-02T08:55:58.000Z",
+            "author": {
+                "name": "gptbmw",
+                "url": "https://github.com/gptbmw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-09-18T09:38:57.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60005228?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
+            "url": "https://github.com/nebstudio/chatai",
+            "title": "nebstudio/chatai: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+            "date_modified": "2025-09-18T06:58:46.000Z",
+            "date_published": "2025-09-16T13:18:09.000Z",
+            "author": {
+                "name": "nebstudio",
+                "url": "https://github.com/nebstudio"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67992509?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TK AI 모델 갤러리 - Next.js AI model gallery with BlurBlur.ai design and Midjourney masonry layout</div>",
             "url": "https://github.com/mafiaboyhacker/tk-ai-model-gallery",
             "title": "mafiaboyhacker/tk-ai-model-gallery: TK AI 모델 갤러리 - Next.js AI model gallery with BlurBlur.ai design and Midjourney masonry layout",
-            "date_modified": "2025-09-17T21:30:15.000Z",
+            "date_modified": "2025-09-18T02:43:30.000Z",
             "date_published": "2025-09-03T18:19:46.000Z",
             "author": {
                 "name": "mafiaboyhacker",
@@ -58,28 +135,6 @@
             "author": {
                 "name": "saahiyo",
                 "url": "https://github.com/saahiyo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
-            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
-            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
-            "date_modified": "2025-09-17T17:43:13.000Z",
-            "date_published": "2023-04-17T13:51:55.000Z",
-            "author": {
-                "name": "mbakgun",
-                "url": "https://github.com/mbakgun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231882480?u=d977c4dff7a348468eb07759277dde3afbd23b34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>20+ Premium AI Platforms - From ChatGPT to Midjourney, all major AI tools included Interactive Filtering - Search and filter by categories (Conversational AI, Image Generation, Development, etc.) Modern UI Design - Responsive glassmorphism design with smooth animations Detailed Information - Comprehensive descriptions, features, and pricing </div>",
-            "url": "https://github.com/engrohit/Top20AI",
-            "title": "engrohit/Top20AI: 20+ Premium AI Platforms - From ChatGPT to Midjourney, all major AI tools included Interactive Filtering - Search and filter by categories (Conversational AI, Image Generation, Development, etc.) Modern UI Design - Responsive glassmorphism design with smooth animations Detailed Information - Comprehensive descriptions, features, and pricing ",
-            "date_modified": "2025-09-17T17:21:33.000Z",
-            "date_published": "2025-09-17T17:09:53.000Z",
-            "author": {
-                "name": "engrohit",
-                "url": "https://github.com/engrohit"
             }
         },
         {
@@ -119,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5876036?u=be5a919c9425c2bc513afabfcbbf71aed46fd3b0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney prompt generator</div>",
             "url": "https://github.com/Amery2010/midjourney-prompt-generator",
             "title": "Amery2010/midjourney-prompt-generator: Midjourney prompt generator",
-            "date_modified": "2025-09-17T11:19:28.000Z",
+            "date_modified": "2025-09-18T08:00:50.000Z",
             "date_published": "2025-08-25T06:19:05.000Z",
             "author": {
                 "name": "Amery2010",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "IIs-fanta",
                 "url": "https://github.com/IIs-fanta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62864989?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app</div>",
-            "url": "https://github.com/go2coding/go2coding.github.io",
-            "title": "go2coding/go2coding.github.io: AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
-            "date_modified": "2025-09-17T01:48:04.000Z",
-            "date_published": "2020-04-14T08:34:22.000Z",
-            "author": {
-                "name": "go2coding",
-                "url": "https://github.com/go2coding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112035300?u=d7804319e6de0bd3761e85824b19e9c8953dde23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AutoStory Studio is a Python desktop app that automates the story-to-video workflow. It generates TikTok-style scripts from raw text with GPT-5 Mini, synthesizes narration with ElevenLabs, creates beat-based images and animations with MidJourney via Discord, and exports organized project folders ready for editing in CapCut.</div>",
-            "url": "https://github.com/tiennguyen03/autostory-studio",
-            "title": "tiennguyen03/autostory-studio: AutoStory Studio is a Python desktop app that automates the story-to-video workflow. It generates TikTok-style scripts from raw text with GPT-5 Mini, synthesizes narration with ElevenLabs, creates beat-based images and animations with MidJourney via Discord, and exports organized project folders ready for editing in CapCut.",
-            "date_modified": "2025-09-17T01:38:43.000Z",
-            "date_published": "2025-09-13T22:30:30.000Z",
-            "author": {
-                "name": "tiennguyen03",
-                "url": "https://github.com/tiennguyen03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61396273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(deprecated) Source for Midjourney's official wiki</div>",
-            "url": "https://github.com/midjourney/docs",
-            "title": "midjourney/docs: (deprecated) Source for Midjourney's official wiki",
-            "date_modified": "2025-09-16T20:23:44.000Z",
-            "date_published": "2022-05-05T17:01:33.000Z",
-            "author": {
-                "name": "midjourney",
-                "url": "https://github.com/midjourney"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80135269?u=da4467832f7fd743574632711023b16225e98005&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Criando um Ebook com ChatGPT &amp; MidJourney</div>",
-            "url": "https://github.com/manuabigsz/santander-bootcamp-prompts-recipe-to-create-a-ebook",
-            "title": "manuabigsz/santander-bootcamp-prompts-recipe-to-create-a-ebook: Criando um Ebook com ChatGPT & MidJourney",
-            "date_modified": "2025-09-16T13:35:56.000Z",
-            "date_published": "2024-05-08T23:10:49.000Z",
-            "author": {
-                "name": "manuabigsz",
-                "url": "https://github.com/manuabigsz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
-            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
-            "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
-            "date_modified": "2025-09-17T13:59:58.000Z",
-            "date_published": "2023-11-19T03:18:59.000Z",
-            "author": {
-                "name": "Dooy",
-                "url": "https://github.com/Dooy"
             }
         }
     ]
