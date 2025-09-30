@@ -6,10 +6,54 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
+            "url": "https://github.com/Kasabovtodor/chatgpt-good",
+            "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
+            "date_modified": "2025-09-30T01:02:46.000Z",
+            "date_published": "2025-04-25T19:34:00.000Z",
+            "author": {
+                "name": "Kasabovtodor",
+                "url": "https://github.com/Kasabovtodor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151238803?u=92fbaf4f6871e7a545367f544bd4ad4358ef9344&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompt Engineering Template optimised for several Image generation use cases with multiple models including Midjourney and Nano Banana</div>",
+            "url": "https://github.com/ZyadKamalHamed/Imagen_Prompt_Engine",
+            "title": "ZyadKamalHamed/Imagen_Prompt_Engine: Prompt Engineering Template optimised for several Image generation use cases with multiple models including Midjourney and Nano Banana",
+            "date_modified": "2025-09-30T00:30:07.000Z",
+            "date_published": "2025-09-28T23:34:48.000Z",
+            "author": {
+                "name": "ZyadKamalHamed",
+                "url": "https://github.com/ZyadKamalHamed"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2025-09-29T23:07:41.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
+            "url": "https://github.com/samuray2969/ai-image-generator",
+            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
+            "date_modified": "2025-09-29T22:57:05.000Z",
+            "date_published": "2025-09-04T01:31:45.000Z",
+            "author": {
+                "name": "samuray2969",
+                "url": "https://github.com/samuray2969"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-09-29T00:57:10.000Z",
+            "date_modified": "2025-09-29T22:25:26.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
@@ -17,14 +61,69 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
-            "url": "https://github.com/Kasabovtodor/chatgpt-good",
-            "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
-            "date_modified": "2025-09-29T00:50:26.000Z",
-            "date_published": "2025-04-25T19:34:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-09-30T00:44:28.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
-                "name": "Kasabovtodor",
-                "url": "https://github.com/Kasabovtodor"
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112035300?u=d7804319e6de0bd3761e85824b19e9c8953dde23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AutoStory Studio is a Python desktop app that automates the story-to-video workflow. It generates TikTok-style scripts from raw text with GPT-5 Mini, synthesizes narration with ElevenLabs, creates beat-based images and animations with MidJourney via Discord, and exports organized project folders ready for editing in CapCut.</div>",
+            "url": "https://github.com/tiennguyen03/autostory-studio",
+            "title": "tiennguyen03/autostory-studio: AutoStory Studio is a Python desktop app that automates the story-to-video workflow. It generates TikTok-style scripts from raw text with GPT-5 Mini, synthesizes narration with ElevenLabs, creates beat-based images and animations with MidJourney via Discord, and exports organized project folders ready for editing in CapCut.",
+            "date_modified": "2025-09-29T20:47:21.000Z",
+            "date_published": "2025-09-13T22:30:30.000Z",
+            "author": {
+                "name": "tiennguyen03",
+                "url": "https://github.com/tiennguyen03"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145501645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scene version of MST using generative AI (Midjourney) images</div>",
+            "url": "https://github.com/G-Radman/MJ-SceneMST",
+            "title": "G-Radman/MJ-SceneMST: Scene version of MST using generative AI (Midjourney) images",
+            "date_modified": "2025-09-29T18:49:55.000Z",
+            "date_published": "2025-08-03T16:48:04.000Z",
+            "author": {
+                "name": "G-Radman",
+                "url": "https://github.com/G-Radman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
+            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
+            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
+            "date_modified": "2025-09-29T17:15:08.000Z",
+            "date_published": "2025-04-21T10:14:21.000Z",
+            "author": {
+                "name": "reading-bakery",
+                "url": "https://github.com/reading-bakery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44784595?u=92b03c8db33f76acbc74a537086714c97af1859b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Discord bot for generating Midjourney prompts and posting to Pinterest. </div>",
+            "url": "https://github.com/chubes4/mjpin",
+            "title": "chubes4/mjpin: Discord bot for generating Midjourney prompts and posting to Pinterest. ",
+            "date_modified": "2025-09-29T14:19:31.000Z",
+            "date_published": "2025-06-08T05:32:52.000Z",
+            "author": {
+                "name": "chubes4",
+                "url": "https://github.com/chubes4"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
+            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
+            "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
+            "date_modified": "2025-09-29T12:10:51.000Z",
+            "date_published": "2023-11-19T03:18:59.000Z",
+            "author": {
+                "name": "Dooy",
+                "url": "https://github.com/Dooy"
             }
         },
         {
@@ -36,39 +135,6 @@
             "author": {
                 "name": "estefanev",
                 "url": "https://github.com/estefanev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151238803?u=92fbaf4f6871e7a545367f544bd4ad4358ef9344&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompt Engineering Template optimised for several Image generation use cases with multiple models including Midjourney and Nano Banana</div>",
-            "url": "https://github.com/ZyadKamalHamed/Imagen_Prompt_Engine",
-            "title": "ZyadKamalHamed/Imagen_Prompt_Engine: Prompt Engineering Template optimised for several Image generation use cases with multiple models including Midjourney and Nano Banana",
-            "date_modified": "2025-09-28T23:38:50.000Z",
-            "date_published": "2025-09-28T23:34:48.000Z",
-            "author": {
-                "name": "ZyadKamalHamed",
-                "url": "https://github.com/ZyadKamalHamed"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
-            "url": "https://github.com/Shaki774/AI-Tools-List",
-            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-09-28T23:00:20.000Z",
-            "date_published": "2022-09-04T09:15:27.000Z",
-            "author": {
-                "name": "Shaki774",
-                "url": "https://github.com/Shaki774"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
-            "url": "https://github.com/samuray2969/ai-image-generator",
-            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-09-28T22:49:31.000Z",
-            "date_published": "2025-09-04T01:31:45.000Z",
-            "author": {
-                "name": "samuray2969",
-                "url": "https://github.com/samuray2969"
             }
         },
         {
@@ -116,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
-            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
-            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
-            "date_modified": "2025-09-27T22:50:58.000Z",
-            "date_published": "2025-04-21T10:14:21.000Z",
-            "author": {
-                "name": "reading-bakery",
-                "url": "https://github.com/reading-bakery"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181181283?u=72086492040786f3a899c4631e0c5fed163d3be0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等200+模型教程</div>",
             "url": "https://github.com/whataicc/doc-whataicc-api",
             "title": "whataicc/doc-whataicc-api: 神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等200+模型教程",
@@ -141,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
             "url": "https://github.com/AceDataCloud/Nexior",
             "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
-            "date_modified": "2025-09-28T12:24:14.000Z",
+            "date_modified": "2025-09-29T23:15:43.000Z",
             "date_published": "2024-02-26T16:28:37.000Z",
             "author": {
                 "name": "AceDataCloud",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "anyofai",
                 "url": "https://github.com/anyofai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77724499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2025年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？</div>",
-            "url": "https://github.com/anyofai/midjourney",
-            "title": "anyofai/midjourney: 2025年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？",
-            "date_modified": "2025-09-27T11:28:40.000Z",
-            "date_published": "2025-03-12T11:29:20.000Z",
-            "author": {
-                "name": "anyofai",
-                "url": "https://github.com/anyofai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于lobe-chat，增加了绘图、音乐、视频等创作面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，豆包画图，用户注册登录，充值消费，模型及价格管理，聊天、绘图、音乐、视频创作记录管理，通知公告等</div>",
-            "url": "https://github.com/vual/lobe-chat-pro",
-            "title": "vual/lobe-chat-pro: 基于lobe-chat，增加了绘图、音乐、视频等创作面板，支持midjourney、dall-e-3，flux，suno，luma，runway，kling(快手可灵)，豆包画图，用户注册登录，充值消费，模型及价格管理，聊天、绘图、音乐、视频创作记录管理，通知公告等",
-            "date_modified": "2025-09-27T11:34:17.000Z",
-            "date_published": "2024-07-05T08:59:07.000Z",
-            "author": {
-                "name": "vual",
-                "url": "https://github.com/vual"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53037786?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> OpenAi-Sora (SoraFlows) is an open-source, cross-platform web application for AI-powered video creation and editing using the latest OpenAI Sora model. Effortlessly generate, edit, and share videos from text or images, with integrated support for voice-to-text, text-to-speech, voice cloning, and multi-language interfaces . </div>",
-            "url": "https://github.com/TornadoInsight/OpenAi-Sora",
-            "title": "TornadoInsight/OpenAi-Sora:  OpenAi-Sora (SoraFlows) is an open-source, cross-platform web application for AI-powered video creation and editing using the latest OpenAI Sora model. Effortlessly generate, edit, and share videos from text or images, with integrated support for voice-to-text, text-to-speech, voice cloning, and multi-language interfaces . ",
-            "date_modified": "2025-09-28T18:47:39.000Z",
-            "date_published": "2025-09-27T01:08:24.000Z",
-            "author": {
-                "name": "TornadoInsight",
-                "url": "https://github.com/TornadoInsight"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-09-28T02:15:15.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48663?u=da7c58a995a931030f42773fda66d38fec32cf8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Images in Discord channels, such as Midjourney conjurings or such, disappear quickly. This downloads an archive of those images for more permanence. Used for things like Files2Book to created printed books.</div>",
-            "url": "https://github.com/bleeckerj/download-discord-images",
-            "title": "bleeckerj/download-discord-images: Images in Discord channels, such as Midjourney conjurings or such, disappear quickly. This downloads an archive of those images for more permanence. Used for things like Files2Book to created printed books.",
-            "date_modified": "2025-09-26T20:47:57.000Z",
-            "date_published": "2024-03-01T15:22:37.000Z",
-            "author": {
-                "name": "bleeckerj",
-                "url": "https://github.com/bleeckerj"
             }
         }
     ]
