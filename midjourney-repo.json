@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
             "url": "https://github.com/Shaki774/AI-Tools-List",
             "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-10-06T23:46:53.000Z",
+            "date_modified": "2025-10-07T23:12:40.000Z",
             "date_published": "2022-09-04T09:15:27.000Z",
             "author": {
                 "name": "Shaki774",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
             "url": "https://github.com/samuray2969/ai-image-generator",
             "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-10-06T23:35:41.000Z",
+            "date_modified": "2025-10-07T23:02:05.000Z",
             "date_published": "2025-09-04T01:31:45.000Z",
             "author": {
                 "name": "samuray2969",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-10-06T23:05:18.000Z",
+            "date_modified": "2025-10-07T22:30:44.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
             "url": "https://github.com/Kasabovtodor/chatgpt-good",
             "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
-            "date_modified": "2025-10-06T22:58:42.000Z",
+            "date_modified": "2025-10-07T22:24:09.000Z",
             "date_published": "2025-04-25T19:34:00.000Z",
             "author": {
                 "name": "Kasabovtodor",
@@ -50,25 +50,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-10-06T22:45:38.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99784115?u=eae94d3a5132476bf50f61dce21b2af819db6d24&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script to create AI generated website articles and accompanying image prompts that can be pushed into Midjourney or another AI image generator. </div>",
+            "url": "https://github.com/Orange-Joe/article_and_image_prompt_generator",
+            "title": "Orange-Joe/article_and_image_prompt_generator: Script to create AI generated website articles and accompanying image prompts that can be pushed into Midjourney or another AI image generator. ",
+            "date_modified": "2025-10-07T18:07:49.000Z",
+            "date_published": "2025-10-07T18:05:58.000Z",
             "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
+                "name": "Orange-Joe",
+                "url": "https://github.com/Orange-Joe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117193280?u=652830712c48a0ce48a24d2bb65c520e94dfa2e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей</div>",
+            "url": "https://github.com/IntenseTron/promptsneuro",
+            "title": "IntenseTron/promptsneuro: Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей",
+            "date_modified": "2025-10-07T15:49:47.000Z",
+            "date_published": "2025-10-07T15:49:47.000Z",
+            "author": {
+                "name": "IntenseTron",
+                "url": "https://github.com/IntenseTron"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133771406?u=f27b30fb0ea8d9d3979e190756d42689af49022e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repo containing files for the AI Podcast challenge from \"Universia - Fundamentos de IA Generativa\", a DIO/Santander bootcamp. Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast</div>",
             "url": "https://github.com/camillycampelo/dio-santander-podcast-generate-by-ai",
             "title": "camillycampelo/dio-santander-podcast-generate-by-ai: A repo containing files for the AI Podcast challenge from \"Universia - Fundamentos de IA Generativa\", a DIO/Santander bootcamp. Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast",
-            "date_modified": "2025-10-06T18:30:57.000Z",
+            "date_modified": "2025-10-07T12:46:55.000Z",
             "date_published": "2025-10-06T17:11:50.000Z",
             "author": {
                 "name": "camillycampelo",
                 "url": "https://github.com/camillycampelo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/207455664?u=12298e7df4da68351d7b879d334b4ccc74701730&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Superfiles123/midjourney-ui",
+            "title": "Superfiles123/midjourney-ui",
+            "date_modified": "2025-10-07T12:31:32.000Z",
+            "date_published": "2025-10-07T12:31:08.000Z",
+            "author": {
+                "name": "Superfiles123",
+                "url": "https://github.com/Superfiles123"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-10-07T02:59:47.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
             }
         },
         {
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
             "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
             "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
-            "date_modified": "2025-10-06T14:03:41.000Z",
+            "date_modified": "2025-10-07T10:04:58.000Z",
             "date_published": "2023-11-19T03:18:59.000Z",
             "author": {
                 "name": "Dooy",
@@ -138,10 +171,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CLI / Web Tool for Creating Tweetable JPG-HTML Polyglot Images Files. Used for Storing and Sharing AI Image Text Prompts.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CLI / Web Tool for Creating Tweetable JPG-HTML Polyglot Image Files. Ideal for Storing &amp; Sharing Image Text Descriptions.</div>",
             "url": "https://github.com/CleasbyCode/imgprmt",
-            "title": "CleasbyCode/imgprmt: CLI / Web Tool for Creating Tweetable JPG-HTML Polyglot Images Files. Used for Storing and Sharing AI Image Text Prompts.",
-            "date_modified": "2025-10-05T16:23:36.000Z",
+            "title": "CleasbyCode/imgprmt: CLI / Web Tool for Creating Tweetable JPG-HTML Polyglot Image Files. Ideal for Storing & Sharing Image Text Descriptions.",
+            "date_modified": "2025-10-07T17:54:53.000Z",
             "date_published": "2023-05-27T20:10:50.000Z",
             "author": {
                 "name": "CleasbyCode",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "eudk",
                 "url": "https://github.com/eudk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28628527?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Jarbaz AI - Beyond Imagination | Inteligência Artificial com personalidade dos gênios (Steve Jobs, Van Gogh, Mozart, Wozniak) | Multi-AI Architecture | React + OpenAI + DeepSeek + Gemini</div>",
-            "url": "https://github.com/fabiokafka/jarbaz-ai",
-            "title": "fabiokafka/jarbaz-ai: 🦜 Jarbaz AI - Beyond Imagination | Inteligência Artificial com personalidade dos gênios (Steve Jobs, Van Gogh, Mozart, Wozniak) | Multi-AI Architecture | React + OpenAI + DeepSeek + Gemini",
-            "date_modified": "2025-10-05T03:00:02.000Z",
-            "date_published": "2025-10-05T02:58:23.000Z",
-            "author": {
-                "name": "fabiokafka",
-                "url": "https://github.com/fabiokafka"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/236060193?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI enthusiast and digital creator exploring the art of imagination through tools like MidJourney, Leonardo AI, and DALL·E. I run AIPromptTrends, where creativity meets technology every day.</div>",
-            "url": "https://github.com/lillianlhoward-netizen/aiprompttrends",
-            "title": "lillianlhoward-netizen/aiprompttrends: AI enthusiast and digital creator exploring the art of imagination through tools like MidJourney, Leonardo AI, and DALL·E. I run AIPromptTrends, where creativity meets technology every day.",
-            "date_modified": "2025-10-04T13:37:05.000Z",
-            "date_published": "2025-10-04T13:37:04.000Z",
-            "author": {
-                "name": "lillianlhoward-netizen",
-                "url": "https://github.com/lillianlhoward-netizen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18009286?u=eb8760cf3109c73457f5f37dfc010deafde1bcaa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。</div>",
-            "url": "https://github.com/jurieo/chatgpt-share-web",
-            "title": "jurieo/chatgpt-share-web: chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。",
-            "date_modified": "2025-10-06T20:01:49.000Z",
-            "date_published": "2024-02-28T09:38:38.000Z",
-            "author": {
-                "name": "jurieo",
-                "url": "https://github.com/jurieo"
             }
         }
     ]
