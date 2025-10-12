@@ -6,43 +6,10 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
-            "url": "https://github.com/Shaki774/AI-Tools-List",
-            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-10-11T00:59:20.000Z",
-            "date_published": "2022-09-04T09:15:27.000Z",
-            "author": {
-                "name": "Shaki774",
-                "url": "https://github.com/Shaki774"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
-            "url": "https://github.com/samuray2969/ai-image-generator",
-            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-10-11T00:48:10.000Z",
-            "date_published": "2025-09-04T01:31:45.000Z",
-            "author": {
-                "name": "samuray2969",
-                "url": "https://github.com/samuray2969"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5595819?u=1a2c8734092c288659468aeb4ad869d8f47dfe91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Photoshop AI plugin</div>",
-            "url": "https://github.com/zombieyang/sd-ppp",
-            "title": "zombieyang/sd-ppp: A Photoshop AI plugin",
-            "date_modified": "2025-10-11T00:36:24.000Z",
-            "date_published": "2024-03-29T13:26:05.000Z",
-            "author": {
-                "name": "zombieyang",
-                "url": "https://github.com/zombieyang"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-10-11T00:14:48.000Z",
+            "date_modified": "2025-10-12T00:48:33.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
@@ -53,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
             "url": "https://github.com/Kasabovtodor/chatgpt-good",
             "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
-            "date_modified": "2025-10-11T00:07:42.000Z",
+            "date_modified": "2025-10-12T00:42:16.000Z",
             "date_published": "2025-04-25T19:34:00.000Z",
             "author": {
                 "name": "Kasabovtodor",
@@ -61,10 +28,65 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
+            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
+            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
+            "date_modified": "2025-10-11T23:19:28.000Z",
+            "date_published": "2025-04-21T10:14:21.000Z",
+            "author": {
+                "name": "reading-bakery",
+                "url": "https://github.com/reading-bakery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2025-10-11T22:11:56.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
+            "url": "https://github.com/samuray2969/ai-image-generator",
+            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
+            "date_modified": "2025-10-11T22:00:25.000Z",
+            "date_published": "2025-09-04T01:31:45.000Z",
+            "author": {
+                "name": "samuray2969",
+                "url": "https://github.com/samuray2969"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-10-11T21:15:21.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223926645?u=76e9e8ffaa7ef700091813ebb143c4b22d833808&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/kushwahayashh/midjourney-image-generator",
+            "title": "kushwahayashh/midjourney-image-generator",
+            "date_modified": "2025-10-11T18:50:09.000Z",
+            "date_published": "2025-10-11T18:49:57.000Z",
+            "author": {
+                "name": "kushwahayashh",
+                "url": "https://github.com/kushwahayashh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CLI / Web Tool for Creating Tweetable JPG-HTML Polyglot Image Files. Ideal for Storing &amp; Sharing Image Text Descriptions.</div>",
             "url": "https://github.com/CleasbyCode/imgprmt",
             "title": "CleasbyCode/imgprmt: CLI / Web Tool for Creating Tweetable JPG-HTML Polyglot Image Files. Ideal for Storing & Sharing Image Text Descriptions.",
-            "date_modified": "2025-10-10T20:38:02.000Z",
+            "date_modified": "2025-10-11T16:44:34.000Z",
             "date_published": "2023-05-27T20:10:50.000Z",
             "author": {
                 "name": "CleasbyCode",
@@ -75,11 +97,55 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117193280?u=652830712c48a0ce48a24d2bb65c520e94dfa2e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей</div>",
             "url": "https://github.com/promptsneuro/promptsneuro.github.io",
             "title": "promptsneuro/promptsneuro.github.io: Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей",
-            "date_modified": "2025-10-10T18:58:37.000Z",
+            "date_modified": "2025-10-11T12:13:40.000Z",
             "date_published": "2025-10-07T15:49:47.000Z",
             "author": {
                 "name": "promptsneuro",
                 "url": "https://github.com/promptsneuro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85743550?u=2d7efadfb6cf9b44e116ac7b6e0fde75a760dea0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.</div>",
+            "url": "https://github.com/PawelJakubczyk/PromptJourney",
+            "title": "PawelJakubczyk/PromptJourney: PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.",
+            "date_modified": "2025-10-11T09:47:01.000Z",
+            "date_published": "2025-07-07T13:08:57.000Z",
+            "author": {
+                "name": "PawelJakubczyk",
+                "url": "https://github.com/PawelJakubczyk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5595819?u=1a2c8734092c288659468aeb4ad869d8f47dfe91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Photoshop AI plugin</div>",
+            "url": "https://github.com/zombieyang/sd-ppp",
+            "title": "zombieyang/sd-ppp: A Photoshop AI plugin",
+            "date_modified": "2025-10-11T10:29:42.000Z",
+            "date_published": "2024-03-29T13:26:05.000Z",
+            "author": {
+                "name": "zombieyang",
+                "url": "https://github.com/zombieyang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy",
+            "title": "trueai-org/midjourney-proxy: 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！",
+            "date_modified": "2025-10-11T06:42:11.000Z",
+            "date_published": "2024-07-03T08:04:25.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127083599?u=534c2185929c4776922b96ac7dcd5acc17626714&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Download Midjourney Picture Automatic</div>",
+            "url": "https://github.com/tuha1994/MJ",
+            "title": "tuha1994/MJ: Download Midjourney Picture Automatic",
+            "date_modified": "2025-10-11T02:50:49.000Z",
+            "date_published": "2024-05-13T16:02:43.000Z",
+            "author": {
+                "name": "tuha1994",
+                "url": "https://github.com/tuha1994"
             }
         },
         {
@@ -91,17 +157,6 @@
             "author": {
                 "name": "midjourney",
                 "url": "https://github.com/midjourney"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85743550?u=2d7efadfb6cf9b44e116ac7b6e0fde75a760dea0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.</div>",
-            "url": "https://github.com/PawelJakubczyk/PromptJourney",
-            "title": "PawelJakubczyk/PromptJourney: PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.",
-            "date_modified": "2025-10-10T17:06:36.000Z",
-            "date_published": "2025-07-07T13:08:57.000Z",
-            "author": {
-                "name": "PawelJakubczyk",
-                "url": "https://github.com/PawelJakubczyk"
             }
         },
         {
@@ -124,17 +179,6 @@
             "author": {
                 "name": "apiframe-ai",
                 "url": "https://github.com/apiframe-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127083599?u=534c2185929c4776922b96ac7dcd5acc17626714&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Download Midjourney Picture Automatic</div>",
-            "url": "https://github.com/tuha1994/MJ",
-            "title": "tuha1994/MJ: Download Midjourney Picture Automatic",
-            "date_modified": "2025-10-10T12:57:07.000Z",
-            "date_published": "2024-05-13T16:02:43.000Z",
-            "author": {
-                "name": "tuha1994",
-                "url": "https://github.com/tuha1994"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "imaginpro",
                 "url": "https://github.com/imaginpro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/228523327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A project to distinguish between real life images and AI-generated ones (Midjourney) using a pre-trained ResNet50 deep learning model. The project aims to build an accurate classifier and applies UMAP for dimensionality reduction to visualize the differences between the two classes.</div>",
-            "url": "https://github.com/abobakrbayomi-cell/Real-vs.-Synthetic-Image-Classification",
-            "title": "abobakrbayomi-cell/Real-vs.-Synthetic-Image-Classification: A project to distinguish between real life images and AI-generated ones (Midjourney) using a pre-trained ResNet50 deep learning model. The project aims to build an accurate classifier and applies UMAP for dimensionality reduction to visualize the differences between the two classes.",
-            "date_modified": "2025-10-09T18:23:14.000Z",
-            "date_published": "2025-10-04T13:31:15.000Z",
-            "author": {
-                "name": "abobakrbayomi-cell",
-                "url": "https://github.com/abobakrbayomi-cell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183289611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.</div>",
-            "url": "https://github.com/shantanu994/AI-Prompt-Generator",
-            "title": "shantanu994/AI-Prompt-Generator: A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.",
-            "date_modified": "2025-10-09T14:24:36.000Z",
-            "date_published": "2025-08-05T18:23:29.000Z",
-            "author": {
-                "name": "shantanu994",
-                "url": "https://github.com/shantanu994"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159649866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Guia definitivo de IA para 2025! Domine ChatGPT, Midjourney e mais 40 ferramentas. 11 capítulos práticos ensinam: criação de conteúdo profissional, estratégias de monetização (R$2mil-10mil/mês), prompts avançados e automações. Perfeito para empreendedores, freelancers e criadores. 80+ páginas + 50 prompts prontos + plano de ação.</div>",
-            "url": "https://github.com/RONILDOMATOS/ai-na-pratica",
-            "title": "RONILDOMATOS/ai-na-pratica: Guia definitivo de IA para 2025! Domine ChatGPT, Midjourney e mais 40 ferramentas. 11 capítulos práticos ensinam: criação de conteúdo profissional, estratégias de monetização (R$2mil-10mil/mês), prompts avançados e automações. Perfeito para empreendedores, freelancers e criadores. 80+ páginas + 50 prompts prontos + plano de ação.",
-            "date_modified": "2025-10-09T13:15:32.000Z",
-            "date_published": "2025-10-09T13:12:14.000Z",
-            "author": {
-                "name": "RONILDOMATOS",
-                "url": "https://github.com/RONILDOMATOS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159649866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Guia definitivo de IA para 2025! Domine ChatGPT, Midjourney e mais 40 ferramentas. 11 capítulos práticos ensinam: criação de conteúdo profissional, estratégias de monetização (R$2mil-10mil/mês), prompts avançados e automações. Perfeito para empreendedores, freelancers e criadores. 80+ páginas + 50 prompts prontos + plano de ação.</div>",
-            "url": "https://github.com/RONILDOMATOS/IA-NA-PRATICA",
-            "title": "RONILDOMATOS/IA-NA-PRATICA: Guia definitivo de IA para 2025! Domine ChatGPT, Midjourney e mais 40 ferramentas. 11 capítulos práticos ensinam: criação de conteúdo profissional, estratégias de monetização (R$2mil-10mil/mês), prompts avançados e automações. Perfeito para empreendedores, freelancers e criadores. 80+ páginas + 50 prompts prontos + plano de ação.",
-            "date_modified": "2025-10-09T11:51:57.000Z",
-            "date_published": "2025-10-09T11:43:46.000Z",
-            "author": {
-                "name": "RONILDOMATOS",
-                "url": "https://github.com/RONILDOMATOS"
             }
         }
     ]
