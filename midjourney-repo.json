@@ -6,43 +6,10 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
-            "url": "https://github.com/nguyennam05/AI.TUTOR",
-            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-10-12T00:48:33.000Z",
-            "date_published": "2025-05-09T03:35:59.000Z",
-            "author": {
-                "name": "nguyennam05",
-                "url": "https://github.com/nguyennam05"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
-            "url": "https://github.com/Kasabovtodor/chatgpt-good",
-            "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
-            "date_modified": "2025-10-12T00:42:16.000Z",
-            "date_published": "2025-04-25T19:34:00.000Z",
-            "author": {
-                "name": "Kasabovtodor",
-                "url": "https://github.com/Kasabovtodor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
-            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
-            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
-            "date_modified": "2025-10-11T23:19:28.000Z",
-            "date_published": "2025-04-21T10:14:21.000Z",
-            "author": {
-                "name": "reading-bakery",
-                "url": "https://github.com/reading-bakery"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
             "url": "https://github.com/Shaki774/AI-Tools-List",
             "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-10-11T22:11:56.000Z",
+            "date_modified": "2025-10-12T22:49:14.000Z",
             "date_published": "2022-09-04T09:15:27.000Z",
             "author": {
                 "name": "Shaki774",
@@ -53,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
             "url": "https://github.com/samuray2969/ai-image-generator",
             "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-10-11T22:00:25.000Z",
+            "date_modified": "2025-10-12T22:38:30.000Z",
             "date_published": "2025-09-04T01:31:45.000Z",
             "author": {
                 "name": "samuray2969",
@@ -61,10 +28,54 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96875654?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]</div>",
+            "url": "https://github.com/Kasabovtodor/chatgpt-good",
+            "title": "Kasabovtodor/chatgpt-good: ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年4月26日更新]",
+            "date_modified": "2025-10-12T21:55:07.000Z",
+            "date_published": "2025-04-25T19:34:00.000Z",
+            "author": {
+                "name": "Kasabovtodor",
+                "url": "https://github.com/Kasabovtodor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
+            "url": "https://github.com/nguyennam05/AI.TUTOR",
+            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
+            "date_modified": "2025-10-12T18:18:16.000Z",
+            "date_published": "2025-05-09T03:35:59.000Z",
+            "author": {
+                "name": "nguyennam05",
+                "url": "https://github.com/nguyennam05"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/216396932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Renkli, modern, Flutter uyumlu yapay zeka ikon paketi.  Tüm popüler AI platformlarının flat ikonlarını içerir.  (ChatGPT, Gemini, Midjourney, Firefly, Copilot, vs.)</div>",
+            "url": "https://github.com/2phasan/yapay-zeka-icons",
+            "title": "2phasan/yapay-zeka-icons: 🎨 Renkli, modern, Flutter uyumlu yapay zeka ikon paketi.  Tüm popüler AI platformlarının flat ikonlarını içerir.  (ChatGPT, Gemini, Midjourney, Firefly, Copilot, vs.)",
+            "date_modified": "2025-10-12T17:07:28.000Z",
+            "date_published": "2025-10-12T17:07:23.000Z",
+            "author": {
+                "name": "2phasan",
+                "url": "https://github.com/2phasan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183289611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.</div>",
+            "url": "https://github.com/shantanu994/AI-Prompt-Generator",
+            "title": "shantanu994/AI-Prompt-Generator: A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.",
+            "date_modified": "2025-10-12T17:03:22.000Z",
+            "date_published": "2025-08-05T18:23:29.000Z",
+            "author": {
+                "name": "shantanu994",
+                "url": "https://github.com/shantanu994"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-10-11T21:15:21.000Z",
+            "date_modified": "2025-10-12T18:22:17.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -72,14 +83,58 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117193280?u=652830712c48a0ce48a24d2bb65c520e94dfa2e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей</div>",
+            "url": "https://github.com/promptsneuro/promptsneuro.github.io",
+            "title": "promptsneuro/promptsneuro.github.io: Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей",
+            "date_modified": "2025-10-12T13:25:25.000Z",
+            "date_published": "2025-10-07T15:49:47.000Z",
+            "author": {
+                "name": "promptsneuro",
+                "url": "https://github.com/promptsneuro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32251822?u=e7f7d1272b8d7e8d2de712f95f1e514ce3455033&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。</div>",
+            "url": "https://github.com/ageerle/ruoyi-web",
+            "title": "ageerle/ruoyi-web: 一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。",
+            "date_modified": "2025-10-12T11:07:06.000Z",
+            "date_published": "2024-02-27T12:57:17.000Z",
+            "author": {
+                "name": "ageerle",
+                "url": "https://github.com/ageerle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94165627?u=607f33e3ea833a1c47cd3ebb5696158e14947b6f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompt Palette is a Flutter app that generates AI art prompts for tools like MidJourney and StableDiffusion. Select artist style, object, and theme to create imaginative prompts with a clean interface and instant copy support.</div>",
+            "url": "https://github.com/bektas-sari/prompt_palette",
+            "title": "bektas-sari/prompt_palette: Prompt Palette is a Flutter app that generates AI art prompts for tools like MidJourney and StableDiffusion. Select artist style, object, and theme to create imaginative prompts with a clean interface and instant copy support.",
+            "date_modified": "2025-10-12T09:23:35.000Z",
+            "date_published": "2025-05-17T07:09:12.000Z",
+            "author": {
+                "name": "bektas-sari",
+                "url": "https://github.com/bektas-sari"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223926645?u=76e9e8ffaa7ef700091813ebb143c4b22d833808&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/kushwahayashh/midjourney-image-generator",
             "title": "kushwahayashh/midjourney-image-generator",
-            "date_modified": "2025-10-11T18:50:09.000Z",
+            "date_modified": "2025-10-12T07:15:45.000Z",
             "date_published": "2025-10-11T18:49:57.000Z",
             "author": {
                 "name": "kushwahayashh",
                 "url": "https://github.com/kushwahayashh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
+            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
+            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
+            "date_modified": "2025-10-12T01:40:10.000Z",
+            "date_published": "2025-04-21T10:14:21.000Z",
+            "author": {
+                "name": "reading-bakery",
+                "url": "https://github.com/reading-bakery"
             }
         },
         {
@@ -91,17 +146,6 @@
             "author": {
                 "name": "CleasbyCode",
                 "url": "https://github.com/CleasbyCode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117193280?u=652830712c48a0ce48a24d2bb65c520e94dfa2e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей</div>",
-            "url": "https://github.com/promptsneuro/promptsneuro.github.io",
-            "title": "promptsneuro/promptsneuro.github.io: Лучшие промпты для нейросетей — повысь эффективность работы с AI. Уникальная коллекция промптов для ChatGPT, Midjourney, Stable Diffusion и других нейросетей",
-            "date_modified": "2025-10-11T12:13:40.000Z",
-            "date_published": "2025-10-07T15:49:47.000Z",
-            "author": {
-                "name": "promptsneuro",
-                "url": "https://github.com/promptsneuro"
             }
         },
         {
@@ -119,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5595819?u=1a2c8734092c288659468aeb4ad869d8f47dfe91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Photoshop AI plugin</div>",
             "url": "https://github.com/zombieyang/sd-ppp",
             "title": "zombieyang/sd-ppp: A Photoshop AI plugin",
-            "date_modified": "2025-10-11T10:29:42.000Z",
+            "date_modified": "2025-10-12T21:21:42.000Z",
             "date_published": "2024-03-29T13:26:05.000Z",
             "author": {
                 "name": "zombieyang",
@@ -130,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！</div>",
             "url": "https://github.com/trueai-org/midjourney-proxy",
             "title": "trueai-org/midjourney-proxy: 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！",
-            "date_modified": "2025-10-11T06:42:11.000Z",
+            "date_modified": "2025-10-12T14:21:34.000Z",
             "date_published": "2024-07-03T08:04:25.000Z",
             "author": {
                 "name": "trueai-org",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "apiframe-ai",
                 "url": "https://github.com/apiframe-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237016225?u=3a376f31461364d9c524a8a03fe66139dfd2e2e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official Python SDK for Apiframe - AI image and video generation APIs (Midjourney, Flux, Luma, Suno, Runway, and more)</div>",
-            "url": "https://github.com/apiframe-ai/apiframe-python-sdk",
-            "title": "apiframe-ai/apiframe-python-sdk: Official Python SDK for Apiframe - AI image and video generation APIs (Midjourney, Flux, Luma, Suno, Runway, and more)",
-            "date_modified": "2025-10-10T12:27:14.000Z",
-            "date_published": "2025-10-10T11:23:08.000Z",
-            "author": {
-                "name": "apiframe-ai",
-                "url": "https://github.com/apiframe-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237016225?u=3a376f31461364d9c524a8a03fe66139dfd2e2e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official Node.js SDK for Apiframe - AI image and video generation APIs (Midjourney, Flux, Luma, Suno, Runway, and more)</div>",
-            "url": "https://github.com/apiframe-ai/apiframe-nodejs-sdk",
-            "title": "apiframe-ai/apiframe-nodejs-sdk: Official Node.js SDK for Apiframe - AI image and video generation APIs (Midjourney, Flux, Luma, Suno, Runway, and more)",
-            "date_modified": "2025-10-10T10:40:52.000Z",
-            "date_published": "2025-10-09T10:37:26.000Z",
-            "author": {
-                "name": "apiframe-ai",
-                "url": "https://github.com/apiframe-ai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181181283?u=72086492040786f3a899c4631e0c5fed163d3be0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等200+模型教程</div>",
-            "url": "https://github.com/whataicc/doc-whataicc-api",
-            "title": "whataicc/doc-whataicc-api: 神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等200+模型教程",
-            "date_modified": "2025-10-10T09:00:26.000Z",
-            "date_published": "2025-09-10T05:08:55.000Z",
-            "author": {
-                "name": "whataicc",
-                "url": "https://github.com/whataicc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/205255446?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official SDK of Imaginepro, your professional AI image generation platform with enterprise-grade stability and scalability.</div>",
-            "url": "https://github.com/imaginpro/imaginepro-js-sdk",
-            "title": "imaginpro/imaginepro-js-sdk: Official SDK of Imaginepro, your professional AI image generation platform with enterprise-grade stability and scalability.",
-            "date_modified": "2025-10-10T03:35:24.000Z",
-            "date_published": "2025-03-28T01:38:44.000Z",
-            "author": {
-                "name": "imaginpro",
-                "url": "https://github.com/imaginpro"
             }
         }
     ]
