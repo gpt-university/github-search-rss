@@ -6,10 +6,43 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
+            "url": "https://github.com/samuray2969/ai-image-generator",
+            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
+            "date_modified": "2025-10-22T01:06:28.000Z",
+            "date_published": "2025-09-04T01:31:45.000Z",
+            "author": {
+                "name": "samuray2969",
+                "url": "https://github.com/samuray2969"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3258976?u=58748205b515cdaa86c137899e0a70a34f1209a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Automate Midjourney with queue management and AI assistant integration</div>",
+            "url": "https://github.com/capedigital/midjourney-control-plugin",
+            "title": "capedigital/midjourney-control-plugin: 🎨 Automate Midjourney with queue management and AI assistant integration",
+            "date_modified": "2025-10-22T00:51:31.000Z",
+            "date_published": "2025-10-21T22:59:00.000Z",
+            "author": {
+                "name": "capedigital",
+                "url": "https://github.com/capedigital"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
+            "url": "https://github.com/nguyennam05/AI.TUTOR",
+            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
+            "date_modified": "2025-10-22T00:30:59.000Z",
+            "date_published": "2025-05-09T03:35:59.000Z",
+            "author": {
+                "name": "nguyennam05",
+                "url": "https://github.com/nguyennam05"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-10-21T01:05:10.000Z",
+            "date_modified": "2025-10-22T00:27:05.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -17,14 +50,168 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25368970?u=56ff5cd682fe7e00b163f2e83ccadd535802a930&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ask ChatGPT to response in Non-axiomatic Mathematics;套路;話術;</div>",
+            "url": "https://github.com/ewdlop/Prompt-Engineering.md",
+            "title": "ewdlop/Prompt-Engineering.md: Ask ChatGPT to response in Non-axiomatic Mathematics;套路;話術;",
+            "date_modified": "2025-10-21T23:48:30.000Z",
+            "date_published": "2024-11-04T17:31:42.000Z",
+            "author": {
+                "name": "ewdlop",
+                "url": "https://github.com/ewdlop"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
             "url": "https://github.com/nuuuut/Prompt-Generator",
             "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
-            "date_modified": "2025-10-21T00:20:01.000Z",
+            "date_modified": "2025-10-21T22:03:21.000Z",
             "date_published": "2025-10-19T03:47:46.000Z",
             "author": {
                 "name": "nuuuut",
                 "url": "https://github.com/nuuuut"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2025-10-21T21:07:55.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Embed image descriptions within a JPG, which is shareable on compatible sites. View text locally as a web page.</div>",
+            "url": "https://github.com/CleasbyCode/imgprmt",
+            "title": "CleasbyCode/imgprmt: Embed image descriptions within a JPG, which is shareable on compatible sites. View text locally as a web page.",
+            "date_modified": "2025-10-21T21:18:14.000Z",
+            "date_published": "2023-05-27T20:10:50.000Z",
+            "author": {
+                "name": "CleasbyCode",
+                "url": "https://github.com/CleasbyCode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183289611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.</div>",
+            "url": "https://github.com/shantanu994/AI-Prompt-Generator",
+            "title": "shantanu994/AI-Prompt-Generator: A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.",
+            "date_modified": "2025-10-21T18:38:25.000Z",
+            "date_published": "2025-08-05T18:23:29.000Z",
+            "author": {
+                "name": "shantanu994",
+                "url": "https://github.com/shantanu994"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71108776?u=d97d610b110c311ab7c21b4380e261cf2267922a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Desafio de criar um Ebook com ferramentas IA - chatGPT e midjourney.   </div>",
+            "url": "https://github.com/AlexAndrade95/Ebook-Desafio-IA-DIO-Santander2025",
+            "title": "AlexAndrade95/Ebook-Desafio-IA-DIO-Santander2025: Desafio de criar um Ebook com ferramentas IA - chatGPT e midjourney.   ",
+            "date_modified": "2025-10-21T15:26:21.000Z",
+            "date_published": "2025-10-21T15:05:32.000Z",
+            "author": {
+                "name": "AlexAndrade95",
+                "url": "https://github.com/AlexAndrade95"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71108776?u=d97d610b110c311ab7c21b4380e261cf2267922a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Desafiot det criart umt Ebookt comt ferramentas IA - chatGPT e midjourney.</div>",
+            "url": "https://github.com/AlexAndrade95/Ebook-Desafio-IA-DIO",
+            "title": "AlexAndrade95/Ebook-Desafio-IA-DIO: Desafiot det criart umt Ebookt comt ferramentas IA - chatGPT e midjourney.",
+            "date_modified": "2025-10-21T15:04:25.000Z",
+            "date_published": "2025-10-21T15:04:24.000Z",
+            "author": {
+                "name": "AlexAndrade95",
+                "url": "https://github.com/AlexAndrade95"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9865632?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/danyial/n8n-nodes-midjourney",
+            "title": "danyial/n8n-nodes-midjourney",
+            "date_modified": "2025-10-21T14:09:10.000Z",
+            "date_published": "2025-10-21T10:44:20.000Z",
+            "author": {
+                "name": "danyial",
+                "url": "https://github.com/danyial"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77724499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐（每月仅需27元）！本文将手把手地教大家如何通过银河录像局和星际放映厅等合租平台去购买Midjourney共享帐号！</div>",
+            "url": "https://github.com/anyofai/midjourney-hezu",
+            "title": "anyofai/midjourney-hezu: 最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐（每月仅需27元）！本文将手把手地教大家如何通过银河录像局和星际放映厅等合租平台去购买Midjourney共享帐号！",
+            "date_modified": "2025-10-21T13:24:00.000Z",
+            "date_published": "2025-03-22T12:30:02.000Z",
+            "author": {
+                "name": "anyofai",
+                "url": "https://github.com/anyofai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77724499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2025年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？</div>",
+            "url": "https://github.com/anyofai/midjourney",
+            "title": "anyofai/midjourney: 2025年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？",
+            "date_modified": "2025-10-21T13:23:48.000Z",
+            "date_published": "2025-03-12T11:29:20.000Z",
+            "author": {
+                "name": "anyofai",
+                "url": "https://github.com/anyofai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77724499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>银河录像局：2025年最靠谱的AI工具与流媒体合租平台！银河录像局提供多种海外流媒体账号合租、AI工具账号购买与代充值服务，以及苹果账号和谷歌账号等增值项目。现在使用银河录像局优惠码ANYOFAI，还可以享受全场九折优惠！</div>",
+            "url": "https://github.com/anyofai/nf-video",
+            "title": "anyofai/nf-video: 银河录像局：2025年最靠谱的AI工具与流媒体合租平台！银河录像局提供多种海外流媒体账号合租、AI工具账号购买与代充值服务，以及苹果账号和谷歌账号等增值项目。现在使用银河录像局优惠码ANYOFAI，还可以享受全场九折优惠！",
+            "date_modified": "2025-10-21T13:22:48.000Z",
+            "date_published": "2025-10-18T04:17:33.000Z",
+            "author": {
+                "name": "anyofai",
+                "url": "https://github.com/anyofai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227485152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-generated project via External API - Prompt: Ось детальний prompt англійською для AI дизайн-інструменту (наприклад, для Midjourney, DALL-E, або F</div>",
+            "url": "https://github.com/flamesdotblue/ext-1761038571323-r6ro48f-platform",
+            "title": "flamesdotblue/ext-1761038571323-r6ro48f-platform: AI-generated project via External API - Prompt: Ось детальний prompt англійською для AI дизайн-інструменту (наприклад, для Midjourney, DALL-E, або F",
+            "date_modified": "2025-10-21T09:25:28.000Z",
+            "date_published": "2025-10-21T09:22:51.000Z",
+            "author": {
+                "name": "flamesdotblue",
+                "url": "https://github.com/flamesdotblue"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18009286?u=eb8760cf3109c73457f5f37dfc010deafde1bcaa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。</div>",
+            "url": "https://github.com/jurieo/chatgpt-share-web",
+            "title": "jurieo/chatgpt-share-web: chatgpt、claude、midjourney，sora和grok官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。",
+            "date_modified": "2025-10-21T09:19:02.000Z",
+            "date_published": "2024-02-28T09:38:38.000Z",
+            "author": {
+                "name": "jurieo",
+                "url": "https://github.com/jurieo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
+            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
+            "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
+            "date_modified": "2025-10-21T07:25:38.000Z",
+            "date_published": "2023-11-19T03:18:59.000Z",
+            "author": {
+                "name": "Dooy",
+                "url": "https://github.com/Dooy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32251822?u=e7f7d1272b8d7e8d2de712f95f1e514ce3455033&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。</div>",
+            "url": "https://github.com/ageerle/ruoyi-web",
+            "title": "ageerle/ruoyi-web: 一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。",
+            "date_modified": "2025-10-21T12:32:03.000Z",
+            "date_published": "2024-02-27T12:57:17.000Z",
+            "author": {
+                "name": "ageerle",
+                "url": "https://github.com/ageerle"
             }
         },
         {
@@ -36,193 +223,6 @@
             "author": {
                 "name": "rockbenben",
                 "url": "https://github.com/rockbenben"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
-            "url": "https://github.com/Shaki774/AI-Tools-List",
-            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-10-20T23:24:49.000Z",
-            "date_published": "2022-09-04T09:15:27.000Z",
-            "author": {
-                "name": "Shaki774",
-                "url": "https://github.com/Shaki774"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
-            "url": "https://github.com/samuray2969/ai-image-generator",
-            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-10-20T23:14:06.000Z",
-            "date_published": "2025-09-04T01:31:45.000Z",
-            "author": {
-                "name": "samuray2969",
-                "url": "https://github.com/samuray2969"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
-            "url": "https://github.com/nguyennam05/AI.TUTOR",
-            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-10-20T22:43:36.000Z",
-            "date_published": "2025-05-09T03:35:59.000Z",
-            "author": {
-                "name": "nguyennam05",
-                "url": "https://github.com/nguyennam05"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223926645?u=76e9e8ffaa7ef700091813ebb143c4b22d833808&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/kushwahayashh/midjourney-image-generator",
-            "title": "kushwahayashh/midjourney-image-generator",
-            "date_modified": "2025-10-20T19:32:49.000Z",
-            "date_published": "2025-10-11T18:49:57.000Z",
-            "author": {
-                "name": "kushwahayashh",
-                "url": "https://github.com/kushwahayashh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85743550?u=2d7efadfb6cf9b44e116ac7b6e0fde75a760dea0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.</div>",
-            "url": "https://github.com/PawelJakubczyk/PromptJourney",
-            "title": "PawelJakubczyk/PromptJourney: PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.",
-            "date_modified": "2025-10-20T13:35:46.000Z",
-            "date_published": "2025-07-07T13:08:57.000Z",
-            "author": {
-                "name": "PawelJakubczyk",
-                "url": "https://github.com/PawelJakubczyk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32251822?u=e7f7d1272b8d7e8d2de712f95f1e514ce3455033&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。</div>",
-            "url": "https://github.com/ageerle/ruoyi-web",
-            "title": "ageerle/ruoyi-web: 一个基于 Vue 3 的现代化 AI 聊天应用前端，支持 ChatGPT、Midjourney 等多种 AI 功能。",
-            "date_modified": "2025-10-20T15:28:41.000Z",
-            "date_published": "2024-02-27T12:57:17.000Z",
-            "author": {
-                "name": "ageerle",
-                "url": "https://github.com/ageerle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy",
-            "title": "trueai-org/midjourney-proxy: 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！",
-            "date_modified": "2025-10-20T02:56:02.000Z",
-            "date_published": "2024-07-03T08:04:25.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183289611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.</div>",
-            "url": "https://github.com/shantanu994/AI-Prompt-Generator",
-            "title": "shantanu994/AI-Prompt-Generator: A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.",
-            "date_modified": "2025-10-19T12:43:18.000Z",
-            "date_published": "2025-08-05T18:23:29.000Z",
-            "author": {
-                "name": "shantanu994",
-                "url": "https://github.com/shantanu994"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
-            "url": "https://github.com/AceDataCloud/Nexior",
-            "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
-            "date_modified": "2025-10-19T07:30:56.000Z",
-            "date_published": "2024-02-26T16:28:37.000Z",
-            "author": {
-                "name": "AceDataCloud",
-                "url": "https://github.com/AceDataCloud"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28913071?u=0fd2b9dfa68ec4978f745504a87cd0260ba68fff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Open-source creative studio inspired by MidJourney featuring AI image and video generation. It is powered by Google's Imagen, Veo2, and Veo3.</div>",
-            "url": "https://github.com/ovielma/open-imagination",
-            "title": "ovielma/open-imagination: Open-source creative studio inspired by MidJourney featuring AI image and video generation. It is powered by Google's Imagen, Veo2, and Veo3.",
-            "date_modified": "2025-10-19T06:44:48.000Z",
-            "date_published": "2025-07-29T18:36:27.000Z",
-            "author": {
-                "name": "ovielma",
-                "url": "https://github.com/ovielma"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/189228314?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-IMAGE AND VIDEO CREATION</div>",
-            "url": "https://github.com/Mageshwaran-V/VIDEO-CREATION-USING-MIDJOURNEY",
-            "title": "Mageshwaran-V/VIDEO-CREATION-USING-MIDJOURNEY: AI-IMAGE AND VIDEO CREATION",
-            "date_modified": "2025-10-19T05:05:40.000Z",
-            "date_published": "2025-10-19T05:05:09.000Z",
-            "author": {
-                "name": "Mageshwaran-V",
-                "url": "https://github.com/Mageshwaran-V"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Embed image descriptions within a JPG, which is shareable on compatible sites. View text locally as a web page.</div>",
-            "url": "https://github.com/CleasbyCode/imgprmt",
-            "title": "CleasbyCode/imgprmt: Embed image descriptions within a JPG, which is shareable on compatible sites. View text locally as a web page.",
-            "date_modified": "2025-10-18T20:18:49.000Z",
-            "date_published": "2023-05-27T20:10:50.000Z",
-            "author": {
-                "name": "CleasbyCode",
-                "url": "https://github.com/CleasbyCode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181181283?u=72086492040786f3a899c4631e0c5fed163d3be0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等650+模型教程</div>",
-            "url": "https://github.com/whataicc/doc-whataicc-api",
-            "title": "whataicc/doc-whataicc-api: 神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等650+模型教程",
-            "date_modified": "2025-10-18T16:17:10.000Z",
-            "date_published": "2025-09-10T05:08:55.000Z",
-            "author": {
-                "name": "whataicc",
-                "url": "https://github.com/whataicc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93223722?u=506febb5b8bd0f69107be64a2d4872a5bcc2cc64&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney unofficial API written in python</div>",
-            "url": "https://github.com/va1ngvarr/midjourney_api",
-            "title": "va1ngvarr/midjourney_api: Midjourney unofficial API written in python",
-            "date_modified": "2025-10-18T10:14:17.000Z",
-            "date_published": "2023-06-09T10:42:42.000Z",
-            "author": {
-                "name": "va1ngvarr",
-                "url": "https://github.com/va1ngvarr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77724499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>银河录像局：2025年最靠谱的AI工具与流媒体合租平台！银河录像局提供多种海外流媒体账号合租、AI工具账号购买与代充值服务，以及苹果账号和谷歌账号等增值项目。现在使用银河录像局优惠码ANYOFAI，还可以享受全场九折优惠！</div>",
-            "url": "https://github.com/anyofai/nf-video",
-            "title": "anyofai/nf-video: 银河录像局：2025年最靠谱的AI工具与流媒体合租平台！银河录像局提供多种海外流媒体账号合租、AI工具账号购买与代充值服务，以及苹果账号和谷歌账号等增值项目。现在使用银河录像局优惠码ANYOFAI，还可以享受全场九折优惠！",
-            "date_modified": "2025-10-18T06:51:50.000Z",
-            "date_published": "2025-10-18T04:17:33.000Z",
-            "author": {
-                "name": "anyofai",
-                "url": "https://github.com/anyofai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77724499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2025年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？</div>",
-            "url": "https://github.com/anyofai/midjourney",
-            "title": "anyofai/midjourney: 2025年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？",
-            "date_modified": "2025-10-18T06:29:24.000Z",
-            "date_published": "2025-03-12T11:29:20.000Z",
-            "author": {
-                "name": "anyofai",
-                "url": "https://github.com/anyofai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77724499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐（每月仅需27元）！本文将手把手地教大家如何通过银河录像局和星际放映厅等合租平台去购买Midjourney共享帐号！</div>",
-            "url": "https://github.com/anyofai/midjourney-hezu",
-            "title": "anyofai/midjourney-hezu: 最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐（每月仅需27元）！本文将手把手地教大家如何通过银河录像局和星际放映厅等合租平台去购买Midjourney共享帐号！",
-            "date_modified": "2025-10-18T06:28:51.000Z",
-            "date_published": "2025-03-22T12:30:02.000Z",
-            "author": {
-                "name": "anyofai",
-                "url": "https://github.com/anyofai"
             }
         }
     ]
