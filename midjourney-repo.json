@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
             "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
             "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-10-27T00:50:20.000Z",
+            "date_modified": "2025-10-28T00:19:01.000Z",
             "date_published": "2023-05-01T18:36:11.000Z",
             "author": {
                 "name": "FurkanGozukara",
@@ -17,32 +17,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
-            "url": "https://github.com/Darkshadow664/jarbaz-ai",
-            "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2025-10-26T23:17:50.000Z",
-            "date_published": "2025-06-05T16:08:56.000Z",
-            "author": {
-                "name": "Darkshadow664",
-                "url": "https://github.com/Darkshadow664"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
-            "url": "https://github.com/nuuuut/Prompt-Generator",
-            "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
-            "date_modified": "2025-10-26T23:11:33.000Z",
-            "date_published": "2025-10-19T03:47:46.000Z",
-            "author": {
-                "name": "nuuuut",
-                "url": "https://github.com/nuuuut"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
             "url": "https://github.com/Shaki774/AI-Tools-List",
             "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-10-26T22:21:54.000Z",
+            "date_modified": "2025-10-28T00:16:51.000Z",
             "date_published": "2022-09-04T09:15:27.000Z",
             "author": {
                 "name": "Shaki774",
@@ -53,11 +31,110 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
             "url": "https://github.com/samuray2969/ai-image-generator",
             "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-10-26T22:12:36.000Z",
+            "date_modified": "2025-10-28T00:06:42.000Z",
             "date_published": "2025-09-04T01:31:45.000Z",
             "author": {
                 "name": "samuray2969",
                 "url": "https://github.com/samuray2969"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3258976?u=58748205b515cdaa86c137899e0a70a34f1209a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Web-based Midjourney prompt generator with AI assistance and multi-user collaboration</div>",
+            "url": "https://github.com/capedigital/midjourney-web-generator",
+            "title": "capedigital/midjourney-web-generator: Web-based Midjourney prompt generator with AI assistance and multi-user collaboration",
+            "date_modified": "2025-10-27T23:47:44.000Z",
+            "date_published": "2025-10-22T19:17:18.000Z",
+            "author": {
+                "name": "capedigital",
+                "url": "https://github.com/capedigital"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
+            "url": "https://github.com/nguyennam05/AI.TUTOR",
+            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
+            "date_modified": "2025-10-27T23:35:46.000Z",
+            "date_published": "2025-05-09T03:35:59.000Z",
+            "author": {
+                "name": "nguyennam05",
+                "url": "https://github.com/nguyennam05"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
+            "url": "https://github.com/Darkshadow664/jarbaz-ai",
+            "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
+            "date_modified": "2025-10-27T20:56:34.000Z",
+            "date_published": "2025-06-05T16:08:56.000Z",
+            "author": {
+                "name": "Darkshadow664",
+                "url": "https://github.com/Darkshadow664"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
+            "url": "https://github.com/nuuuut/Prompt-Generator",
+            "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
+            "date_modified": "2025-10-27T20:49:44.000Z",
+            "date_published": "2025-10-19T03:47:46.000Z",
+            "author": {
+                "name": "nuuuut",
+                "url": "https://github.com/nuuuut"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240514240?u=19d10d37f3b2dbf3855f73bba3772681fe58d1f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(In-progress) Building an application that can automate the entire creative flow from initial prompt to a full 8 minute length video to be uploaded on YouTube.  AI Tools - Elevenlabs, Mistral, Gemini, ChatGPT, Python, PyTorch, ComfyUI, MidJourney, CapCut, DaVinci Resolve, Notion, OneNote</div>",
+            "url": "https://github.com/gregstoryai/Elevenlabs_Project",
+            "title": "gregstoryai/Elevenlabs_Project: (In-progress) Building an application that can automate the entire creative flow from initial prompt to a full 8 minute length video to be uploaded on YouTube.  AI Tools - Elevenlabs, Mistral, Gemini, ChatGPT, Python, PyTorch, ComfyUI, MidJourney, CapCut, DaVinci Resolve, Notion, OneNote",
+            "date_modified": "2025-10-27T20:10:42.000Z",
+            "date_published": "2025-10-27T15:15:25.000Z",
+            "author": {
+                "name": "gregstoryai",
+                "url": "https://github.com/gregstoryai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
+            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
+            "date_modified": "2025-10-27T15:16:32.000Z",
+            "date_published": "2024-07-13T03:08:46.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98121819?u=eb91688fc5b007dbbdbb770b0128e1b67c10a5b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automates Discord interactions to generate and download Midjourney AI images from prompts in a CSV file.</div>",
+            "url": "https://github.com/ShahzaibAli-1/JourneyFetch",
+            "title": "ShahzaibAli-1/JourneyFetch: Automates Discord interactions to generate and download Midjourney AI images from prompts in a CSV file.",
+            "date_modified": "2025-10-27T14:14:43.000Z",
+            "date_published": "2025-10-27T14:13:31.000Z",
+            "author": {
+                "name": "ShahzaibAli-1",
+                "url": "https://github.com/ShahzaibAli-1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4746061?u=67d0353f4227627abf014808a5f9f21e25179834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。</div>",
+            "url": "https://github.com/yangjian102621/geekai",
+            "title": "yangjian102621/geekai: AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
+            "date_modified": "2025-10-27T16:33:25.000Z",
+            "date_published": "2023-05-06T06:48:54.000Z",
+            "author": {
+                "name": "yangjian102621",
+                "url": "https://github.com/yangjian102621"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/222342493?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yifan423/with-midjourney-app",
+            "title": "yifan423/with-midjourney-app",
+            "date_modified": "2025-10-27T07:44:33.000Z",
+            "date_published": "2025-10-27T07:44:25.000Z",
+            "author": {
+                "name": "yifan423",
+                "url": "https://github.com/yifan423"
             }
         },
         {
@@ -72,21 +149,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
-            "url": "https://github.com/nguyennam05/AI.TUTOR",
-            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-10-26T21:42:26.000Z",
-            "date_published": "2025-05-09T03:35:59.000Z",
-            "author": {
-                "name": "nguyennam05",
-                "url": "https://github.com/nguyennam05"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147402095?u=fcd7519cb3a36a2a7b938e5a14795bac5eef9bab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Photoshop 2025 Crack is the most effective and easy-to-use tool for unlocking the full potential of Adobe Photoshop 2025. Designed for all versions of Photoshop, it provides a simple, reliable, and quick way to access premium features without a subscription. Adobe Photoshop 2025 Crack helps users easily unlock and access all the premium featu</div>",
             "url": "https://github.com/yousefopop/adobe-photoshop",
             "title": "yousefopop/adobe-photoshop: Adobe Photoshop 2025 Crack is the most effective and easy-to-use tool for unlocking the full potential of Adobe Photoshop 2025. Designed for all versions of Photoshop, it provides a simple, reliable, and quick way to access premium features without a subscription. Adobe Photoshop 2025 Crack helps users easily unlock and access all the premium featu",
-            "date_modified": "2025-10-26T23:27:33.000Z",
+            "date_modified": "2025-10-27T15:12:25.000Z",
             "date_published": "2025-10-26T21:12:41.000Z",
             "author": {
                 "name": "yousefopop",
@@ -152,77 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5595819?u=1a2c8734092c288659468aeb4ad869d8f47dfe91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Photoshop AI plugin</div>",
             "url": "https://github.com/zombieyang/sd-ppp",
             "title": "zombieyang/sd-ppp: A Photoshop AI plugin",
-            "date_modified": "2025-10-26T14:20:06.000Z",
+            "date_modified": "2025-10-27T12:27:58.000Z",
             "date_published": "2024-03-29T13:26:05.000Z",
             "author": {
                 "name": "zombieyang",
                 "url": "https://github.com/zombieyang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15704248?u=2a3fe88c4acff1945015e0ac4614c19e36961a81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Manipulation de polices et graphisme avec l'IA Guide complet pour créer, modifier et automatiser la typographie et le design graphique avec des outils d'IA générative (Midjourney, Stable Diffusion, Adobe Firefly, Gemini, etc.).</div>",
-            "url": "https://github.com/michaelgermini/Manipulation-de-polices-et-graphisme-avec-l-IA",
-            "title": "michaelgermini/Manipulation-de-polices-et-graphisme-avec-l-IA: Manipulation de polices et graphisme avec l'IA Guide complet pour créer, modifier et automatiser la typographie et le design graphique avec des outils d'IA générative (Midjourney, Stable Diffusion, Adobe Firefly, Gemini, etc.).",
-            "date_modified": "2025-10-26T12:44:20.000Z",
-            "date_published": "2025-10-26T12:23:26.000Z",
-            "author": {
-                "name": "michaelgermini",
-                "url": "https://github.com/michaelgermini"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237459436?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For browsing your midjourney jobs locally</div>",
-            "url": "https://github.com/signatur3-git/myjourney",
-            "title": "signatur3-git/myjourney: For browsing your midjourney jobs locally",
-            "date_modified": "2025-10-26T10:16:05.000Z",
-            "date_published": "2025-10-26T10:16:01.000Z",
-            "author": {
-                "name": "signatur3-git",
-                "url": "https://github.com/signatur3-git"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
-            "url": "https://github.com/AceDataCloud/Nexior",
-            "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
-            "date_modified": "2025-10-26T04:10:54.000Z",
-            "date_published": "2024-02-26T16:28:37.000Z",
-            "author": {
-                "name": "AceDataCloud",
-                "url": "https://github.com/AceDataCloud"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181181283?u=72086492040786f3a899c4631e0c5fed163d3be0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等650+模型教程</div>",
-            "url": "https://github.com/whataicc/doc-whataicc-api",
-            "title": "whataicc/doc-whataicc-api: 神马中转API教程文档_Claude中转教程_AI中转站配置使用教程_支持Claude、Midjourney、Suno、OpenAI等650+模型教程",
-            "date_modified": "2025-10-26T01:18:05.000Z",
-            "date_published": "2025-09-10T05:08:55.000Z",
-            "author": {
-                "name": "whataicc",
-                "url": "https://github.com/whataicc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
-            "url": "https://github.com/coaidev/coai",
-            "title": "coaidev/coai: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
-            "date_modified": "2025-10-26T16:00:28.000Z",
-            "date_published": "2023-07-17T18:09:57.000Z",
-            "author": {
-                "name": "coaidev",
-                "url": "https://github.com/coaidev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/197574951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generative AI models like DALL·E, Midjourney, and StyleGAN2 can now create hyper-realistic synthetic images, posing major risks such as misinformation, identity fraud, copyright violations, and erosion of public trust. Without reliable automated detection, these images spread unchecked across digital platforms.</div>",
-            "url": "https://github.com/MuthuxSelvam/Detecting-AI-Generated-Images",
-            "title": "MuthuxSelvam/Detecting-AI-Generated-Images: Generative AI models like DALL·E, Midjourney, and StyleGAN2 can now create hyper-realistic synthetic images, posing major risks such as misinformation, identity fraud, copyright violations, and erosion of public trust. Without reliable automated detection, these images spread unchecked across digital platforms.",
-            "date_modified": "2025-10-25T03:56:01.000Z",
-            "date_published": "2025-10-24T08:51:17.000Z",
-            "author": {
-                "name": "MuthuxSelvam",
-                "url": "https://github.com/MuthuxSelvam"
             }
         }
     ]
