@@ -6,54 +6,10 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116427198?u=32e502f50b91091b89581148623b7a4b5c5903b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Style Saver is a Chrome extension designed for Midjourney users. It helps creators batch save all style example images while browsing the Style Explorer with just one click.</div>",
-            "url": "https://github.com/dongou1024/Midjourney-Style-Saver",
-            "title": "dongou1024/Midjourney-Style-Saver: Midjourney Style Saver is a Chrome extension designed for Midjourney users. It helps creators batch save all style example images while browsing the Style Explorer with just one click.",
-            "date_modified": "2025-10-30T00:49:58.000Z",
-            "date_published": "2025-10-26T15:53:16.000Z",
-            "author": {
-                "name": "dongou1024",
-                "url": "https://github.com/dongou1024"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
-            "url": "https://github.com/Shaki774/AI-Tools-List",
-            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-10-30T00:18:25.000Z",
-            "date_published": "2022-09-04T09:15:27.000Z",
-            "author": {
-                "name": "Shaki774",
-                "url": "https://github.com/Shaki774"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
-            "url": "https://github.com/samuray2969/ai-image-generator",
-            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-10-30T00:08:02.000Z",
-            "date_published": "2025-09-04T01:31:45.000Z",
-            "author": {
-                "name": "samuray2969",
-                "url": "https://github.com/samuray2969"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
-            "url": "https://github.com/nguyennam05/AI.TUTOR",
-            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-10-29T23:36:47.000Z",
-            "date_published": "2025-05-09T03:35:59.000Z",
-            "author": {
-                "name": "nguyennam05",
-                "url": "https://github.com/nguyennam05"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140156420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.</div>",
             "url": "https://github.com/a2animation/diffusion-gpt",
             "title": "a2animation/diffusion-gpt: 📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.",
-            "date_modified": "2025-10-29T22:15:51.000Z",
+            "date_modified": "2025-10-30T23:12:58.000Z",
             "date_published": "2023-07-21T09:04:35.000Z",
             "author": {
                 "name": "a2animation",
@@ -64,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
             "url": "https://github.com/Darkshadow664/jarbaz-ai",
             "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2025-10-29T21:00:30.000Z",
+            "date_modified": "2025-10-30T23:04:28.000Z",
             "date_published": "2025-06-05T16:08:56.000Z",
             "author": {
                 "name": "Darkshadow664",
@@ -75,11 +31,165 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
             "url": "https://github.com/nuuuut/Prompt-Generator",
             "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
-            "date_modified": "2025-10-29T20:54:26.000Z",
+            "date_modified": "2025-10-30T22:57:50.000Z",
             "date_published": "2025-10-19T03:47:46.000Z",
             "author": {
                 "name": "nuuuut",
                 "url": "https://github.com/nuuuut"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
+            "date_modified": "2025-10-30T22:45:00.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2025-10-30T22:06:05.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
+            "url": "https://github.com/samuray2969/ai-image-generator",
+            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
+            "date_modified": "2025-10-30T21:55:08.000Z",
+            "date_published": "2025-09-04T01:31:45.000Z",
+            "author": {
+                "name": "samuray2969",
+                "url": "https://github.com/samuray2969"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
+            "url": "https://github.com/nguyennam05/AI.TUTOR",
+            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
+            "date_modified": "2025-10-30T21:25:34.000Z",
+            "date_published": "2025-05-09T03:35:59.000Z",
+            "author": {
+                "name": "nguyennam05",
+                "url": "https://github.com/nguyennam05"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3258976?u=58748205b515cdaa86c137899e0a70a34f1209a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Web-based Midjourney prompt generator with AI assistance and multi-user collaboration</div>",
+            "url": "https://github.com/capedigital/midjourney-web-generator",
+            "title": "capedigital/midjourney-web-generator: Web-based Midjourney prompt generator with AI assistance and multi-user collaboration",
+            "date_modified": "2025-10-30T20:19:08.000Z",
+            "date_published": "2025-10-22T19:17:18.000Z",
+            "author": {
+                "name": "capedigital",
+                "url": "https://github.com/capedigital"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169162123?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(NVIDIA ONLY) Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game! This groundbreaking image creator combines the best aspects of Stable Diffusion and Midjourney into one seamless, cutting-edge experience. </div>",
+            "url": "https://github.com/pinokiofactory/RuinedFooocus",
+            "title": "pinokiofactory/RuinedFooocus: (NVIDIA ONLY) Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game! This groundbreaking image creator combines the best aspects of Stable Diffusion and Midjourney into one seamless, cutting-edge experience. ",
+            "date_modified": "2025-10-30T19:53:32.000Z",
+            "date_published": "2025-04-22T14:09:26.000Z",
+            "author": {
+                "name": "pinokiofactory",
+                "url": "https://github.com/pinokiofactory"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/204970772?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Editor Audiovisual Experiencia en edición de video y manejo avanzado de inteligencia artificial para generación de contenido multimedia (Stable Diffusion, Midjourney, Runway, Deforum, ComfyUI). Competencias en gestión de redes sociales, investigación digital y paquetería Office.</div>",
+            "url": "https://github.com/antimemoria/antimemoria-portfolio",
+            "title": "antimemoria/antimemoria-portfolio: Editor Audiovisual Experiencia en edición de video y manejo avanzado de inteligencia artificial para generación de contenido multimedia (Stable Diffusion, Midjourney, Runway, Deforum, ComfyUI). Competencias en gestión de redes sociales, investigación digital y paquetería Office.",
+            "date_modified": "2025-10-30T19:48:35.000Z",
+            "date_published": "2025-03-26T04:49:25.000Z",
+            "author": {
+                "name": "antimemoria",
+                "url": "https://github.com/antimemoria"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169308434?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney Crack Download Latest License Key for Seamless AI Art Generation 2024</div>",
+            "url": "https://github.com/viking12v/midjourney-access-unlocked",
+            "title": "viking12v/midjourney-access-unlocked: MidJourney Crack Download Latest License Key for Seamless AI Art Generation 2024",
+            "date_modified": "2025-10-30T17:37:35.000Z",
+            "date_published": "2025-10-30T17:37:26.000Z",
+            "author": {
+                "name": "viking12v",
+                "url": "https://github.com/viking12v"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5425762?u=f5bb66fee8e32105e7913c37558a453d47477215&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney iOS concept</div>",
+            "url": "https://github.com/relatedcode/Midjourney",
+            "title": "relatedcode/Midjourney: Midjourney iOS concept",
+            "date_modified": "2025-10-30T15:38:09.000Z",
+            "date_published": "2025-03-07T07:56:50.000Z",
+            "author": {
+                "name": "relatedcode",
+                "url": "https://github.com/relatedcode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169755258?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An interactive Streamlit app to create and customize AI image generation prompts with seamless links to popular AI art tools like Midjourney, DALL·E, and Stable Diffusion</div>",
+            "url": "https://github.com/DivyavaniPeddaboina/AI_Image_Prompt_Generator",
+            "title": "DivyavaniPeddaboina/AI_Image_Prompt_Generator: An interactive Streamlit app to create and customize AI image generation prompts with seamless links to popular AI art tools like Midjourney, DALL·E, and Stable Diffusion",
+            "date_modified": "2025-10-30T15:25:51.000Z",
+            "date_published": "2025-10-30T15:12:03.000Z",
+            "author": {
+                "name": "DivyavaniPeddaboina",
+                "url": "https://github.com/DivyavaniPeddaboina"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-10-30T13:34:33.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160759882?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Monkey tool for Midjourney</div>",
+            "url": "https://github.com/inf-monkeys/monkey-tools-midjourney",
+            "title": "inf-monkeys/monkey-tools-midjourney: Monkey tool for Midjourney",
+            "date_modified": "2025-10-30T09:46:11.000Z",
+            "date_published": "2024-04-24T06:47:42.000Z",
+            "author": {
+                "name": "inf-monkeys",
+                "url": "https://github.com/inf-monkeys"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy",
+            "title": "trueai-org/midjourney-proxy: 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！",
+            "date_modified": "2025-10-30T03:01:07.000Z",
+            "date_published": "2024-07-03T08:04:25.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116427198?u=32e502f50b91091b89581148623b7a4b5c5903b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Style Saver is a Chrome extension designed for Midjourney users. It helps creators batch save all style example images while browsing the Style Explorer with just one click.</div>",
+            "url": "https://github.com/dongou1024/Midjourney-Style-Saver",
+            "title": "dongou1024/Midjourney-Style-Saver: Midjourney Style Saver is a Chrome extension designed for Midjourney users. It helps creators batch save all style example images while browsing the Style Explorer with just one click.",
+            "date_modified": "2025-10-30T00:49:58.000Z",
+            "date_published": "2025-10-26T15:53:16.000Z",
+            "author": {
+                "name": "dongou1024",
+                "url": "https://github.com/dongou1024"
             }
         },
         {
@@ -113,116 +223,6 @@
             "author": {
                 "name": "antoine78910",
                 "url": "https://github.com/antoine78910"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172176510?u=223a92cd164c0a8039157391910c1755616c77cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航网站 | 收录ChatGPT/Midjourney等热门AI应用 | HTML+CSS+JS实现 | 响应式设计</div>",
-            "url": "https://github.com/code-with-zen/aihub",
-            "title": "code-with-zen/aihub: AI工具导航网站 | 收录ChatGPT/Midjourney等热门AI应用 | HTML+CSS+JS实现 | 响应式设计",
-            "date_modified": "2025-10-29T03:08:59.000Z",
-            "date_published": "2025-10-29T02:33:36.000Z",
-            "author": {
-                "name": "code-with-zen",
-                "url": "https://github.com/code-with-zen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-10-28T23:11:47.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175929619?u=d085a233353ba5548e315ac6013b24d3a9212a5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/actanonverbos/midjourney-prompt-generator",
-            "title": "actanonverbos/midjourney-prompt-generator",
-            "date_modified": "2025-10-28T22:50:49.000Z",
-            "date_published": "2025-10-28T22:33:19.000Z",
-            "author": {
-                "name": "actanonverbos",
-                "url": "https://github.com/actanonverbos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
-            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
-            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
-            "date_modified": "2025-10-28T22:14:34.000Z",
-            "date_published": "2023-04-17T13:51:55.000Z",
-            "author": {
-                "name": "mbakgun",
-                "url": "https://github.com/mbakgun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/240803606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast</div>",
-            "url": "https://github.com/vytu95-sketch/Poscast-gerado-por-IA---Flavius-Oliveira1",
-            "title": "vytu95-sketch/Poscast-gerado-por-IA---Flavius-Oliveira1: Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast",
-            "date_modified": "2025-10-28T22:11:40.000Z",
-            "date_published": "2025-10-28T22:11:40.000Z",
-            "author": {
-                "name": "vytu95-sketch",
-                "url": "https://github.com/vytu95-sketch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3258976?u=58748205b515cdaa86c137899e0a70a34f1209a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Web-based Midjourney prompt generator with AI assistance and multi-user collaboration</div>",
-            "url": "https://github.com/capedigital/midjourney-web-generator",
-            "title": "capedigital/midjourney-web-generator: Web-based Midjourney prompt generator with AI assistance and multi-user collaboration",
-            "date_modified": "2025-10-28T20:35:22.000Z",
-            "date_published": "2025-10-22T19:17:18.000Z",
-            "author": {
-                "name": "capedigital",
-                "url": "https://github.com/capedigital"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33082510?u=ef9f0551dd8b33633995953e51885cc0bf812dd5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A testcafe midjourney bot runner</div>",
-            "url": "https://github.com/QuickLinkNet/testcafe-midjourney-bot",
-            "title": "QuickLinkNet/testcafe-midjourney-bot: A testcafe midjourney bot runner",
-            "date_modified": "2025-10-28T13:12:52.000Z",
-            "date_published": "2024-07-04T17:43:40.000Z",
-            "author": {
-                "name": "QuickLinkNet",
-                "url": "https://github.com/QuickLinkNet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/198999173?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney-Fashion-Prompt-Generator-v2</div>",
-            "url": "https://github.com/kaim1005kaim/MidJourney-Fashion-Prompt-Generator-v2",
-            "title": "kaim1005kaim/MidJourney-Fashion-Prompt-Generator-v2: MidJourney-Fashion-Prompt-Generator-v2",
-            "date_modified": "2025-10-28T12:05:40.000Z",
-            "date_published": "2025-06-01T14:32:13.000Z",
-            "author": {
-                "name": "kaim1005kaim",
-                "url": "https://github.com/kaim1005kaim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85743550?u=2d7efadfb6cf9b44e116ac7b6e0fde75a760dea0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.</div>",
-            "url": "https://github.com/PawelJakubczyk/PromptJourney",
-            "title": "PawelJakubczyk/PromptJourney: PromptJourney is a tool designed to help artists and AI enthusiasts create, organize, and manage prompts specifically for MidJourney image generation. It streamlines the process of crafting prompts, making it easier to produce high-quality AI-generated artwork.",
-            "date_modified": "2025-10-28T11:44:24.000Z",
-            "date_published": "2025-07-07T13:08:57.000Z",
-            "author": {
-                "name": "PawelJakubczyk",
-                "url": "https://github.com/PawelJakubczyk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
-            "url": "https://github.com/AceDataCloud/Nexior",
-            "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
-            "date_modified": "2025-10-28T18:39:08.000Z",
-            "date_published": "2024-02-26T16:28:37.000Z",
-            "author": {
-                "name": "AceDataCloud",
-                "url": "https://github.com/AceDataCloud"
             }
         }
     ]
