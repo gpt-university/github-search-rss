@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
             "url": "https://github.com/samuray2969/ai-image-generator",
             "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-11-02T01:09:44.000Z",
+            "date_modified": "2025-11-03T01:00:47.000Z",
             "date_published": "2025-09-04T01:31:45.000Z",
             "author": {
                 "name": "samuray2969",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-11-02T00:38:39.000Z",
+            "date_modified": "2025-11-03T00:30:02.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
@@ -28,10 +28,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-11-02T21:55:13.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140156420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.</div>",
             "url": "https://github.com/a2animation/diffusion-gpt",
             "title": "a2animation/diffusion-gpt: 📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.",
-            "date_modified": "2025-11-01T21:50:58.000Z",
+            "date_modified": "2025-11-02T21:35:03.000Z",
             "date_published": "2023-07-21T09:04:35.000Z",
             "author": {
                 "name": "a2animation",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
             "url": "https://github.com/Darkshadow664/jarbaz-ai",
             "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2025-11-01T21:42:21.000Z",
+            "date_modified": "2025-11-02T21:26:26.000Z",
             "date_published": "2025-06-05T16:08:56.000Z",
             "author": {
                 "name": "Darkshadow664",
@@ -53,11 +64,88 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
             "url": "https://github.com/nuuuut/Prompt-Generator",
             "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
-            "date_modified": "2025-11-01T21:36:04.000Z",
+            "date_modified": "2025-11-02T21:20:15.000Z",
             "date_published": "2025-10-19T03:47:46.000Z",
             "author": {
                 "name": "nuuuut",
                 "url": "https://github.com/nuuuut"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
+            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
+            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
+            "date_modified": "2025-11-02T21:20:03.000Z",
+            "date_published": "2025-04-21T10:14:21.000Z",
+            "author": {
+                "name": "reading-bakery",
+                "url": "https://github.com/reading-bakery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2025-11-02T20:26:16.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214350363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney promft builder</div>",
+            "url": "https://github.com/junjeejj/Midjourney-promft-builder",
+            "title": "junjeejj/Midjourney-promft-builder: Midjourney promft builder",
+            "date_modified": "2025-11-02T17:56:02.000Z",
+            "date_published": "2025-11-02T14:07:11.000Z",
+            "author": {
+                "name": "junjeejj",
+                "url": "https://github.com/junjeejj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/238513455?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Interactive cognitive sovereignty assessment tool - Instant evaluation and gap analysis</div>",
+            "url": "https://github.com/riteofrenaissance/ecf-compass",
+            "title": "riteofrenaissance/ecf-compass: Interactive cognitive sovereignty assessment tool - Instant evaluation and gap analysis",
+            "date_modified": "2025-11-02T16:57:07.000Z",
+            "date_published": "2025-11-02T03:34:47.000Z",
+            "author": {
+                "name": "riteofrenaissance",
+                "url": "https://github.com/riteofrenaissance"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183289611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.</div>",
+            "url": "https://github.com/shantanu994/AI-Prompt-Generator",
+            "title": "shantanu994/AI-Prompt-Generator: A web-based tool that generates unique, high-quality prompts for AI models like ChatGPT,  MidJourney.",
+            "date_modified": "2025-11-02T16:42:34.000Z",
+            "date_published": "2025-08-05T18:23:29.000Z",
+            "author": {
+                "name": "shantanu994",
+                "url": "https://github.com/shantanu994"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127083599?u=534c2185929c4776922b96ac7dcd5acc17626714&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Download Midjourney Picture Automatic</div>",
+            "url": "https://github.com/tuha1994/MJ",
+            "title": "tuha1994/MJ: Download Midjourney Picture Automatic",
+            "date_modified": "2025-11-02T09:49:39.000Z",
+            "date_published": "2024-05-13T16:02:43.000Z",
+            "author": {
+                "name": "tuha1994",
+                "url": "https://github.com/tuha1994"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171507887?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/antoine78910/ecomefficiency-midjourney",
+            "title": "antoine78910/ecomefficiency-midjourney",
+            "date_modified": "2025-11-02T02:46:39.000Z",
+            "date_published": "2024-09-25T14:57:21.000Z",
+            "author": {
+                "name": "antoine78910",
+                "url": "https://github.com/antoine78910"
             }
         },
         {
@@ -69,17 +157,6 @@
             "author": {
                 "name": "deborafcabral-dotcom",
                 "url": "https://github.com/deborafcabral-dotcom"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
-            "url": "https://github.com/Shaki774/AI-Tools-List",
-            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-11-01T20:42:44.000Z",
-            "date_published": "2022-09-04T09:15:27.000Z",
-            "author": {
-                "name": "Shaki774",
-                "url": "https://github.com/Shaki774"
             }
         },
         {
@@ -146,83 +223,6 @@
             "author": {
                 "name": "Jhonny-XS",
                 "url": "https://github.com/Jhonny-XS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72871256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Photoshop 2025 Crack is the most effective and easy-to-use tool for unlocking the full potential of Adobe Photoshop 2025. Designed for all versions of Photoshop, it provides a simple, reliable, and quick way to access premium features without a subscription. Adobe Photoshop 2025 Crack helps users easily unlock and access all the premium featu</div>",
-            "url": "https://github.com/AnkitNandy/adobe-photoshop",
-            "title": "AnkitNandy/adobe-photoshop: Adobe Photoshop 2025 Crack is the most effective and easy-to-use tool for unlocking the full potential of Adobe Photoshop 2025. Designed for all versions of Photoshop, it provides a simple, reliable, and quick way to access premium features without a subscription. Adobe Photoshop 2025 Crack helps users easily unlock and access all the premium featu",
-            "date_modified": "2025-11-01T01:48:00.000Z",
-            "date_published": "2025-11-01T01:47:09.000Z",
-            "author": {
-                "name": "AnkitNandy",
-                "url": "https://github.com/AnkitNandy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171845809?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/tapandup/midjourney-api",
-            "title": "tapandup/midjourney-api",
-            "date_modified": "2025-10-31T22:43:40.000Z",
-            "date_published": "2025-10-31T22:37:39.000Z",
-            "author": {
-                "name": "tapandup",
-                "url": "https://github.com/tapandup"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/196855303?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast</div>",
-            "url": "https://github.com/Lucasrodrigo-boop/prompts-for-podcast-Cache---Conversa",
-            "title": "Lucasrodrigo-boop/prompts-for-podcast-Cache---Conversa: Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast",
-            "date_modified": "2025-10-31T13:38:16.000Z",
-            "date_published": "2025-10-31T10:49:15.000Z",
-            "author": {
-                "name": "Lucasrodrigo-boop",
-                "url": "https://github.com/Lucasrodrigo-boop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239700614?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney automation scripts</div>",
-            "url": "https://github.com/bakulan-jagung/edge",
-            "title": "bakulan-jagung/edge: Midjourney automation scripts",
-            "date_modified": "2025-10-31T11:15:14.000Z",
-            "date_published": "2025-10-31T11:15:02.000Z",
-            "author": {
-                "name": "bakulan-jagung",
-                "url": "https://github.com/bakulan-jagung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239605380?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney automation scripts</div>",
-            "url": "https://github.com/fahlnkzwscha/launcher_rev_02",
-            "title": "fahlnkzwscha/launcher_rev_02: Midjourney automation scripts",
-            "date_modified": "2025-10-31T10:32:38.000Z",
-            "date_published": "2025-10-31T10:31:29.000Z",
-            "author": {
-                "name": "fahlnkzwscha",
-                "url": "https://github.com/fahlnkzwscha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160759882?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Monkey tool for Midjourney</div>",
-            "url": "https://github.com/inf-monkeys/monkey-tools-midjourney",
-            "title": "inf-monkeys/monkey-tools-midjourney: Monkey tool for Midjourney",
-            "date_modified": "2025-10-31T07:12:59.000Z",
-            "date_published": "2024-04-24T06:47:42.000Z",
-            "author": {
-                "name": "inf-monkeys",
-                "url": "https://github.com/inf-monkeys"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173483100?u=375937f7b4b3080261524033c6741d1fbd6d3d7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neste ebook usei midjourney para a capa e o GPT para criar o texto o Canva eu usei manualmente para organizar o texto e gerar o link para visualizar porém todo conteudo foi feito com IA.</div>",
-            "url": "https://github.com/DaviGomesNascimento/Ebook-Java-Feito-somente-com-IA",
-            "title": "DaviGomesNascimento/Ebook-Java-Feito-somente-com-IA: neste ebook usei midjourney para a capa e o GPT para criar o texto o Canva eu usei manualmente para organizar o texto e gerar o link para visualizar porém todo conteudo foi feito com IA.",
-            "date_modified": "2025-10-31T06:05:59.000Z",
-            "date_published": "2025-10-31T02:50:05.000Z",
-            "author": {
-                "name": "DaviGomesNascimento",
-                "url": "https://github.com/DaviGomesNascimento"
             }
         }
     ]
