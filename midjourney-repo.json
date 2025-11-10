@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140156420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.</div>",
             "url": "https://github.com/a2animation/diffusion-gpt",
             "title": "a2animation/diffusion-gpt: 📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.",
-            "date_modified": "2025-11-08T22:48:10.000Z",
+            "date_modified": "2025-11-10T00:20:51.000Z",
             "date_published": "2023-07-21T09:04:35.000Z",
             "author": {
                 "name": "a2animation",
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
             "url": "https://github.com/Darkshadow664/jarbaz-ai",
             "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2025-11-08T22:39:26.000Z",
+            "date_modified": "2025-11-10T00:12:44.000Z",
             "date_published": "2025-06-05T16:08:56.000Z",
             "author": {
                 "name": "Darkshadow664",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
             "url": "https://github.com/nuuuut/Prompt-Generator",
             "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
-            "date_modified": "2025-11-08T22:33:37.000Z",
+            "date_modified": "2025-11-10T00:07:16.000Z",
             "date_published": "2025-10-19T03:47:46.000Z",
             "author": {
                 "name": "nuuuut",
@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
             "url": "https://github.com/Shaki774/AI-Tools-List",
             "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-11-08T21:39:53.000Z",
+            "date_modified": "2025-11-09T23:13:12.000Z",
             "date_published": "2022-09-04T09:15:27.000Z",
             "author": {
                 "name": "Shaki774",
@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
             "url": "https://github.com/samuray2969/ai-image-generator",
             "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-11-08T21:28:33.000Z",
+            "date_modified": "2025-11-09T23:01:51.000Z",
             "date_published": "2025-09-04T01:31:45.000Z",
             "author": {
                 "name": "samuray2969",
@@ -64,11 +64,88 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
             "url": "https://github.com/nguyennam05/AI.TUTOR",
             "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-11-08T20:53:52.000Z",
+            "date_modified": "2025-11-09T22:29:09.000Z",
             "date_published": "2025-05-09T03:35:59.000Z",
             "author": {
                 "name": "nguyennam05",
                 "url": "https://github.com/nguyennam05"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241168569?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompt Architect is a modular web-based prompt builder for AI image tools like Midjourney, Stable Diffusion, Flux, and ChatGPT Images. Built in a Windows 98–style interface, it combines retro logic and modern AI design to create structured, cross-platform prompts through an intuitive visual system.</div>",
+            "url": "https://github.com/emircanyilmaz2000-droid/Promt-Architect",
+            "title": "emircanyilmaz2000-droid/Promt-Architect: Prompt Architect is a modular web-based prompt builder for AI image tools like Midjourney, Stable Diffusion, Flux, and ChatGPT Images. Built in a Windows 98–style interface, it combines retro logic and modern AI design to create structured, cross-platform prompts through an intuitive visual system.",
+            "date_modified": "2025-11-09T22:22:46.000Z",
+            "date_published": "2025-11-09T11:52:20.000Z",
+            "author": {
+                "name": "emircanyilmaz2000-droid",
+                "url": "https://github.com/emircanyilmaz2000-droid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+            "date_modified": "2025-11-09T21:59:57.000Z",
+            "date_published": "2023-05-01T18:36:11.000Z",
+            "author": {
+                "name": "FurkanGozukara",
+                "url": "https://github.com/FurkanGozukara"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35821001?u=bc82b1d7ef4b399269f7ede854b8988819d8f160&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My portfolio is a blend of creative evolution — from early design work crafted over a decade ago to modern, API-driven JavaScript applications that showcase a more technical edge. It’s a space where art meets code, featuring digital artwork that merges human creativity with AI collaboration through tools like Firefly, ChatGPT, Midjourney &amp; Claude</div>",
+            "url": "https://github.com/crbntyp/classic-portfolio",
+            "title": "crbntyp/classic-portfolio: My portfolio is a blend of creative evolution — from early design work crafted over a decade ago to modern, API-driven JavaScript applications that showcase a more technical edge. It’s a space where art meets code, featuring digital artwork that merges human creativity with AI collaboration through tools like Firefly, ChatGPT, Midjourney & Claude",
+            "date_modified": "2025-11-09T18:24:11.000Z",
+            "date_published": "2025-10-30T19:11:00.000Z",
+            "author": {
+                "name": "crbntyp",
+                "url": "https://github.com/crbntyp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
+            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
+            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
+            "date_modified": "2025-11-09T18:20:07.000Z",
+            "date_published": "2025-04-21T10:14:21.000Z",
+            "author": {
+                "name": "reading-bakery",
+                "url": "https://github.com/reading-bakery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67121935?u=047de329715c0a3d09f9c383c97d193cd75b099e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Este repositório tem como objetivo gerar um Ebook através de IA. Os princípios utilizados foram a partir do material apresentado no curso \"Criando um Ebook com ChatGPT &amp; MidJourney\" da DIO.</div>",
+            "url": "https://github.com/RafaelTSantos99/Criando-um-Ebook-com-IA",
+            "title": "RafaelTSantos99/Criando-um-Ebook-com-IA: Este repositório tem como objetivo gerar um Ebook através de IA. Os princípios utilizados foram a partir do material apresentado no curso \"Criando um Ebook com ChatGPT & MidJourney\" da DIO.",
+            "date_modified": "2025-11-09T12:51:52.000Z",
+            "date_published": "2025-11-09T12:44:49.000Z",
+            "author": {
+                "name": "RafaelTSantos99",
+                "url": "https://github.com/RafaelTSantos99"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242909594?u=27d935539ef53ef253df328b23413619c05e1834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast</div>",
+            "url": "https://github.com/akhilredx/Midjourney",
+            "title": "akhilredx/Midjourney: Prompts for Chatgpt, Midjourney and ElevenLabs to create a AI Podcast",
+            "date_modified": "2025-11-09T07:47:06.000Z",
+            "date_published": "2025-11-09T07:47:06.000Z",
+            "author": {
+                "name": "akhilredx",
+                "url": "https://github.com/akhilredx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214350363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney promft builder</div>",
+            "url": "https://github.com/junjeejj/Midjourney-promft-builder",
+            "title": "junjeejj/Midjourney-promft-builder: Midjourney promft builder",
+            "date_modified": "2025-11-09T02:39:38.000Z",
+            "date_published": "2025-11-02T14:07:11.000Z",
+            "author": {
+                "name": "junjeejj",
+                "url": "https://github.com/junjeejj"
             }
         },
         {
@@ -80,17 +157,6 @@
             "author": {
                 "name": "lucas-0liveira",
                 "url": "https://github.com/lucas-0liveira"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214350363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney promft builder</div>",
-            "url": "https://github.com/junjeejj/Midjourney-promft-builder",
-            "title": "junjeejj/Midjourney-promft-builder: Midjourney promft builder",
-            "date_modified": "2025-11-08T15:24:14.000Z",
-            "date_published": "2025-11-02T14:07:11.000Z",
-            "author": {
-                "name": "junjeejj",
-                "url": "https://github.com/junjeejj"
             }
         },
         {
@@ -108,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125332171?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</div>",
             "url": "https://github.com/coaidev/coai",
             "title": "coaidev/coai: 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
-            "date_modified": "2025-11-08T13:12:49.000Z",
+            "date_modified": "2025-11-09T20:01:36.000Z",
             "date_published": "2023-07-17T18:09:57.000Z",
             "author": {
                 "name": "coaidev",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "Vjhfhj",
                 "url": "https://github.com/Vjhfhj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/241485741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Complete AI Image Generator Website with support for Sora, Veo, DALL-E, Midjourney, and Stable Diffusion. Built with Flask (Python backend), modern CSS UI, and SQL database for user management and image history.</div>",
-            "url": "https://github.com/boykarma35-max/ai-image-generator",
-            "title": "boykarma35-max/ai-image-generator: Complete AI Image Generator Website with support for Sora, Veo, DALL-E, Midjourney, and Stable Diffusion. Built with Flask (Python backend), modern CSS UI, and SQL database for user management and image history.",
-            "date_modified": "2025-11-07T17:07:37.000Z",
-            "date_published": "2025-11-07T16:59:24.000Z",
-            "author": {
-                "name": "boykarma35-max",
-                "url": "https://github.com/boykarma35-max"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
-            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
-            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
-            "date_modified": "2025-11-07T16:38:57.000Z",
-            "date_published": "2023-04-17T13:51:55.000Z",
-            "author": {
-                "name": "mbakgun",
-                "url": "https://github.com/mbakgun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/192012215?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/fred261980/midjourney",
-            "title": "fred261980/midjourney",
-            "date_modified": "2025-11-07T15:07:56.000Z",
-            "date_published": "2025-11-07T15:07:24.000Z",
-            "author": {
-                "name": "fred261980",
-                "url": "https://github.com/fred261980"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175929619?u=d085a233353ba5548e315ac6013b24d3a9212a5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/actanonverbos/midjourney-prompt-generator",
-            "title": "actanonverbos/midjourney-prompt-generator",
-            "date_modified": "2025-11-07T13:25:05.000Z",
-            "date_published": "2025-10-28T22:33:19.000Z",
-            "author": {
-                "name": "actanonverbos",
-                "url": "https://github.com/actanonverbos"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=8c81114cc4ef0b55c6b36f27e8007adf81296749&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Embed image descriptions within a JPG, which is shareable on compatible sites. View text locally as a web page.</div>",
-            "url": "https://github.com/CleasbyCode/imgprmt",
-            "title": "CleasbyCode/imgprmt: Embed image descriptions within a JPG, which is shareable on compatible sites. View text locally as a web page.",
-            "date_modified": "2025-11-07T11:32:17.000Z",
-            "date_published": "2023-05-27T20:10:50.000Z",
-            "author": {
-                "name": "CleasbyCode",
-                "url": "https://github.com/CleasbyCode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107968063?u=1bf3f7b841113b7bfb4b323ee9fb2a6ab9fee0da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adobe Photoshop 2025 Crack unlocks all premium features quickly and easily, ensuring full compatibility and a seamless design experience without a subscription.</div>",
-            "url": "https://github.com/LukasThiRodrigues/adobe-photoshop",
-            "title": "LukasThiRodrigues/adobe-photoshop: Adobe Photoshop 2025 Crack unlocks all premium features quickly and easily, ensuring full compatibility and a seamless design experience without a subscription.",
-            "date_modified": "2025-11-07T15:45:57.000Z",
-            "date_published": "2025-11-06T22:07:55.000Z",
-            "author": {
-                "name": "LukasThiRodrigues",
-                "url": "https://github.com/LukasThiRodrigues"
             }
         }
     ]
