@@ -6,43 +6,10 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
-            "url": "https://github.com/Shaki774/AI-Tools-List",
-            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2025-11-11T01:07:01.000Z",
-            "date_published": "2022-09-04T09:15:27.000Z",
-            "author": {
-                "name": "Shaki774",
-                "url": "https://github.com/Shaki774"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
-            "url": "https://github.com/samuray2969/ai-image-generator",
-            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
-            "date_modified": "2025-11-11T00:56:36.000Z",
-            "date_published": "2025-09-04T01:31:45.000Z",
-            "author": {
-                "name": "samuray2969",
-                "url": "https://github.com/samuray2969"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
-            "url": "https://github.com/nguyennam05/AI.TUTOR",
-            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
-            "date_modified": "2025-11-11T00:24:01.000Z",
-            "date_published": "2025-05-09T03:35:59.000Z",
-            "author": {
-                "name": "nguyennam05",
-                "url": "https://github.com/nguyennam05"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140156420?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.</div>",
             "url": "https://github.com/a2animation/diffusion-gpt",
             "title": "a2animation/diffusion-gpt: 📜 Explore a character-level discrete diffusion model for text generation, transforming corrupted text into coherent sequences efficiently.",
-            "date_modified": "2025-11-10T21:19:56.000Z",
+            "date_modified": "2025-11-12T00:26:43.000Z",
             "date_published": "2023-07-21T09:04:35.000Z",
             "author": {
                 "name": "a2animation",
@@ -53,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
             "url": "https://github.com/Darkshadow664/jarbaz-ai",
             "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2025-11-10T21:11:20.000Z",
+            "date_modified": "2025-11-12T00:15:41.000Z",
             "date_published": "2025-06-05T16:08:56.000Z",
             "author": {
                 "name": "Darkshadow664",
@@ -64,11 +31,110 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
             "url": "https://github.com/nuuuut/Prompt-Generator",
             "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
-            "date_modified": "2025-11-10T21:04:56.000Z",
+            "date_modified": "2025-11-12T00:08:17.000Z",
             "date_published": "2025-10-19T03:47:46.000Z",
             "author": {
                 "name": "nuuuut",
                 "url": "https://github.com/nuuuut"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2025-11-11T23:05:43.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67665169?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.</div>",
+            "url": "https://github.com/samuray2969/ai-image-generator",
+            "title": "samuray2969/ai-image-generator: 🎨 Create stunning AI-generated images from text prompts with a full-stack MERN app, featuring image saving and sharing capabilities.",
+            "date_modified": "2025-11-11T22:51:42.000Z",
+            "date_published": "2025-09-04T01:31:45.000Z",
+            "author": {
+                "name": "samuray2969",
+                "url": "https://github.com/samuray2969"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160568839?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.</div>",
+            "url": "https://github.com/nguyennam05/AI.TUTOR",
+            "title": "nguyennam05/AI.TUTOR: AI Tutor is a chatbot-based web app that answers syllabus-specific queries using Google Gemini API. It integrates Google Drive for eBook storage, MongoDB for chat history, and Clerk for user authentication, ensuring accurate, secure, and curriculum-aligned responses to students.",
+            "date_modified": "2025-11-11T22:13:09.000Z",
+            "date_published": "2025-05-09T03:35:59.000Z",
+            "author": {
+                "name": "nguyennam05",
+                "url": "https://github.com/nguyennam05"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
+            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
+            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
+            "date_modified": "2025-11-11T17:29:29.000Z",
+            "date_published": "2025-04-21T10:14:21.000Z",
+            "author": {
+                "name": "reading-bakery",
+                "url": "https://github.com/reading-bakery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5595819?u=1a2c8734092c288659468aeb4ad869d8f47dfe91&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Photoshop AI plugin</div>",
+            "url": "https://github.com/zombieyang/sd-ppp",
+            "title": "zombieyang/sd-ppp: A Photoshop AI plugin",
+            "date_modified": "2025-11-11T16:00:04.000Z",
+            "date_published": "2024-03-29T13:26:05.000Z",
+            "author": {
+                "name": "zombieyang",
+                "url": "https://github.com/zombieyang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214350363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney promft builder</div>",
+            "url": "https://github.com/junjeejj/Midjourney-promft-builder",
+            "title": "junjeejj/Midjourney-promft-builder: Midjourney promft builder",
+            "date_modified": "2025-11-11T10:46:42.000Z",
+            "date_published": "2025-11-02T14:07:11.000Z",
+            "author": {
+                "name": "junjeejj",
+                "url": "https://github.com/junjeejj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
+            "date_modified": "2025-11-11T08:04:50.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116427198?u=32e502f50b91091b89581148623b7a4b5c5903b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Style Saver is a Chrome extension designed for Midjourney users. It helps creators batch save all style example images while browsing the Style Explorer with just one click.</div>",
+            "url": "https://github.com/dongou1024/Midjourney-Style-Saver",
+            "title": "dongou1024/Midjourney-Style-Saver: Midjourney Style Saver is a Chrome extension designed for Midjourney users. It helps creators batch save all style example images while browsing the Style Explorer with just one click.",
+            "date_modified": "2025-11-11T06:12:42.000Z",
+            "date_published": "2025-10-26T15:53:16.000Z",
+            "author": {
+                "name": "dongou1024",
+                "url": "https://github.com/dongou1024"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4746061?u=67d0353f4227627abf014808a5f9f21e25179834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。</div>",
+            "url": "https://github.com/yangjian102621/geekai",
+            "title": "yangjian102621/geekai: AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
+            "date_modified": "2025-11-11T10:12:17.000Z",
+            "date_published": "2023-05-06T06:48:54.000Z",
+            "author": {
+                "name": "yangjian102621",
+                "url": "https://github.com/yangjian102621"
             }
         },
         {
@@ -80,39 +146,6 @@
             "author": {
                 "name": "Ana2406Eloy",
                 "url": "https://github.com/Ana2406Eloy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/214350363?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney promft builder</div>",
-            "url": "https://github.com/junjeejj/Midjourney-promft-builder",
-            "title": "junjeejj/Midjourney-promft-builder: Midjourney promft builder",
-            "date_modified": "2025-11-10T19:10:56.000Z",
-            "date_published": "2025-11-02T14:07:11.000Z",
-            "author": {
-                "name": "junjeejj",
-                "url": "https://github.com/junjeejj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
-            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
-            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
-            "date_modified": "2025-11-10T17:10:09.000Z",
-            "date_published": "2025-04-21T10:14:21.000Z",
-            "author": {
-                "name": "reading-bakery",
-                "url": "https://github.com/reading-bakery"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116427198?u=32e502f50b91091b89581148623b7a4b5c5903b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>website</div>",
-            "url": "https://github.com/dongou1024/MidjourneyStyleSaver",
-            "title": "dongou1024/MidjourneyStyleSaver: website",
-            "date_modified": "2025-11-10T15:44:38.000Z",
-            "date_published": "2025-11-10T15:33:36.000Z",
-            "author": {
-                "name": "dongou1024",
-                "url": "https://github.com/dongou1024"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "emircanyilmaz2000-droid",
                 "url": "https://github.com/emircanyilmaz2000-droid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19240467?u=875612d4c421bb66137bff9007891375050c2c49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod</div>",
-            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
-            "title": "FurkanGozukara/Stable-Diffusion: FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
-            "date_modified": "2025-11-10T03:00:17.000Z",
-            "date_published": "2023-05-01T18:36:11.000Z",
-            "author": {
-                "name": "FurkanGozukara",
-                "url": "https://github.com/FurkanGozukara"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35821001?u=bc82b1d7ef4b399269f7ede854b8988819d8f160&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My portfolio is a blend of creative evolution — from early design work crafted over a decade ago to modern, API-driven JavaScript applications that showcase a more technical edge. It’s a space where art meets code, featuring digital artwork that merges human creativity with AI collaboration through tools like Firefly, ChatGPT, Midjourney &amp; Claude</div>",
-            "url": "https://github.com/crbntyp/classic-portfolio",
-            "title": "crbntyp/classic-portfolio: My portfolio is a blend of creative evolution — from early design work crafted over a decade ago to modern, API-driven JavaScript applications that showcase a more technical edge. It’s a space where art meets code, featuring digital artwork that merges human creativity with AI collaboration through tools like Firefly, ChatGPT, Midjourney & Claude",
-            "date_modified": "2025-11-09T18:24:11.000Z",
-            "date_published": "2025-10-30T19:11:00.000Z",
-            "author": {
-                "name": "crbntyp",
-                "url": "https://github.com/crbntyp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67121935?u=047de329715c0a3d09f9c383c97d193cd75b099e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Este repositório tem como objetivo gerar um Ebook através de IA. Os princípios utilizados foram a partir do material apresentado no curso \"Criando um Ebook com ChatGPT &amp; MidJourney\" da DIO.</div>",
-            "url": "https://github.com/RafaelTSantos99/Criando-um-Ebook-com-IA",
-            "title": "RafaelTSantos99/Criando-um-Ebook-com-IA: Este repositório tem como objetivo gerar um Ebook através de IA. Os princípios utilizados foram a partir do material apresentado no curso \"Criando um Ebook com ChatGPT & MidJourney\" da DIO.",
-            "date_modified": "2025-11-09T12:51:52.000Z",
-            "date_published": "2025-11-09T12:44:49.000Z",
-            "author": {
-                "name": "RafaelTSantos99",
-                "url": "https://github.com/RafaelTSantos99"
             }
         }
     ]
