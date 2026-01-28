@@ -6,65 +6,21 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223909077?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.</div>",
-            "url": "https://github.com/Ben-jilo/awesome-faceless",
-            "title": "Ben-jilo/awesome-faceless: 🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.",
-            "date_modified": "2026-01-27T01:14:41.000Z",
-            "date_published": "2025-07-31T21:13:34.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200674642?u=ebf6f050673723abeeed36da4e3046c4ca330cb0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Universal AI Prompt Optimizer - Chrome Extension for optimizing prompts across Midjourney, DALL-E, Suno, Udio, ChatGPT, Claude and more</div>",
+            "url": "https://github.com/bomac1193/refyn",
+            "title": "bomac1193/refyn: Universal AI Prompt Optimizer - Chrome Extension for optimizing prompts across Midjourney, DALL-E, Suno, Udio, ChatGPT, Claude and more",
+            "date_modified": "2026-01-28T01:15:08.000Z",
+            "date_published": "2026-01-14T01:38:31.000Z",
             "author": {
-                "name": "Ben-jilo",
-                "url": "https://github.com/Ben-jilo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133961817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.</div>",
-            "url": "https://github.com/Midex005/PromptHub",
-            "title": "Midex005/PromptHub: 🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.",
-            "date_modified": "2026-01-27T01:07:59.000Z",
-            "date_published": "2023-06-13T15:32:53.000Z",
-            "author": {
-                "name": "Midex005",
-                "url": "https://github.com/Midex005"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
-            "url": "https://github.com/Darkshadow664/jarbaz-ai",
-            "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2026-01-27T00:43:09.000Z",
-            "date_published": "2025-06-05T16:08:56.000Z",
-            "author": {
-                "name": "Darkshadow664",
-                "url": "https://github.com/Darkshadow664"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
-            "url": "https://github.com/nuuuut/Prompt-Generator",
-            "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
-            "date_modified": "2026-01-27T00:41:30.000Z",
-            "date_published": "2025-10-19T03:47:46.000Z",
-            "author": {
-                "name": "nuuuut",
-                "url": "https://github.com/nuuuut"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
-            "url": "https://github.com/Shaki774/AI-Tools-List",
-            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2026-01-27T00:27:30.000Z",
-            "date_published": "2022-09-04T09:15:27.000Z",
-            "author": {
-                "name": "Shaki774",
-                "url": "https://github.com/Shaki774"
+                "name": "bomac1193",
+                "url": "https://github.com/bomac1193"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219747130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.</div>",
             "url": "https://github.com/Jhoy-jpg/PromptX",
             "title": "Jhoy-jpg/PromptX: 🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.",
-            "date_modified": "2026-01-26T23:15:15.000Z",
+            "date_modified": "2026-01-28T00:58:43.000Z",
             "date_published": "2025-07-07T21:39:23.000Z",
             "author": {
                 "name": "Jhoy-jpg",
@@ -75,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129543288?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Simplify tool calls for any LLM with AnyToolCall, an OpenAI-compatible middleware that bypasses native constraints through prompt injection.</div>",
             "url": "https://github.com/kunashee/AnyToolCall",
             "title": "kunashee/AnyToolCall: 🛠️ Simplify tool calls for any LLM with AnyToolCall, an OpenAI-compatible middleware that bypasses native constraints through prompt injection.",
-            "date_modified": "2026-01-26T23:13:01.000Z",
+            "date_modified": "2026-01-28T00:56:15.000Z",
             "date_published": "2026-01-18T12:56:34.000Z",
             "author": {
                 "name": "kunashee",
@@ -86,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219988367?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 Enhance raw prompts into optimized, powerful versions for AI tools like ChatGPT, Midjourney, and more with this free Chrome Extension.</div>",
             "url": "https://github.com/maxi4youuu/RePRo",
             "title": "maxi4youuu/RePRo: 🧠 Enhance raw prompts into optimized, powerful versions for AI tools like ChatGPT, Midjourney, and more with this free Chrome Extension.",
-            "date_modified": "2026-01-26T23:12:08.000Z",
+            "date_modified": "2026-01-28T00:55:23.000Z",
             "date_published": "2026-01-16T13:27:45.000Z",
             "author": {
                 "name": "maxi4youuu",
@@ -94,54 +50,87 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200674642?u=ebf6f050673723abeeed36da4e3046c4ca330cb0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Universal AI Prompt Optimizer - Chrome Extension for optimizing prompts across Midjourney, DALL-E, Suno, Udio, ChatGPT, Claude and more</div>",
-            "url": "https://github.com/bomac1193/refyn",
-            "title": "bomac1193/refyn: Universal AI Prompt Optimizer - Chrome Extension for optimizing prompts across Midjourney, DALL-E, Suno, Udio, ChatGPT, Claude and more",
-            "date_modified": "2026-01-26T22:55:51.000Z",
-            "date_published": "2026-01-14T01:38:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223909077?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.</div>",
+            "url": "https://github.com/Ben-jilo/awesome-faceless",
+            "title": "Ben-jilo/awesome-faceless: 🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.",
+            "date_modified": "2026-01-28T00:45:48.000Z",
+            "date_published": "2025-07-31T21:13:34.000Z",
             "author": {
-                "name": "bomac1193",
-                "url": "https://github.com/bomac1193"
+                "name": "Ben-jilo",
+                "url": "https://github.com/Ben-jilo"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/307960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Claude Code plugin for GitHub repository optimization. Auto-generates social preview images via DALL-E/Stable Diffusion, creates SEO-friendly descriptions, and suggests discoverable topics. Works with zero configuration.</div>",
-            "url": "https://github.com/zircote/github-social",
-            "title": "zircote/github-social: Claude Code plugin for GitHub repository optimization. Auto-generates social preview images via DALL-E/Stable Diffusion, creates SEO-friendly descriptions, and suggests discoverable topics. Works with zero configuration.",
-            "date_modified": "2026-01-26T21:32:59.000Z",
-            "date_published": "2026-01-18T16:35:39.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133961817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.</div>",
+            "url": "https://github.com/Midex005/PromptHub",
+            "title": "Midex005/PromptHub: 🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.",
+            "date_modified": "2026-01-28T00:38:56.000Z",
+            "date_published": "2023-06-13T15:32:53.000Z",
             "author": {
-                "name": "zircote",
-                "url": "https://github.com/zircote"
+                "name": "Midex005",
+                "url": "https://github.com/Midex005"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142739802?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image DetectPor is a high-performance forensic API designed to identify the \"digital DNA\" of synthetic media. As AI generators like Midjourney and DALL-E reach near-perfect realism, our tool provides the technical clarity needed to distinguish between organic photography and algorithmic calculation.</div>",
-            "url": "https://github.com/sujeetkumar0001/Fake_iamge_detector",
-            "title": "sujeetkumar0001/Fake_iamge_detector: AI Image DetectPor is a high-performance forensic API designed to identify the \"digital DNA\" of synthetic media. As AI generators like Midjourney and DALL-E reach near-perfect realism, our tool provides the technical clarity needed to distinguish between organic photography and algorithmic calculation.",
-            "date_modified": "2026-01-26T18:31:25.000Z",
-            "date_published": "2026-01-26T18:22:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
+            "url": "https://github.com/Darkshadow664/jarbaz-ai",
+            "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
+            "date_modified": "2026-01-28T00:14:14.000Z",
+            "date_published": "2025-06-05T16:08:56.000Z",
             "author": {
-                "name": "sujeetkumar0001",
-                "url": "https://github.com/sujeetkumar0001"
+                "name": "Darkshadow664",
+                "url": "https://github.com/Darkshadow664"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney image generation and processing service can generate and rewrite high-quality images.</div>",
-            "url": "https://github.com/AceDataCloud/MidjourneyAPI",
-            "title": "AceDataCloud/MidjourneyAPI: Midjourney image generation and processing service can generate and rewrite high-quality images.",
-            "date_modified": "2026-01-27T01:02:48.000Z",
-            "date_published": "2025-08-30T17:03:16.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65165055?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.</div>",
+            "url": "https://github.com/nuuuut/Prompt-Generator",
+            "title": "nuuuut/Prompt-Generator: 🚀 Generate customizable AI prompts for ChatGPT, Midjourney, DALL-E, and more with a user-friendly, responsive web application.",
+            "date_modified": "2026-01-28T00:12:37.000Z",
+            "date_published": "2025-10-19T03:47:46.000Z",
             "author": {
-                "name": "AceDataCloud",
-                "url": "https://github.com/AceDataCloud"
+                "name": "nuuuut",
+                "url": "https://github.com/nuuuut"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
+            "url": "https://github.com/Shaki774/AI-Tools-List",
+            "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
+            "date_modified": "2026-01-27T23:58:56.000Z",
+            "date_published": "2022-09-04T09:15:27.000Z",
+            "author": {
+                "name": "Shaki774",
+                "url": "https://github.com/Shaki774"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245119614?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A systematic AI music video creation workflow. Use this skill when the user wants to generate a project structure, storyboard, and AI prompts (Midjourney/Stable Diffusion/Wan2.x) from lyrics and song information. It handles lyric segmentation, folder creation, and detailed prompt generation.</div>",
+            "url": "https://github.com/perfact-tang/music-video-prompt-creator-skills",
+            "title": "perfact-tang/music-video-prompt-creator-skills: A systematic AI music video creation workflow. Use this skill when the user wants to generate a project structure, storyboard, and AI prompts (Midjourney/Stable Diffusion/Wan2.x) from lyrics and song information. It handles lyric segmentation, folder creation, and detailed prompt generation.",
+            "date_modified": "2026-01-27T18:06:30.000Z",
+            "date_published": "2026-01-27T16:06:37.000Z",
+            "author": {
+                "name": "perfact-tang",
+                "url": "https://github.com/perfact-tang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/257590496?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔍 AI detection tool for music and images. Identifies AI-generated content from platforms like Suno, Udio, Midjourney, DALL-E, Stable Diffusion &amp; more. Protect authenticity in the age of generative AI.</div>",
+            "url": "https://github.com/Mojo-Selecta/Fake-Music-Fake-Art",
+            "title": "Mojo-Selecta/Fake-Music-Fake-Art: 🔍 AI detection tool for music and images. Identifies AI-generated content from platforms like Suno, Udio, Midjourney, DALL-E, Stable Diffusion & more. Protect authenticity in the age of generative AI.",
+            "date_modified": "2026-01-27T17:40:43.000Z",
+            "date_published": "2026-01-27T17:15:08.000Z",
+            "author": {
+                "name": "Mojo-Selecta",
+                "url": "https://github.com/Mojo-Selecta"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61360737?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gallery of images created in Midjourney</div>",
             "url": "https://github.com/dre2rea/Lattisework",
             "title": "dre2rea/Lattisework: Gallery of images created in Midjourney",
-            "date_modified": "2026-01-26T13:21:32.000Z",
+            "date_modified": "2026-01-27T12:57:24.000Z",
             "date_published": "2026-01-02T05:31:39.000Z",
             "author": {
                 "name": "dre2rea",
@@ -149,32 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/243763076?u=bff82fd311abe9cb419788ef6181dd4164e785fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pix3lboard — The cloud Kanban for AI creators: prompts, rating, Midjourney/Suno tracking, job numbering, and secure sharing</div>",
-            "url": "https://github.com/Pix3ltools-lab/pix3lboard",
-            "title": "Pix3ltools-lab/pix3lboard: Pix3lboard — The cloud Kanban for AI creators: prompts, rating, Midjourney/Suno tracking, job numbering, and secure sharing",
-            "date_modified": "2026-01-26T12:10:17.000Z",
-            "date_published": "2026-01-09T12:54:26.000Z",
-            "author": {
-                "name": "Pix3ltools-lab",
-                "url": "https://github.com/Pix3ltools-lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！</div>",
-            "url": "https://github.com/trueai-org/midjourney-proxy",
-            "title": "trueai-org/midjourney-proxy: 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！",
-            "date_modified": "2026-01-26T11:06:50.000Z",
-            "date_published": "2024-07-03T08:04:25.000Z",
-            "author": {
-                "name": "trueai-org",
-                "url": "https://github.com/trueai-org"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112853162?u=e02f9a688ba10c05b0203f1afc52ef707fd4ce78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated 2026</div>",
             "url": "https://github.com/eudk/awesome-ai-tools",
             "title": "eudk/awesome-ai-tools: 🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated 2026",
-            "date_modified": "2026-01-26T16:48:52.000Z",
+            "date_modified": "2026-01-27T12:07:42.000Z",
             "date_published": "2023-12-22T20:37:48.000Z",
             "author": {
                 "name": "eudk",
@@ -182,21 +149,43 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142396920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Node.js、Vue3、uniapp的ChatGPT+智能体+Midjourney绘画+PPT生成+Suno音乐+Pika/Runway/Sora视频 网页服务 | 个人、团队、企业私有化AIGC平台</div>",
-            "url": "https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro",
-            "title": "51yuese/GoMaxAI-ChatGPT-Midjourney-Pro: 基于Node.js、Vue3、uniapp的ChatGPT+智能体+Midjourney绘画+PPT生成+Suno音乐+Pika/Runway/Sora视频 网页服务 | 个人、团队、企业私有化AIGC平台",
-            "date_modified": "2026-01-26T09:38:24.000Z",
-            "date_published": "2024-06-07T05:53:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130447398?u=ecb61c2996776f7a61db6fa85719cf324ec9b2a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1,000+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1000+ X热门AI生图prompt分享贴，每周更新</div>",
+            "url": "https://github.com/jau123/nanobanana-trending-prompts",
+            "title": "jau123/nanobanana-trending-prompts: 1,000+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1000+ X热门AI生图prompt分享贴，每周更新",
+            "date_modified": "2026-01-28T00:19:47.000Z",
+            "date_published": "2026-01-23T10:58:29.000Z",
             "author": {
-                "name": "51yuese",
-                "url": "https://github.com/51yuese"
+                "name": "jau123",
+                "url": "https://github.com/jau123"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/243763076?u=bff82fd311abe9cb419788ef6181dd4164e785fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pix3lboard — The cloud Kanban for AI creators: prompts, rating, Midjourney/Suno tracking, job numbering, and secure sharing</div>",
+            "url": "https://github.com/Pix3ltools-lab/pix3lboard",
+            "title": "Pix3ltools-lab/pix3lboard: Pix3lboard — The cloud Kanban for AI creators: prompts, rating, Midjourney/Suno tracking, job numbering, and secure sharing",
+            "date_modified": "2026-01-27T10:38:18.000Z",
+            "date_published": "2026-01-09T12:54:26.000Z",
+            "author": {
+                "name": "Pix3ltools-lab",
+                "url": "https://github.com/Pix3ltools-lab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44716364?u=ffb73fb4ffdd2933c53bdf83e6016c605ae2d284&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated AI tools directory featuring ChatGPT, Midjourney, and more to help you explore AI efficiently.</div>",
+            "url": "https://github.com/AlbertYang666/ainav",
+            "title": "AlbertYang666/ainav: A curated AI tools directory featuring ChatGPT, Midjourney, and more to help you explore AI efficiently.",
+            "date_modified": "2026-01-27T10:20:37.000Z",
+            "date_published": "2026-01-20T10:15:19.000Z",
+            "author": {
+                "name": "AlbertYang666",
+                "url": "https://github.com/AlbertYang666"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61661070?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Free AI Prompt Maker - Visual prompt generator for Midjourney, DALL-E &amp; Stable Diffusion</div>",
             "url": "https://github.com/IIMugi/freeaipromptmaker",
             "title": "IIMugi/freeaipromptmaker: Free AI Prompt Maker - Visual prompt generator for Midjourney, DALL-E & Stable Diffusion",
-            "date_modified": "2026-01-26T07:24:57.000Z",
+            "date_modified": "2026-01-27T08:26:44.000Z",
             "date_published": "2025-11-27T10:53:07.000Z",
             "author": {
                 "name": "IIMugi",
@@ -204,25 +193,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25891219?u=572ae77bc725e8dd0cb8e86bd552768cca5bf0ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。</div>",
-            "url": "https://github.com/vual/ChatGPT-Next-Web-Pro",
-            "title": "vual/ChatGPT-Next-Web-Pro: 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。",
-            "date_modified": "2026-01-26T11:17:04.000Z",
-            "date_published": "2023-08-18T07:53:09.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney image generation and processing service can generate and rewrite high-quality images.</div>",
+            "url": "https://github.com/AceDataCloud/MidjourneyAPI",
+            "title": "AceDataCloud/MidjourneyAPI: Midjourney image generation and processing service can generate and rewrite high-quality images.",
+            "date_modified": "2026-01-28T01:03:21.000Z",
+            "date_published": "2025-08-30T17:03:16.000Z",
             "author": {
-                "name": "vual",
-                "url": "https://github.com/vual"
+                "name": "AceDataCloud",
+                "url": "https://github.com/AceDataCloud"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130447398?u=ecb61c2996776f7a61db6fa85719cf324ec9b2a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1,000 curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.</div>",
-            "url": "https://github.com/jau123/nanobanana-trending-prompts",
-            "title": "jau123/nanobanana-trending-prompts: 1,000 curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.",
-            "date_modified": "2026-01-26T20:55:02.000Z",
-            "date_published": "2026-01-23T10:58:29.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy-webui",
+            "title": "trueai-org/midjourney-proxy-webui: 代理 Midjourney 的 Discord 频道，实现 api 形式调用 AI 绘图，前端项目。",
+            "date_modified": "2026-01-27T02:06:46.000Z",
+            "date_published": "2024-07-13T03:08:46.000Z",
             "author": {
-                "name": "jau123",
-                "url": "https://github.com/jau123"
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37255565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！</div>",
+            "url": "https://github.com/trueai-org/midjourney-proxy",
+            "title": "trueai-org/midjourney-proxy: 🦄 The world's largest Midjourney drawing API, generating over 1 million drawings daily, supporting Discord Youchuan Midjourney 🐂！",
+            "date_modified": "2026-01-27T08:58:01.000Z",
+            "date_published": "2024-07-03T08:04:25.000Z",
+            "author": {
+                "name": "trueai-org",
+                "url": "https://github.com/trueai-org"
             }
         }
     ]
