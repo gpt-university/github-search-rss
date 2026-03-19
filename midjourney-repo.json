@@ -6,65 +6,21 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55409112?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍌 Discover trending prompts for your projects with nanobanana-trending-prompts, a tool that enhances creativity and boosts engagement effortlessly.</div>",
-            "url": "https://github.com/princebetal/nanobanana-trending-prompts",
-            "title": "princebetal/nanobanana-trending-prompts: 🍌 Discover trending prompts for your projects with nanobanana-trending-prompts, a tool that enhances creativity and boosts engagement effortlessly.",
-            "date_modified": "2026-03-18T01:35:23.000Z",
-            "date_published": "2019-09-16T18:37:02.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MCP Server for Midjourney API - Image and video generation via Model Context Protocol</div>",
+            "url": "https://github.com/AceDataCloud/MCPMidjourney",
+            "title": "AceDataCloud/MCPMidjourney: MCP Server for Midjourney API - Image and video generation via Model Context Protocol",
+            "date_modified": "2026-03-19T01:47:24.000Z",
+            "date_published": "2026-01-22T14:38:46.000Z",
             "author": {
-                "name": "princebetal",
-                "url": "https://github.com/princebetal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212709684?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎬 Build cinematic prompts easily with ComfyUI's visual interface, designed for seamless integration with popular workflows like Midjourney and Stable Diffusion.</div>",
-            "url": "https://github.com/iwahab87/ComfyUI-Cinematic-Prompt",
-            "title": "iwahab87/ComfyUI-Cinematic-Prompt: 🎬 Build cinematic prompts easily with ComfyUI's visual interface, designed for seamless integration with popular workflows like Midjourney and Stable Diffusion.",
-            "date_modified": "2026-03-18T01:33:48.000Z",
-            "date_published": "2026-02-01T21:42:09.000Z",
-            "author": {
-                "name": "iwahab87",
-                "url": "https://github.com/iwahab87"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219747130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.</div>",
-            "url": "https://github.com/Jhoy-jpg/PromptX",
-            "title": "Jhoy-jpg/PromptX: 🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.",
-            "date_modified": "2026-03-18T01:25:12.000Z",
-            "date_published": "2025-07-07T21:39:23.000Z",
-            "author": {
-                "name": "Jhoy-jpg",
-                "url": "https://github.com/Jhoy-jpg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129543288?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Simplify tool calls for any LLM with AnyToolCall, an OpenAI-compatible middleware that bypasses native constraints through prompt injection.</div>",
-            "url": "https://github.com/kunashee/AnyToolCall",
-            "title": "kunashee/AnyToolCall: 🛠️ Simplify tool calls for any LLM with AnyToolCall, an OpenAI-compatible middleware that bypasses native constraints through prompt injection.",
-            "date_modified": "2026-03-18T01:22:29.000Z",
-            "date_published": "2026-01-18T12:56:34.000Z",
-            "author": {
-                "name": "kunashee",
-                "url": "https://github.com/kunashee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219988367?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 Enhance raw prompts into optimized, powerful versions for AI tools like ChatGPT, Midjourney, and more with this free Chrome Extension.</div>",
-            "url": "https://github.com/maxi4youuu/RePRo",
-            "title": "maxi4youuu/RePRo: 🧠 Enhance raw prompts into optimized, powerful versions for AI tools like ChatGPT, Midjourney, and more with this free Chrome Extension.",
-            "date_modified": "2026-03-18T01:21:29.000Z",
-            "date_published": "2026-01-16T13:27:45.000Z",
-            "author": {
-                "name": "maxi4youuu",
-                "url": "https://github.com/maxi4youuu"
+                "name": "AceDataCloud",
+                "url": "https://github.com/AceDataCloud"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
             "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
             "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-            "date_modified": "2026-03-18T01:15:28.000Z",
+            "date_modified": "2026-03-19T01:46:37.000Z",
             "date_published": "2026-03-03T10:38:21.000Z",
             "author": {
                 "name": "YouMind-OpenLab",
@@ -75,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223909077?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.</div>",
             "url": "https://github.com/Ben-jilo/awesome-faceless",
             "title": "Ben-jilo/awesome-faceless: 🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.",
-            "date_modified": "2026-03-18T01:10:27.000Z",
+            "date_modified": "2026-03-19T01:44:57.000Z",
             "date_published": "2025-07-31T21:13:34.000Z",
             "author": {
                 "name": "Ben-jilo",
@@ -86,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133961817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.</div>",
             "url": "https://github.com/Midex005/PromptHub",
             "title": "Midex005/PromptHub: 🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.",
-            "date_modified": "2026-03-18T01:02:45.000Z",
+            "date_modified": "2026-03-19T01:37:25.000Z",
             "date_published": "2023-06-13T15:32:53.000Z",
             "author": {
                 "name": "Midex005",
@@ -94,10 +50,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>API documentation for AceDataCloud AI services - Midjourney, Suno, Luma, Sora, Veo, Flux, OpenAI and more</div>",
+            "url": "https://github.com/AceDataCloud/Docs",
+            "title": "AceDataCloud/Docs: API documentation for AceDataCloud AI services - Midjourney, Suno, Luma, Sora, Veo, Flux, OpenAI and more",
+            "date_modified": "2026-03-19T01:14:58.000Z",
+            "date_published": "2026-03-08T17:53:30.000Z",
+            "author": {
+                "name": "AceDataCloud",
+                "url": "https://github.com/AceDataCloud"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
             "url": "https://github.com/Darkshadow664/jarbaz-ai",
             "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2026-03-18T00:34:55.000Z",
+            "date_modified": "2026-03-19T01:09:25.000Z",
             "date_published": "2025-06-05T16:08:56.000Z",
             "author": {
                 "name": "Darkshadow664",
@@ -108,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112802168?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.</div>",
             "url": "https://github.com/Shaki774/AI-Tools-List",
             "title": "Shaki774/AI-Tools-List: 🛠️ Discover a curated list of AI tools, services, and platforms for developers and researchers to enhance their AI applications and integrations.",
-            "date_modified": "2026-03-18T00:17:26.000Z",
+            "date_modified": "2026-03-19T00:51:30.000Z",
             "date_published": "2022-09-04T09:15:27.000Z",
             "author": {
                 "name": "Shaki774",
@@ -116,32 +83,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226419894?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/connekt2kal/Midjourney",
-            "title": "connekt2kal/Midjourney",
-            "date_modified": "2026-03-18T00:06:18.000Z",
-            "date_published": "2026-03-17T23:35:55.000Z",
-            "author": {
-                "name": "connekt2kal",
-                "url": "https://github.com/connekt2kal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6374260?u=926c5e60ee2a635bd8e35ea74d0b78ccfd08dedb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>n8n community nodes for useapi.net - AI services API (Midjourney, Dreamina, Kling, Runway, PixVerse, MiniMax, InsightFaceSwap)</div>",
-            "url": "https://github.com/ArielleTolome/n8n-nodes-useapi",
-            "title": "ArielleTolome/n8n-nodes-useapi: n8n community nodes for useapi.net - AI services API (Midjourney, Dreamina, Kling, Runway, PixVerse, MiniMax, InsightFaceSwap)",
-            "date_modified": "2026-03-17T23:50:34.000Z",
-            "date_published": "2026-03-17T02:25:22.000Z",
-            "author": {
-                "name": "ArielleTolome",
-                "url": "https://github.com/ArielleTolome"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199739261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.</div>",
             "url": "https://github.com/ericm790/PromptsForAITools",
             "title": "ericm790/PromptsForAITools: Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.",
-            "date_modified": "2026-03-17T22:22:32.000Z",
+            "date_modified": "2026-03-19T00:11:06.000Z",
             "date_published": "2026-03-07T17:46:47.000Z",
             "author": {
                 "name": "ericm790",
@@ -152,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111518745?u=f59ea85ace58d84808da3e63f4284205fbcd23de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remove invisible AI watermarks and manage metadata from images generated by popular AI models like DALL-E, Midjourney, and Stable Diffusion.</div>",
             "url": "https://github.com/vctor03/noai-watermark",
             "title": "vctor03/noai-watermark: Remove invisible AI watermarks and manage metadata from images generated by popular AI models like DALL-E, Midjourney, and Stable Diffusion.",
-            "date_modified": "2026-03-17T22:16:30.000Z",
+            "date_modified": "2026-03-19T00:08:56.000Z",
             "date_published": "2022-08-18T18:12:57.000Z",
             "author": {
                 "name": "vctor03",
@@ -160,54 +105,98 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178006166?u=319cbd5717be2a5796153369c5233de0baf6ac22&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Comprehensive AI Prompt Library: Optimized prompts for ChatGPT, Claude, and Midjourney. Features task-oriented workflows, model guides, and community contributions.</div>",
-            "url": "https://github.com/Datvex/Datvex-prompt-LAB",
-            "title": "Datvex/Datvex-prompt-LAB: Comprehensive AI Prompt Library: Optimized prompts for ChatGPT, Claude, and Midjourney. Features task-oriented workflows, model guides, and community contributions.",
-            "date_modified": "2026-03-17T20:24:53.000Z",
-            "date_published": "2026-02-12T14:48:01.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55409112?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍌 Discover trending prompts for your projects with nanobanana-trending-prompts, a tool that enhances creativity and boosts engagement effortlessly.</div>",
+            "url": "https://github.com/princebetal/nanobanana-trending-prompts",
+            "title": "princebetal/nanobanana-trending-prompts: 🍌 Discover trending prompts for your projects with nanobanana-trending-prompts, a tool that enhances creativity and boosts engagement effortlessly.",
+            "date_modified": "2026-03-18T23:52:10.000Z",
+            "date_published": "2019-09-16T18:37:02.000Z",
             "author": {
-                "name": "Datvex",
-                "url": "https://github.com/Datvex"
+                "name": "princebetal",
+                "url": "https://github.com/princebetal"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/255095111?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>UNIKON.AI is an AI prompt generator for creating ultra-realistic and consistent image prompts from keywords or reference images, with cinematic camera angles. Optimized for Midjourney, Stable Diffusion, and Nano Banana 2</div>",
-            "url": "https://github.com/xinemran-ndx/UNIKON",
-            "title": "xinemran-ndx/UNIKON: UNIKON.AI is an AI prompt generator for creating ultra-realistic and consistent image prompts from keywords or reference images, with cinematic camera angles. Optimized for Midjourney, Stable Diffusion, and Nano Banana 2",
-            "date_modified": "2026-03-17T18:46:56.000Z",
-            "date_published": "2026-03-17T17:13:05.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212709684?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎬 Build cinematic prompts easily with ComfyUI's visual interface, designed for seamless integration with popular workflows like Midjourney and Stable Diffusion.</div>",
+            "url": "https://github.com/iwahab87/ComfyUI-Cinematic-Prompt",
+            "title": "iwahab87/ComfyUI-Cinematic-Prompt: 🎬 Build cinematic prompts easily with ComfyUI's visual interface, designed for seamless integration with popular workflows like Midjourney and Stable Diffusion.",
+            "date_modified": "2026-03-18T23:50:38.000Z",
+            "date_published": "2026-02-01T21:42:09.000Z",
             "author": {
-                "name": "xinemran-ndx",
-                "url": "https://github.com/xinemran-ndx"
+                "name": "iwahab87",
+                "url": "https://github.com/iwahab87"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>API documentation for AceDataCloud AI services - Midjourney, Suno, Luma, Sora, Veo, Flux, OpenAI and more</div>",
-            "url": "https://github.com/AceDataCloud/Docs",
-            "title": "AceDataCloud/Docs: API documentation for AceDataCloud AI services - Midjourney, Suno, Luma, Sora, Veo, Flux, OpenAI and more",
-            "date_modified": "2026-03-17T18:18:20.000Z",
-            "date_published": "2026-03-08T17:53:30.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219747130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.</div>",
+            "url": "https://github.com/Jhoy-jpg/PromptX",
+            "title": "Jhoy-jpg/PromptX: 🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.",
+            "date_modified": "2026-03-18T23:41:42.000Z",
+            "date_published": "2025-07-07T21:39:23.000Z",
             "author": {
-                "name": "AceDataCloud",
-                "url": "https://github.com/AceDataCloud"
+                "name": "Jhoy-jpg",
+                "url": "https://github.com/Jhoy-jpg"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/134986317?u=15ee2d93438caa923994614bcaff8c6971a852c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>2500+ prompts for Stable Diffusion, Midjourney, DALL-E, Flux</div>",
-            "url": "https://github.com/coldxiangyu163/prompt-vault",
-            "title": "coldxiangyu163/prompt-vault: 2500+ prompts for Stable Diffusion, Midjourney, DALL-E, Flux",
-            "date_modified": "2026-03-17T17:01:44.000Z",
-            "date_published": "2026-02-27T08:42:46.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129543288?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Simplify tool calls for any LLM with AnyToolCall, an OpenAI-compatible middleware that bypasses native constraints through prompt injection.</div>",
+            "url": "https://github.com/kunashee/AnyToolCall",
+            "title": "kunashee/AnyToolCall: 🛠️ Simplify tool calls for any LLM with AnyToolCall, an OpenAI-compatible middleware that bypasses native constraints through prompt injection.",
+            "date_modified": "2026-03-18T23:39:07.000Z",
+            "date_published": "2026-01-18T12:56:34.000Z",
             "author": {
-                "name": "coldxiangyu163",
-                "url": "https://github.com/coldxiangyu163"
+                "name": "kunashee",
+                "url": "https://github.com/kunashee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219988367?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 Enhance raw prompts into optimized, powerful versions for AI tools like ChatGPT, Midjourney, and more with this free Chrome Extension.</div>",
+            "url": "https://github.com/maxi4youuu/RePRo",
+            "title": "maxi4youuu/RePRo: 🧠 Enhance raw prompts into optimized, powerful versions for AI tools like ChatGPT, Midjourney, and more with this free Chrome Extension.",
+            "date_modified": "2026-03-18T23:38:08.000Z",
+            "date_published": "2026-01-16T13:27:45.000Z",
+            "author": {
+                "name": "maxi4youuu",
+                "url": "https://github.com/maxi4youuu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/267286003?u=b6a7d1e453007c8c2b22dcdd4b044a17bdb8d3da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ultimate AI prompts library for ChatGPT, Midjourney, and AI tools. Discover high-quality prompts for content writing, SEO, marketing, and realistic image generation.</div>",
+            "url": "https://github.com/kshare-official/ai-prompts-library",
+            "title": "kshare-official/ai-prompts-library: Ultimate AI prompts library for ChatGPT, Midjourney, and AI tools. Discover high-quality prompts for content writing, SEO, marketing, and realistic image generation.",
+            "date_modified": "2026-03-18T23:10:53.000Z",
+            "date_published": "2026-03-11T09:05:55.000Z",
+            "author": {
+                "name": "kshare-official",
+                "url": "https://github.com/kshare-official"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8726393?u=b2d51bf71355926a5bcfeb860109d209cf0c7038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.</div>",
+            "url": "https://github.com/mbakgun/midjourney-images-compose-multiplatform",
+            "title": "mbakgun/midjourney-images-compose-multiplatform: This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on many platforms including Android and iOS platforms.",
+            "date_modified": "2026-03-18T21:32:15.000Z",
+            "date_published": "2023-04-17T13:51:55.000Z",
+            "author": {
+                "name": "mbakgun",
+                "url": "https://github.com/mbakgun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/184484453?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney library </div>",
+            "url": "https://github.com/envisionedbrands/Midjourney-",
+            "title": "envisionedbrands/Midjourney-: Midjourney library ",
+            "date_modified": "2026-03-18T20:17:17.000Z",
+            "date_published": "2026-02-20T21:30:06.000Z",
+            "author": {
+                "name": "envisionedbrands",
+                "url": "https://github.com/envisionedbrands"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.</div>",
             "url": "https://github.com/AceDataCloud/Nexior",
             "title": "AceDataCloud/Nexior: One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
-            "date_modified": "2026-03-17T16:41:43.000Z",
+            "date_modified": "2026-03-18T18:54:19.000Z",
             "date_published": "2024-02-26T16:28:37.000Z",
             "author": {
                 "name": "AceDataCloud",
@@ -215,14 +204,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260772945?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PixelPitch — Claude Skill for LinkedIn B2B marketers. Generate production-grade image prompts using Nano Banana 2, Nano Banana Pro, FLUX.2, GPT Image 1.5, Midjourney, Ideogram, Firefly &amp; more.</div>",
-            "url": "https://github.com/pillairohan1313-beep/pixelpitch-skill",
-            "title": "pillairohan1313-beep/pixelpitch-skill: PixelPitch — Claude Skill for LinkedIn B2B marketers. Generate production-grade image prompts using Nano Banana 2, Nano Banana Pro, FLUX.2, GPT Image 1.5, Midjourney, Ideogram, Firefly & more.",
-            "date_modified": "2026-03-17T16:34:56.000Z",
-            "date_published": "2026-03-16T17:36:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195658188?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Freesets — Free AI prompts &amp; assets for everyone. Copy ready-made prompts for image gen, video gen, UI design, coding &amp; more. Use with Midjourney, DALL-E, Sora, ChatGPT, Gemini — any AI tool you want.</div>",
+            "url": "https://github.com/SHAIK-ABDUL-REHAMAN31/Freesets",
+            "title": "SHAIK-ABDUL-REHAMAN31/Freesets: Freesets — Free AI prompts & assets for everyone. Copy ready-made prompts for image gen, video gen, UI design, coding & more. Use with Midjourney, DALL-E, Sora, ChatGPT, Gemini — any AI tool you want.",
+            "date_modified": "2026-03-18T17:43:58.000Z",
+            "date_published": "2026-03-10T10:54:46.000Z",
             "author": {
-                "name": "pillairohan1313-beep",
-                "url": "https://github.com/pillairohan1313-beep"
+                "name": "SHAIK-ABDUL-REHAMAN31",
+                "url": "https://github.com/SHAIK-ABDUL-REHAMAN31"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235642146?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/linbaolai807-cell/-midjourney-v8-site",
+            "title": "linbaolai807-cell/-midjourney-v8-site",
+            "date_modified": "2026-03-18T17:09:25.000Z",
+            "date_published": "2026-03-18T16:02:52.000Z",
+            "author": {
+                "name": "linbaolai807-cell",
+                "url": "https://github.com/linbaolai807-cell"
             }
         }
     ]
