@@ -6,10 +6,32 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/223909077?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.</div>",
+            "url": "https://github.com/Ben-jilo/awesome-faceless",
+            "title": "Ben-jilo/awesome-faceless: 🚀 Discover AI tools and resources to create faceless content for YouTube, TikTok, and more, empowering you to build profitable channels without showing your face.",
+            "date_modified": "2026-06-13T02:40:12.000Z",
+            "date_published": "2025-07-31T21:13:34.000Z",
+            "author": {
+                "name": "Ben-jilo",
+                "url": "https://github.com/Ben-jilo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Global API docs for Ace Data Cloud AI services including Midjourney, Suno, Luma, Sora, Veo, Flux, and OpenAI-compatible APIs.</div>",
+            "url": "https://github.com/AceDataCloud/Docs",
+            "title": "AceDataCloud/Docs: Global API docs for Ace Data Cloud AI services including Midjourney, Suno, Luma, Sora, Veo, Flux, and OpenAI-compatible APIs.",
+            "date_modified": "2026-06-13T02:37:38.000Z",
+            "date_published": "2026-03-08T17:53:30.000Z",
+            "author": {
+                "name": "AceDataCloud",
+                "url": "https://github.com/AceDataCloud"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133961817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.</div>",
             "url": "https://github.com/Midex005/PromptHub",
             "title": "Midex005/PromptHub: 🛠️ Manage AI prompts effectively with PromptHub, your open-source tool for local storage, version control, and streamlined multi-model testing.",
-            "date_modified": "2026-06-12T02:53:57.000Z",
+            "date_modified": "2026-06-13T02:32:51.000Z",
             "date_published": "2023-06-13T15:32:53.000Z",
             "author": {
                 "name": "Midex005",
@@ -17,32 +39,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142396920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Node.js、Vue3、uniapp的ChatGPT+智能体+Midjourney绘画+PPT生成+Suno音乐+Pika/Runway/Sora视频 网页服务 | 个人、团队、企业私有化AIGC平台</div>",
-            "url": "https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro",
-            "title": "51yuese/GoMaxAI-ChatGPT-Midjourney-Pro: 基于Node.js、Vue3、uniapp的ChatGPT+智能体+Midjourney绘画+PPT生成+Suno音乐+Pika/Runway/Sora视频 网页服务 | 个人、团队、企业私有化AIGC平台",
-            "date_modified": "2026-06-12T02:50:53.000Z",
-            "date_published": "2024-06-07T05:53:59.000Z",
-            "author": {
-                "name": "51yuese",
-                "url": "https://github.com/51yuese"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
-            "url": "https://github.com/Darkshadow664/jarbaz-ai",
-            "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
-            "date_modified": "2026-06-12T02:27:21.000Z",
-            "date_published": "2025-06-05T16:08:56.000Z",
-            "author": {
-                "name": "Darkshadow664",
-                "url": "https://github.com/Darkshadow664"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
             "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
             "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-            "date_modified": "2026-06-12T02:18:29.000Z",
+            "date_modified": "2026-06-13T02:11:47.000Z",
             "date_published": "2026-03-03T10:38:21.000Z",
             "author": {
                 "name": "YouMind-OpenLab",
@@ -50,43 +50,54 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208629863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/r0ze998/midjourney-clone",
-            "title": "r0ze998/midjourney-clone",
-            "date_modified": "2026-06-12T02:10:07.000Z",
-            "date_published": "2025-04-27T11:37:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22969557?u=e165a13fdc6dbec7062799fc78bcc29dfe8349c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lofn: An award-winning, open-source AI art generator that combines Tree of Thoughts prompting and critic/artist refinement to create unique, high-quality artwork. Supports Midjourney, DALL-E 3, and Discord integration. Built with OpenAI and Anthropic's Claude.</div>",
+            "url": "https://github.com/LocalSymmetry/lofn",
+            "title": "LocalSymmetry/lofn: Lofn: An award-winning, open-source AI art generator that combines Tree of Thoughts prompting and critic/artist refinement to create unique, high-quality artwork. Supports Midjourney, DALL-E 3, and Discord integration. Built with OpenAI and Anthropic's Claude.",
+            "date_modified": "2026-06-13T02:07:40.000Z",
+            "date_published": "2024-03-26T20:21:22.000Z",
             "author": {
-                "name": "r0ze998",
-                "url": "https://github.com/r0ze998"
+                "name": "LocalSymmetry",
+                "url": "https://github.com/LocalSymmetry"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/239485296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>KIMIFY MOTOR v2.0 — Midjourney V8.1 Prompt Generator for Superhero Anime</div>",
-            "url": "https://github.com/joedurufour-cmyk/kimify-motor",
-            "title": "joedurufour-cmyk/kimify-motor: KIMIFY MOTOR v2.0 — Midjourney V8.1 Prompt Generator for Superhero Anime",
-            "date_modified": "2026-06-12T02:06:43.000Z",
-            "date_published": "2026-06-10T03:57:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117430886?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.</div>",
+            "url": "https://github.com/Darkshadow664/jarbaz-ai",
+            "title": "Darkshadow664/jarbaz-ai: 🦜 Enhance creativity and innovation with Jarbaz AI, a revolutionary platform featuring Jobz, an intelligent assistant inspired by history's greatest minds.",
+            "date_modified": "2026-06-13T02:07:02.000Z",
+            "date_published": "2025-06-05T16:08:56.000Z",
             "author": {
-                "name": "joedurufour-cmyk",
-                "url": "https://github.com/joedurufour-cmyk"
+                "name": "Darkshadow664",
+                "url": "https://github.com/Darkshadow664"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173108651?u=61a09f4205698d7ab83d0156c618a1bafd6153a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney-U (for University) is intended to serve as an easily digestible and self-paced tutorial companion guide allowing for users to make the most of the awesome power Midjourney can unleash on the quality of your output. </div>",
-            "url": "https://github.com/SeanVasey/Midjourney-U",
-            "title": "SeanVasey/Midjourney-U: Midjourney-U (for University) is intended to serve as an easily digestible and self-paced tutorial companion guide allowing for users to make the most of the awesome power Midjourney can unleash on the quality of your output. ",
-            "date_modified": "2026-06-12T01:54:32.000Z",
-            "date_published": "2026-03-24T17:43:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57783355?u=bb2879bf25ba174377a78d2bb2d5ec871eea2ef2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。</div>",
+            "url": "https://github.com/Mr-Salticidae/knowledge-base",
+            "title": "Mr-Salticidae/knowledge-base: 跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。",
+            "date_modified": "2026-06-13T01:31:14.000Z",
+            "date_published": "2026-05-13T01:37:59.000Z",
             "author": {
-                "name": "SeanVasey",
-                "url": "https://github.com/SeanVasey"
+                "name": "Mr-Salticidae",
+                "url": "https://github.com/Mr-Salticidae"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/290474417?u=5aa760e3897d508b00b2b2bed387d29cda3df081&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · офлайн установка · midjourney open source 2026 · ComfyUI SDXL 2026 · генерация картинок без облака · ⬇ Releases · midjourney open source 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026</div>",
+            "url": "https://github.com/savagegoldsmithhex/midjourney-open-source-2026",
+            "title": "savagegoldsmithhex/midjourney-open-source-2026: ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · офлайн установка · midjourney open source 2026 · ComfyUI SDXL 2026 · генерация картинок без облака · ⬇ Releases · midjourney open source 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026",
+            "date_modified": "2026-06-13T00:28:36.000Z",
+            "date_published": "2026-06-10T23:05:11.000Z",
+            "author": {
+                "name": "savagegoldsmithhex",
+                "url": "https://github.com/savagegoldsmithhex"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/278458929?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Access Midjourney features on Windows without a subscription using this pre-activated build.</div>",
             "url": "https://github.com/stoneless-tropicofcancer591/midjourney-free-unlimited",
             "title": "stoneless-tropicofcancer591/midjourney-free-unlimited: Access Midjourney features on Windows without a subscription using this pre-activated build.",
-            "date_modified": "2026-06-12T01:37:38.000Z",
+            "date_modified": "2026-06-13T00:27:11.000Z",
             "date_published": "2026-06-02T02:38:55.000Z",
             "author": {
                 "name": "stoneless-tropicofcancer591",
@@ -94,10 +105,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/290474417?u=5aa760e3897d508b00b2b2bed387d29cda3df081&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · скачать zip ниже · midjourney windows 2026 · ComfyUI 2026 · Stable Diffusion / Flux local · Windows GPU · ⬇ Releases exe · midjourney windows 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #</div>",
+            "url": "https://github.com/savagegoldsmithhex/midjourney-windows-2026",
+            "title": "savagegoldsmithhex/midjourney-windows-2026: ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · скачать zip ниже · midjourney windows 2026 · ComfyUI 2026 · Stable Diffusion / Flux local · Windows GPU · ⬇ Releases exe · midjourney windows 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #",
+            "date_modified": "2026-06-13T00:23:53.000Z",
+            "date_published": "2026-06-10T22:59:56.000Z",
+            "author": {
+                "name": "savagegoldsmithhex",
+                "url": "https://github.com/savagegoldsmithhex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/279851345?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build a private, searchable knowledge base and generate grounded answers from your documents using Laravel and Gemini integration.</div>",
             "url": "https://github.com/Cloistered-genusalcelaphus1584/my-ai-app",
             "title": "Cloistered-genusalcelaphus1584/my-ai-app: Build a private, searchable knowledge base and generate grounded answers from your documents using Laravel and Gemini integration.",
-            "date_modified": "2026-06-12T01:29:43.000Z",
+            "date_modified": "2026-06-13T00:20:19.000Z",
             "date_published": "2026-05-03T05:15:13.000Z",
             "author": {
                 "name": "Cloistered-genusalcelaphus1584",
@@ -105,10 +127,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/290474417?u=5aa760e3897d508b00b2b2bed387d29cda3df081&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · инструкция в README · midjourney comfyui 2026 · ComfyUI SDXL 2026 · генерация картинок без облака · ⬇ Releases · midjourney comfyui 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026 #midj</div>",
+            "url": "https://github.com/savagegoldsmithhex/midjourney-comfyui-2026",
+            "title": "savagegoldsmithhex/midjourney-comfyui-2026: ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · инструкция в README · midjourney comfyui 2026 · ComfyUI SDXL 2026 · генерация картинок без облака · ⬇ Releases · midjourney comfyui 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026 #midj",
+            "date_modified": "2026-06-13T00:19:32.000Z",
+            "date_published": "2026-06-10T22:55:41.000Z",
+            "author": {
+                "name": "savagegoldsmithhex",
+                "url": "https://github.com/savagegoldsmithhex"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/290474417?u=5aa760e3897d508b00b2b2bed387d29cda3df081&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · актуально 2026 · midjourney free 2026 · ComfyUI 2026 · Stable Diffusion / Flux local · Windows GPU · ⬇ Releases exe · midjourney free 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026 #mi</div>",
+            "url": "https://github.com/savagegoldsmithhex/midjourney-free-2026",
+            "title": "savagegoldsmithhex/midjourney-free-2026: ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · актуально 2026 · midjourney free 2026 · ComfyUI 2026 · Stable Diffusion / Flux local · Windows GPU · ⬇ Releases exe · midjourney free 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026 #mi",
+            "date_modified": "2026-06-13T00:15:05.000Z",
+            "date_published": "2026-06-10T22:50:51.000Z",
+            "author": {
+                "name": "savagegoldsmithhex",
+                "url": "https://github.com/savagegoldsmithhex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/274927806?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Get a second opinion from ChatGPT Pro for Claude Code reviews with one command.</div>",
             "url": "https://github.com/Mackerelscadpica752/claude-skill-gpt-pro",
             "title": "Mackerelscadpica752/claude-skill-gpt-pro: Get a second opinion from ChatGPT Pro for Claude Code reviews with one command.",
-            "date_modified": "2026-06-12T01:21:58.000Z",
+            "date_modified": "2026-06-13T00:13:30.000Z",
             "date_published": "2026-04-23T21:19:17.000Z",
             "author": {
                 "name": "Mackerelscadpica752",
@@ -119,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/274920180?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.</div>",
             "url": "https://github.com/exercisedeviceforester917/ai-prompt-cheatsheet",
             "title": "exercisedeviceforester917/ai-prompt-cheatsheet: Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.",
-            "date_modified": "2026-06-12T01:21:37.000Z",
+            "date_modified": "2026-06-13T00:12:58.000Z",
             "date_published": "2026-04-23T15:54:40.000Z",
             "author": {
                 "name": "exercisedeviceforester917",
@@ -127,10 +171,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/290474417?u=5aa760e3897d508b00b2b2bed387d29cda3df081&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · без Python · один exe · midjourney local 2026 · AI art offline 2026 · ComfyUI portable · text-to-image · ⬇ Скачать · midjourney local 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026 #mi</div>",
+            "url": "https://github.com/savagegoldsmithhex/midjourney-local-2026",
+            "title": "savagegoldsmithhex/midjourney-local-2026: ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · без Python · один exe · midjourney local 2026 · AI art offline 2026 · ComfyUI portable · text-to-image · ⬇ Скачать · midjourney local 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable #2026 #mi",
+            "date_modified": "2026-06-13T00:10:36.000Z",
+            "date_published": "2026-06-10T22:45:23.000Z",
+            "author": {
+                "name": "savagegoldsmithhex",
+                "url": "https://github.com/savagegoldsmithhex"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/290474417?u=5aa760e3897d508b00b2b2bed387d29cda3df081&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · Windows 10/11 portable · midjourney alternative 2026 · ComfyUI SDXL 2026 · генерация картинок без облака · ⬇ Releases · midjourney alternative 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable</div>",
+            "url": "https://github.com/savagegoldsmithhex/midjourney-alternative-2026",
+            "title": "savagegoldsmithhex/midjourney-alternative-2026: ComfyUI · Stable Diffusion local · AI image generator 2026 · ⬇ Releases zip · Windows 10/11 portable · midjourney alternative 2026 · ComfyUI SDXL 2026 · генерация картинок без облака · ⬇ Releases · midjourney alternative 2026 · #comfyui #stable-diffusion #sdxl #flux #text-to-image #image-generation #ai-art #local-ai #gpu #nvidia #windows #portable",
+            "date_modified": "2026-06-13T00:05:33.000Z",
+            "date_published": "2026-06-10T22:40:57.000Z",
+            "author": {
+                "name": "savagegoldsmithhex",
+                "url": "https://github.com/savagegoldsmithhex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6137951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generate AI images with ModelScope Tongyi Wanxiang in Claude Code, Cursor, VS Code Copilot, and other Claude Code tools.</div>",
             "url": "https://github.com/killer6136/ai-image-gen",
             "title": "killer6136/ai-image-gen: Generate AI images with ModelScope Tongyi Wanxiang in Claude Code, Cursor, VS Code Copilot, and other Claude Code tools.",
-            "date_modified": "2026-06-12T01:12:52.000Z",
+            "date_modified": "2026-06-13T00:04:46.000Z",
             "date_published": "2026-04-04T09:12:51.000Z",
             "author": {
                 "name": "killer6136",
@@ -141,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161998034?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore 500+ curated marketing prompts, hooks, and swipe files for coaches, creators, and solopreneurs to save time and improve copy</div>",
             "url": "https://github.com/gvishweshwar/marketing-prompts",
             "title": "gvishweshwar/marketing-prompts: Explore 500+ curated marketing prompts, hooks, and swipe files for coaches, creators, and solopreneurs to save time and improve copy",
-            "date_modified": "2026-06-12T01:10:21.000Z",
+            "date_modified": "2026-06-13T00:02:15.000Z",
             "date_published": "2026-03-30T03:45:33.000Z",
             "author": {
                 "name": "gvishweshwar",
@@ -152,77 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/269156160?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Optimize and manage AI prompts with a self-hosted tool supporting multiple providers, including OpenAI, for improved prompt performance and control.</div>",
             "url": "https://github.com/Pegparticularised945/prompt-optimizer-studio",
             "title": "Pegparticularised945/prompt-optimizer-studio: Optimize and manage AI prompts with a self-hosted tool supporting multiple providers, including OpenAI, for improved prompt performance and control.",
-            "date_modified": "2026-06-12T01:05:26.000Z",
+            "date_modified": "2026-06-12T23:57:37.000Z",
             "date_published": "2026-03-22T06:16:51.000Z",
             "author": {
                 "name": "Pegparticularised945",
                 "url": "https://github.com/Pegparticularised945"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199739261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.</div>",
-            "url": "https://github.com/ericm790/PromptsForAITools",
-            "title": "ericm790/PromptsForAITools: Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.",
-            "date_modified": "2026-06-12T00:54:59.000Z",
-            "date_published": "2026-03-07T17:46:47.000Z",
-            "author": {
-                "name": "ericm790",
-                "url": "https://github.com/ericm790"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111518745?u=f59ea85ace58d84808da3e63f4284205fbcd23de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remove invisible AI watermarks and manage metadata from images generated by popular AI models like DALL-E, Midjourney, and Stable Diffusion.</div>",
-            "url": "https://github.com/vctor03/noai-watermark",
-            "title": "vctor03/noai-watermark: Remove invisible AI watermarks and manage metadata from images generated by popular AI models like DALL-E, Midjourney, and Stable Diffusion.",
-            "date_modified": "2026-06-12T00:53:03.000Z",
-            "date_published": "2022-08-18T18:12:57.000Z",
-            "author": {
-                "name": "vctor03",
-                "url": "https://github.com/vctor03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55409112?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍌 Discover trending prompts for your projects with nanobanana-trending-prompts, a tool that enhances creativity and boosts engagement effortlessly.</div>",
-            "url": "https://github.com/princebetal/nanobanana-trending-prompts",
-            "title": "princebetal/nanobanana-trending-prompts: 🍌 Discover trending prompts for your projects with nanobanana-trending-prompts, a tool that enhances creativity and boosts engagement effortlessly.",
-            "date_modified": "2026-06-12T00:36:07.000Z",
-            "date_published": "2019-09-16T18:37:02.000Z",
-            "author": {
-                "name": "princebetal",
-                "url": "https://github.com/princebetal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212709684?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎬 Build cinematic prompts easily with ComfyUI's visual interface, designed for seamless integration with popular workflows like Midjourney and Stable Diffusion.</div>",
-            "url": "https://github.com/iwahab87/ComfyUI-Cinematic-Prompt",
-            "title": "iwahab87/ComfyUI-Cinematic-Prompt: 🎬 Build cinematic prompts easily with ComfyUI's visual interface, designed for seamless integration with popular workflows like Midjourney and Stable Diffusion.",
-            "date_modified": "2026-06-12T00:34:34.000Z",
-            "date_published": "2026-02-01T21:42:09.000Z",
-            "author": {
-                "name": "iwahab87",
-                "url": "https://github.com/iwahab87"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282695699?u=0891eaabd803b8efb980c07a167a871f343bca5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images Download featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️</div>",
-            "url": "https://github.com/Phantomiconquer/Midjourney-Unlimited-Generator-Download",
-            "title": "Phantomiconquer/Midjourney-Unlimited-Generator-Download: ⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images Download featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️",
-            "date_modified": "2026-06-12T00:27:01.000Z",
-            "date_published": "2026-06-09T20:52:33.000Z",
-            "author": {
-                "name": "Phantomiconquer",
-                "url": "https://github.com/Phantomiconquer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219747130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.</div>",
-            "url": "https://github.com/Jhoy-jpg/PromptX",
-            "title": "Jhoy-jpg/PromptX: 🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.",
-            "date_modified": "2026-06-12T00:26:09.000Z",
-            "date_published": "2025-07-07T21:39:23.000Z",
-            "author": {
-                "name": "Jhoy-jpg",
-                "url": "https://github.com/Jhoy-jpg"
             }
         }
     ]
