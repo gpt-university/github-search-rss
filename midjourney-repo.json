@@ -6,32 +6,21 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
-            "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
-            "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-            "date_modified": "2026-07-10T01:36:52.000Z",
-            "date_published": "2026-03-03T10:38:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/681271?u=b17c420fd53e68a8e941179f4d4757806f8461d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build AI image prompts visually using structured scene attributes, then compile them into model-optimized prompts for GPT Image, Flux, SDXL, Midjourney, and more.</div>",
+            "url": "https://github.com/magicxeon/PromptForge",
+            "title": "magicxeon/PromptForge: Build AI image prompts visually using structured scene attributes, then compile them into model-optimized prompts for GPT Image, Flux, SDXL, Midjourney, and more.",
+            "date_modified": "2026-07-11T02:01:14.000Z",
+            "date_published": "2026-07-04T15:58:34.000Z",
             "author": {
-                "name": "YouMind-OpenLab",
-                "url": "https://github.com/YouMind-OpenLab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57783355?u=8bb4702e39240e07006c0fb5d8c2f88d6a3dfe7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。</div>",
-            "url": "https://github.com/Mr-Salticidae/knowledge-base",
-            "title": "Mr-Salticidae/knowledge-base: 跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。",
-            "date_modified": "2026-07-10T01:05:13.000Z",
-            "date_published": "2026-05-13T01:37:59.000Z",
-            "author": {
-                "name": "Mr-Salticidae",
-                "url": "https://github.com/Mr-Salticidae"
+                "name": "magicxeon",
+                "url": "https://github.com/magicxeon"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/274920180?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.</div>",
             "url": "https://github.com/exercisedeviceforester917/ai-prompt-cheatsheet",
             "title": "exercisedeviceforester917/ai-prompt-cheatsheet: Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.",
-            "date_modified": "2026-07-10T00:35:06.000Z",
+            "date_modified": "2026-07-11T01:36:22.000Z",
             "date_published": "2026-04-23T15:54:40.000Z",
             "author": {
                 "name": "exercisedeviceforester917",
@@ -39,10 +28,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
+            "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
+            "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
+            "date_modified": "2026-07-11T01:30:03.000Z",
+            "date_published": "2026-03-03T10:38:21.000Z",
+            "author": {
+                "name": "YouMind-OpenLab",
+                "url": "https://github.com/YouMind-OpenLab"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161998034?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Explore 500+ curated marketing prompts, hooks, and swipe files for coaches, creators, and solopreneurs to save time and improve copy</div>",
             "url": "https://github.com/gvishweshwar/marketing-prompts",
             "title": "gvishweshwar/marketing-prompts: Explore 500+ curated marketing prompts, hooks, and swipe files for coaches, creators, and solopreneurs to save time and improve copy",
-            "date_modified": "2026-07-10T00:25:52.000Z",
+            "date_modified": "2026-07-11T01:27:09.000Z",
             "date_published": "2026-03-30T03:45:33.000Z",
             "author": {
                 "name": "gvishweshwar",
@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199739261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.</div>",
             "url": "https://github.com/ericm790/PromptsForAITools",
             "title": "ericm790/PromptsForAITools: Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.",
-            "date_modified": "2026-07-10T00:12:33.000Z",
+            "date_modified": "2026-07-11T01:14:08.000Z",
             "date_published": "2026-03-07T17:46:47.000Z",
             "author": {
                 "name": "ericm790",
@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111518745?u=f59ea85ace58d84808da3e63f4284205fbcd23de&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remove invisible AI watermarks and manage metadata from images generated by popular AI models like DALL-E, Midjourney, and Stable Diffusion.</div>",
             "url": "https://github.com/vctor03/noai-watermark",
             "title": "vctor03/noai-watermark: Remove invisible AI watermarks and manage metadata from images generated by popular AI models like DALL-E, Midjourney, and Stable Diffusion.",
-            "date_modified": "2026-07-10T00:10:37.000Z",
+            "date_modified": "2026-07-11T01:12:16.000Z",
             "date_published": "2022-08-18T18:12:57.000Z",
             "author": {
                 "name": "vctor03",
@@ -72,21 +72,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18617011?u=e96ac83b9bbd3332917c26c8c853ff5494abda94&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yukittm/midjourney-explore",
-            "title": "yukittm/midjourney-explore",
-            "date_modified": "2026-07-10T00:06:00.000Z",
-            "date_published": "2026-06-25T07:13:36.000Z",
-            "author": {
-                "name": "yukittm",
-                "url": "https://github.com/yukittm"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/219747130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.</div>",
             "url": "https://github.com/Jhoy-jpg/PromptX",
             "title": "Jhoy-jpg/PromptX: 🚀 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control and seamless cross-platform syncing.",
-            "date_modified": "2026-07-09T23:50:08.000Z",
+            "date_modified": "2026-07-11T00:51:52.000Z",
             "date_published": "2025-07-07T21:39:23.000Z",
             "author": {
                 "name": "Jhoy-jpg",
@@ -94,32 +83,32 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38243952?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Free Alternative AI Image - free AI image generation alternative to Midjourney.</div>",
-            "url": "https://github.com/liuc998/Midjourney-Free-Alternative-2026-AI-Image",
-            "title": "liuc998/Midjourney-Free-Alternative-2026-AI-Image: Midjourney Free Alternative AI Image - free AI image generation alternative to Midjourney.",
-            "date_modified": "2026-07-10T02:25:57.000Z",
-            "date_published": "2026-07-09T23:42:49.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18617011?u=e96ac83b9bbd3332917c26c8c853ff5494abda94&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yukittm/midjourney-explore",
+            "title": "yukittm/midjourney-explore",
+            "date_modified": "2026-07-11T00:16:07.000Z",
+            "date_published": "2026-06-25T07:13:36.000Z",
             "author": {
-                "name": "liuc998",
-                "url": "https://github.com/liuc998"
+                "name": "yukittm",
+                "url": "https://github.com/yukittm"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
-            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
-            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
-            "date_modified": "2026-07-09T23:12:15.000Z",
-            "date_published": "2026-06-26T12:28:33.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1305564?u=af6f13a927433e4bafbfefd6b03705b15fe5aa0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most people write by hand. Compose from a large library of scenes, subjects, and styles, then run them through 40+ models including Midjourney, DALL-E, Gemini, FLUX, and Stable Diffusion.</div>",
+            "url": "https://github.com/junebug12851/random-ai-prompt",
+            "title": "junebug12851/random-ai-prompt: An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most people write by hand. Compose from a large library of scenes, subjects, and styles, then run them through 40+ models including Midjourney, DALL-E, Gemini, FLUX, and Stable Diffusion.",
+            "date_modified": "2026-07-11T00:03:51.000Z",
+            "date_published": "2022-12-06T13:46:49.000Z",
             "author": {
-                "name": "DevYadav3672",
-                "url": "https://github.com/DevYadav3672"
+                "name": "junebug12851",
+                "url": "https://github.com/junebug12851"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208182943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Stock Video Generator 2026 🎬 - Free &amp; Open Source</div>",
             "url": "https://github.com/mounish07-tech/Pixel-Portrait-Studio",
             "title": "mounish07-tech/Pixel-Portrait-Studio: AI Stock Video Generator 2026 🎬 - Free & Open Source",
-            "date_modified": "2026-07-09T23:06:48.000Z",
+            "date_modified": "2026-07-10T23:59:33.000Z",
             "date_published": "2026-05-25T09:12:39.000Z",
             "author": {
                 "name": "mounish07-tech",
@@ -127,21 +116,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/252112886?u=eba8f5c042ee9877678ab4c6a0b96ac9821c2d02&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 PromptVerse – An AI Prompt Sharing &amp; Marketplace Platform where users can discover, create, share, bookmark, review, and monetize AI prompts for ChatGPT, Gemini, Claude, Midjourney, and more. Features role-based dashboards, premium subscriptions, analytics, moderation, and secure authentication.</div>",
-            "url": "https://github.com/mrinmoysana7/PH-Assignment-10",
-            "title": "mrinmoysana7/PH-Assignment-10: 🚀 PromptVerse – An AI Prompt Sharing & Marketplace Platform where users can discover, create, share, bookmark, review, and monetize AI prompts for ChatGPT, Gemini, Claude, Midjourney, and more. Features role-based dashboards, premium subscriptions, analytics, moderation, and secure authentication.",
-            "date_modified": "2026-07-09T22:31:41.000Z",
-            "date_published": "2026-06-23T20:04:13.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
+            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
+            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
+            "date_modified": "2026-07-10T23:57:56.000Z",
+            "date_published": "2026-06-26T12:28:33.000Z",
             "author": {
-                "name": "mrinmoysana7",
-                "url": "https://github.com/mrinmoysana7"
+                "name": "DevYadav3672",
+                "url": "https://github.com/DevYadav3672"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212970677?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PromptVault — Premium AI Prompts store. 575+ проверенных промптов для GPT-5.5, Claude Fable 5, Gemini 3.5 Flash, GLM 5.2 и Midjourney v8.1. Next.js 16 + Prisma + NextAuth + Tailwind.</div>",
             "url": "https://github.com/tixonghi/promtvalutai",
             "title": "tixonghi/promtvalutai: PromptVault — Premium AI Prompts store. 575+ проверенных промптов для GPT-5.5, Claude Fable 5, Gemini 3.5 Flash, GLM 5.2 и Midjourney v8.1. Next.js 16 + Prisma + NextAuth + Tailwind.",
-            "date_modified": "2026-07-09T21:11:51.000Z",
+            "date_modified": "2026-07-10T21:56:00.000Z",
             "date_published": "2026-07-05T11:12:35.000Z",
             "author": {
                 "name": "tixonghi",
@@ -149,21 +138,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/298832083?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.</div>",
-            "url": "https://github.com/altoriasystems-ui/Altoria-Open-Generative-AI",
-            "title": "altoriasystems-ui/Altoria-Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-            "date_modified": "2026-07-09T20:26:22.000Z",
-            "date_published": "2026-07-09T20:25:50.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131418633?u=451b4ef068fd3db58bb503cc65140ef2c1afd7f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&amp;音乐，开源大模型</div>",
+            "url": "https://github.com/LearnPrompt/LearnPrompt",
+            "title": "LearnPrompt/LearnPrompt: 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型",
+            "date_modified": "2026-07-10T18:33:14.000Z",
+            "date_published": "2023-04-23T06:51:33.000Z",
             "author": {
-                "name": "altoriasystems-ui",
-                "url": "https://github.com/altoriasystems-ui"
+                "name": "LearnPrompt",
+                "url": "https://github.com/LearnPrompt"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242802195?u=a9bb0b447b7ef558647b0c8a501cbb0b7e109c86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.</div>",
             "url": "https://github.com/ChrisChen667788/wind-comic",
             "title": "ChrisChen667788/wind-comic: Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.",
-            "date_modified": "2026-07-09T18:59:13.000Z",
+            "date_modified": "2026-07-10T17:34:38.000Z",
             "date_published": "2026-04-26T00:20:42.000Z",
             "author": {
                 "name": "ChrisChen667788",
@@ -171,58 +160,69 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15095223?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>500+ Midjourney prompts + intelligent generator in Notion. Create gallery-worthy images faster with tested, categorized prompts.</div>",
-            "url": "https://github.com/ncreighton/0df8f479-midjourney-prompt-library-and-",
-            "title": "ncreighton/0df8f479-midjourney-prompt-library-and-: 500+ Midjourney prompts + intelligent generator in Notion. Create gallery-worthy images faster with tested, categorized prompts.",
-            "date_modified": "2026-07-09T17:56:00.000Z",
-            "date_published": "2026-05-04T23:23:26.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/295787530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Free Ultra Realistic Rain Portrait AI Photo Editing Prompt 2026 for ChatGPT, Gemini, Midjourney, Flux, Grok, Leonardo AI and other AI image generators.</div>",
+            "url": "https://github.com/vikasedits/realistic-rain-portrait",
+            "title": "vikasedits/realistic-rain-portrait: Free Ultra Realistic Rain Portrait AI Photo Editing Prompt 2026 for ChatGPT, Gemini, Midjourney, Flux, Grok, Leonardo AI and other AI image generators.",
+            "date_modified": "2026-07-10T17:15:19.000Z",
+            "date_published": "2026-07-10T17:00:35.000Z",
             "author": {
-                "name": "ncreighton",
-                "url": "https://github.com/ncreighton"
+                "name": "vikasedits",
+                "url": "https://github.com/vikasedits"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299729255?u=9164187364da8e4512515d362b210ed19acea1da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Claude 免费试用，聚合 GPT, Claude, Gemini, DeepSeek, Meta Llama, Alibaba Qwen, xAI Grok, Mistral, Midjourney, Stable Diffusion, Flux, Sora, Veo 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。</div>",
-            "url": "https://github.com/WilliamRamirez3382/gemini-api-free-flow",
-            "title": "WilliamRamirez3382/gemini-api-free-flow: ChatGPT Claude 免费试用，聚合 GPT, Claude, Gemini, DeepSeek, Meta Llama, Alibaba Qwen, xAI Grok, Mistral, Midjourney, Stable Diffusion, Flux, Sora, Veo 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。",
-            "date_modified": "2026-07-09T16:56:54.000Z",
-            "date_published": "2026-07-04T09:37:07.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/286424185?u=24944b8b641272d44399f244dc616d9525569589&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Prompt Marketplace — browse, test, optimize, and sell prompts for ChatGPT, Claude, Midjourney, and Flux</div>",
+            "url": "https://github.com/rishavbuilder/Beta",
+            "title": "rishavbuilder/Beta: AI Prompt Marketplace — browse, test, optimize, and sell prompts for ChatGPT, Claude, Midjourney, and Flux",
+            "date_modified": "2026-07-10T15:34:27.000Z",
+            "date_published": "2026-06-18T16:43:15.000Z",
             "author": {
-                "name": "WilliamRamirez3382",
-                "url": "https://github.com/WilliamRamirez3382"
+                "name": "rishavbuilder",
+                "url": "https://github.com/rishavbuilder"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299729255?u=9164187364da8e4512515d362b210ed19acea1da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>免费 Gemini DeepSeek 网关，聚合 GPT, Claude, Gemini, DeepSeek, Meta Llama, Alibaba Qwen, xAI Grok, Mistral, Midjourney, Stable Diffusion, Flux, Sora, Veo 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。</div>",
-            "url": "https://github.com/WilliamRamirez3382/mistral-llm-free-flow",
-            "title": "WilliamRamirez3382/mistral-llm-free-flow: 免费 Gemini DeepSeek 网关，聚合 GPT, Claude, Gemini, DeepSeek, Meta Llama, Alibaba Qwen, xAI Grok, Mistral, Midjourney, Stable Diffusion, Flux, Sora, Veo 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。",
-            "date_modified": "2026-07-09T16:56:44.000Z",
-            "date_published": "2026-07-04T09:39:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/268497153?u=0996490fc30f6a0e3f691a6dbd7e3eb8779860e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI工具导航站 — 深度评测ChatGPT/Claude/Midjourney等主流AI工具，附使用教程与替代方案对比。纯静态HTML，SEO优化，支持Google AdSense。</div>",
+            "url": "https://github.com/junagent/ai-tools-hub",
+            "title": "junagent/ai-tools-hub: AI工具导航站 — 深度评测ChatGPT/Claude/Midjourney等主流AI工具，附使用教程与替代方案对比。纯静态HTML，SEO优化，支持Google AdSense。",
+            "date_modified": "2026-07-10T15:08:59.000Z",
+            "date_published": "2026-05-19T17:34:11.000Z",
             "author": {
-                "name": "WilliamRamirez3382",
-                "url": "https://github.com/WilliamRamirez3382"
+                "name": "junagent",
+                "url": "https://github.com/junagent"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299729255?u=9164187364da8e4512515d362b210ed19acea1da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>免费 LLM Gateway 入口，聚合 ChatGPT, OpenAI API, Claude API, Gemini API, DeepSeek V3, Llama, Qwen Max, Kimi, Doubao, ERNIE, Mistral, Grok 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。</div>",
-            "url": "https://github.com/WilliamRamirez3382/midjourney-free-ai-hub",
-            "title": "WilliamRamirez3382/midjourney-free-ai-hub: 免费 LLM Gateway 入口，聚合 ChatGPT, OpenAI API, Claude API, Gemini API, DeepSeek V3, Llama, Qwen Max, Kimi, Doubao, ERNIE, Mistral, Grok 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。",
-            "date_modified": "2026-07-09T16:56:42.000Z",
-            "date_published": "2026-07-04T10:45:03.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1827047?u=d4a1865be45b786877c59fd379e35ec2445ca8d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AIGC CLI - 统一 AI 图片、视频、Midjourney 生成与检测命令行工具。支持 OpenAI、OpenRouter 及任意 OpenAI 兼容中转。内置 MCP Server、AIGC 检测引擎。</div>",
+            "url": "https://github.com/martianzhang/aigc-cli",
+            "title": "martianzhang/aigc-cli: AIGC CLI - 统一 AI 图片、视频、Midjourney 生成与检测命令行工具。支持 OpenAI、OpenRouter 及任意 OpenAI 兼容中转。内置 MCP Server、AIGC 检测引擎。",
+            "date_modified": "2026-07-10T14:57:05.000Z",
+            "date_published": "2026-06-15T03:28:06.000Z",
             "author": {
-                "name": "WilliamRamirez3382",
-                "url": "https://github.com/WilliamRamirez3382"
+                "name": "martianzhang",
+                "url": "https://github.com/martianzhang"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/299729255?u=9164187364da8e4512515d362b210ed19acea1da&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Claude Gemini 免费试用网关，聚合 GPT, Claude, Gemini, DeepSeek, Meta Llama, Alibaba Qwen, xAI Grok, Mistral, Midjourney, Stable Diffusion, Flux, Sora, Veo 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。</div>",
-            "url": "https://github.com/WilliamRamirez3382/qwen-deepseek-clean-relay",
-            "title": "WilliamRamirez3382/qwen-deepseek-clean-relay: Claude Gemini 免费试用网关，聚合 GPT, Claude, Gemini, DeepSeek, Meta Llama, Alibaba Qwen, xAI Grok, Mistral, Midjourney, Stable Diffusion, Flux, Sora, Veo 等顶级模型的免费 AI 中转、低价 AI API、白送试用额度、ChatGPT relay、OpenAI relay、AI gateway 和 AIGC 工具入口。",
-            "date_modified": "2026-07-09T16:57:35.000Z",
-            "date_published": "2026-07-04T10:47:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4326215?u=0c459c6b373cb854c019b64d653c447aaeefb18b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.</div>",
+            "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+            "title": "Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+            "date_modified": "2026-07-11T01:38:02.000Z",
+            "date_published": "2023-05-09T14:12:37.000Z",
             "author": {
-                "name": "WilliamRamirez3382",
-                "url": "https://github.com/WilliamRamirez3382"
+                "name": "Anil-matcha",
+                "url": "https://github.com/Anil-matcha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/260732084?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This skill should be used when the user asks to generate an image prompt, write a prompt for AI art, or discusses AI image generation prompts. Converts vague descriptions into professional, structured prompts compatible with Midjourney, DALL-E, Flux, Stable Diffusion, etc.</div>",
+            "url": "https://github.com/joneshong-skills/image-prompt",
+            "title": "joneshong-skills/image-prompt: This skill should be used when the user asks to generate an image prompt, write a prompt for AI art, or discusses AI image generation prompts. Converts vague descriptions into professional, structured prompts compatible with Midjourney, DALL-E, Flux, Stable Diffusion, etc.",
+            "date_modified": "2026-07-10T13:28:02.000Z",
+            "date_published": "2026-02-10T17:47:51.000Z",
+            "author": {
+                "name": "joneshong-skills",
+                "url": "https://github.com/joneshong-skills"
             }
         }
     ]
