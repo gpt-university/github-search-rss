@@ -6,21 +6,32 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/283828759?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Invite-only Midjourney prompt sharing site. One command deploys it to your own free Cloudflare account.</div>",
-            "url": "https://github.com/coredump119/lune-share",
-            "title": "coredump119/lune-share: Invite-only Midjourney prompt sharing site. One command deploys it to your own free Cloudflare account.",
-            "date_modified": "2026-09-22T02:44:02.000Z",
-            "date_published": "2026-09-21T22:41:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242802195?u=a9bb0b447b7ef558647b0c8a501cbb0b7e109c86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.</div>",
+            "url": "https://github.com/ChrisChen667788/wind-comic",
+            "title": "ChrisChen667788/wind-comic: Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.",
+            "date_modified": "2026-09-23T02:31:06.000Z",
+            "date_published": "2026-04-26T00:20:42.000Z",
             "author": {
-                "name": "coredump119",
-                "url": "https://github.com/coredump119"
+                "name": "ChrisChen667788",
+                "url": "https://github.com/ChrisChen667788"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79418013?u=13a613b50e3c0a2ae58f4b0bf79e8981835a5a9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser-first Midjourney website skill: in-app creation, reference editing, JPG-first delivery and optional original PNG export.</div>",
+            "url": "https://github.com/HeiTuz/MidjourneyWeb",
+            "title": "HeiTuz/MidjourneyWeb: Browser-first Midjourney website skill: in-app creation, reference editing, JPG-first delivery and optional original PNG export.",
+            "date_modified": "2026-09-23T02:19:48.000Z",
+            "date_published": "2026-09-12T14:25:44.000Z",
+            "author": {
+                "name": "HeiTuz",
+                "url": "https://github.com/HeiTuz"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
             "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
             "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-            "date_modified": "2026-09-22T02:39:56.000Z",
+            "date_modified": "2026-09-23T02:16:32.000Z",
             "date_published": "2026-03-03T10:38:21.000Z",
             "author": {
                 "name": "YouMind-OpenLab",
@@ -28,32 +39,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/320371942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Generator: native macOS SwiftUI client for the Legnext Midjourney API. 别再和 Discord 搏斗了，在 Mac 上优雅地生图。</div>",
-            "url": "https://github.com/Zq1641/midjourney-generator",
-            "title": "Zq1641/midjourney-generator: Midjourney Generator: native macOS SwiftUI client for the Legnext Midjourney API. 别再和 Discord 搏斗了，在 Mac 上优雅地生图。",
-            "date_modified": "2026-09-22T02:08:38.000Z",
-            "date_published": "2026-09-22T01:59:36.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/314937370?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generate unlimited AI images with DALL-E 3, Midjourney, Ideogram, and Flux in one app—no subscriptions, no watermarks.</div>",
+            "url": "https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026",
+            "title": "Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026: Generate unlimited AI images with DALL-E 3, Midjourney, Ideogram, and Flux in one app—no subscriptions, no watermarks.",
+            "date_modified": "2026-09-23T01:46:59.000Z",
+            "date_published": "2026-08-22T16:44:45.000Z",
             "author": {
-                "name": "Zq1641",
-                "url": "https://github.com/Zq1641"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/308793843?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Transform text into stunning Midjourney AI artwork on Windows with offline mode, batch processing, and 16K upscaling.</div>",
-            "url": "https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026",
-            "title": "Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026: Transform text into stunning Midjourney AI artwork on Windows with offline mode, batch processing, and 16K upscaling.",
-            "date_modified": "2026-09-22T01:40:03.000Z",
-            "date_published": "2026-08-29T15:38:02.000Z",
-            "author": {
-                "name": "Brilamome5008",
-                "url": "https://github.com/Brilamome5008"
+                "name": "Testimonial-hypersomnia6486",
+                "url": "https://github.com/Testimonial-hypersomnia6486"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315078745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.</div>",
             "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
             "title": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper: Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.",
-            "date_modified": "2026-09-22T01:34:27.000Z",
+            "date_modified": "2026-09-23T01:27:28.000Z",
             "date_published": "2026-08-10T06:21:00.000Z",
             "author": {
                 "name": "beta-dream-24495",
@@ -61,32 +61,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/274920180?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.</div>",
-            "url": "https://github.com/exercisedeviceforester917/ai-prompt-cheatsheet",
-            "title": "exercisedeviceforester917/ai-prompt-cheatsheet: Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.",
-            "date_modified": "2026-09-22T01:27:26.000Z",
-            "date_published": "2026-04-23T15:54:40.000Z",
-            "author": {
-                "name": "exercisedeviceforester917",
-                "url": "https://github.com/exercisedeviceforester917"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199739261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.</div>",
-            "url": "https://github.com/ericm790/PromptsForAITools",
-            "title": "ericm790/PromptsForAITools: Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.",
-            "date_modified": "2026-09-22T01:19:23.000Z",
-            "date_published": "2026-03-07T17:46:47.000Z",
-            "author": {
-                "name": "ericm790",
-                "url": "https://github.com/ericm790"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208182943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Stock Video Generator 2026 🎬 - Free &amp; Open Source</div>",
             "url": "https://github.com/mounish07-tech/Pixel-Portrait-Studio",
             "title": "mounish07-tech/Pixel-Portrait-Studio: AI Stock Video Generator 2026 🎬 - Free & Open Source",
-            "date_modified": "2026-09-22T00:30:39.000Z",
+            "date_modified": "2026-09-23T01:10:00.000Z",
             "date_published": "2026-05-25T09:12:39.000Z",
             "author": {
                 "name": "mounish07-tech",
@@ -94,10 +72,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3026872?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>midjourney — independent third-party profile of a public API surface, by API Evangelist. Midjourney is an independent research lab that produces an artificial intelligence program creating images from textual descriptions, accessible primarily through a Discord bot interface.</div>",
+            "url": "https://github.com/api-evangelist/midjourney",
+            "title": "api-evangelist/midjourney: midjourney — independent third-party profile of a public API surface, by API Evangelist. Midjourney is an independent research lab that produces an artificial intelligence program creating images from textual descriptions, accessible primarily through a Discord bot interface.",
+            "date_modified": "2026-09-23T00:53:04.000Z",
+            "date_published": "2026-03-21T01:30:43.000Z",
+            "author": {
+                "name": "api-evangelist",
+                "url": "https://github.com/api-evangelist"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296630131?u=a137a0de532c427a63c3991b7feeadcff4f5a860&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️</div>",
             "url": "https://github.com/DesertLordSeize/SuperGrok-Desktop-2026-Version",
             "title": "DesertLordSeize/SuperGrok-Desktop-2026-Version: ⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️",
-            "date_modified": "2026-09-22T00:10:40.000Z",
+            "date_modified": "2026-09-23T00:40:42.000Z",
             "date_published": "2026-09-17T14:54:32.000Z",
             "author": {
                 "name": "DesertLordSeize",
@@ -105,21 +94,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
-            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
-            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
-            "date_modified": "2026-09-21T23:51:21.000Z",
-            "date_published": "2026-06-26T12:28:33.000Z",
-            "author": {
-                "name": "DevYadav3672",
-                "url": "https://github.com/DevYadav3672"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296621886?u=83f68e5346fb0f1fb59ed8a365c301eed4702867&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️</div>",
             "url": "https://github.com/Outsideglesleeve83/Midjourney-Unlimited-Generator-2026-Version",
             "title": "Outsideglesleeve83/Midjourney-Unlimited-Generator-2026-Version: ⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️",
-            "date_modified": "2026-09-21T23:15:15.000Z",
+            "date_modified": "2026-09-23T00:28:23.000Z",
             "date_published": "2026-09-17T12:49:54.000Z",
             "author": {
                 "name": "Outsideglesleeve83",
@@ -127,54 +105,32 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296332480?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️</div>",
-            "url": "https://github.com/muchelklatton7561/SuperGrok-Desktop",
-            "title": "muchelklatton7561/SuperGrok-Desktop: ⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️",
-            "date_modified": "2026-09-21T22:27:34.000Z",
-            "date_published": "2026-09-21T22:27:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
+            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
+            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
+            "date_modified": "2026-09-23T00:02:52.000Z",
+            "date_published": "2026-06-26T12:28:33.000Z",
             "author": {
-                "name": "muchelklatton7561",
-                "url": "https://github.com/muchelklatton7561"
+                "name": "DevYadav3672",
+                "url": "https://github.com/DevYadav3672"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296331394?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️</div>",
-            "url": "https://github.com/bambinoralph1/Midjourney-Unlimited-Generator",
-            "title": "bambinoralph1/Midjourney-Unlimited-Generator: ⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️",
-            "date_modified": "2026-09-21T22:24:04.000Z",
-            "date_published": "2026-09-21T22:23:50.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254340163?u=c66d4e24b027d9faabb566e0311f158f4a205c5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>100% Free AI Prompt Generator &amp; AI Characters Vault - Midjourney, Flux, Sora</div>",
+            "url": "https://github.com/CSd0109/-2prompt-gen",
+            "title": "CSd0109/-2prompt-gen: 100% Free AI Prompt Generator & AI Characters Vault - Midjourney, Flux, Sora",
+            "date_modified": "2026-09-22T20:32:42.000Z",
+            "date_published": "2026-09-22T10:10:42.000Z",
             "author": {
-                "name": "bambinoralph1",
-                "url": "https://github.com/bambinoralph1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132856099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Style Index: my Midjourney --sref codes and --p profles with examples</div>",
-            "url": "https://github.com/Bloginya/mj-sref-library",
-            "title": "Bloginya/mj-sref-library: Style Index: my Midjourney --sref codes and --p profles with examples",
-            "date_modified": "2026-09-21T21:34:23.000Z",
-            "date_published": "2026-09-20T23:44:20.000Z",
-            "author": {
-                "name": "Bloginya",
-                "url": "https://github.com/Bloginya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/320279455?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community based random sref and moodboard picker</div>",
-            "url": "https://github.com/1Tr0l4U/Midjourney-random-style-picker",
-            "title": "1Tr0l4U/Midjourney-random-style-picker: Community based random sref and moodboard picker",
-            "date_modified": "2026-09-21T21:31:17.000Z",
-            "date_published": "2026-08-23T18:11:44.000Z",
-            "author": {
-                "name": "1Tr0l4U",
-                "url": "https://github.com/1Tr0l4U"
+                "name": "CSd0109",
+                "url": "https://github.com/CSd0109"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282803053?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Discover curated, ready-to-use AI prompts with visual examples.</div>",
             "url": "https://github.com/LeaddeOpenLab/awesome-prompts-midjourney",
             "title": "LeaddeOpenLab/awesome-prompts-midjourney: Discover curated, ready-to-use AI prompts with visual examples.",
-            "date_modified": "2026-09-21T20:26:55.000Z",
+            "date_modified": "2026-09-22T20:28:00.000Z",
             "date_published": "2026-09-08T08:06:02.000Z",
             "author": {
                 "name": "LeaddeOpenLab",
@@ -182,21 +138,76 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/275422249?u=3af514295cfd5143ddd46848268de0731d505db2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Character Consistency Template for Image Generation: Precisely control hairstyles and facial expressions, compatible with MidJourney, Stable Diffusion, and Flux—perfect fix for distorted faces and mangled hands.</div>",
-            "url": "https://github.com/nohn3043-arch/ai-draw-cue-word-project",
-            "title": "nohn3043-arch/ai-draw-cue-word-project: AI Character Consistency Template for Image Generation: Precisely control hairstyles and facial expressions, compatible with MidJourney, Stable Diffusion, and Flux—perfect fix for distorted faces and mangled hands.",
-            "date_modified": "2026-09-21T17:42:15.000Z",
-            "date_published": "2026-08-07T09:00:56.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4326215?u=0c459c6b373cb854c019b64d653c447aaeefb18b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.</div>",
+            "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+            "title": "Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+            "date_modified": "2026-09-23T02:43:13.000Z",
+            "date_published": "2023-05-09T14:12:37.000Z",
             "author": {
-                "name": "nohn3043-arch",
-                "url": "https://github.com/nohn3043-arch"
+                "name": "Anil-matcha",
+                "url": "https://github.com/Anil-matcha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16877559?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local-first AI prompt generator with a Gradio UI: 132 tuned roles for video, image, audio, 3D and creative AI tools. Runs uncensored Dolphin LLMs fully offline, auto-scaled to your GPU VRAM. No API keys, no cloud.</div>",
+            "url": "https://github.com/kekzl/PromptMill",
+            "title": "kekzl/PromptMill: Local-first AI prompt generator with a Gradio UI: 132 tuned roles for video, image, audio, 3D and creative AI tools. Runs uncensored Dolphin LLMs fully offline, auto-scaled to your GPU VRAM. No API keys, no cloud.",
+            "date_modified": "2026-09-22T19:55:30.000Z",
+            "date_published": "2025-12-02T20:47:55.000Z",
+            "author": {
+                "name": "kekzl",
+                "url": "https://github.com/kekzl"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7569497?u=e2f3aa68332b68de2457e8ed6d90a8dab512383c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An AI film-production engine for creators and studios: from logline to published clip. Real optical parameters instead of empty adjectives — 43 skills · 47 Visual DNA styles · 17 pipelines · 23 engines · opt-in Brand Mode with disclosure gates</div>",
+            "url": "https://github.com/iwerry/CineOS-v3.1-DraftFilms.SKILL.",
+            "title": "iwerry/CineOS-v3.1-DraftFilms.SKILL.: An AI film-production engine for creators and studios: from logline to published clip. Real optical parameters instead of empty adjectives — 43 skills · 47 Visual DNA styles · 17 pipelines · 23 engines · opt-in Brand Mode with disclosure gates",
+            "date_modified": "2026-09-22T18:56:56.000Z",
+            "date_published": "2026-09-22T18:22:31.000Z",
+            "author": {
+                "name": "iwerry",
+                "url": "https://github.com/iwerry"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23468524?u=1f81ff64269b89232e388cd58f3edd7f5b679b19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FastMCP server for Midjourney image generation via PiAPI, with daily USD cost cap, per-call audit, and SSRF-safe image URL inputs. 11 tools.</div>",
+            "url": "https://github.com/adelaidasofia/midjourney-mcp",
+            "title": "adelaidasofia/midjourney-mcp: FastMCP server for Midjourney image generation via PiAPI, with daily USD cost cap, per-call audit, and SSRF-safe image URL inputs. 11 tools.",
+            "date_modified": "2026-09-22T18:20:13.000Z",
+            "date_published": "2026-05-26T02:54:17.000Z",
+            "author": {
+                "name": "adelaidasofia",
+                "url": "https://github.com/adelaidasofia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200376165?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensible local-first framework for indexing, generating and orchestrating AI image assets</div>",
+            "url": "https://github.com/picteus/picteus",
+            "title": "picteus/picteus: Extensible local-first framework for indexing, generating and orchestrating AI image assets",
+            "date_modified": "2026-09-22T17:40:09.000Z",
+            "date_published": "2026-01-18T18:35:59.000Z",
+            "author": {
+                "name": "picteus",
+                "url": "https://github.com/picteus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104223070?u=1f181c169015fc2425fddf659f6f2984ce4b234b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Promptory — AI video, image &amp; ads prompt library. Searchable master prompts, workflows, and a realtime prompt agent for creators.</div>",
+            "url": "https://github.com/imalk22/Promptory",
+            "title": "imalk22/Promptory: Promptory — AI video, image & ads prompt library. Searchable master prompts, workflows, and a realtime prompt agent for creators.",
+            "date_modified": "2026-09-22T17:31:17.000Z",
+            "date_published": "2026-09-22T17:15:39.000Z",
+            "author": {
+                "name": "imalk22",
+                "url": "https://github.com/imalk22"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/322512841?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts</div>",
             "url": "https://github.com/paro-studio/web",
             "title": "paro-studio/web: A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts",
-            "date_modified": "2026-09-21T17:18:45.000Z",
+            "date_modified": "2026-09-22T22:00:05.000Z",
             "date_published": "2026-08-23T09:49:31.000Z",
             "author": {
                 "name": "paro-studio",
@@ -204,25 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142170706?u=a73de78a6c7a1a5f547d904113b6a60a52ddf421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Runnable examples for the MiniMax (Hailuo) API by useapi.net — one account, REST access to Hailuo 01 / 02 / 2.3 video, Speech 2.8 text-to-speech and voice cloning, plus the frontier models MiniMax hosts: Midjourney V7, Veo 3.1, Sora 2, Nano Banana, GPT Image and Seedream. Multi-account load-balanced, no per-call metering.</div>",
-            "url": "https://github.com/useapi/minimax-api",
-            "title": "useapi/minimax-api: Runnable examples for the MiniMax (Hailuo) API by useapi.net — one account, REST access to Hailuo 01 / 02 / 2.3 video, Speech 2.8 text-to-speech and voice cloning, plus the frontier models MiniMax hosts: Midjourney V7, Veo 3.1, Sora 2, Nano Banana, GPT Image and Seedream. Multi-account load-balanced, no per-call metering.",
-            "date_modified": "2026-09-21T16:06:13.000Z",
-            "date_published": "2026-06-21T22:51:37.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/235642146?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/linbaolai807-cell/-midjourney-v8-site",
+            "title": "linbaolai807-cell/-midjourney-v8-site",
+            "date_modified": "2026-09-22T14:13:24.000Z",
+            "date_published": "2026-03-18T16:02:52.000Z",
             "author": {
-                "name": "useapi",
-                "url": "https://github.com/useapi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/264946440?u=c272e9c991240327cdbde08236d2d4b876ec6e85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Portfolio, outils IA et fiches Midjourney ICHKA Studio</div>",
-            "url": "https://github.com/ichka-studio/ichka-studio",
-            "title": "ichka-studio/ichka-studio: Portfolio, outils IA et fiches Midjourney ICHKA Studio",
-            "date_modified": "2026-09-21T15:58:37.000Z",
-            "date_published": "2026-05-11T21:07:57.000Z",
-            "author": {
-                "name": "ichka-studio",
-                "url": "https://github.com/ichka-studio"
+                "name": "linbaolai807-cell",
+                "url": "https://github.com/linbaolai807-cell"
             }
         }
     ]
