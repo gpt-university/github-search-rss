@@ -6,32 +6,109 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/282803053?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Discover curated, ready-to-use AI prompts with visual examples.</div>",
-            "url": "https://github.com/LeaddeOpenLab/awesome-prompts-midjourney",
-            "title": "LeaddeOpenLab/awesome-prompts-midjourney: Discover curated, ready-to-use AI prompts with visual examples.",
-            "date_modified": "2026-09-28T02:41:16.000Z",
-            "date_published": "2026-09-08T08:06:02.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41177312?u=43b3b6d62d17d6553dfe6f3eea840b1215cdfdd2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chrome side-panel extension that turns any image on the web into an AI prompt — save, reverse into Subject · Style · Lighting · Composition, and generate. Local-first, BYOK.</div>",
+            "url": "https://github.com/QingYunA/picpocket",
+            "title": "QingYunA/picpocket: Chrome side-panel extension that turns any image on the web into an AI prompt — save, reverse into Subject · Style · Lighting · Composition, and generate. Local-first, BYOK.",
+            "date_modified": "2026-09-29T03:40:29.000Z",
+            "date_published": "2026-09-27T10:20:43.000Z",
             "author": {
-                "name": "LeaddeOpenLab",
-                "url": "https://github.com/LeaddeOpenLab"
+                "name": "QingYunA",
+                "url": "https://github.com/QingYunA"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8538032?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>精选 Gemini、ChatGPT、Midjourney、Stable Diffusion 等高质量提示词</div>",
-            "url": "https://github.com/102896351/prompt-gallery",
-            "title": "102896351/prompt-gallery: 精选 Gemini、ChatGPT、Midjourney、Stable Diffusion 等高质量提示词",
-            "date_modified": "2026-09-28T02:37:34.000Z",
-            "date_published": "2026-08-02T12:56:33.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142207?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartcigr/midjourney-api-pricing-ja",
+            "title": "apimartcigr/midjourney-api-pricing-ja: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:39:07.000Z",
+            "date_published": "2026-09-29T03:37:07.000Z",
             "author": {
-                "name": "102896351",
-                "url": "https://github.com/102896351"
+                "name": "apimartcigr",
+                "url": "https://github.com/apimartcigr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335141733?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartycl6k972t/midjourney-api-cn",
+            "title": "apimartycl6k972t/midjourney-api-cn: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:39:00.000Z",
+            "date_published": "2026-09-29T03:36:41.000Z",
+            "author": {
+                "name": "apimartycl6k972t",
+                "url": "https://github.com/apimartycl6k972t"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142080?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartc7jn1ve5v/midjourney-api-pricing-cn",
+            "title": "apimartc7jn1ve5v/midjourney-api-pricing-cn: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:38:49.000Z",
+            "date_published": "2026-09-29T03:36:58.000Z",
+            "author": {
+                "name": "apimartc7jn1ve5v",
+                "url": "https://github.com/apimartc7jn1ve5v"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartt1q/midjourney-api-ja",
+            "title": "apimartt1q/midjourney-api-ja: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:38:40.000Z",
+            "date_published": "2026-09-29T03:36:30.000Z",
+            "author": {
+                "name": "apimartt1q",
+                "url": "https://github.com/apimartt1q"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartjzmma5/midjourney-api-pricing-ko",
+            "title": "apimartjzmma5/midjourney-api-pricing-ko: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:36:50.000Z",
+            "date_published": "2026-09-29T03:34:39.000Z",
+            "author": {
+                "name": "apimartjzmma5",
+                "url": "https://github.com/apimartjzmma5"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142207?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartcigr/midjourney-api-pricing-fr",
+            "title": "apimartcigr/midjourney-api-pricing-fr: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:36:15.000Z",
+            "date_published": "2026-09-29T03:34:17.000Z",
+            "author": {
+                "name": "apimartcigr",
+                "url": "https://github.com/apimartcigr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142080?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartc7jn1ve5v/midjourney-api-ko",
+            "title": "apimartc7jn1ve5v/midjourney-api-ko: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:35:55.000Z",
+            "date_published": "2026-09-29T03:34:06.000Z",
+            "author": {
+                "name": "apimartc7jn1ve5v",
+                "url": "https://github.com/apimartc7jn1ve5v"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
+            "url": "https://github.com/apimartt1q/midjourney-api-fr",
+            "title": "apimartt1q/midjourney-api-fr: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+            "date_modified": "2026-09-29T03:35:35.000Z",
+            "date_published": "2026-09-29T03:33:43.000Z",
+            "author": {
+                "name": "apimartt1q",
+                "url": "https://github.com/apimartt1q"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
             "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
             "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-            "date_modified": "2026-09-28T02:24:06.000Z",
+            "date_modified": "2026-09-29T03:11:32.000Z",
             "date_published": "2026-03-03T10:38:21.000Z",
             "author": {
                 "name": "YouMind-OpenLab",
@@ -39,54 +116,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/308793843?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Transform text into stunning Midjourney AI artwork on Windows with offline mode, batch processing, and 16K upscaling.</div>",
-            "url": "https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026",
-            "title": "Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026: Transform text into stunning Midjourney AI artwork on Windows with offline mode, batch processing, and 16K upscaling.",
-            "date_modified": "2026-09-28T01:55:44.000Z",
-            "date_published": "2026-08-29T15:38:02.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/314937370?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generate unlimited AI images with DALL-E 3, Midjourney, Ideogram, and Flux in one app—no subscriptions, no watermarks.</div>",
+            "url": "https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026",
+            "title": "Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026: Generate unlimited AI images with DALL-E 3, Midjourney, Ideogram, and Flux in one app—no subscriptions, no watermarks.",
+            "date_modified": "2026-09-29T02:38:25.000Z",
+            "date_published": "2026-08-22T16:44:45.000Z",
             "author": {
-                "name": "Brilamome5008",
-                "url": "https://github.com/Brilamome5008"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/274920180?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.</div>",
-            "url": "https://github.com/exercisedeviceforester917/ai-prompt-cheatsheet",
-            "title": "exercisedeviceforester917/ai-prompt-cheatsheet: Boost your AI prompts with 200+ copy-paste templates for ChatGPT, Claude, Midjourney, and more.",
-            "date_modified": "2026-09-28T01:41:58.000Z",
-            "date_published": "2026-04-23T15:54:40.000Z",
-            "author": {
-                "name": "exercisedeviceforester917",
-                "url": "https://github.com/exercisedeviceforester917"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199739261?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.</div>",
-            "url": "https://github.com/ericm790/PromptsForAITools",
-            "title": "ericm790/PromptsForAITools: Provide curated system and user prompts for over 34 AI tools to improve interaction and output quality across multiple categories.",
-            "date_modified": "2026-09-28T01:33:42.000Z",
-            "date_published": "2026-03-07T17:46:47.000Z",
-            "author": {
-                "name": "ericm790",
-                "url": "https://github.com/ericm790"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/322944240?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>180 free copy-paste AI prompts for ChatGPT, Claude, Gemini and Midjourney - resumes, Etsy and Amazon listings, SaaS positioning, real estate, food, video scripts. No signup.</div>",
-            "url": "https://github.com/Fyosamu/ai-prompts-library",
-            "title": "Fyosamu/ai-prompts-library: 180 free copy-paste AI prompts for ChatGPT, Claude, Gemini and Midjourney - resumes, Etsy and Amazon listings, SaaS positioning, real estate, food, video scripts. No signup.",
-            "date_modified": "2026-09-28T01:14:25.000Z",
-            "date_published": "2026-09-28T01:12:58.000Z",
-            "author": {
-                "name": "Fyosamu",
-                "url": "https://github.com/Fyosamu"
+                "name": "Testimonial-hypersomnia6486",
+                "url": "https://github.com/Testimonial-hypersomnia6486"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296630131?u=a137a0de532c427a63c3991b7feeadcff4f5a860&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️</div>",
             "url": "https://github.com/DesertLordSeize/SuperGrok-Desktop-2026-Version",
             "title": "DesertLordSeize/SuperGrok-Desktop-2026-Version: ⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️",
-            "date_modified": "2026-09-28T00:52:14.000Z",
+            "date_modified": "2026-09-29T02:03:19.000Z",
             "date_published": "2026-09-17T14:54:32.000Z",
             "author": {
                 "name": "DesertLordSeize",
@@ -97,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296621886?u=83f68e5346fb0f1fb59ed8a365c301eed4702867&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️</div>",
             "url": "https://github.com/Outsideglesleeve83/Midjourney-Unlimited-Generator-2026-Version",
             "title": "Outsideglesleeve83/Midjourney-Unlimited-Generator-2026-Version: ⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️",
-            "date_modified": "2026-09-28T00:43:14.000Z",
+            "date_modified": "2026-09-29T01:54:29.000Z",
             "date_published": "2026-09-17T12:49:54.000Z",
             "author": {
                 "name": "Outsideglesleeve83",
@@ -105,43 +149,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315078745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.</div>",
-            "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-            "title": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper: Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.",
-            "date_modified": "2026-09-27T23:59:45.000Z",
-            "date_published": "2026-08-10T06:21:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79418013?u=13a613b50e3c0a2ae58f4b0bf79e8981835a5a9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browser-first Midjourney website skill: in-app creation, reference editing, JPG-first delivery and optional original PNG export.</div>",
+            "url": "https://github.com/HeiTuz/MidjourneyWeb",
+            "title": "HeiTuz/MidjourneyWeb: Browser-first Midjourney website skill: in-app creation, reference editing, JPG-first delivery and optional original PNG export.",
+            "date_modified": "2026-09-29T01:46:08.000Z",
+            "date_published": "2026-09-12T14:25:44.000Z",
             "author": {
-                "name": "beta-dream-24495",
-                "url": "https://github.com/beta-dream-24495"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
-            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
-            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
-            "date_modified": "2026-09-27T23:45:10.000Z",
-            "date_published": "2026-06-26T12:28:33.000Z",
-            "author": {
-                "name": "DevYadav3672",
-                "url": "https://github.com/DevYadav3672"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208182943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Stock Video Generator 2026 🎬 - Free &amp; Open Source</div>",
-            "url": "https://github.com/mounish07-tech/Pixel-Portrait-Studio",
-            "title": "mounish07-tech/Pixel-Portrait-Studio: AI Stock Video Generator 2026 🎬 - Free & Open Source",
-            "date_modified": "2026-09-27T23:32:35.000Z",
-            "date_published": "2026-05-25T09:12:39.000Z",
-            "author": {
-                "name": "mounish07-tech",
-                "url": "https://github.com/mounish07-tech"
+                "name": "HeiTuz",
+                "url": "https://github.com/HeiTuz"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296332480?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️</div>",
             "url": "https://github.com/muchelklatton7561/SuperGrok-Desktop",
             "title": "muchelklatton7561/SuperGrok-Desktop: ⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️",
-            "date_modified": "2026-09-27T23:07:32.000Z",
+            "date_modified": "2026-09-29T00:25:15.000Z",
             "date_published": "2026-09-21T22:27:21.000Z",
             "author": {
                 "name": "muchelklatton7561",
@@ -149,80 +171,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/296331394?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️</div>",
-            "url": "https://github.com/bambinoralph1/Midjourney-Unlimited-Generator",
-            "title": "bambinoralph1/Midjourney-Unlimited-Generator: ⭐️ Midjourney Unlimited Generator AI Art Generator v1.0 for Unlimited Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Full Version, Latest Build Pro and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️",
-            "date_modified": "2026-09-27T22:57:31.000Z",
-            "date_published": "2026-09-21T22:23:50.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
+            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
+            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
+            "date_modified": "2026-09-29T00:13:10.000Z",
+            "date_published": "2026-06-26T12:28:33.000Z",
             "author": {
-                "name": "bambinoralph1",
-                "url": "https://github.com/bambinoralph1"
+                "name": "DevYadav3672",
+                "url": "https://github.com/DevYadav3672"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142170706?u=a73de78a6c7a1a5f547d904113b6a60a52ddf421&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Runnable examples for the MiniMax (Hailuo) API by useapi.net — one account, REST access to Hailuo 3.0 / 2.3 / 02 / 01 video, Music-3.0 song generation, Speech-2.8 text-to-speech and voice cloning, plus the frontier models MiniMax hosts: Midjourney V7, Veo 3.1, Sora 2, Seedance 2.0, Nano Banana, GPT Image and Seedream.</div>",
-            "url": "https://github.com/useapi/minimax-api",
-            "title": "useapi/minimax-api: Runnable examples for the MiniMax (Hailuo) API by useapi.net — one account, REST access to Hailuo 3.0 / 2.3 / 02 / 01 video, Music-3.0 song generation, Speech-2.8 text-to-speech and voice cloning, plus the frontier models MiniMax hosts: Midjourney V7, Veo 3.1, Sora 2, Seedance 2.0, Nano Banana, GPT Image and Seedream.",
-            "date_modified": "2026-09-27T20:06:29.000Z",
-            "date_published": "2026-06-21T22:51:37.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315078745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.</div>",
+            "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+            "title": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper: Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.",
+            "date_modified": "2026-09-28T23:57:38.000Z",
+            "date_published": "2026-08-10T06:21:00.000Z",
             "author": {
-                "name": "useapi",
-                "url": "https://github.com/useapi"
+                "name": "beta-dream-24495",
+                "url": "https://github.com/beta-dream-24495"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/309112081?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal Codex skill for Midjourney 8.2, GPT Image 2/2.5, Nano Banana, and reference-image style transfer.</div>",
-            "url": "https://github.com/luowei5557/jiawei-image-prompts",
-            "title": "luowei5557/jiawei-image-prompts: Personal Codex skill for Midjourney 8.2, GPT Image 2/2.5, Nano Banana, and reference-image style transfer.",
-            "date_modified": "2026-09-27T20:04:33.000Z",
-            "date_published": "2026-09-27T19:43:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208182943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Stock Video Generator 2026 🎬 - Free &amp; Open Source</div>",
+            "url": "https://github.com/mounish07-tech/Pixel-Portrait-Studio",
+            "title": "mounish07-tech/Pixel-Portrait-Studio: AI Stock Video Generator 2026 🎬 - Free & Open Source",
+            "date_modified": "2026-09-28T23:37:12.000Z",
+            "date_published": "2026-05-25T09:12:39.000Z",
             "author": {
-                "name": "luowei5557",
-                "url": "https://github.com/luowei5557"
+                "name": "mounish07-tech",
+                "url": "https://github.com/mounish07-tech"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200376165?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensible local-first framework for indexing, generating and orchestrating AI image assets</div>",
-            "url": "https://github.com/picteus/picteus",
-            "title": "picteus/picteus: Extensible local-first framework for indexing, generating and orchestrating AI image assets",
-            "date_modified": "2026-09-27T19:11:20.000Z",
-            "date_published": "2026-01-18T18:35:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4326215?u=0c459c6b373cb854c019b64d653c447aaeefb18b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.</div>",
+            "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+            "title": "Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+            "date_modified": "2026-09-29T02:44:42.000Z",
+            "date_published": "2023-05-09T14:12:37.000Z",
             "author": {
-                "name": "picteus",
-                "url": "https://github.com/picteus"
+                "name": "Anil-matcha",
+                "url": "https://github.com/Anil-matcha"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208443826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image to Prompt Generator - Convert any image into model-ready AI prompts for Midjourney, Flux, Stable Diffusion, Nano Banana, DALL·E</div>",
-            "url": "https://github.com/HunTun13/img2prompt",
-            "title": "HunTun13/img2prompt: Image to Prompt Generator - Convert any image into model-ready AI prompts for Midjourney, Flux, Stable Diffusion, Nano Banana, DALL·E",
-            "date_modified": "2026-09-27T17:50:45.000Z",
-            "date_published": "2026-07-05T08:59:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171443539?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一站式AIGC系统，支持OpenAI最新旗舰大模型GPT-6、Anthropic Claude-Opus-5-5与Claude-Fable-5-1，后台可自定义接入最新大模型，无需系统更新；支持GPT-Image-2.5、Nano-Banana-2、Midjourney专业绘画与VEO3.1视频，Seedance2.5视频即将上线；集成扣子Coze智能体，支持插件、工作流、函数与知识库；支持多语言国际化与独立私有部署，为个人用户、开发者和企业提供全面解决方案。兼容 OpenAI 接口生态，支持 newapi 等渠道接入。</div>",
+            "url": "https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb",
+            "title": "nosqlnull/SparkAi-ChatGPT-AiWeb: 一站式AIGC系统，支持OpenAI最新旗舰大模型GPT-6、Anthropic Claude-Opus-5-5与Claude-Fable-5-1，后台可自定义接入最新大模型，无需系统更新；支持GPT-Image-2.5、Nano-Banana-2、Midjourney专业绘画与VEO3.1视频，Seedance2.5视频即将上线；集成扣子Coze智能体，支持插件、工作流、函数与知识库；支持多语言国际化与独立私有部署，为个人用户、开发者和企业提供全面解决方案。兼容 OpenAI 接口生态，支持 newapi 等渠道接入。",
+            "date_modified": "2026-09-28T20:58:16.000Z",
+            "date_published": "2024-06-02T20:25:19.000Z",
             "author": {
-                "name": "HunTun13",
-                "url": "https://github.com/HunTun13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212674099?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local-first private Midjourney asset, watermark and collage studio.</div>",
-            "url": "https://github.com/JINGTING0714/wxjj",
-            "title": "JINGTING0714/wxjj: Local-first private Midjourney asset, watermark and collage studio.",
-            "date_modified": "2026-09-27T17:50:18.000Z",
-            "date_published": "2026-09-04T17:47:41.000Z",
-            "author": {
-                "name": "JINGTING0714",
-                "url": "https://github.com/JINGTING0714"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/306020866?u=e48ebce380d3da8f61a9099fa86a4a47dc1992e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Projeto de criação de e-book utilizando ChatGPT e Midjourney</div>",
-            "url": "https://github.com/Rafael-TOZATO/criando-um-ebook-chatgpt-midjourney",
-            "title": "Rafael-TOZATO/criando-um-ebook-chatgpt-midjourney: Projeto de criação de e-book utilizando ChatGPT e Midjourney",
-            "date_modified": "2026-09-27T17:41:44.000Z",
-            "date_published": "2026-07-20T02:12:56.000Z",
-            "author": {
-                "name": "Rafael-TOZATO",
-                "url": "https://github.com/Rafael-TOZATO"
+                "name": "nosqlnull",
+                "url": "https://github.com/nosqlnull"
             }
         }
     ]
