@@ -6,32 +6,32 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/318689156?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney v8.2 提示词技能 - agent 可安装的 skill，含 v8.2 参数兼容性表、提示词模板与题材模板</div>",
-            "url": "https://github.com/2sleepsleep-svg/image-prompt-suite",
-            "title": "2sleepsleep-svg/image-prompt-suite: Midjourney v8.2 提示词技能 - agent 可安装的 skill，含 v8.2 参数兼容性表、提示词模板与题材模板",
-            "date_modified": "2026-10-15T02:31:06.000Z",
-            "date_published": "2026-10-14T06:13:39.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53396833?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>反推 GPT Image, Midjourney, 或Seedance提示词</div>",
+            "url": "https://github.com/joybanny/reverse-image-prompt",
+            "title": "joybanny/reverse-image-prompt: 反推 GPT Image, Midjourney, 或Seedance提示词",
+            "date_modified": "2026-10-16T02:41:43.000Z",
+            "date_published": "2026-08-03T15:20:19.000Z",
             "author": {
-                "name": "2sleepsleep-svg",
-                "url": "https://github.com/2sleepsleep-svg"
+                "name": "joybanny",
+                "url": "https://github.com/joybanny"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26370074?u=f544d9c37314db4668515fe2be84f20f2b8fc9f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧭 AINav — 最全 AI 工具导航站，收录 590+ AI 工具，涵盖写作、绘图、编程、视频、音频、智能体、RAG、MCP 等分类，支持收藏、搜索、深浅主题切换。</div>",
-            "url": "https://github.com/shellsec/AINav",
-            "title": "shellsec/AINav: 🧭 AINav — 最全 AI 工具导航站，收录 590+ AI 工具，涵盖写作、绘图、编程、视频、音频、智能体、RAG、MCP 等分类，支持收藏、搜索、深浅主题切换。",
-            "date_modified": "2026-10-15T02:17:30.000Z",
-            "date_published": "2026-04-09T06:33:35.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170965867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Windows 本地素材管理软件：自包含素材库 + 归档整理 + AI 生成参数提取（ComfyUI/A1111/NovelAI/InvokeAI/Midjourney）</div>",
+            "url": "https://github.com/Zizzp0318/Stash",
+            "title": "Zizzp0318/Stash: Windows 本地素材管理软件：自包含素材库 + 归档整理 + AI 生成参数提取（ComfyUI/A1111/NovelAI/InvokeAI/Midjourney）",
+            "date_modified": "2026-10-16T02:23:17.000Z",
+            "date_published": "2026-09-27T07:05:13.000Z",
             "author": {
-                "name": "shellsec",
-                "url": "https://github.com/shellsec"
+                "name": "Zizzp0318",
+                "url": "https://github.com/Zizzp0318"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
             "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
             "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-            "date_modified": "2026-10-15T02:17:20.000Z",
+            "date_modified": "2026-10-16T02:05:41.000Z",
             "date_published": "2026-03-03T10:38:21.000Z",
             "author": {
                 "name": "YouMind-OpenLab",
@@ -39,21 +39,21 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
-            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
-            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
-            "date_modified": "2026-10-15T01:14:24.000Z",
-            "date_published": "2026-06-26T12:28:33.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1827047?u=d4a1865be45b786877c59fd379e35ec2445ca8d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terminal-native AIGC toolkit: multi-provider image/video/audio generation, Midjourney, chat, AIGC forensics, knowledge base, MCP Server. 终端原生 AIGC 工具包：多厂商图片/视频/音频生成、Midjourney、AI 对话、AIGC 取证、知识库、MCP 集成。</div>",
+            "url": "https://github.com/martianzhang/aigc-cli",
+            "title": "martianzhang/aigc-cli: Terminal-native AIGC toolkit: multi-provider image/video/audio generation, Midjourney, chat, AIGC forensics, knowledge base, MCP Server. 终端原生 AIGC 工具包：多厂商图片/视频/音频生成、Midjourney、AI 对话、AIGC 取证、知识库、MCP 集成。",
+            "date_modified": "2026-10-16T01:38:08.000Z",
+            "date_published": "2026-06-15T03:28:06.000Z",
             "author": {
-                "name": "DevYadav3672",
-                "url": "https://github.com/DevYadav3672"
+                "name": "martianzhang",
+                "url": "https://github.com/martianzhang"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21001467?u=ef32143bdef4543666bc01d1239f0149962193d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 生图模型动态与优秀案例追踪 | AI image generation tracker</div>",
             "url": "https://github.com/theodoruszq/imagegen-tracker",
             "title": "theodoruszq/imagegen-tracker: AI 生图模型动态与优秀案例追踪 | AI image generation tracker",
-            "date_modified": "2026-10-15T01:11:42.000Z",
+            "date_modified": "2026-10-16T01:23:35.000Z",
             "date_published": "2026-10-10T04:13:45.000Z",
             "author": {
                 "name": "theodoruszq",
@@ -61,21 +61,54 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208182943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Stock Video Generator 2026 🎬 - Free &amp; Open Source</div>",
-            "url": "https://github.com/mounish07-tech/Pixel-Portrait-Studio",
-            "title": "mounish07-tech/Pixel-Portrait-Studio: AI Stock Video Generator 2026 🎬 - Free & Open Source",
-            "date_modified": "2026-10-15T01:10:13.000Z",
-            "date_published": "2026-05-25T09:12:39.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150411446?u=e34828922c5928c7fb70f61b167dd7434a486e08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/greengod63/Midjourney-Discord-Bot",
+            "title": "greengod63/Midjourney-Discord-Bot",
+            "date_modified": "2026-10-16T01:15:03.000Z",
+            "date_published": "2024-02-17T06:40:51.000Z",
             "author": {
-                "name": "mounish07-tech",
-                "url": "https://github.com/mounish07-tech"
+                "name": "greengod63",
+                "url": "https://github.com/greengod63"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/342964137?u=e9ef2cd080a34d10e61a333f3965db911b4e56c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney is a developer utility. Keep Midjourney workspace folders on disk: dated copies of model and prompt files before a patch.</div>",
+            "url": "https://github.com/c-gomez3924/midjourney",
+            "title": "c-gomez3924/midjourney: Midjourney is a developer utility. Keep Midjourney workspace folders on disk: dated copies of model and prompt files before a patch.",
+            "date_modified": "2026-10-16T01:05:34.000Z",
+            "date_published": "2026-10-16T01:05:07.000Z",
+            "author": {
+                "name": "c-gomez3924",
+                "url": "https://github.com/c-gomez3924"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/343266775?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney prompts: tested image prompt recipes with example renders, aspect ratios, the model id (`midjourney`) and the cost per image.</div>",
+            "url": "https://github.com/xbuu0/midjourney-prompts-es",
+            "title": "xbuu0/midjourney-prompts-es: Midjourney prompts: tested image prompt recipes with example renders, aspect ratios, the model id (`midjourney`) and the cost per image.",
+            "date_modified": "2026-10-16T01:00:37.000Z",
+            "date_published": "2026-10-16T00:53:29.000Z",
+            "author": {
+                "name": "xbuu0",
+                "url": "https://github.com/xbuu0"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/343266775?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney API (`midjourney`): model id, pricing, parameters and copy-paste examples for the OpenAI-compatible APIMart endpoint.</div>",
+            "url": "https://github.com/xbuu0/midjourney-api-es",
+            "title": "xbuu0/midjourney-api-es: Midjourney API (`midjourney`): model id, pricing, parameters and copy-paste examples for the OpenAI-compatible APIMart endpoint.",
+            "date_modified": "2026-10-16T00:57:53.000Z",
+            "date_published": "2026-10-16T00:51:42.000Z",
+            "author": {
+                "name": "xbuu0",
+                "url": "https://github.com/xbuu0"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/315078745?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.</div>",
             "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
             "title": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper: Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Windows.",
-            "date_modified": "2026-10-15T00:55:46.000Z",
+            "date_modified": "2026-10-16T00:47:27.000Z",
             "date_published": "2026-08-10T06:21:00.000Z",
             "author": {
                 "name": "beta-dream-24495",
@@ -83,98 +116,43 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/320006745?u=eb39b3d11e7c0a68b1ab3428236b1da0ecceac77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️</div>",
-            "url": "https://github.com/Slateflusieve/SuperGrok-Desktop",
-            "title": "Slateflusieve/SuperGrok-Desktop: ⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️",
-            "date_modified": "2026-10-15T00:48:25.000Z",
-            "date_published": "2026-10-01T22:01:36.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/233528435?u=1e1e9d29086889233b0386ce2e27f2753cd96b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MidJourney AI Art Tool: Enhanced Access 2026</div>",
+            "url": "https://github.com/DevYadav3672/midjourney-generator-pro",
+            "title": "DevYadav3672/midjourney-generator-pro: MidJourney AI Art Tool: Enhanced Access 2026",
+            "date_modified": "2026-10-16T00:12:18.000Z",
+            "date_published": "2026-06-26T12:28:33.000Z",
             "author": {
-                "name": "Slateflusieve",
-                "url": "https://github.com/Slateflusieve"
+                "name": "DevYadav3672",
+                "url": "https://github.com/DevYadav3672"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/242802195?u=a9bb0b447b7ef558647b0c8a501cbb0b7e109c86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.</div>",
-            "url": "https://github.com/ChrisChen667788/wind-comic",
-            "title": "ChrisChen667788/wind-comic: Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.",
-            "date_modified": "2026-10-15T00:33:07.000Z",
-            "date_published": "2026-04-26T00:20:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208182943?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Stock Video Generator 2026 🎬 - Free &amp; Open Source</div>",
+            "url": "https://github.com/mounish07-tech/Pixel-Portrait-Studio",
+            "title": "mounish07-tech/Pixel-Portrait-Studio: AI Stock Video Generator 2026 🎬 - Free & Open Source",
+            "date_modified": "2026-10-15T23:29:59.000Z",
+            "date_published": "2026-05-25T09:12:39.000Z",
             "author": {
-                "name": "ChrisChen667788",
-                "url": "https://github.com/ChrisChen667788"
+                "name": "mounish07-tech",
+                "url": "https://github.com/mounish07-tech"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/320006231?u=c481bb774c2364b02710c4dd6efca720ac3407d6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ Midjourney Generator AI Art Generator v1.0 for Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Version, Latest Build and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️</div>",
-            "url": "https://github.com/mixedlanceraxe/Midjourney-Unlimited-Generator",
-            "title": "mixedlanceraxe/Midjourney-Unlimited-Generator: ⭐️ Midjourney Generator AI Art Generator v1.0 for Images featuring Setup Installer Windows 11, Keygen License Key, Pre-Activated Version, Latest Build and Direct Genuine Original. Get Desktop PC Installation with High-Quality Art Creation ⭐️",
-            "date_modified": "2026-10-15T00:08:11.000Z",
-            "date_published": "2026-10-01T21:58:34.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113206035?u=d066b737631bf39485fc43a3bd7db53c0747724b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JPG-HTML Polyglot File Tool</div>",
+            "url": "https://github.com/CleasbyCode/imgprmt",
+            "title": "CleasbyCode/imgprmt: JPG-HTML Polyglot File Tool",
+            "date_modified": "2026-10-15T23:08:33.000Z",
+            "date_published": "2023-05-27T20:10:50.000Z",
             "author": {
-                "name": "mixedlanceraxe",
-                "url": "https://github.com/mixedlanceraxe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/342292637?u=cf22b2977823336c873e0fc39f6550649358bf7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney is a developer utility. Keep Midjourney workspace folders on disk: dated copies of model and prompt files before a patch.</div>",
-            "url": "https://github.com/scox4076/midjourney",
-            "title": "scox4076/midjourney: Midjourney is a developer utility. Keep Midjourney workspace folders on disk: dated copies of model and prompt files before a patch.",
-            "date_modified": "2026-10-14T22:20:00.000Z",
-            "date_published": "2026-10-14T22:19:33.000Z",
-            "author": {
-                "name": "scox4076",
-                "url": "https://github.com/scox4076"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/342702931?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Organization profile for Midjourney-Download-Free</div>",
-            "url": "https://github.com/Midjourney-Download-Free/.github",
-            "title": "Midjourney-Download-Free/.github: Organization profile for Midjourney-Download-Free",
-            "date_modified": "2026-10-14T21:23:18.000Z",
-            "date_published": "2026-10-14T21:22:55.000Z",
-            "author": {
-                "name": "Midjourney-Download-Free",
-                "url": "https://github.com/Midjourney-Download-Free"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/342702931?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney — Official Windows Hub</div>",
-            "url": "https://github.com/Midjourney-Download-Free/Midjourney-Download-Free.github.io",
-            "title": "Midjourney-Download-Free/Midjourney-Download-Free.github.io: Midjourney — Official Windows Hub",
-            "date_modified": "2026-10-14T21:23:09.000Z",
-            "date_published": "2026-10-14T21:22:49.000Z",
-            "author": {
-                "name": "Midjourney-Download-Free",
-                "url": "https://github.com/Midjourney-Download-Free"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/342336798?u=8cbf90c1bad638e4dee857095097e13d8eb521e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney is a developer utility. Keep Midjourney workspace folders on disk: dated copies of model and prompt files before a patch.</div>",
-            "url": "https://github.com/masonwest-481/midjourney",
-            "title": "masonwest-481/midjourney: Midjourney is a developer utility. Keep Midjourney workspace folders on disk: dated copies of model and prompt files before a patch.",
-            "date_modified": "2026-10-14T21:00:41.000Z",
-            "date_published": "2026-10-14T21:00:18.000Z",
-            "author": {
-                "name": "masonwest-481",
-                "url": "https://github.com/masonwest-481"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/199271706?u=5cb2bd3cef053fa0e8217dd14e44da1cf31b2ee1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A forensic media analysis tool built with Python &amp; Tkinter. Detects potential AI-generated content (Deepfakes) by analyzing file container metadata, binary signatures (Deep Byte Scan), and visual heuristics. Supports deep inspection of images (Stable Diffusion/Midjourney) and videos (Runway/Pika/FFmpeg artifacts).</div>",
-            "url": "https://github.com/Spydomain/Ai-image-video-detection",
-            "title": "Spydomain/Ai-image-video-detection: A forensic media analysis tool built with Python & Tkinter. Detects potential AI-generated content (Deepfakes) by analyzing file container metadata, binary signatures (Deep Byte Scan), and visual heuristics. Supports deep inspection of images (Stable Diffusion/Midjourney) and videos (Runway/Pika/FFmpeg artifacts).",
-            "date_modified": "2026-10-14T20:35:20.000Z",
-            "date_published": "2026-01-20T14:29:04.000Z",
-            "author": {
-                "name": "Spydomain",
-                "url": "https://github.com/Spydomain"
+                "name": "CleasbyCode",
+                "url": "https://github.com/CleasbyCode"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/246009595?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT 订阅 / Claude Code 订阅付款 / 怎么有一张海外信用卡：国内卡被拒原因、付款方式费用对比与排查清单 | How to pay for ChatGPT, Claude Code, Cursor &amp; Gemini when your card is declined</div>",
             "url": "https://github.com/shiqi446-blip/ai-subscription-payment-guide",
             "title": "shiqi446-blip/ai-subscription-payment-guide: ChatGPT 订阅 / Claude Code 订阅付款 / 怎么有一张海外信用卡：国内卡被拒原因、付款方式费用对比与排查清单 | How to pay for ChatGPT, Claude Code, Cursor & Gemini when your card is declined",
-            "date_modified": "2026-10-14T18:34:01.000Z",
+            "date_modified": "2026-10-15T21:58:35.000Z",
             "date_published": "2026-10-05T22:52:03.000Z",
             "author": {
                 "name": "shiqi446-blip",
@@ -182,47 +160,69 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84154488?u=5bbde34d9843ab5ad14184bf14aac98fb9aa760c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.</div>",
-            "url": "https://github.com/mehmetkahya0/AI-Catalog",
-            "title": "mehmetkahya0/AI-Catalog: Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
-            "date_modified": "2026-10-14T16:16:25.000Z",
-            "date_published": "2023-06-30T08:27:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35821001?u=bc82b1d7ef4b399269f7ede854b8988819d8f160&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My portfolio is a blend of creative evolution — from early design work crafted over a decade ago to modern, API-driven JavaScript applications that showcase a more technical edge. It’s a space where art meets code, featuring digital artwork that merges human creativity with AI collaboration through tools like Firefly, ChatGPT, Midjourney &amp; Claude</div>",
+            "url": "https://github.com/crbntyp/classic-portfolio",
+            "title": "crbntyp/classic-portfolio: My portfolio is a blend of creative evolution — from early design work crafted over a decade ago to modern, API-driven JavaScript applications that showcase a more technical edge. It’s a space where art meets code, featuring digital artwork that merges human creativity with AI collaboration through tools like Firefly, ChatGPT, Midjourney & Claude",
+            "date_modified": "2026-10-15T20:48:10.000Z",
+            "date_published": "2025-10-30T19:11:00.000Z",
             "author": {
-                "name": "mehmetkahya0",
-                "url": "https://github.com/mehmetkahya0"
+                "name": "crbntyp",
+                "url": "https://github.com/crbntyp"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/200376165?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensible local-first framework for indexing, generating and orchestrating AI image assets</div>",
-            "url": "https://github.com/picteus/picteus",
-            "title": "picteus/picteus: Extensible local-first framework for indexing, generating and orchestrating AI image assets",
-            "date_modified": "2026-10-14T21:36:54.000Z",
-            "date_published": "2026-01-18T18:35:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/337792843?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Two-sided digital marketplace for generative AI image prompts (Midjourney, DALL-E 3, Stable Diffusion XL, Flux).</div>",
+            "url": "https://github.com/Geektoberfest/Geektober-PromptForge",
+            "title": "Geektoberfest/Geektober-PromptForge: Two-sided digital marketplace for generative AI image prompts (Midjourney, DALL-E 3, Stable Diffusion XL, Flux).",
+            "date_modified": "2026-10-15T19:18:19.000Z",
+            "date_published": "2026-10-15T18:41:19.000Z",
             "author": {
-                "name": "picteus",
-                "url": "https://github.com/picteus"
+                "name": "Geektoberfest",
+                "url": "https://github.com/Geektoberfest"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57719981?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Free local app for Windows and Linux: your coding agent (Claude Code, Codex, Cursor...) writes image and video prompts, you generate by hand in Midjourney, Google Flow or ChatGPT Images, and the agent sees every result. No API key.</div>",
-            "url": "https://github.com/Djordje1998/asset-prompter-landing-page",
-            "title": "Djordje1998/asset-prompter-landing-page: Free local app for Windows and Linux: your coding agent (Claude Code, Codex, Cursor...) writes image and video prompts, you generate by hand in Midjourney, Google Flow or ChatGPT Images, and the agent sees every result. No API key.",
-            "date_modified": "2026-10-14T14:23:51.000Z",
-            "date_published": "2026-10-04T20:37:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/343150406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Миджорни / Мидджорни — Midjourney prompts: tested image prompt recipes with example renders, aspect ratios, the model id (`midjourney`) and the cost per image.</div>",
+            "url": "https://github.com/sfpxvicw/midjourney-prompts-ru",
+            "title": "sfpxvicw/midjourney-prompts-ru: Миджорни / Мидджорни — Midjourney prompts: tested image prompt recipes with example renders, aspect ratios, the model id (`midjourney`) and the cost per image.",
+            "date_modified": "2026-10-15T18:22:37.000Z",
+            "date_published": "2026-10-15T18:15:59.000Z",
             "author": {
-                "name": "Djordje1998",
-                "url": "https://github.com/Djordje1998"
+                "name": "sfpxvicw",
+                "url": "https://github.com/sfpxvicw"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178667222?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A deep learning forensic framework evaluating the generalization capability of AI-generated image detectors across GAN and Diffusion models (Stable Diffusion 2.1/3/XL, DALL-E 3, Midjourney v6). Benchmarks unseen-generator generalization, cross-generation transferability ( GAN ↔ Diffusion GAN↔Diffusion), and 6-class source generator attribution.</div>",
-            "url": "https://github.com/m-eshan/CrossGen-Forensics",
-            "title": "m-eshan/CrossGen-Forensics: A deep learning forensic framework evaluating the generalization capability of AI-generated image detectors across GAN and Diffusion models (Stable Diffusion 2.1/3/XL, DALL-E 3, Midjourney v6). Benchmarks unseen-generator generalization, cross-generation transferability ( GAN ↔ Diffusion GAN↔Diffusion), and 6-class source generator attribution.",
-            "date_modified": "2026-10-14T11:36:50.000Z",
-            "date_published": "2026-10-10T14:49:13.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/343150682?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney prompts: tested image prompt recipes with example renders, aspect ratios, the model id (`midjourney`) and the cost per image.</div>",
+            "url": "https://github.com/cvrwq0/midjourney-prompts-id",
+            "title": "cvrwq0/midjourney-prompts-id: Midjourney prompts: tested image prompt recipes with example renders, aspect ratios, the model id (`midjourney`) and the cost per image.",
+            "date_modified": "2026-10-15T18:15:16.000Z",
+            "date_published": "2026-10-15T18:12:12.000Z",
             "author": {
-                "name": "m-eshan",
-                "url": "https://github.com/m-eshan"
+                "name": "cvrwq0",
+                "url": "https://github.com/cvrwq0"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/343150682?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/cvrwq0/midjourney-api-id",
+            "title": "cvrwq0/midjourney-api-id",
+            "date_modified": "2026-10-15T18:12:09.000Z",
+            "date_published": "2026-10-15T18:10:37.000Z",
+            "author": {
+                "name": "cvrwq0",
+                "url": "https://github.com/cvrwq0"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/343150406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Миджорни / Мидджорни — Midjourney API (`midjourney`): model id, pricing, parameters and copy-paste examples for the OpenAI-compatible APIMart endpoint.</div>",
+            "url": "https://github.com/sfpxvicw/midjourney-api-ru",
+            "title": "sfpxvicw/midjourney-api-ru: Миджорни / Мидджорни — Midjourney API (`midjourney`): model id, pricing, parameters and copy-paste examples for the OpenAI-compatible APIMart endpoint.",
+            "date_modified": "2026-10-15T18:20:08.000Z",
+            "date_published": "2026-10-15T18:10:01.000Z",
+            "author": {
+                "name": "sfpxvicw",
+                "url": "https://github.com/sfpxvicw"
             }
         }
     ]
