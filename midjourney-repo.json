@@ -6,14 +6,14 @@
     "description": "midjourney repositories on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Global API docs for Ace Data Cloud AI services including Midjourney, Suno, Luma, Sora, Veo, Flux, and OpenAI-compatible APIs.</div>",
-            "url": "https://github.com/AceDataCloud/Docs",
-            "title": "AceDataCloud/Docs: Global API docs for Ace Data Cloud AI services including Midjourney, Suno, Luma, Sora, Veo, Flux, and OpenAI-compatible APIs.",
-            "date_modified": "2026-11-09T21:10:06.000Z",
-            "date_published": "2026-03-08T17:53:30.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105340597?u=d5dbfb6f45d31f126390b08cf40f96f41dece533&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI 订阅比价与会员价格对比指南：实时追踪 ChatGPT Plus、Claude Pro、Gemini、Cursor 官方价与渠道到手价</div>",
+            "url": "https://github.com/gm365/ai-subscription-pricing",
+            "title": "gm365/ai-subscription-pricing: AI 订阅比价与会员价格对比指南：实时追踪 ChatGPT Plus、Claude Pro、Gemini、Cursor 官方价与渠道到手价",
+            "date_modified": "2026-11-20T14:16:38.000Z",
+            "date_published": "2026-11-05T10:54:06.000Z",
             "author": {
-                "name": "AceDataCloud",
-                "url": "https://github.com/AceDataCloud"
+                "name": "gm365",
+                "url": "https://github.com/gm365"
             }
         },
         {
@@ -28,25 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3765401?u=fd76e5a143dc30b7a8495e8c4527b957d1f899ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform</div>",
-            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
-            "title": "Dooy/chatgpt-web-midjourney-proxy: One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
-            "date_modified": "2026-11-21T06:19:23.000Z",
-            "date_published": "2023-11-19T03:18:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/342776606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The business-to-agent marketplace. One MCP endpoint for 3,200+ APIs across social, SEO/search, company/leads, finance and legal, plus 168+ AI models for chat, reasoning, image, video and audio—including GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo and Kling. Browse free; pay per call.</div>",
+            "url": "https://github.com/openanysi/openany-mcp",
+            "title": "openanysi/openany-mcp: The business-to-agent marketplace. One MCP endpoint for 3,200+ APIs across social, SEO/search, company/leads, finance and legal, plus 168+ AI models for chat, reasoning, image, video and audio—including GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo and Kling. Browse free; pay per call.",
+            "date_modified": "2026-11-19T03:21:37.000Z",
+            "date_published": "2026-11-03T12:30:07.000Z",
             "author": {
-                "name": "Dooy",
-                "url": "https://github.com/Dooy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99331298?u=f596ca366100b37e8cad8b6a865df3b9fd1817ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI tool comparisons — one table, clear verdicts. ChatGPT vs Claude, Midjourney vs SD, best AI tools of 2026</div>",
-            "url": "https://github.com/CBTdao/omc-top",
-            "title": "CBTdao/omc-top: AI tool comparisons — one table, clear verdicts. ChatGPT vs Claude, Midjourney vs SD, best AI tools of 2026",
-            "date_modified": "2026-11-12T03:16:42.000Z",
-            "date_published": "2026-10-03T05:22:30.000Z",
-            "author": {
-                "name": "CBTdao",
-                "url": "https://github.com/CBTdao"
+                "name": "openanysi",
+                "url": "https://github.com/openanysi"
             }
         },
         {
@@ -61,6 +50,50 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142170706?u=1c297796d76611ba002094c362f45c4636fb64ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MiniMax Hailuo API examples by useapi.net: Hailuo 3.0, 2.3 and 02 video, Speech-2.8 text-to-speech (TTS) with more than 600 voices and voice cloning, Music-3.0 songs, plus the models MiniMax hosts: Seedance 2.0, Veo 3.1, Midjourney V7, Nano Banana Pro, GPT Image 2 and Seedream 5.0. On your Hailuo AI and MiniMax Audio subscriptions.</div>",
+            "url": "https://github.com/useapi/minimax-api",
+            "title": "useapi/minimax-api: MiniMax Hailuo API examples by useapi.net: Hailuo 3.0, 2.3 and 02 video, Speech-2.8 text-to-speech (TTS) with more than 600 voices and voice cloning, Music-3.0 songs, plus the models MiniMax hosts: Seedance 2.0, Veo 3.1, Midjourney V7, Nano Banana Pro, GPT Image 2 and Seedream 5.0. On your Hailuo AI and MiniMax Audio subscriptions.",
+            "date_modified": "2026-11-21T05:45:13.000Z",
+            "date_published": "2026-06-21T22:51:37.000Z",
+            "author": {
+                "name": "useapi",
+                "url": "https://github.com/useapi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99331298?u=f596ca366100b37e8cad8b6a865df3b9fd1817ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI tool comparisons — one table, clear verdicts. ChatGPT vs Claude, Midjourney vs SD, best AI tools of 2026</div>",
+            "url": "https://github.com/CBTdao/omc-top",
+            "title": "CBTdao/omc-top: AI tool comparisons — one table, clear verdicts. ChatGPT vs Claude, Midjourney vs SD, best AI tools of 2026",
+            "date_modified": "2026-11-12T03:16:42.000Z",
+            "date_published": "2026-10-03T05:22:30.000Z",
+            "author": {
+                "name": "CBTdao",
+                "url": "https://github.com/CBTdao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/324220671?u=50731edf96ea6d850969ce325b6e3099c46964f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️</div>",
+            "url": "https://github.com/JaguarClass53/SuperGrok-Desktop",
+            "title": "JaguarClass53/SuperGrok-Desktop: ⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️",
+            "date_modified": "2026-11-22T22:25:18.000Z",
+            "date_published": "2026-11-09T19:57:04.000Z",
+            "author": {
+                "name": "JaguarClass53",
+                "url": "https://github.com/JaguarClass53"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57783355?u=8bb4702e39240e07006c0fb5d8c2f88d6a3dfe7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。</div>",
+            "url": "https://github.com/Mr-Salticidae/knowledge-base",
+            "title": "Mr-Salticidae/knowledge-base: 跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。",
+            "date_modified": "2026-11-16T01:26:12.000Z",
+            "date_published": "2026-05-13T01:37:59.000Z",
+            "author": {
+                "name": "Mr-Salticidae",
+                "url": "https://github.com/Mr-Salticidae"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18311639?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim </div>",
             "url": "https://github.com/mofa-si/awesome-seedream-5-5-prompts",
             "title": "mofa-si/awesome-seedream-5-5-prompts: A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim ",
@@ -69,28 +102,6 @@
             "author": {
                 "name": "mofa-si",
                 "url": "https://github.com/mofa-si"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/324220671?u=50731edf96ea6d850969ce325b6e3099c46964f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️</div>",
-            "url": "https://github.com/JaguarClass53/SuperGrok-Desktop",
-            "title": "JaguarClass53/SuperGrok-Desktop: ⭐️ SuperGrok Desktop | Setup Installer v1.2 | Full Version Activation Key | License Key Pre-Activated | Latest Build Pro Updated 2026 | Get Desktop Software for Windows 10/11 | Genuine Original x64 | Powerful Features for All Users ⭐️",
-            "date_modified": "2026-11-12T12:43:24.000Z",
-            "date_published": "2026-11-09T19:57:04.000Z",
-            "author": {
-                "name": "JaguarClass53",
-                "url": "https://github.com/JaguarClass53"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41569812?u=038a40155c65e9c89d83c362686d3552ee0e177b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Dmorok/midjourney-prompt-queue",
-            "title": "Dmorok/midjourney-prompt-queue",
-            "date_modified": "2026-11-12T01:41:22.000Z",
-            "date_published": "2026-08-24T23:15:41.000Z",
-            "author": {
-                "name": "Dmorok",
-                "url": "https://github.com/Dmorok"
             }
         },
         {
@@ -105,14 +116,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/208461942?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.</div>",
-            "url": "https://github.com/reading-bakery/reading-bakery.github.io",
-            "title": "reading-bakery/reading-bakery.github.io: Just for fun and only for friends and family; images will be exchanged by AI (Midjourney) generated pictures.",
-            "date_modified": "2026-11-07T19:13:48.000Z",
-            "date_published": "2025-04-21T10:14:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37492595?u=c8fdceab88f9a2c64d85fdff572a1af0da8af078&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!</div>",
+            "url": "https://github.com/thinkingjimmy/Learning-Prompt",
+            "title": "thinkingjimmy/Learning-Prompt: Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!",
+            "date_modified": "2026-11-23T01:23:15.000Z",
+            "date_published": "2023-03-06T09:39:35.000Z",
             "author": {
-                "name": "reading-bakery",
-                "url": "https://github.com/reading-bakery"
+                "name": "thinkingjimmy",
+                "url": "https://github.com/thinkingjimmy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68127072?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Rank-Explore auto-clicker bot (Express + Playwright + Socket.io)</div>",
+            "url": "https://github.com/Botaprio/clickbot",
+            "title": "Botaprio/clickbot: Midjourney Rank-Explore auto-clicker bot (Express + Playwright + Socket.io)",
+            "date_modified": "2026-11-22T21:50:34.000Z",
+            "date_published": "2026-11-22T21:50:23.000Z",
+            "author": {
+                "name": "Botaprio",
+                "url": "https://github.com/Botaprio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/340684639?u=32a70eaf6cc61224ba04cefb19ec7bd96610834f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Midjourney Discord Bot API is an integration wrapper designed to expose RESTful endpoints, task queues, and webhook callbacks for triggering /imagine, upscale, and variation commands via Discord. Developers utilize this API bridge to automate AI image generation workflows and embed Midjourney outputs directly into external applications.</div>",
+            "url": "https://github.com/forwardflyerpulse/midjourney-discord-bot-api",
+            "title": "forwardflyerpulse/midjourney-discord-bot-api: Midjourney Discord Bot API is an integration wrapper designed to expose RESTful endpoints, task queues, and webhook callbacks for triggering /imagine, upscale, and variation commands via Discord. Developers utilize this API bridge to automate AI image generation workflows and embed Midjourney outputs directly into external applications.",
+            "date_modified": "2026-11-22T21:12:06.000Z",
+            "date_published": "2026-11-22T21:11:56.000Z",
+            "author": {
+                "name": "forwardflyerpulse",
+                "url": "https://github.com/forwardflyerpulse"
             }
         },
         {
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/245655810?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.</div>",
             "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
             "title": "YouMind-OpenLab/ai-image-prompts-skill: AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-            "date_modified": "2026-11-21T23:27:51.000Z",
+            "date_modified": "2026-11-22T13:13:03.000Z",
             "date_published": "2026-03-03T10:38:21.000Z",
             "author": {
                 "name": "YouMind-OpenLab",
@@ -138,36 +171,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/341051195?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modern, responsive web application featuring 50+ AI image generation prompts for Midjourney, DALL-E 3, and Stable Diffusion with search &amp; copy features.</div>",
-            "url": "https://github.com/shopetsy13/PromptVault",
-            "title": "shopetsy13/PromptVault: A modern, responsive web application featuring 50+ AI image generation prompts for Midjourney, DALL-E 3, and Stable Diffusion with search & copy features.",
-            "date_modified": "2026-10-25T13:03:53.000Z",
-            "date_published": "2026-10-22T13:50:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57872723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Chrome extension to transform a Midjourney image into a Shopify product</div>",
+            "url": "https://github.com/GuetarniWalid/Midjourney-to-Shopify-chrome-extension",
+            "title": "GuetarniWalid/Midjourney-to-Shopify-chrome-extension: A Chrome extension to transform a Midjourney image into a Shopify product",
+            "date_modified": "2026-11-08T17:20:07.000Z",
+            "date_published": "2025-06-17T08:28:30.000Z",
             "author": {
-                "name": "shopetsy13",
-                "url": "https://github.com/shopetsy13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57783355?u=8bb4702e39240e07006c0fb5d8c2f88d6a3dfe7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。</div>",
-            "url": "https://github.com/Mr-Salticidae/knowledge-base",
-            "title": "Mr-Salticidae/knowledge-base: 跳蛛先生的 AIGC 创作方法论公开知识库，沉淀 AI 图像、视频、音乐、角色一致性、复盘机制与人机协作工作流中的可复用 insight。",
-            "date_modified": "2026-11-16T01:26:12.000Z",
-            "date_published": "2026-05-13T01:37:59.000Z",
-            "author": {
-                "name": "Mr-Salticidae",
-                "url": "https://github.com/Mr-Salticidae"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84154488?u=5bbde34d9843ab5ad14184bf14aac98fb9aa760c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.</div>",
-            "url": "https://github.com/mehmetkahya0/AI-Catalog",
-            "title": "mehmetkahya0/AI-Catalog: Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
-            "date_modified": "2026-11-19T22:59:30.000Z",
-            "date_published": "2023-06-30T08:27:24.000Z",
-            "author": {
-                "name": "mehmetkahya0",
-                "url": "https://github.com/mehmetkahya0"
+                "name": "GuetarniWalid",
+                "url": "https://github.com/GuetarniWalid"
             }
         },
         {
@@ -182,14 +193,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310438846?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>English for Shipbuilding &amp; Maritime Engineering: Audio dialogues, specialized vocabulary, grammar guides, and AI prompts (Qwen3-TTS/Midjourney) for interactive language learning.</div>",
-            "url": "https://github.com/minhmaster68-infor/M68",
-            "title": "minhmaster68-infor/M68: English for Shipbuilding & Maritime Engineering: Audio dialogues, specialized vocabulary, grammar guides, and AI prompts (Qwen3-TTS/Midjourney) for interactive language learning.",
-            "date_modified": "2026-11-12T15:18:41.000Z",
-            "date_published": "2026-07-29T03:47:47.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156096448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Global API docs for Ace Data Cloud AI services including Midjourney, Suno, Luma, Sora, Veo, Flux, and OpenAI-compatible APIs.</div>",
+            "url": "https://github.com/AceDataCloud/Docs",
+            "title": "AceDataCloud/Docs: Global API docs for Ace Data Cloud AI services including Midjourney, Suno, Luma, Sora, Veo, Flux, and OpenAI-compatible APIs.",
+            "date_modified": "2026-11-22T05:32:53.000Z",
+            "date_published": "2026-03-08T17:53:30.000Z",
             "author": {
-                "name": "minhmaster68-infor",
-                "url": "https://github.com/minhmaster68-infor"
+                "name": "AceDataCloud",
+                "url": "https://github.com/AceDataCloud"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "apimartxc3iskw",
                 "url": "https://github.com/apimartxc3iskw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/335142059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.</div>",
-            "url": "https://github.com/apimartt1q/midjourney-api-ja",
-            "title": "apimartt1q/midjourney-api-ja: AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
-            "date_modified": "2026-11-12T16:17:13.000Z",
-            "date_published": "2026-09-29T03:36:30.000Z",
-            "author": {
-                "name": "apimartt1q",
-                "url": "https://github.com/apimartt1q"
             }
         }
     ]
